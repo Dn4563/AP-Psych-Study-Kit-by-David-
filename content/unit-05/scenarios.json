@@ -1,0 +1,587 @@
+[
+ {
+  "id": "SQ1",
+  "deck": 1,
+  "q": "Maya is nervous but excited about starting a new job in a new city. This challenging but manageable stress is:",
+  "opts": [
+   "Eustress",
+   "Distress",
+   "A daily hassle",
+   "A catastrophe"
+  ],
+  "ans": 0,
+  "exp": "Eustress is motivating \"good\" stress that can lead to growth."
+ },
+ {
+  "id": "SQ2",
+  "deck": 1,
+  "q": "After months of a stressful job, Leo keeps getting sick and feels completely drained. Which GAS stage is he in?",
+  "opts": [
+   "Exhaustion",
+   "Alarm",
+   "Resistance",
+   "Tend-and-befriend"
+  ],
+  "ans": 0,
+  "exp": "Exhaustion: the body's resources are depleted and health problems appear."
+ },
+ {
+  "id": "SQ3",
+  "deck": 1,
+  "q": "Jordan has a big exam coming up, so he makes a study schedule and goes to review sessions. This is:",
+  "opts": [
+   "Problem-focused coping",
+   "Emotion-focused coping",
+   "Tend-and-befriend",
+   "Eustress"
+  ],
+  "ans": 0,
+  "exp": "Problem-focused coping deals with the stressor itself."
+ },
+ {
+  "id": "SQ4",
+  "deck": 1,
+  "q": "After a hurricane, Ana gathers her neighbors so they can support and protect each other. This best fits:",
+  "opts": [
+   "Tend-and-befriend theory",
+   "The alarm stage",
+   "The exhaustion stage",
+   "General Adaptation Syndrome"
+  ],
+  "ans": 0,
+  "exp": "Befriending = strengthening social connections for mutual support and protection."
+ },
+ {
+  "id": "SQ5",
+  "deck": 2,
+  "q": "A woman washes her hands so often that she can't keep a job, and she feels miserable about it. Which of the 3 Ds does \"she can't keep a job\" show?",
+  "opts": [
+   "Dysfunctional/maladaptive",
+   "Deviant",
+   "Distressing",
+   "Diathesis"
+  ],
+  "ans": 0,
+  "exp": "Dysfunctional/maladaptive = it interferes with functioning."
+ },
+ {
+  "id": "SQ6",
+  "deck": 2,
+  "q": "After reading about anxiety disorders, Sam is sure he has all of them. This is called:",
+  "opts": [
+   "Intern syndrome",
+   "Agoraphobia",
+   "Hindsight bias",
+   "The Hawthorne effect"
+  ],
+  "ans": 0,
+  "exp": "Intern syndrome: believing you have the symptoms of what you're studying. Don't diagnose yourself."
+ },
+ {
+  "id": "SQ7",
+  "deck": 2,
+  "q": "A therapist says a client's depression comes from irrational beliefs like \"I always fail.\" Which approach is this?",
+  "opts": [
+   "Cognitive",
+   "Behavioral",
+   "Psychodynamic",
+   "Biological"
+  ],
+  "ans": 0,
+  "exp": "Cognitive = maladaptive, irrational thoughts and beliefs."
+ },
+ {
+  "id": "SQ8",
+  "deck": 2,
+  "q": "Which manual is used to classify psychological disorders in the United States?",
+  "opts": [
+   "DSM-5",
+   "APA Code of Ethics",
+   "The MMPI",
+   "The ICD-1"
+  ],
+  "ans": 0,
+  "exp": "The Diagnostic and Statistical Manual of Mental Disorders, 5th edition."
+ },
+ {
+  "id": "SQ9",
+  "deck": 3,
+  "q": "For more than a year, Emma has worried constantly about money, school, her health, and her family, and she can't sleep. She most likely has:",
+  "opts": [
+   "Generalized anxiety disorder",
+   "Panic disorder",
+   "A specific phobia",
+   "Agoraphobia"
+  ],
+  "ans": 0,
+  "exp": "GAD = excessive worry about many everyday things for at least 6 months."
+ },
+ {
+  "id": "SQ10",
+  "deck": 3,
+  "q": "Carlos stopped riding the bus and going to the mall because he's afraid he'll have a panic attack and won't be able to escape. He most likely has:",
+  "opts": [
+   "Agoraphobia",
+   "Social anxiety disorder",
+   "A specific phobia",
+   "GAD"
+  ],
+  "ans": 0,
+  "exp": "Agoraphobia: fear of public transportation, crowds, and places where escape seems hard."
+ },
+ {
+  "id": "SQ11",
+  "deck": 3,
+  "q": "Priya refuses to give her class presentation because she's terrified the other students will judge her. She most likely has:",
+  "opts": [
+   "Social anxiety disorder",
+   "Panic disorder",
+   "Agoraphobia",
+   "GAD"
+  ],
+  "ans": 0,
+  "exp": "Social anxiety disorder = fear of being scrutinized or judged."
+ },
+ {
+  "id": "SQ12",
+  "deck": 4,
+  "q": "For the past three weeks, Dana has felt sad nearly every day, lost interest in soccer, and can't sleep. She most likely has:",
+  "opts": [
+   "Major depressive disorder",
+   "Persistent depressive disorder",
+   "Bipolar II",
+   "GAD"
+  ],
+  "ans": 0,
+  "exp": "MDD = symptoms for 2+ weeks. Persistent depressive disorder needs 2+ years."
+ },
+ {
+  "id": "SQ13",
+  "deck": 4,
+  "q": "For a week, Tom barely slept, talked very fast, felt invincible, and spent all his savings. Earlier he had long periods of depression. He most likely has:",
+  "opts": [
+   "Bipolar disorder",
+   "Persistent depressive disorder",
+   "ADHD",
+   "GAD"
+  ],
+  "ans": 0,
+  "exp": "Mania plus depression = bipolar disorder."
+ },
+ {
+  "id": "SQ14",
+  "deck": 4,
+  "q": "A patient has hypomanic episodes and depression but no hallucinations or delusions. Which diagnosis fits?",
+  "opts": [
+   "Bipolar II",
+   "Bipolar I",
+   "Schizophrenia",
+   "Major depressive disorder"
+  ],
+  "ans": 0,
+  "exp": "Bipolar II: hypomania, no psychosis."
+ },
+ {
+  "id": "SQ15",
+  "deck": 4,
+  "q": "For over two years, Ray has felt down most of the day on most days, with no manic episodes and no drug use. This is:",
+  "opts": [
+   "Persistent depressive disorder",
+   "Major depressive disorder",
+   "Bipolar I",
+   "Dysthymic mania"
+  ],
+  "ans": 0,
+  "exp": "Persistent depressive disorder = 2+ years."
+ },
+ {
+  "id": "SQ16",
+  "deck": 5,
+  "q": "A 7-year-old fidgets constantly, blurts out answers, and can't wait his turn, both at home and at school. Which disorder fits best?",
+  "opts": [
+   "ADHD",
+   "Autism spectrum disorder",
+   "Social anxiety disorder",
+   "Bipolar disorder"
+  ],
+  "ans": 0,
+  "exp": "Hyperactivity and impulsivity in 2+ settings point to ADHD."
+ },
+ {
+  "id": "SQ17",
+  "deck": 5,
+  "q": "A child avoids eye contact, gets upset by loud sounds, and lines up toys the same way every day. Which diagnosis fits best?",
+  "opts": [
+   "Autism spectrum disorder",
+   "ADHD",
+   "GAD",
+   "Dissociative amnesia"
+  ],
+  "ans": 0,
+  "exp": "ASD: less social contact, sensory hypersensitivity, repetitive behaviors."
+ },
+ {
+  "id": "SQ18",
+  "deck": 5,
+  "q": "How many ADHD symptoms does a 19-year-old need for a diagnosis?",
+  "opts": [
+   "5 or more",
+   "6 or more",
+   "3 or more",
+   "10 or more"
+  ],
+  "ans": 0,
+  "exp": "6+ up to age 16; 5+ for ages 17 and older."
+ },
+ {
+  "id": "SQ19",
+  "deck": 5,
+  "q": "A pregnant woman drinks alcohol, and her child later has developmental delays. The alcohol acted as a:",
+  "opts": [
+   "Teratogen",
+   "Neurotransmitter",
+   "Hormone",
+   "Diathesis"
+  ],
+  "ans": 0,
+  "exp": "Teratogens like alcohol and tobacco are environmental causes of neurodevelopmental disorders."
+ },
+ {
+  "id": "SQ20",
+  "deck": 6,
+  "q": "After a car crash, Lena can't remember the accident or the week before it. She most likely has:",
+  "opts": [
+   "Dissociative amnesia",
+   "Dissociative identity disorder",
+   "Schizophrenia",
+   "GAD"
+  ],
+  "ans": 0,
+  "exp": "Dissociative amnesia: unable to recall important personal information tied to trauma."
+ },
+ {
+  "id": "SQ21",
+  "deck": 6,
+  "q": "A man is found in a city 300 miles from home with no idea who he is or how he got there. This is a:",
+  "opts": [
+   "Fugue state",
+   "Catatonic stupor",
+   "Manic episode",
+   "Panic attack"
+  ],
+  "ans": 0,
+  "exp": "Fugue: wandering or traveling without awareness of identity."
+ },
+ {
+  "id": "SQ22",
+  "deck": 6,
+  "q": "A patient has two distinct personalities with different names, memories, and behaviors. She most likely has:",
+  "opts": [
+   "Dissociative identity disorder",
+   "Schizophrenia",
+   "Borderline personality disorder",
+   "Bipolar I"
+  ],
+  "ans": 0,
+  "exp": "DID: two or more distinct personality states (alters)."
+ },
+ {
+  "id": "SQ23",
+  "deck": 6,
+  "q": "What is the most common cause of dissociative disorders?",
+  "opts": [
+   "Severe trauma or major stress",
+   "Too much dopamine",
+   "Teratogens",
+   "Low serotonin"
+  ],
+  "ans": 0,
+  "exp": "Your slide: the most common cause is severe trauma or major stress."
+ },
+ {
+  "id": "SQ24",
+  "deck": 7,
+  "q": "Mark believes the CIA has put a chip in his brain to track him. This is a:",
+  "opts": [
+   "Delusion of persecution",
+   "Hallucination",
+   "Delusion of grandeur",
+   "Negative symptom"
+  ],
+  "ans": 0,
+  "exp": "A false belief that others are out to get you = delusion of persecution (paranoia)."
+ },
+ {
+  "id": "SQ25",
+  "deck": 7,
+  "q": "Kim hears voices telling her what to do when no one is there. This is a:",
+  "opts": [
+   "Hallucination",
+   "Delusion",
+   "Flat affect",
+   "Word salad"
+  ],
+  "ans": 0,
+  "exp": "Hallucination = false perception."
+ },
+ {
+  "id": "SQ26",
+  "deck": 7,
+  "q": "A patient shows no emotion in his face or voice, even at his brother's wedding. This is:",
+  "opts": [
+   "Flat affect",
+   "Catatonic stupor",
+   "Word salad",
+   "A delusion"
+  ],
+  "ans": 0,
+  "exp": "Flat affect = lack of emotional expression (a negative symptom)."
+ },
+ {
+  "id": "SQ27",
+  "deck": 7,
+  "q": "Identical twins share the same genes, but only the one who went through severe stress developed schizophrenia. Which idea explains this?",
+  "opts": [
+   "Diathesis-stress model",
+   "Dopamine hypothesis",
+   "Tend-and-befriend theory",
+   "General Adaptation Syndrome"
+  ],
+  "ans": 0,
+  "exp": "Stress triggered a genetic predisposition (diathesis)."
+ },
+ {
+  "id": "SQ28",
+  "deck": 8,
+  "q": "Ari can't stop thinking his hands are contaminated, so he washes them 50 times a day. The washing is a(n):",
+  "opts": [
+   "Compulsion",
+   "Obsession",
+   "Delusion",
+   "Hallucination"
+  ],
+  "ans": 0,
+  "exp": "Compulsions are the repetitive behaviors; the contamination thoughts are the obsessions."
+ },
+ {
+  "id": "SQ29",
+  "deck": 8,
+  "q": "Nora's house is so full of old newspapers that she can't use her kitchen, but she feels upset at the idea of throwing them out. This is:",
+  "opts": [
+   "Hoarding disorder",
+   "OCD",
+   "Agoraphobia",
+   "GAD"
+  ],
+  "ans": 0,
+  "exp": "Hoarding: difficulty discarding, distress at discarding, cluttered living areas."
+ },
+ {
+  "id": "SQ30",
+  "deck": 8,
+  "q": "A veteran has flashbacks, nightmares, and is always on guard after combat. He most likely has:",
+  "opts": [
+   "PTSD",
+   "GAD",
+   "Bipolar disorder",
+   "DID"
+  ],
+  "ans": 0,
+  "exp": "Flashbacks, nightmares, and hypervigilance are PTSD symptoms."
+ },
+ {
+  "id": "SQ31",
+  "deck": 8,
+  "q": "According to the behavioral explanation, why do compulsions keep happening?",
+  "opts": [
+   "They reduce anxiety, which reinforces them",
+   "They are caused by too much dopamine",
+   "They come from childhood conflicts",
+   "They are learned only from parents"
+  ],
+  "ans": 0,
+  "exp": "Operant conditioning: anxiety reduction = reinforcement."
+ },
+ {
+  "id": "SQ32",
+  "deck": 9,
+  "q": "Lily is severely underweight but still restricts food because she's terrified of gaining weight. She most likely has:",
+  "opts": [
+   "Anorexia nervosa",
+   "Bulimia nervosa",
+   "Hoarding disorder",
+   "Binge eating disorder"
+  ],
+  "ans": 0,
+  "exp": "Anorexia: refusal to maintain normal weight and intense fear of gaining weight."
+ },
+ {
+  "id": "SQ33",
+  "deck": 9,
+  "q": "Jess regularly eats a huge amount of food in under two hours, feels out of control, and then makes herself vomit. She most likely has:",
+  "opts": [
+   "Bulimia nervosa",
+   "Anorexia nervosa",
+   "GAD",
+   "OCD"
+  ],
+  "ans": 0,
+  "exp": "Bulimia: binge eating plus behaviors to prevent weight gain."
+ },
+ {
+  "id": "SQ34",
+  "deck": 9,
+  "q": "Eating disorders are most common in which kind of culture, according to your slides?",
+  "opts": [
+   "Industrialized cultures that emphasize thinness",
+   "Cultures with food shortages",
+   "Cultures without media",
+   "Rural farming cultures"
+  ],
+  "ans": 0,
+  "exp": "Cultural cause: industrialized cultures emphasizing thinness."
+ },
+ {
+  "id": "SQ35",
+  "deck": 9,
+  "q": "A teen whose family pushes perfection and high achievement develops an eating disorder. Which cause fits best?",
+  "opts": [
+   "Social",
+   "Biological",
+   "Genetic",
+   "Cultural"
+  ],
+  "ans": 0,
+  "exp": "Your slide lists a family focus on perfectionism/high achievement as a social cause."
+ },
+ {
+  "id": "SQ36",
+  "deck": 10,
+  "q": "Max lies, steals, and hurts people without feeling any guilt. Which personality disorder fits best?",
+  "opts": [
+   "Antisocial",
+   "Avoidant",
+   "Schizoid",
+   "Dependent"
+  ],
+  "ans": 0,
+  "exp": "Antisocial: disregard for others' rights, no empathy or remorse."
+ },
+ {
+  "id": "SQ37",
+  "deck": 10,
+  "q": "Rachel can't decide what to eat without asking her boyfriend and panics at the thought of him leaving. Which personality disorder fits best?",
+  "opts": [
+   "Dependent",
+   "Narcissistic",
+   "Histrionic",
+   "Paranoid"
+  ],
+  "ans": 0,
+  "exp": "Dependent: needs reassurance, fears abandonment, clingy."
+ },
+ {
+  "id": "SQ38",
+  "deck": 10,
+  "q": "Which cluster contains odd or eccentric personality disorders?",
+  "opts": [
+   "Cluster A",
+   "Cluster B",
+   "Cluster C",
+   "Cluster D"
+  ],
+  "ans": 0,
+  "exp": "A = odd/eccentric, B = dramatic, C = anxious."
+ },
+ {
+  "id": "SQ39",
+  "deck": 10,
+  "q": "Chris believes he's better than everyone, demands admiration, and can't handle criticism. Which personality disorder fits best?",
+  "opts": [
+   "Narcissistic",
+   "Borderline",
+   "Avoidant",
+   "Schizotypal"
+  ],
+  "ans": 0,
+  "exp": "Narcissistic: exaggerated self-importance, need for admiration, sensitive to criticism."
+ },
+ {
+  "id": "SQ40",
+  "deck": 11,
+  "q": "A therapist asks a client to lie on a couch and say whatever comes to mind. This is:",
+  "opts": [
+   "Free association",
+   "Systematic desensitization",
+   "Active listening",
+   "Cognitive restructuring"
+  ],
+  "ans": 0,
+  "exp": "Free association is a psychodynamic technique for exploring the unconscious."
+ },
+ {
+  "id": "SQ41",
+  "deck": 11,
+  "q": "A therapist repeats back what the client says and never gives advice or judges. This is:",
+  "opts": [
+   "Person-centered therapy",
+   "Aversion therapy",
+   "Psychoanalysis",
+   "REBT"
+  ],
+  "ans": 0,
+  "exp": "Carl Rogers' person-centered therapy is non-directive, with active listening."
+ },
+ {
+  "id": "SQ42",
+  "deck": 11,
+  "q": "A man with alcoholism takes Antabuse so drinking makes him sick. This is:",
+  "opts": [
+   "Aversion therapy",
+   "Systematic desensitization",
+   "A token economy",
+   "Biofeedback"
+  ],
+  "ans": 0,
+  "exp": "Aversion therapy pairs an unpleasant state with the unwanted behavior."
+ },
+ {
+  "id": "SQ43",
+  "deck": 11,
+  "q": "A patient with schizophrenia takes a medication that blocks dopamine receptors. This is a(n):",
+  "opts": [
+   "Antipsychotic",
+   "Antidepressant",
+   "Benzodiazepine",
+   "Mood stabilizer"
+  ],
+  "ans": 0,
+  "exp": "Antipsychotics block dopamine receptors and reduce positive symptoms."
+ },
+ {
+  "id": "SQ44",
+  "deck": 11,
+  "q": "A therapist forcefully challenges a client's belief that \"everyone must like me.\" This is:",
+  "opts": [
+   "REBT",
+   "Person-centered therapy",
+   "Free association",
+   "A token economy"
+  ],
+  "ans": 0,
+  "exp": "REBT: the therapist confronts irrational beliefs."
+ },
+ {
+  "id": "SQ45",
+  "deck": 11,
+  "q": "Students earn stars for good behavior and trade 5 stars for a prize. This is a:",
+  "opts": [
+   "Token economy",
+   "Aversion therapy",
+   "Exposure therapy",
+   "Biofeedback"
+  ],
+  "ans": 0,
+  "exp": "Token economy: operant conditioning with exchangeable rewards."
+ }
+]

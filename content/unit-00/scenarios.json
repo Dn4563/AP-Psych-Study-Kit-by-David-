@@ -1,0 +1,314 @@
+[
+ {
+  "id": "SQ1",
+  "deck": 2,
+  "q": "A researcher records how children play at recess without interacting with them or changing anything. Which method is this?",
+  "opts": [
+   "Naturalistic observation",
+   "Case study",
+   "Survey",
+   "Experiment"
+  ],
+  "ans": 0,
+  "exp": "Observing behavior in a natural setting without controlling it is naturalistic observation."
+ },
+ {
+  "id": "SQ2",
+  "deck": 2,
+  "q": "Students who miss more school tend to have lower grades. This is a:",
+  "opts": [
+   "Negative correlation",
+   "Positive correlation",
+   "Zero correlation",
+   "Proven cause-and-effect relationship"
+  ],
+  "ans": 0,
+  "exp": "One goes up while the other goes down: negative. It still doesn't prove absences cause the lower grades."
+ },
+ {
+  "id": "SQ3",
+  "deck": 2,
+  "q": "A study tests whether caffeine improves memory. One group gets caffeine, the other gets none, then both take a memory test. What is the dependent variable?",
+  "opts": [
+   "Memory test scores",
+   "Caffeine",
+   "The group with no caffeine",
+   "The number of participants"
+  ],
+  "ans": 0,
+  "exp": "The DV is what's measured. Caffeine is the IV (what the researcher changes)."
+ },
+ {
+  "id": "SQ4",
+  "deck": 2,
+  "q": "In the caffeine study, the group that gets no caffeine is the:",
+  "opts": [
+   "Control group",
+   "Experimental group",
+   "Population",
+   "Confounding variable"
+  ],
+  "ans": 0,
+  "exp": "The control group doesn't receive the manipulated variable, so it can be compared with the experimental group."
+ },
+ {
+  "id": "SQ5",
+  "deck": 2,
+  "q": "Factory workers become more productive just because they know researchers are watching them. This is the:",
+  "opts": [
+   "Hawthorne effect",
+   "Placebo effect",
+   "Barnum effect",
+   "Gambler's fallacy"
+  ],
+  "ans": 0,
+  "exp": "Changing behavior because you know you're being observed is the Hawthorne effect."
+ },
+ {
+  "id": "SQ6",
+  "deck": 2,
+  "q": "After the game, Sam says, \"I knew they would lose all along.\" This is:",
+  "opts": [
+   "Hindsight bias",
+   "Overconfidence",
+   "Gambler's fallacy",
+   "Social desirability bias"
+  ],
+  "ans": 0,
+  "exp": "Believing after the outcome that you would have foreseen it is hindsight bias."
+ },
+ {
+  "id": "SQ7",
+  "deck": 2,
+  "q": "After an experiment, participants are told the study's real purpose and about any deception. This is called:",
+  "opts": [
+   "Debriefing",
+   "Informed consent",
+   "Confidentiality",
+   "Replication"
+  ],
+  "ans": 0,
+  "exp": "Debriefing happens after the study. Informed consent happens before."
+ },
+ {
+  "id": "SQ8",
+  "deck": 2,
+  "q": "On an anonymous-looking survey about cheating, almost no students admit to cheating, even though many do. The most likely problem is:",
+  "opts": [
+   "Social desirability bias",
+   "The Hawthorne effect",
+   "The placebo effect",
+   "Gambler's fallacy"
+  ],
+  "ans": 0,
+  "exp": "People give dishonest answers to seek approval or look good."
+ },
+ {
+  "id": "SQ9",
+  "deck": 1,
+  "q": "Mr. Epstein gives his students candy to reward them for doing their homework. Which perspective fits best?",
+  "opts": [
+   "Behavioral",
+   "Cognitive",
+   "Humanistic",
+   "Psychodynamic"
+  ],
+  "ans": 0,
+  "exp": "Rewarding a behavior so it gets repeated is the behavioral perspective."
+ },
+ {
+  "id": "SQ10",
+  "deck": 1,
+  "q": "Doctors believe Rosa suffers from schizophrenia because there is too much dopamine in her brain. Which perspective fits best?",
+  "opts": [
+   "Biological",
+   "Psychodynamic",
+   "Sociocultural",
+   "Evolutionary"
+  ],
+  "ans": 0,
+  "exp": "Neurotransmitters like dopamine belong to the biological perspective."
+ },
+ {
+  "id": "SQ11",
+  "deck": 1,
+  "q": "Alex is learning to focus on positive relationships and his future potential, instead of the past, to improve his self-esteem. Which perspective fits best?",
+  "opts": [
+   "Humanistic",
+   "Psychodynamic",
+   "Behavioral",
+   "Biological"
+  ],
+  "ans": 0,
+  "exp": "Potential, positivity, and relationships are humanistic. Focusing on the past would be psychodynamic."
+ },
+ {
+  "id": "SQ12",
+  "deck": 1,
+  "q": "Juliette's therapist believes her anxiety is influenced by her poor relationship with her father as a child. Which perspective fits best?",
+  "opts": [
+   "Psychodynamic",
+   "Humanistic",
+   "Cognitive",
+   "Evolutionary"
+  ],
+  "ans": 0,
+  "exp": "Childhood experiences shaping behavior is the psychodynamic perspective."
+ },
+ {
+  "id": "SQ13",
+  "deck": 1,
+  "q": "Jason's fear of snakes is a survival instinct his ancestors also had. Which perspective fits best?",
+  "opts": [
+   "Evolutionary",
+   "Behavioral",
+   "Biological",
+   "Sociocultural"
+  ],
+  "ans": 0,
+  "exp": "Survival instincts passed down from ancestors are evolutionary."
+ },
+ {
+  "id": "SQ14",
+  "deck": 1,
+  "q": "Heather wears skirts and dresses because that is the norm in the society where she lives. Which perspective fits best?",
+  "opts": [
+   "Sociocultural",
+   "Evolutionary",
+   "Humanistic",
+   "Cognitive"
+  ],
+  "ans": 0,
+  "exp": "Behavior shaped by culture or way of life is sociocultural."
+ },
+ {
+  "id": "SQ15",
+  "deck": 1,
+  "q": "Carl takes antidepressants to help improve his mood. Which perspective fits best?",
+  "opts": [
+   "Biological",
+   "Cognitive",
+   "Humanistic",
+   "Psychodynamic"
+  ],
+  "ans": 0,
+  "exp": "Medication changes brain chemistry, which is the biological perspective."
+ },
+ {
+  "id": "SQ16",
+  "deck": 1,
+  "q": "Jason has been feeling very negatively about work, so his therapist encourages him to change how he thinks about it. Which perspective fits best?",
+  "opts": [
+   "Cognitive",
+   "Behavioral",
+   "Biological",
+   "Evolutionary"
+  ],
+  "ans": 0,
+  "exp": "Changing thought processes is the cognitive perspective."
+ },
+ {
+  "id": "SQ17",
+  "deck": 3,
+  "q": "What is the mean of 2, 4, 6, 8, 10?",
+  "opts": [
+   "6",
+   "5",
+   "8",
+   "4"
+  ],
+  "ans": 0,
+  "exp": "2 + 4 + 6 + 8 + 10 = 30, and 30 ÷ 5 = 6."
+ },
+ {
+  "id": "SQ18",
+  "deck": 3,
+  "q": "What is the median of 3, 9, 1, 7, 5?",
+  "opts": [
+   "5",
+   "7",
+   "9",
+   "3"
+  ],
+  "ans": 0,
+  "exp": "In order: 1, 3, 5, 7, 9. The middle number is 5."
+ },
+ {
+  "id": "SQ19",
+  "deck": 3,
+  "q": "What is the mode of 4, 7, 7, 2, 9, 7, 4?",
+  "opts": [
+   "7",
+   "4",
+   "9",
+   "2"
+  ],
+  "ans": 0,
+  "exp": "7 appears three times, more than any other number."
+ },
+ {
+  "id": "SQ20",
+  "deck": 3,
+  "q": "Test scores: 60, 72, 85, 90, 95. What is the range?",
+  "opts": [
+   "35",
+   "80.4",
+   "85",
+   "25"
+  ],
+  "ans": 0,
+  "exp": "95 − 60 = 35. (80.4 is the mean, a trap.)"
+ },
+ {
+  "id": "SQ21",
+  "deck": 3,
+  "q": "On a very hard test, most students score low, but a few score very high. The distribution is:",
+  "opts": [
+   "Positively skewed",
+   "Negatively skewed",
+   "Symmetrical",
+   "Bimodal"
+  ],
+  "ans": 0,
+  "exp": "The few high scores make a tail to the right: positive skew."
+ },
+ {
+  "id": "SQ22",
+  "deck": 3,
+  "q": "On a very easy quiz, most students score near 100, but a few score very low. How does the mean compare to the median?",
+  "opts": [
+   "The mean is lower than the median",
+   "The mean is higher than the median",
+   "They are equal",
+   "There is no mean"
+  ],
+  "ans": 0,
+  "exp": "The tail goes left (negative skew), and the mean follows the tail."
+ },
+ {
+  "id": "SQ23",
+  "deck": 3,
+  "q": "A study finds p = .03. What does this mean?",
+  "opts": [
+   "The result is statistically significant: it's unlikely to be due to chance",
+   "The result is not significant",
+   "The effect is very strong",
+   "3% of participants improved"
+  ],
+  "ans": 0,
+  "exp": "p ≤ .05 is statistically significant. A p-value says nothing about how strong the effect is; that's effect size."
+ },
+ {
+  "id": "SQ24",
+  "deck": 3,
+  "q": "Jada scored in the 90th percentile on a practice test. This means:",
+  "opts": [
+   "She scored higher than 90% of test takers",
+   "She got 90% of the questions right",
+   "90 people took the test",
+   "She scored 90 points above the mean"
+  ],
+  "ans": 0,
+  "exp": "Percentile rank is the percentage of scores below yours."
+ }
+]

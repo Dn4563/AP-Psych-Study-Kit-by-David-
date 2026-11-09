@@ -1,0 +1,177 @@
+{
+ "flows": [
+  {
+   "id": "F1-1",
+   "title": "General Adaptation Syndrome",
+   "deck": 1,
+   "steps": [
+    "Alarm: fight or flight",
+    "Resistance: cortisol & epinephrine, using up reserves",
+    "Exhaustion: resources depleted, health problems"
+   ]
+  },
+  {
+   "id": "F8-1",
+   "title": "The OCD cycle",
+   "deck": 8,
+   "steps": [
+    "Obsession",
+    "Distress",
+    "Compulsion",
+    "Relief",
+    "Back to obsession"
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "title": "Bipolar disorders",
+   "rows": [
+    [
+     "",
+     "Bipolar I",
+     "Bipolar II"
+    ],
+    [
+     "Severity",
+     "More severe",
+     "Less severe"
+    ],
+    [
+     "Highs",
+     "Full-blown manic episodes",
+     "Hypomanic episodes (lesser form)"
+    ],
+    [
+     "Psychosis",
+     "Can include hallucinations or delusions",
+     "No psychosis"
+    ],
+    [
+     "How common",
+     "Less common; earlier onset",
+     "More common"
+    ],
+    [
+     "Depression",
+     "May have longer periods of depression",
+     "Still a significant impact on daily life"
+    ]
+   ]
+  },
+  {
+   "title": "Symptoms",
+   "rows": [
+    [
+     "Type",
+     "Meaning",
+     "Examples"
+    ],
+    [
+     "Positive",
+     "Something added",
+     "Delusions (false beliefs), hallucinations (false perceptions), disorganized speech (word salad), disorganized movement"
+    ],
+    [
+     "Negative",
+     "Something absent",
+     "Flat affect, catatonic stupor (no movement), lack of interest and motivation"
+    ]
+   ]
+  },
+  {
+   "title": "Personality disorders",
+   "rows": [
+    [
+     "Cluster",
+     "Style",
+     "Disorders"
+    ],
+    [
+     "A",
+     "Odd or eccentric",
+     "Paranoid, schizoid, schizotypal"
+    ],
+    [
+     "B",
+     "Dramatic, emotional, erratic",
+     "Antisocial, histrionic, narcissistic, borderline"
+    ],
+    [
+     "C",
+     "Anxious or fearful",
+     "Avoidant, dependent, obsessive-compulsive"
+    ]
+   ]
+  },
+  {
+   "title": "Medications",
+   "rows": [
+    [
+     "Class",
+     "Treats",
+     "How it works",
+     "Examples",
+     "Side effects"
+    ],
+    [
+     "Antidepressants (SSRIs)",
+     "Depression",
+     "Block serotonin reuptake",
+     "Prozac, Paxil, Zoloft",
+     "Fatigue, forgetfulness, insomnia, weight gain"
+    ],
+    [
+     "Anti-anxiety (benzodiazepines)",
+     "Anxiety",
+     "Depress the CNS; increase GABA",
+     "Xanax, Librium, Lorazepam, Valium",
+     "Drowsiness, dependency"
+    ],
+    [
+     "Antipsychotics (neuroleptics)",
+     "Schizophrenia, severe bipolar",
+     "Block dopamine receptors",
+     "Haldol, Thorazine",
+     "Tardive dyskinesia, weight gain"
+    ],
+    [
+     "Mood stabilizers",
+     "Bipolar disorder",
+     "—",
+     "Lithium",
+     "—"
+    ]
+   ]
+  },
+  {
+   "title": "Brain treatments",
+   "rows": [
+    [
+     "Treatment",
+     "How",
+     "Used for",
+     "Downsides"
+    ],
+    [
+     "Lobotomy",
+     "Cuts neural connections to the frontal lobe",
+     "Rarely used today",
+     "Reduces functioning and awareness; vegetative state"
+    ],
+    [
+     "rTMS",
+     "Magnetic pulses through the skull stimulate neurons",
+     "Chronic depression",
+     "None listed: no seizures, no memory loss, awake"
+    ],
+    [
+     "ECT",
+     "Electric current causes a 30–60 second seizure",
+     "Extreme depression; lowers suicide risk",
+     "Memory loss; 40% relapse in 6 months"
+    ]
+   ]
+  }
+ ]
+}

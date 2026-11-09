@@ -1,0 +1,53 @@
+{
+ "flows": [],
+ "tables": [
+  {
+   "title": "Top-down vs. bottom-up",
+   "rows": [
+    [
+     "Processing",
+     "Also called",
+     "What happens",
+     "Example from your slides"
+    ],
+    [
+     "Bottom-up",
+     "Sensation",
+     "Sensory receptors register information and send it up to the brain",
+     "Being aware of the squiggles in a handwritten note"
+    ],
+    [
+     "Top-down",
+     "Perception",
+     "Knowledge, experience, or context interprets what you sense",
+     "Knowing what the squiggles mean; reading scrambled words"
+    ]
+   ]
+  },
+  {
+   "title": "Thresholds",
+   "rows": [
+    [
+     "Term",
+     "What it measures",
+     "Example from your slides"
+    ],
+    [
+     "Absolute threshold",
+     "The weakest stimulus you can detect 50% of the time",
+     "A watch ticking 20 feet away; 1 teaspoon of salt in 2 gallons of water"
+    ],
+    [
+     "Difference threshold (JND)",
+     "The smallest change you notice 50% of the time",
+     "Car music from 5 to 6: probably not noticed. From 5 to 10: probably noticed"
+    ],
+    [
+     "Weber's law",
+     "Changes must be a constant percentage, not a constant amount",
+     "1 oz added to 10 oz is noticed; 1 oz added to 100 oz isn't. Weight must change 2%"
+    ]
+   ]
+  }
+ ]
+}

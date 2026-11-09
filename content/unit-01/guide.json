@@ -1,0 +1,193 @@
+{
+ "flows": [
+  {
+   "id": "F1-1",
+   "title": "Path of a signal through a neuron",
+   "deck": 1,
+   "steps": [
+    "Dendrites",
+    "Soma",
+    "Axon (myelin)",
+    "Terminal branches",
+    "Terminal buttons / vesicles",
+    "Synapse",
+    "Next neuron's dendrites"
+   ]
+  },
+  {
+   "id": "F1-2",
+   "title": "Firing sequence",
+   "deck": 1,
+   "steps": [
+    "Resting potential",
+    "Threshold reached",
+    "Action potential",
+    "Neurotransmitters released",
+    "Reuptake",
+    "Refractory period",
+    "Back to resting"
+   ]
+  },
+  {
+   "id": "F5-1",
+   "title": "Path of light to the brain",
+   "deck": 5,
+   "steps": [
+    "Cornea",
+    "Pupil (sized by iris)",
+    "Lens",
+    "Retina: rods & cones",
+    "Bipolar cells",
+    "Ganglion cells",
+    "Optic nerve",
+    "Thalamus",
+    "Visual cortex (occipital)"
+   ]
+  },
+  {
+   "id": "F6-1",
+   "title": "Path of sound",
+   "deck": 6,
+   "steps": [
+    "Outer ear / auditory canal",
+    "Eardrum",
+    "Ossicles",
+    "Cochlea (hair cells)",
+    "Auditory nerve",
+    "Thalamus",
+    "Auditory cortex (temporal)"
+   ]
+  },
+  {
+   "id": "F7-1",
+   "title": "Sleep stages",
+   "deck": 7,
+   "steps": [
+    "NREM 1 (Stage 1)",
+    "NREM 2 (Stage 2)",
+    "NREM 3 (Stage 3): night terrors",
+    "REM sleep"
+   ]
+  },
+  {
+   "id": "F8-1",
+   "title": "Word flashed to the right visual field",
+   "deck": 8,
+   "steps": [
+    "Right visual field",
+    "Optic chiasm (crosses)",
+    "Left hemisphere",
+    "Can say it",
+    "Right hand can point / draw"
+   ]
+  },
+  {
+   "id": "F8-2",
+   "title": "Word flashed to the left visual field",
+   "deck": 8,
+   "steps": [
+    "Left visual field",
+    "Optic chiasm (crosses)",
+    "Right hemisphere",
+    "Says \"nothing\"",
+    "Left hand can point / draw"
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "title": "The chemicals",
+   "rows": [
+    [
+     "Neurotransmitter",
+     "Main job",
+     "Too little",
+     "Too much"
+    ],
+    [
+     "Acetylcholine",
+     "Movement, memory",
+     "Alzheimer's",
+     "Muscle spasms"
+    ],
+    [
+     "Dopamine",
+     "Reward, movement, alertness",
+     "Parkinson's, addiction",
+     "Schizophrenia"
+    ],
+    [
+     "Serotonin",
+     "Mood, appetite, sleep",
+     "Depression, OCD, anger",
+     "Happiness"
+    ],
+    [
+     "Norepinephrine",
+     "Fight-or-flight, focus",
+     "Depression, ADHD",
+     "Developing fears"
+    ],
+    [
+     "GABA",
+     "Calming (main inhibitory)",
+     "Anxiety disorders",
+     "Sleepiness"
+    ],
+    [
+     "Glutamate",
+     "Thinking, memory (main excitatory)",
+     "—",
+     "Anxiety, OCD, migraines"
+    ],
+    [
+     "Endorphins",
+     "Natural painkiller",
+     "—",
+     "—"
+    ],
+    [
+     "Substance P",
+     "Pain signals",
+     "—",
+     "—"
+    ]
+   ]
+  },
+  {
+   "title": "How drugs work",
+   "rows": [
+    [
+     "Category",
+     "What it does",
+     "Examples",
+     "How it works"
+    ],
+    [
+     "Depressants",
+     "Slow you down; reduce neural activity",
+     "Alcohol, barbiturates, sedatives, benzodiazepines (Valium, Xanax)",
+     "Increase GABA (alcohol also reduces glutamate)"
+    ],
+    [
+     "Stimulants",
+     "Excite the central nervous system",
+     "Caffeine, nicotine, cocaine, amphetamines, meth",
+     "Cocaine blocks dopamine reuptake; amphetamines mimic adrenaline"
+    ],
+    [
+     "Hallucinogens",
+     "Distort visual and auditory perception",
+     "LSD, marijuana (THC), ecstasy/MDMA",
+     "Ecstasy can damage serotonin-producing neurons"
+    ],
+    [
+     "Opioids",
+     "Lessen pain and anxiety",
+     "Heroin, codeine, morphine, methadone, OxyContin, oxycodone",
+     "Agonists for endorphins"
+    ]
+   ]
+  }
+ ]
+}

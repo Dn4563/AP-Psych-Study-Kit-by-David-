@@ -1,0 +1,1945 @@
+{
+ "sections": [
+  {
+   "name": "Perspectives in Psychology",
+   "mode": "practice",
+   "tips": [
+    "Exam-style questions from Phineas's kit for this deck. Read every choice before you pick: the wrong ones are common mix-ups."
+   ],
+   "questions": [
+    {
+     "id": "1-1",
+     "type": "mcq",
+     "topic": "Perspectives in Psychology",
+     "stem": "Antonio is feeling much healthier now that he is focusing on his positive traits and having good relationships. Which perspective fits best?",
+     "options": [
+      "Humanistic",
+      "Biological",
+      "Psychodynamic",
+      "Behavioral"
+     ],
+     "ans": 0,
+     "exp": "Positivity, relationships, and well-being are humanistic.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "1-2",
+     "type": "mcq",
+     "topic": "Perspectives in Psychology",
+     "stem": "Which perspective is based heavily on the ideas of Freud?",
+     "options": [
+      "Psychodynamic",
+      "Humanistic",
+      "Cognitive",
+      "Sociocultural"
+     ],
+     "ans": 0,
+     "exp": "Psychodynamic: the unconscious mind and childhood experiences.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "1-3",
+     "type": "mcq",
+     "topic": "Perspectives in Psychology",
+     "stem": "Which perspective focuses on genetics, brain chemistry, hormones, and neurotransmitters?",
+     "options": [
+      "Biological",
+      "Evolutionary",
+      "Cognitive",
+      "Behavioral"
+     ],
+     "ans": 0,
+     "exp": "That's the biological perspective. Evolutionary is about survival and reproduction.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "1-4",
+     "type": "mcq",
+     "topic": "Perspectives in Psychology",
+     "stem": "Which perspective emphasizes memory, problem solving, intelligence, and perception?",
+     "options": [
+      "Cognitive",
+      "Behavioral",
+      "Humanistic",
+      "Psychodynamic"
+     ],
+     "ans": 0,
+     "exp": "Cognitive = internal thought processes.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "1-5",
+     "type": "mcq",
+     "topic": "Perspectives in Psychology",
+     "stem": "Which of the following best describes the behavioral perspective?",
+     "options": [
+      "Behavior is shaped by learned experiences, and rewarded behaviors tend to be repeated.",
+      "Behavior comes from the unconscious mind.",
+      "Behavior is mostly determined by genes.",
+      "Behavior depends on a person's culture."
+     ],
+     "ans": 0,
+     "exp": "Behavioral = learning and rewards.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "1-6",
+     "type": "mcq",
+     "topic": "Perspectives in Psychology",
+     "stem": "Which of the following best describes the evolutionary perspective?",
+     "options": [
+      "Behaviors exist because they helped our ancestors survive and reproduce.",
+      "Behavior is shaped by childhood memories.",
+      "Behavior is shaped by social norms.",
+      "Behavior depends on how we think about situations."
+     ],
+     "ans": 0,
+     "exp": "Evolutionary = protection, adaptive behavior, and reproduction.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "1-7",
+     "type": "mcq",
+     "topic": "Perspectives in Psychology",
+     "stem": "Charles has a terrible fear of spiders. Which explanation fits the evolutionary perspective?",
+     "options": [
+      "Fearing spiders helped his ancestors avoid dangerous bites and survive.",
+      "A frightening spider experience from early childhood is affecting him unconsciously.",
+      "His thoughts about spiders are exaggerated and unrealistic.",
+      "In his culture, spiders are treated as scary and disgusting."
+     ],
+     "ans": 0,
+     "exp": "Survival advantage for ancestors = evolutionary. The others are psychodynamic, cognitive, and sociocultural.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "1-8",
+     "type": "mcq",
+     "topic": "Perspectives in Psychology",
+     "stem": "Charles has a terrible fear of spiders. Which explanation fits the psychodynamic perspective?",
+     "options": [
+      "A frightening spider experience from early childhood is affecting him unconsciously.",
+      "Fearing spiders helped his ancestors survive.",
+      "His brain chemistry makes him more anxious.",
+      "People around him taught him spiders are gross."
+     ],
+     "ans": 0,
+     "exp": "Unconscious mind + childhood = psychodynamic.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "1-9",
+     "type": "mcq",
+     "topic": "Perspectives in Psychology",
+     "stem": "Charles has a terrible fear of spiders. Which explanation fits the cognitive perspective?",
+     "options": [
+      "He believes every spider he sees could kill him, and those thoughts drive his fear.",
+      "He inherited a gene linked to anxiety.",
+      "In his culture, spiders are seen as dangerous.",
+      "He has an unconscious memory of being bitten."
+     ],
+     "ans": 0,
+     "exp": "Cognitive = how thought processes shape behavior.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "1-10",
+     "type": "mcq",
+     "topic": "Perspectives in Psychology",
+     "stem": "Charles has a terrible fear of spiders. Which explanation fits the sociocultural perspective?",
+     "options": [
+      "In his culture, spiders are commonly treated as scary and disgusting.",
+      "Fearing spiders helped his ancestors survive.",
+      "His neurotransmitter levels are unusual.",
+      "He focuses on his potential to overcome fear."
+     ],
+     "ans": 0,
+     "exp": "Culture or way of life = sociocultural.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "1-11",
+     "type": "mcq",
+     "topic": "Perspectives in Psychology",
+     "stem": "Suzanne loves romantic comedy movies. Which explanation uses the biological perspective?",
+     "options": [
+      "Watching them causes her brain to release feel-good chemicals like dopamine.",
+      "In her culture, it's popular for women to enjoy romantic movies.",
+      "She was often taken to romantic movies as a child.",
+      "She enjoys predicting how the plot will turn out."
+     ],
+     "ans": 0,
+     "exp": "Brain chemistry and neurotransmitters = biological. The culture answer is your slide's sociocultural example.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "1-12",
+     "type": "mcq",
+     "topic": "Perspectives in Psychology",
+     "stem": "A therapist helps a client focus on free will, self-actualization, and reaching their full potential. Which perspective is the therapist using?",
+     "options": [
+      "Humanistic",
+      "Psychodynamic",
+      "Behavioral",
+      "Biological"
+     ],
+     "ans": 0,
+     "exp": "Free will, self-efficacy, and self-actualization are humanistic.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "1-13",
+     "type": "mcq",
+     "topic": "Perspectives in Psychology",
+     "stem": "A psychologist argues that a teen's aggression is mostly due to high testosterone levels. Which perspective is this?",
+     "options": [
+      "Biological",
+      "Sociocultural",
+      "Cognitive",
+      "Humanistic"
+     ],
+     "ans": 0,
+     "exp": "Hormones = biological.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "1-14",
+     "type": "mcq",
+     "topic": "Perspectives in Psychology",
+     "stem": "A researcher compares how families in different countries discipline their children, expecting differences based on each country's way of life. Which perspective is this?",
+     "options": [
+      "Sociocultural",
+      "Evolutionary",
+      "Psychodynamic",
+      "Cognitive"
+     ],
+     "ans": 0,
+     "exp": "Differences based on culture or way of life = sociocultural.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "1-15",
+     "type": "mcq",
+     "topic": "Perspectives in Psychology",
+     "stem": "Which of the following best explains why psychologists use different perspectives?",
+     "options": [
+      "Each one is like a different set of lenses, giving a different explanation of the same behavior.",
+      "Only one perspective can be correct.",
+      "Each perspective is used for only one type of behavior.",
+      "Perspectives are only used to diagnose disorders."
+     ],
+     "ans": 0,
+     "exp": "Your slides: perspectives are like viewing situations through different lenses. A behavior can be explained by several.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Research Methods",
+   "mode": "practice",
+   "tips": [
+    "Exam-style questions from Phineas's kit for this deck. Read every choice before you pick: the wrong ones are common mix-ups."
+   ],
+   "questions": [
+    {
+     "id": "2-1",
+     "type": "mcq",
+     "topic": "Research Methods",
+     "stem": "Which of the following best explains why psychologists rely on research instead of intuition?",
+     "options": [
+      "Intuition is distorted by hindsight bias, overconfidence, and misunderstanding of probability.",
+      "Intuition is always wrong.",
+      "Research never contains errors.",
+      "Intuition only works for experts."
+     ],
+     "ans": 0,
+     "exp": "Your slides: psychology exists because intuition is unreliable, due to hindsight bias, misunderstanding of probability, and overconfidence.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "2-2",
+     "type": "mcq",
+     "topic": "Research Methods",
+     "stem": "Which of the following is the correct order of the first four steps of the scientific method?",
+     "options": [
+      "Observe → develop a theory → make a hypothesis → test it",
+      "Make a hypothesis → observe → replicate → develop a theory",
+      "Test → observe → develop a theory → evaluate",
+      "Develop a theory → replicate → observe → make a hypothesis"
+     ],
+     "ans": 0,
+     "exp": "Observe, theory, hypothesis, test, evaluate, modify, replicate.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "2-3",
+     "type": "mcq",
+     "topic": "Research Methods",
+     "stem": "A researcher decides that \"smiling\" means at least four teeth showing and \"friendly\" means the photographer tells at least two jokes. These are:",
+     "options": [
+      "Operational definitions",
+      "Hypotheses",
+      "Confounding variables",
+      "Theories"
+     ],
+     "ans": 0,
+     "exp": "Operational definitions state exactly how each variable will be measured.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "2-4",
+     "type": "mcq",
+     "topic": "Research Methods",
+     "stem": "Which of the following best explains why operational definitions are important?",
+     "options": [
+      "Without them, other researchers can't replicate the study.",
+      "They guarantee the hypothesis will be supported.",
+      "They replace the need for a control group.",
+      "They make the sample representative."
+     ],
+     "ans": 0,
+     "exp": "Your slides: research cannot be replicated without operational definitions.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "2-5",
+     "type": "mcq",
+     "topic": "Research Methods",
+     "stem": "A researcher repeats another scientist's study with new participants to see whether the results hold up. This is:",
+     "options": [
+      "Replication",
+      "Debriefing",
+      "Sampling bias",
+      "Naturalistic observation"
+     ],
+     "ans": 0,
+     "exp": "Replicating means doing the research a second time to check that the results are reliable.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "2-6",
+     "type": "mcq",
+     "topic": "Research Methods",
+     "stem": "Which research method is the only one that can establish cause and effect?",
+     "options": [
+      "Experiment",
+      "Correlational study",
+      "Case study",
+      "Survey"
+     ],
+     "ans": 0,
+     "exp": "Experiments manipulate variables to establish cause and effect.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "2-7",
+     "type": "mcq",
+     "topic": "Research Methods",
+     "stem": "A psychologist spends two years studying one patient with a rare memory disorder in great detail. Which of the following is the biggest weakness of this method?",
+     "options": [
+      "The findings may not apply to others, because the patient may be atypical.",
+      "It gives too little in-depth information.",
+      "It cannot describe behavior.",
+      "It always involves deception."
+     ],
+     "ans": 0,
+     "exp": "Case studies can be misleading if the person is atypical, and can lead to overgeneralizing.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "2-8",
+     "type": "mcq",
+     "topic": "Research Methods",
+     "stem": "A researcher wants to know how 2,000 teens feel about social media and needs results quickly. Which method fits best?",
+     "options": [
+      "Survey",
+      "Case study",
+      "Naturalistic observation",
+      "Experiment"
+     ],
+     "ans": 0,
+     "exp": "Surveys collect a lot of self-reported data in a short time.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "2-9",
+     "type": "mcq",
+     "topic": "Research Methods",
+     "stem": "Which of the following is a disadvantage of naturalistic observation?",
+     "options": [
+      "Subjects may notice the observer and act differently.",
+      "Subjects behave less honestly than in a lab.",
+      "It requires manipulating variables.",
+      "It only studies one person."
+     ],
+     "ans": 0,
+     "exp": "It's non-invasive, but subjects may become aware of the observer, and it can be time consuming.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "2-10",
+     "type": "mcq",
+     "topic": "Research Methods",
+     "stem": "As hours of sleep decrease, levels of stress increase. Which type of correlation is this?",
+     "options": [
+      "Negative",
+      "Positive",
+      "Zero",
+      "Perfect positive"
+     ],
+     "ans": 0,
+     "exp": "One goes down while the other goes up: negative.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "2-11",
+     "type": "mcq",
+     "topic": "Research Methods",
+     "stem": "As salary decreases, spending also decreases. Which type of correlation is this?",
+     "options": [
+      "Positive",
+      "Negative",
+      "Zero",
+      "It isn't a correlation"
+     ],
+     "ans": 0,
+     "exp": "Both move in the same direction (both decrease), so it's positive. Positive doesn't mean \"good.\"",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "2-12",
+     "type": "mcq",
+     "topic": "Research Methods",
+     "stem": "Which correlation coefficient shows the strongest relationship?",
+     "options": [
+      "-0.9",
+      "+0.5",
+      "0",
+      "+0.3"
+     ],
+     "ans": 0,
+     "exp": "Strength is how close the number is to +1 or -1. The sign only shows direction.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "2-13",
+     "type": "mcq",
+     "topic": "Research Methods",
+     "stem": "A study finds that students who eat breakfast earn higher grades. Which conclusion is most appropriate?",
+     "options": [
+      "Breakfast and grades are related, but the study can't show that breakfast causes better grades.",
+      "Eating breakfast causes higher grades.",
+      "Higher grades cause students to eat breakfast.",
+      "There is no relationship between them."
+     ],
+     "ans": 0,
+     "exp": "Correlation does not equal causation. Another factor could explain both.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "2-14",
+     "type": "mcq",
+     "topic": "Research Methods",
+     "stem": "Ice cream sales and sunburns rise together. According to your slides, which of the following best explains this?",
+     "options": [
+      "Hot, sunny summer weather causes both.",
+      "Ice cream causes sunburns.",
+      "Sunburns make people buy ice cream.",
+      "It's a negative correlation."
+     ],
+     "ans": 0,
+     "exp": "A third factor (summer weather) causes both, so they're correlated without one causing the other.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "2-15",
+     "type": "mcq",
+     "topic": "Research Methods",
+     "stem": "A researcher randomly picks 500 names from a list of every student in a school, so every student has an equal chance of being chosen. This is a:",
+     "options": [
+      "Representative (random) sample",
+      "Population",
+      "Control group",
+      "Case study"
+     ],
+     "ans": 0,
+     "exp": "Everyone having an equal chance of inclusion makes it a representative random sample. The whole school is the population.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "2-16",
+     "type": "mcq",
+     "topic": "Research Methods",
+     "stem": "Plants are randomly put in a room with music or a silent room, and their height is measured after a month. What is the independent variable?",
+     "options": [
+      "Whether the plants hear music",
+      "Plant height",
+      "The type of plant",
+      "The length of the study"
+     ],
+     "ans": 0,
+     "exp": "The IV is what the researcher manipulates.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "2-17",
+     "type": "mcq",
+     "topic": "Research Methods",
+     "stem": "In the same plant study, what is the dependent variable?",
+     "options": [
+      "Plant height",
+      "Whether the plants hear music",
+      "The silent room",
+      "The type of plant"
+     ],
+     "ans": 0,
+     "exp": "The DV is what gets measured.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "2-18",
+     "type": "mcq",
+     "topic": "Research Methods",
+     "stem": "A study tests whether exercise causes weight loss, but the exercise group also happened to eat healthier food. Diet is a:",
+     "options": [
+      "Confounding variable",
+      "Dependent variable",
+      "Independent variable",
+      "Control group"
+     ],
+     "ans": 0,
+     "exp": "An outside influence that affects the results is a confounding variable. Your slides list diet, sleep, and genetics for this exact example.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "2-19",
+     "type": "mcq",
+     "topic": "Research Methods",
+     "stem": "Patients given a sugar pill they believe is a pain medication report feeling less pain. This is the:",
+     "options": [
+      "Placebo effect",
+      "Hawthorne effect",
+      "Barnum effect",
+      "Gambler's fallacy"
+     ],
+     "ans": 0,
+     "exp": "Results caused by expectations alone are the placebo effect.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "2-20",
+     "type": "mcq",
+     "topic": "Research Methods",
+     "stem": "A horoscope says, \"You sometimes doubt yourself, but you have hidden strengths,\" and Mia thinks it describes her perfectly. This is the:",
+     "options": [
+      "Barnum effect",
+      "Hindsight bias",
+      "Placebo effect",
+      "Self-report bias"
+     ],
+     "ans": 0,
+     "exp": "Believing a general description applies specifically to you is the Barnum effect.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "2-21",
+     "type": "mcq",
+     "topic": "Research Methods",
+     "stem": "After a coin lands heads five times in a row, Leo bets on tails because tails is \"due.\" This is:",
+     "options": [
+      "Gambler's fallacy",
+      "Overconfidence",
+      "Hindsight bias",
+      "The Barnum effect"
+     ],
+     "ans": 0,
+     "exp": "Seeing patterns in random data is the gambler's fallacy. Each flip is still 50/50.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "2-22",
+     "type": "mcq",
+     "topic": "Research Methods",
+     "stem": "A survey asks, \"Don't you agree that dangerous video games should be banned?\" The biggest problem with this question is:",
+     "options": [
+      "Wording effects (framing)",
+      "The placebo effect",
+      "The Hawthorne effect",
+      "Debriefing"
+     ],
+     "ans": 0,
+     "exp": "The wording pushes people toward one answer.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "2-23",
+     "type": "mcq",
+     "topic": "Research Methods",
+     "stem": "A researcher studying the exercise habits of all Americans surveys only members of one gym. The main problem is:",
+     "options": [
+      "Sampling bias",
+      "The placebo effect",
+      "Hindsight bias",
+      "Wording effects"
+     ],
+     "ans": 0,
+     "exp": "The sample doesn't represent the population, so the results will be skewed.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "2-24",
+     "type": "mcq",
+     "topic": "Research Methods",
+     "stem": "Before a study begins, participants are told what it involves so they can decide whether to take part. This is:",
+     "options": [
+      "Informed consent",
+      "Debriefing",
+      "Confidentiality",
+      "Replication"
+     ],
+     "ans": 0,
+     "exp": "Informed consent comes before; debriefing comes after.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "2-25",
+     "type": "mcq",
+     "topic": "Research Methods",
+     "stem": "Which of the following would violate the APA's ethical guidelines?",
+     "options": [
+      "Publishing participants' names and personal answers without permission",
+      "Debriefing participants after a study",
+      "Letting people choose whether to participate",
+      "Getting approval from a research institution"
+     ],
+     "ans": 0,
+     "exp": "That breaks confidentiality. The other three are required guidelines.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "2-26",
+     "type": "mcq",
+     "topic": "Research Methods",
+     "stem": "Overconfidence is best described as:",
+     "options": [
+      "Overestimating your knowledge and/or ability",
+      "Believing you knew the outcome all along",
+      "Seeing patterns in random data",
+      "Giving answers that make you look good"
+     ],
+     "ans": 0,
+     "exp": "The others are hindsight bias, gambler's fallacy, and social desirability bias.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "2-27",
+     "type": "mcq",
+     "topic": "Research Methods",
+     "stem": "Participants in a study answer questions in ways they think the researcher wants, or exaggerate how good they are. This is:",
+     "options": [
+      "Self-report bias",
+      "Sampling bias",
+      "The placebo effect",
+      "The gambler's fallacy"
+     ],
+     "ans": 0,
+     "exp": "Self-report bias: trying to affect the outcome, please the researcher, or being unrealistic about yourself.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Statistics & Data",
+   "mode": "practice",
+   "tips": [
+    "Exam-style questions from Phineas's kit for this deck. Read every choice before you pick: the wrong ones are common mix-ups."
+   ],
+   "questions": [
+    {
+     "id": "3-1",
+     "type": "mcq",
+     "topic": "Statistics & Data",
+     "stem": "Which of the following best describes the purpose of descriptive statistics?",
+     "options": [
+      "To organize and summarize data meaningfully",
+      "To decide whether results apply to a whole population",
+      "To manipulate variables",
+      "To prove cause and effect"
+     ],
+     "ans": 0,
+     "exp": "Descriptive statistics organize data. Deciding whether results generalize is inferential statistics.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "3-2",
+     "type": "mcq",
+     "topic": "Statistics & Data",
+     "stem": "Which type of graph is a bar graph that shows a frequency distribution?",
+     "options": [
+      "Histogram",
+      "Scatterplot",
+      "Pie chart",
+      "Line graph"
+     ],
+     "ans": 0,
+     "exp": "Histograms show frequency distributions and make patterns quick to spot.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "3-3",
+     "type": "mcq",
+     "topic": "Statistics & Data",
+     "stem": "What is the mean of 3, 5, 7, 9, 11, 13?",
+     "options": [
+      "8",
+      "7",
+      "9",
+      "6"
+     ],
+     "ans": 0,
+     "exp": "3 + 5 + 7 + 9 + 11 + 13 = 48, and 48 ÷ 6 = 8.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "3-4",
+     "type": "mcq",
+     "topic": "Statistics & Data",
+     "stem": "What is the median of 4, 10, 6, 2, 8, 12?",
+     "options": [
+      "7",
+      "6",
+      "8",
+      "10"
+     ],
+     "ans": 0,
+     "exp": "In order: 2, 4, 6, 8, 10, 12. The two middle numbers are 6 and 8, so the median is (6 + 8) ÷ 2 = 7.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "3-5",
+     "type": "mcq",
+     "topic": "Statistics & Data",
+     "stem": "For the data 2, 3, 3, 5, 9, 9, 9, 12, which statement is correct?",
+     "options": [
+      "Mode = 9, median = 7, mean = 6.5",
+      "Mode = 3, median = 5, mean = 6.5",
+      "Mode = 9, median = 5, mean = 7",
+      "Mode = 9, median = 7, mean = 7"
+     ],
+     "ans": 0,
+     "exp": "9 appears most (mode). Middle two are 5 and 9, so the median is 7. Sum is 52, and 52 ÷ 8 = 6.5.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "3-6",
+     "type": "mcq",
+     "topic": "Statistics & Data",
+     "stem": "Scores: 55, 70, 70, 85, 100. What is the range?",
+     "options": [
+      "45",
+      "70",
+      "76",
+      "100"
+     ],
+     "ans": 0,
+     "exp": "100 − 55 = 45. (70 is the mode and median; 76 is the mean.)",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "3-7",
+     "type": "mcq",
+     "topic": "Statistics & Data",
+     "stem": "Which of the following best explains why standard deviation is a more useful measure of variation than the range?",
+     "options": [
+      "It shows how much all the scores vary around the mean, not just the gap between the two extremes.",
+      "It is easier to calculate.",
+      "It shows the most common score.",
+      "It is always smaller than the mean."
+     ],
+     "ans": 0,
+     "exp": "The range only uses the highest and lowest scores, so it's just a rough estimate.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "3-8",
+     "type": "mcq",
+     "topic": "Statistics & Data",
+     "stem": "Class A and Class B both averaged 80 on a test. Class A's standard deviation is 3; Class B's is 15. Which statement is true?",
+     "options": [
+      "Class B's scores are more spread out.",
+      "Class A's scores are more spread out.",
+      "Class B scored higher on average.",
+      "Both classes have the same spread."
+     ],
+     "ans": 0,
+     "exp": "A bigger standard deviation means scores are more dispersed around the mean.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "3-9",
+     "type": "mcq",
+     "topic": "Statistics & Data",
+     "stem": "IQ scores have a mean of 100 and a standard deviation of 15. About what percent of people score between 85 and 115?",
+     "options": [
+      "68%",
+      "95%",
+      "50%",
+      "99%"
+     ],
+     "ans": 0,
+     "exp": "85–115 is within 1 standard deviation of the mean: about 68%.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "3-10",
+     "type": "mcq",
+     "topic": "Statistics & Data",
+     "stem": "On the same IQ scale, about 95% of people score between:",
+     "options": [
+      "70 and 130",
+      "85 and 115",
+      "55 and 145",
+      "100 and 130"
+     ],
+     "ans": 0,
+     "exp": "Within 2 standard deviations (2 × 15 = 30 points) of 100.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "3-11",
+     "type": "mcq",
+     "topic": "Statistics & Data",
+     "stem": "A billionaire moves into a small town where most families earn very little. Which measure best describes a typical family's income?",
+     "options": [
+      "Median",
+      "Mean",
+      "Range",
+      "Standard deviation"
+     ],
+     "ans": 0,
+     "exp": "The outlier pulls the mean way up. Your slides say the median and mode give a fuller picture.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "3-12",
+     "type": "mcq",
+     "topic": "Statistics & Data",
+     "stem": "Which statement is true of a positively skewed distribution?",
+     "options": [
+      "Mean > median > mode",
+      "Mean < median < mode",
+      "Mean = median = mode",
+      "The tail goes to the left"
+     ],
+     "ans": 0,
+     "exp": "Positive skew: tail to the right, and the mean follows the tail.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "3-13",
+     "type": "mcq",
+     "topic": "Statistics & Data",
+     "stem": "In a negatively skewed distribution, the tail points:",
+     "options": [
+      "Left, and the mean is pulled left",
+      "Right, and the mean is pulled right",
+      "Left, and the mode is pulled left",
+      "Nowhere, because it's symmetrical"
+     ],
+     "ans": 0,
+     "exp": "Negative skew = tail to the left. The mean always follows the tail.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "3-14",
+     "type": "mcq",
+     "topic": "Statistics & Data",
+     "stem": "Most families in a town earn $20,000–$50,000, but a few earn millions. How is income in this town distributed?",
+     "options": [
+      "Positively skewed",
+      "Negatively skewed",
+      "Symmetrical",
+      "Bimodal"
+     ],
+     "ans": 0,
+     "exp": "A few very high values make a tail to the right: positive skew.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "3-15",
+     "type": "mcq",
+     "topic": "Statistics & Data",
+     "stem": "A graph of the heights of a group of kindergartners and their parents has two clear peaks. This is a:",
+     "options": [
+      "Bimodal distribution",
+      "Positive skew",
+      "Negative skew",
+      "Normal curve"
+     ],
+     "ans": 0,
+     "exp": "\"Bi\" means two: two peaks = bimodal.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "3-16",
+     "type": "mcq",
+     "topic": "Statistics & Data",
+     "stem": "Which statement best describes inferential statistics?",
+     "options": [
+      "They help determine whether results can be generalized to a larger population.",
+      "They organize data into histograms.",
+      "They find the middle score.",
+      "They measure how spread out scores are."
+     ],
+     "ans": 0,
+     "exp": "Inferential statistics check that results aren't just chance fluctuations in the sample.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "3-17",
+     "type": "mcq",
+     "topic": "Statistics & Data",
+     "stem": "Which is one of the three key principles of inferential statistics on your slides?",
+     "options": [
+      "Bigger samples are better than small ones.",
+      "Fewer estimates are better than more estimates.",
+      "Unrepresentative samples are better than representative ones.",
+      "One study is enough to generalize."
+     ],
+     "ans": 0,
+     "exp": "The three: representative samples, bigger samples, and more estimates are better.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "3-18",
+     "type": "mcq",
+     "topic": "Statistics & Data",
+     "stem": "Why is meta-analysis useful?",
+     "options": [
+      "It combines the estimates of many studies instead of relying on just one.",
+      "It studies one person in depth.",
+      "It removes the need for a sample.",
+      "It guarantees that results are significant."
+     ],
+     "ans": 0,
+     "exp": "More estimates are better than fewer estimates.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "3-19",
+     "type": "mcq",
+     "topic": "Statistics & Data",
+     "stem": "Alex asks two friends about each café and decides Café Mocha is better. Which of the following best explains why her conclusion isn't reliable?",
+     "options": [
+      "Her sample is small and unrepresentative.",
+      "Her p-value is too small.",
+      "She used a control group.",
+      "Her effect size is too large."
+     ],
+     "ans": 0,
+     "exp": "Your slide names both problems: unrepresentative samples and small sample size.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "3-20",
+     "type": "mcq",
+     "topic": "Statistics & Data",
+     "stem": "A study reports p = .20. Which conclusion is correct?",
+     "options": [
+      "The result is not statistically significant; it could easily be due to chance.",
+      "The result is significant because .20 is small.",
+      "The effect size is 20 points.",
+      "20% of participants improved."
+     ],
+     "ans": 0,
+     "exp": "Significant means p ≤ .05. .20 is too high.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "3-21",
+     "type": "mcq",
+     "topic": "Statistics & Data",
+     "stem": "Which statement about p-values and effect size is correct?",
+     "options": [
+      "A p-value tells whether an effect likely exists; effect size tells how strong it is.",
+      "They mean the same thing.",
+      "Effect size tells whether a result is due to chance.",
+      "A larger p-value means a stronger effect."
+     ],
+     "ans": 0,
+     "exp": "Your slides: unlike p-values, effect size tells how strong the effect is.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "3-22",
+     "type": "mcq",
+     "topic": "Statistics & Data",
+     "stem": "Students using a new study technique averaged 85; students studying as usual averaged 75. According to your slides, the 10-point difference is the:",
+     "options": [
+      "Effect size",
+      "P-value",
+      "Range",
+      "Percentile rank"
+     ],
+     "ans": 0,
+     "exp": "Effect size shows the practical importance of the result: 85 − 75 = 10.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "3-23",
+     "type": "mcq",
+     "topic": "Statistics & Data",
+     "stem": "Ty is in the 70th percentile on a psychology test. This means:",
+     "options": [
+      "He scored higher than 70% of his peers.",
+      "He got 70% of the questions right.",
+      "He scored 70 points.",
+      "70% of students scored higher than him."
+     ],
+     "ans": 0,
+     "exp": "Percentile rank = the percentage of scores below yours.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Mock exam",
+   "mode": "exam",
+   "exam": "Mock exam",
+   "examTips": [
+    "Turn the Timer on and answer every question without looking anything up.",
+    "Aim for about one minute per question. Flag hard ones and come back."
+   ],
+   "tips": [
+    "A mix of exam-style questions from every deck in this unit."
+   ],
+   "questions": [
+    {
+     "id": "M1",
+     "type": "mcq",
+     "topic": "Perspectives in Psychology",
+     "stem": "Antonio is feeling much healthier now that he is focusing on his positive traits and having good relationships. Which perspective fits best?",
+     "options": [
+      "Humanistic",
+      "Biological",
+      "Psychodynamic",
+      "Behavioral"
+     ],
+     "ans": 0,
+     "exp": "Positivity, relationships, and well-being are humanistic.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "M2",
+     "type": "mcq",
+     "topic": "Perspectives in Psychology",
+     "stem": "Which perspective is based heavily on the ideas of Freud?",
+     "options": [
+      "Psychodynamic",
+      "Humanistic",
+      "Cognitive",
+      "Sociocultural"
+     ],
+     "ans": 0,
+     "exp": "Psychodynamic: the unconscious mind and childhood experiences.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "M3",
+     "type": "mcq",
+     "topic": "Perspectives in Psychology",
+     "stem": "Which perspective focuses on genetics, brain chemistry, hormones, and neurotransmitters?",
+     "options": [
+      "Biological",
+      "Evolutionary",
+      "Cognitive",
+      "Behavioral"
+     ],
+     "ans": 0,
+     "exp": "That's the biological perspective. Evolutionary is about survival and reproduction.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "M4",
+     "type": "mcq",
+     "topic": "Perspectives in Psychology",
+     "stem": "Which perspective emphasizes memory, problem solving, intelligence, and perception?",
+     "options": [
+      "Cognitive",
+      "Behavioral",
+      "Humanistic",
+      "Psychodynamic"
+     ],
+     "ans": 0,
+     "exp": "Cognitive = internal thought processes.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "M5",
+     "type": "mcq",
+     "topic": "Perspectives in Psychology",
+     "stem": "Which of the following best describes the behavioral perspective?",
+     "options": [
+      "Behavior is shaped by learned experiences, and rewarded behaviors tend to be repeated.",
+      "Behavior comes from the unconscious mind.",
+      "Behavior is mostly determined by genes.",
+      "Behavior depends on a person's culture."
+     ],
+     "ans": 0,
+     "exp": "Behavioral = learning and rewards.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "M6",
+     "type": "mcq",
+     "topic": "Perspectives in Psychology",
+     "stem": "Which of the following best describes the evolutionary perspective?",
+     "options": [
+      "Behaviors exist because they helped our ancestors survive and reproduce.",
+      "Behavior is shaped by childhood memories.",
+      "Behavior is shaped by social norms.",
+      "Behavior depends on how we think about situations."
+     ],
+     "ans": 0,
+     "exp": "Evolutionary = protection, adaptive behavior, and reproduction.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "M7",
+     "type": "mcq",
+     "topic": "Perspectives in Psychology",
+     "stem": "Charles has a terrible fear of spiders. Which explanation fits the evolutionary perspective?",
+     "options": [
+      "Fearing spiders helped his ancestors avoid dangerous bites and survive.",
+      "A frightening spider experience from early childhood is affecting him unconsciously.",
+      "His thoughts about spiders are exaggerated and unrealistic.",
+      "In his culture, spiders are treated as scary and disgusting."
+     ],
+     "ans": 0,
+     "exp": "Survival advantage for ancestors = evolutionary. The others are psychodynamic, cognitive, and sociocultural.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "M8",
+     "type": "mcq",
+     "topic": "Perspectives in Psychology",
+     "stem": "Charles has a terrible fear of spiders. Which explanation fits the psychodynamic perspective?",
+     "options": [
+      "A frightening spider experience from early childhood is affecting him unconsciously.",
+      "Fearing spiders helped his ancestors survive.",
+      "His brain chemistry makes him more anxious.",
+      "People around him taught him spiders are gross."
+     ],
+     "ans": 0,
+     "exp": "Unconscious mind + childhood = psychodynamic.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "M9",
+     "type": "mcq",
+     "topic": "Perspectives in Psychology",
+     "stem": "Charles has a terrible fear of spiders. Which explanation fits the cognitive perspective?",
+     "options": [
+      "He believes every spider he sees could kill him, and those thoughts drive his fear.",
+      "He inherited a gene linked to anxiety.",
+      "In his culture, spiders are seen as dangerous.",
+      "He has an unconscious memory of being bitten."
+     ],
+     "ans": 0,
+     "exp": "Cognitive = how thought processes shape behavior.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "M10",
+     "type": "mcq",
+     "topic": "Perspectives in Psychology",
+     "stem": "Charles has a terrible fear of spiders. Which explanation fits the sociocultural perspective?",
+     "options": [
+      "In his culture, spiders are commonly treated as scary and disgusting.",
+      "Fearing spiders helped his ancestors survive.",
+      "His neurotransmitter levels are unusual.",
+      "He focuses on his potential to overcome fear."
+     ],
+     "ans": 0,
+     "exp": "Culture or way of life = sociocultural.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "M11",
+     "type": "mcq",
+     "topic": "Research Methods",
+     "stem": "Which of the following best explains why psychologists rely on research instead of intuition?",
+     "options": [
+      "Intuition is distorted by hindsight bias, overconfidence, and misunderstanding of probability.",
+      "Intuition is always wrong.",
+      "Research never contains errors.",
+      "Intuition only works for experts."
+     ],
+     "ans": 0,
+     "exp": "Your slides: psychology exists because intuition is unreliable, due to hindsight bias, misunderstanding of probability, and overconfidence.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "M12",
+     "type": "mcq",
+     "topic": "Research Methods",
+     "stem": "Which of the following is the correct order of the first four steps of the scientific method?",
+     "options": [
+      "Observe → develop a theory → make a hypothesis → test it",
+      "Make a hypothesis → observe → replicate → develop a theory",
+      "Test → observe → develop a theory → evaluate",
+      "Develop a theory → replicate → observe → make a hypothesis"
+     ],
+     "ans": 0,
+     "exp": "Observe, theory, hypothesis, test, evaluate, modify, replicate.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "M13",
+     "type": "mcq",
+     "topic": "Research Methods",
+     "stem": "A researcher decides that \"smiling\" means at least four teeth showing and \"friendly\" means the photographer tells at least two jokes. These are:",
+     "options": [
+      "Operational definitions",
+      "Hypotheses",
+      "Confounding variables",
+      "Theories"
+     ],
+     "ans": 0,
+     "exp": "Operational definitions state exactly how each variable will be measured.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "M14",
+     "type": "mcq",
+     "topic": "Research Methods",
+     "stem": "Which of the following best explains why operational definitions are important?",
+     "options": [
+      "Without them, other researchers can't replicate the study.",
+      "They guarantee the hypothesis will be supported.",
+      "They replace the need for a control group.",
+      "They make the sample representative."
+     ],
+     "ans": 0,
+     "exp": "Your slides: research cannot be replicated without operational definitions.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "M15",
+     "type": "mcq",
+     "topic": "Research Methods",
+     "stem": "A researcher repeats another scientist's study with new participants to see whether the results hold up. This is:",
+     "options": [
+      "Replication",
+      "Debriefing",
+      "Sampling bias",
+      "Naturalistic observation"
+     ],
+     "ans": 0,
+     "exp": "Replicating means doing the research a second time to check that the results are reliable.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "M16",
+     "type": "mcq",
+     "topic": "Research Methods",
+     "stem": "Which research method is the only one that can establish cause and effect?",
+     "options": [
+      "Experiment",
+      "Correlational study",
+      "Case study",
+      "Survey"
+     ],
+     "ans": 0,
+     "exp": "Experiments manipulate variables to establish cause and effect.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "M17",
+     "type": "mcq",
+     "topic": "Research Methods",
+     "stem": "A psychologist spends two years studying one patient with a rare memory disorder in great detail. Which of the following is the biggest weakness of this method?",
+     "options": [
+      "The findings may not apply to others, because the patient may be atypical.",
+      "It gives too little in-depth information.",
+      "It cannot describe behavior.",
+      "It always involves deception."
+     ],
+     "ans": 0,
+     "exp": "Case studies can be misleading if the person is atypical, and can lead to overgeneralizing.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "M18",
+     "type": "mcq",
+     "topic": "Research Methods",
+     "stem": "A researcher wants to know how 2,000 teens feel about social media and needs results quickly. Which method fits best?",
+     "options": [
+      "Survey",
+      "Case study",
+      "Naturalistic observation",
+      "Experiment"
+     ],
+     "ans": 0,
+     "exp": "Surveys collect a lot of self-reported data in a short time.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "M19",
+     "type": "mcq",
+     "topic": "Research Methods",
+     "stem": "Which of the following is a disadvantage of naturalistic observation?",
+     "options": [
+      "Subjects may notice the observer and act differently.",
+      "Subjects behave less honestly than in a lab.",
+      "It requires manipulating variables.",
+      "It only studies one person."
+     ],
+     "ans": 0,
+     "exp": "It's non-invasive, but subjects may become aware of the observer, and it can be time consuming.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "M20",
+     "type": "mcq",
+     "topic": "Research Methods",
+     "stem": "As hours of sleep decrease, levels of stress increase. Which type of correlation is this?",
+     "options": [
+      "Negative",
+      "Positive",
+      "Zero",
+      "Perfect positive"
+     ],
+     "ans": 0,
+     "exp": "One goes down while the other goes up: negative.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "M21",
+     "type": "mcq",
+     "topic": "Statistics & Data",
+     "stem": "Which of the following best describes the purpose of descriptive statistics?",
+     "options": [
+      "To organize and summarize data meaningfully",
+      "To decide whether results apply to a whole population",
+      "To manipulate variables",
+      "To prove cause and effect"
+     ],
+     "ans": 0,
+     "exp": "Descriptive statistics organize data. Deciding whether results generalize is inferential statistics.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "M22",
+     "type": "mcq",
+     "topic": "Statistics & Data",
+     "stem": "Which type of graph is a bar graph that shows a frequency distribution?",
+     "options": [
+      "Histogram",
+      "Scatterplot",
+      "Pie chart",
+      "Line graph"
+     ],
+     "ans": 0,
+     "exp": "Histograms show frequency distributions and make patterns quick to spot.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "M23",
+     "type": "mcq",
+     "topic": "Statistics & Data",
+     "stem": "What is the mean of 3, 5, 7, 9, 11, 13?",
+     "options": [
+      "8",
+      "7",
+      "9",
+      "6"
+     ],
+     "ans": 0,
+     "exp": "3 + 5 + 7 + 9 + 11 + 13 = 48, and 48 ÷ 6 = 8.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "M24",
+     "type": "mcq",
+     "topic": "Statistics & Data",
+     "stem": "What is the median of 4, 10, 6, 2, 8, 12?",
+     "options": [
+      "7",
+      "6",
+      "8",
+      "10"
+     ],
+     "ans": 0,
+     "exp": "In order: 2, 4, 6, 8, 10, 12. The two middle numbers are 6 and 8, so the median is (6 + 8) ÷ 2 = 7.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "M25",
+     "type": "mcq",
+     "topic": "Statistics & Data",
+     "stem": "For the data 2, 3, 3, 5, 9, 9, 9, 12, which statement is correct?",
+     "options": [
+      "Mode = 9, median = 7, mean = 6.5",
+      "Mode = 3, median = 5, mean = 6.5",
+      "Mode = 9, median = 5, mean = 7",
+      "Mode = 9, median = 7, mean = 7"
+     ],
+     "ans": 0,
+     "exp": "9 appears most (mode). Middle two are 5 and 9, so the median is 7. Sum is 52, and 52 ÷ 8 = 6.5.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "M26",
+     "type": "mcq",
+     "topic": "Statistics & Data",
+     "stem": "Scores: 55, 70, 70, 85, 100. What is the range?",
+     "options": [
+      "45",
+      "70",
+      "76",
+      "100"
+     ],
+     "ans": 0,
+     "exp": "100 − 55 = 45. (70 is the mode and median; 76 is the mean.)",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "M27",
+     "type": "mcq",
+     "topic": "Statistics & Data",
+     "stem": "Which of the following best explains why standard deviation is a more useful measure of variation than the range?",
+     "options": [
+      "It shows how much all the scores vary around the mean, not just the gap between the two extremes.",
+      "It is easier to calculate.",
+      "It shows the most common score.",
+      "It is always smaller than the mean."
+     ],
+     "ans": 0,
+     "exp": "The range only uses the highest and lowest scores, so it's just a rough estimate.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "M28",
+     "type": "mcq",
+     "topic": "Statistics & Data",
+     "stem": "Class A and Class B both averaged 80 on a test. Class A's standard deviation is 3; Class B's is 15. Which statement is true?",
+     "options": [
+      "Class B's scores are more spread out.",
+      "Class A's scores are more spread out.",
+      "Class B scored higher on average.",
+      "Both classes have the same spread."
+     ],
+     "ans": 0,
+     "exp": "A bigger standard deviation means scores are more dispersed around the mean.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "M29",
+     "type": "mcq",
+     "topic": "Statistics & Data",
+     "stem": "IQ scores have a mean of 100 and a standard deviation of 15. About what percent of people score between 85 and 115?",
+     "options": [
+      "68%",
+      "95%",
+      "50%",
+      "99%"
+     ],
+     "ans": 0,
+     "exp": "85–115 is within 1 standard deviation of the mean: about 68%.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "M30",
+     "type": "mcq",
+     "topic": "Statistics & Data",
+     "stem": "On the same IQ scale, about 95% of people score between:",
+     "options": [
+      "70 and 130",
+      "85 and 115",
+      "55 and 145",
+      "100 and 130"
+     ],
+     "ans": 0,
+     "exp": "Within 2 standard deviations (2 × 15 = 30 points) of 100.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    }
+   ]
+  }
+ ]
+}

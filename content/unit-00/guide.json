@@ -1,0 +1,184 @@
+{
+ "flows": [
+  {
+   "id": "F2-1",
+   "title": "The scientific method",
+   "deck": 2,
+   "steps": [
+    "Observe",
+    "Develop a theory",
+    "Make a hypothesis",
+    "Test it (with operational definitions)",
+    "Evaluate the results",
+    "Modify the theory",
+    "Replicate"
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "title": "Descriptive methods",
+   "rows": [
+    [
+     "Method",
+     "What it is",
+     "Advantages",
+     "Disadvantages"
+    ],
+    [
+     "Case study",
+     "One individual or group in depth",
+     "In-depth information; illustrates general principles",
+     "Misleading if the person is atypical; can overgeneralize"
+    ],
+    [
+     "Naturalistic observation",
+     "Recording behavior in natural situations without controlling them",
+     "Non-invasive; more honest behavior",
+     "Time consuming; subjects may notice the observer; observer may misinterpret"
+    ],
+    [
+     "Survey",
+     "Self-reported attitudes and behaviors from a sample",
+     "Lots of data fast; flexible",
+     "Wording can skew answers; people please the researcher, lie, or misremember; poor response rate"
+    ]
+   ]
+  },
+  {
+   "title": "Experiments",
+   "rows": [
+    [
+     "Research question",
+     "IV (changed)",
+     "DV (measured)"
+    ],
+    [
+     "Does sleep deprivation cause poor memory?",
+     "Amount of sleep",
+     "Strength of memory"
+    ],
+    [
+     "Does room temperature affect test scores?",
+     "Temperature",
+     "Test scores"
+    ],
+    [
+     "How does exercise affect weight loss?",
+     "Amount of exercise",
+     "Weight loss (confounds: diet, sleep, genetics)"
+    ],
+    [
+     "Do antidepressants decrease depression?",
+     "Taking the medication or not",
+     "Depression"
+    ]
+   ]
+  },
+  {
+   "title": "The seven perspectives",
+   "rows": [
+    [
+     "Perspective",
+     "Focuses on",
+     "Practice scenario from your slides"
+    ],
+    [
+     "Psychodynamic",
+     "Unconscious mind, childhood, Freud",
+     "Juliette's anxiety comes from her poor relationship with her father as a child"
+    ],
+    [
+     "Cognitive",
+     "Thought processes: memory, problem solving, intelligence, perception",
+     "Jason's therapist helps him change how he thinks about work"
+    ],
+    [
+     "Behavioral",
+     "Learned experiences and rewards",
+     "Mr. Epstein gives candy for doing homework"
+    ],
+    [
+     "Humanistic",
+     "Full potential, free will, positivity, relationships",
+     "Alex focuses on positive relationships and his future potential"
+    ],
+    [
+     "Biological",
+     "Genes, brain chemistry, hormones, neurotransmitters",
+     "Rosa's schizophrenia from too much dopamine; Carl's antidepressants"
+    ],
+    [
+     "Evolutionary",
+     "Survival, adaptive behavior, reproduction",
+     "Jason's fear of snakes is an instinct his ancestors also had"
+    ],
+    [
+     "Sociocultural",
+     "Culture or way of life",
+     "Heather wears skirts because that's the norm where she lives"
+    ]
+   ]
+  },
+  {
+   "title": "Central tendency",
+   "rows": [
+    [
+     "Measure",
+     "How to find it",
+     "Example from your slides"
+    ],
+    [
+     "Mean",
+     "Add them up, divide by how many",
+     "2, 3, 4, 5, 5, 8 → 4.5"
+    ],
+    [
+     "Median",
+     "Put in order, take the middle (average the two middle numbers if needed)",
+     "2, 4, 5, 6, 9 → 5"
+    ],
+    [
+     "Mode",
+     "The most frequent number",
+     "1, 3, 6, 6, 8 → 6"
+    ],
+    [
+     "Percentile rank",
+     "% of scores below yours",
+     "85th percentile = higher than 85% of peers"
+    ]
+   ]
+  },
+  {
+   "title": "Skewed data",
+   "rows": [
+    [
+     "Shape",
+     "Tail",
+     "Order"
+    ],
+    [
+     "Positive skew",
+     "Right",
+     "Mean > median > mode"
+    ],
+    [
+     "Negative skew",
+     "Left",
+     "Mean < median < mode"
+    ],
+    [
+     "Symmetrical",
+     "None",
+     "Mean = median = mode"
+    ],
+    [
+     "Bimodal",
+     "Two peaks",
+     "Each peak is a local maximum"
+    ]
+   ]
+  }
+ ]
+}

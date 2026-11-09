@@ -1,0 +1,1934 @@
+{
+ "Psychological perspectives": [
+  {
+   "q": "Two psychologists explain the same panic attack differently: one points to brain chemistry, the other to childhood memories. What does this show?",
+   "right": "The same behavior can be viewed through different lenses",
+   "wrong": [
+    [
+     "One of the two psychologists must be wrong",
+     "Perspectives are different lenses, not right and wrong answers."
+    ],
+    [
+     "Panic attacks can only be explained by brain chemistry",
+     "Several perspectives can explain the same behavior."
+    ],
+    [
+     "Psychology has no agreed-upon methods for studying behavior",
+     "Perspectives are approaches to explaining behavior, not a lack of method."
+    ]
+   ],
+   "exp": "Perspectives are like different pairs of glasses for looking at one behavior."
+  }
+ ],
+ "The 7 perspectives": [
+  {
+   "q": "A student lists the perspectives for a quiz. Which one does NOT belong on the list?",
+   "right": "Astrological",
+   "wrong": [
+    [
+     "Evolutionary",
+     "Evolutionary is one of the 7."
+    ],
+    [
+     "Sociocultural",
+     "Sociocultural is one of the 7."
+    ],
+    [
+     "Psychodynamic",
+     "Psychodynamic is one of the 7."
+    ]
+   ],
+   "exp": "The 7: psychodynamic, cognitive, behavioral, humanistic, biological, evolutionary, sociocultural."
+  }
+ ],
+ "Psychodynamic perspective": [
+  {
+   "q": "A therapist says Tom's fear of commitment comes from feelings about his parents' divorce that he isn't aware of. Which perspective is this?",
+   "right": "Psychodynamic",
+   "wrong": [
+    [
+     "Behavioral",
+     "Behavioral looks at rewards and learning, not unconscious feelings."
+    ],
+    [
+     "Cognitive",
+     "Cognitive looks at conscious thought processes like memory and problem solving."
+    ],
+    [
+     "Sociocultural",
+     "Sociocultural looks at culture, not unconscious feelings."
+    ]
+   ],
+   "exp": "Unconscious mind + childhood experiences = psychodynamic (Freud)."
+  }
+ ],
+ "Cognitive perspective": [
+  {
+   "q": "A psychologist studies how students' ways of organizing information affect how well they solve math problems. Which perspective is she using?",
+   "right": "Cognitive",
+   "wrong": [
+    [
+     "Humanistic",
+     "Humanistic focuses on potential and free will."
+    ],
+    [
+     "Biological",
+     "Biological focuses on genes, hormones and brain chemistry."
+    ],
+    [
+     "Sociocultural",
+     "Sociocultural focuses on culture and social influences."
+    ]
+   ],
+   "exp": "Thinking, memory and problem solving = cognitive."
+  }
+ ],
+ "Behavioral perspective": [
+  {
+   "q": "A child keeps cleaning her room because her parents give her a sticker each time. Which perspective best explains this?",
+   "right": "Behavioral",
+   "wrong": [
+    [
+     "Psychodynamic",
+     "There is no unconscious conflict here, just a reward."
+    ],
+    [
+     "Evolutionary",
+     "Stickers have nothing to do with ancestral survival."
+    ],
+    [
+     "Cognitive",
+     "The explanation is the reward, not her thought processes."
+    ]
+   ],
+   "exp": "Behaviors that are reinforced by rewards get repeated."
+  }
+ ],
+ "Humanistic perspective": [
+  {
+   "q": "A counselor helps a client set goals so he can become the best version of himself, stressing that he is free to choose his path. Which perspective is this?",
+   "right": "Humanistic",
+   "wrong": [
+    [
+     "Behavioral",
+     "Behavioral focuses on rewards, not free will and potential."
+    ],
+    [
+     "Biological",
+     "Nothing here involves the body or brain chemistry."
+    ],
+    [
+     "Psychodynamic",
+     "Nothing here involves the unconscious or childhood."
+    ]
+   ],
+   "exp": "Full potential, free will and self-actualization = humanistic."
+  }
+ ],
+ "Biological perspective": [
+  {
+   "q": "A researcher explains a teen's mood swings by changes in hormones and serotonin levels. Which perspective is this?",
+   "right": "Biological",
+   "wrong": [
+    [
+     "Sociocultural",
+     "That would focus on culture, not body chemistry."
+    ],
+    [
+     "Humanistic",
+     "That would focus on potential and free will."
+    ],
+    [
+     "Cognitive",
+     "That would focus on thought processes."
+    ]
+   ],
+   "exp": "Genes, hormones and neurotransmitters = biological."
+  }
+ ],
+ "Evolutionary perspective": [
+  {
+   "q": "Why do people fear snakes more than cars, even though cars kill far more people? Which perspective would say fearing snakes protected our ancestors?",
+   "right": "Evolutionary",
+   "wrong": [
+    [
+     "Behavioral",
+     "Behavioral would point to learned rewards and punishments."
+    ],
+    [
+     "Psychodynamic",
+     "Psychodynamic would point to unconscious conflicts."
+    ],
+    [
+     "Humanistic",
+     "Humanistic would point to growth and potential."
+    ]
+   ],
+   "exp": "Behaviors that helped ancestors survive and reproduce = evolutionary."
+  }
+ ],
+ "Sociocultural perspective": [
+  {
+   "q": "In one country people greet with a bow, in another with a handshake. Which perspective best explains the difference?",
+   "right": "Sociocultural",
+   "wrong": [
+    [
+     "Biological",
+     "Greeting styles come from culture, not genes."
+    ],
+    [
+     "Evolutionary",
+     "These customs differ by culture, not by ancestral survival needs."
+    ],
+    [
+     "Psychodynamic",
+     "Greeting customs come from culture, not unconscious conflicts."
+    ]
+   ],
+   "exp": "Culture and way of life shape behavior."
+  }
+ ],
+ "Applying a perspective": [
+  {
+   "q": "A test asks you to explain why someone overeats using two perspectives. What is the best approach?",
+   "right": "Explain it with what each perspective focuses on",
+   "wrong": [
+    [
+     "Pick the one correct perspective and ignore the rest",
+     "The same behavior can be explained by more than one perspective."
+    ],
+    [
+     "Describe the behavior in detail without any theory",
+     "Applying means explaining it through a perspective's focus."
+    ],
+    [
+     "Name the perspectives without connecting them to the behavior",
+     "You must tie each perspective's focus to the behavior."
+    ]
+   ],
+   "exp": "Apply a perspective by using its focus (rewards, genes, culture, etc.) to explain the behavior."
+  }
+ ],
+ "Slide example: Suzanne": [
+  {
+   "q": "Suzanne loves romantic comedies. Which explanation uses the same perspective as your slide's example?",
+   "right": "Her friends all watch them, so it's what her group does together",
+   "wrong": [
+    [
+     "Watching them releases dopamine and serotonin in her brain's reward system",
+     "That is a biological explanation."
+    ],
+    [
+     "She was rewarded with praise the first time she chose one",
+     "That is a behavioral explanation."
+    ],
+    [
+     "They remind her of unresolved feelings from her childhood",
+     "That is a psychodynamic explanation."
+    ]
+   ],
+   "exp": "The slide's explanation is sociocultural: her culture and friends make romantic movies popular and social."
+  }
+ ],
+ "Perspective keywords": [
+  {
+   "q": "A test question mentions \"ancestors\" and \"reproduction.\" Which perspective is it most likely pointing to?",
+   "right": "Evolutionary",
+   "wrong": [
+    [
+     "Sociocultural",
+     "Its keywords are culture and social norms."
+    ],
+    [
+     "Humanistic",
+     "Its keywords are potential, free will and positivity."
+    ],
+    [
+     "Cognitive",
+     "Its keywords are thoughts, memory and problem solving."
+    ]
+   ],
+   "exp": "Ancestors, survival, reproduction → evolutionary."
+  }
+ ],
+ "Intuition": [
+  {
+   "q": "A coach picks players based on a gut feeling instead of their stats. Why would a psychologist distrust this?",
+   "right": "Understanding without reasoning is often wrong",
+   "wrong": [
+    [
+     "Gut feelings are always based on careful research",
+     "Intuition is understanding without conscious reasoning."
+    ],
+    [
+     "Coaches are not allowed to use statistics",
+     "Nothing stops them; the issue is relying on intuition."
+    ],
+    [
+     "Intuition can only be used by trained psychologists",
+     "Anyone can use it; it just isn't reliable."
+    ]
+   ],
+   "exp": "We can't rely on intuition, which is why psychology uses research."
+  }
+ ],
+ "Why intuition fails": [
+  {
+   "q": "Which set of problems does your class say makes intuition unreliable?",
+   "right": "Hindsight bias, misjudging chance, overconfidence",
+   "wrong": [
+    [
+     "Placebo effect, Hawthorne effect and Barnum effect",
+     "Those are problems with research studies."
+    ],
+    [
+     "Case studies, surveys and naturalistic observation",
+     "Those are descriptive research methods."
+    ],
+    [
+     "Mean, median and mode",
+     "Those are measures of central tendency."
+    ]
+   ],
+   "exp": "HMO: Hindsight, Misunderstanding probability, Overconfidence."
+  }
+ ],
+ "Hindsight bias": [
+  {
+   "q": "After the election, Jordan says, \"I always knew she would win,\" though he predicted the opposite. What is this?",
+   "right": "Hindsight bias",
+   "wrong": [
+    [
+     "Overconfidence",
+     "Overconfidence is overestimating your knowledge before the fact."
+    ],
+    [
+     "Gambler's fallacy",
+     "That is seeing patterns in random data."
+    ],
+    [
+     "Barnum effect",
+     "That is believing general descriptions apply specifically to you."
+    ]
+   ],
+   "exp": "\"I knew it all along!\" after learning the outcome."
+  }
+ ],
+ "Overconfidence": [
+  {
+   "q": "Maya is sure she aced the test and doesn't check her answers, but she scores a 62. What best explains her certainty?",
+   "right": "Overconfidence",
+   "wrong": [
+    [
+     "Hindsight bias",
+     "Hindsight bias happens after the outcome is known."
+    ],
+    [
+     "The placebo effect",
+     "That is a result caused by expectations in an experiment."
+    ],
+    [
+     "Social desirability bias",
+     "That is answering to look good to others."
+    ]
+   ],
+   "exp": "Overestimating your knowledge or ability."
+  }
+ ],
+ "Misunderstanding of probability": [
+  {
+   "q": "After five coin flips land heads, Sam is sure the next one must be tails. What weakness of intuition does this show?",
+   "right": "Misunderstanding probability",
+   "wrong": [
+    [
+     "Hindsight bias",
+     "Hindsight bias is about claiming you knew an outcome after it happened."
+    ],
+    [
+     "Being watched (the Hawthorne effect)",
+     "That is changing behavior because you are watched."
+    ],
+    [
+     "Operational definitions",
+     "Those are exact ways to measure variables."
+    ]
+   ],
+   "exp": "Each flip is still 50/50; people are bad at judging chance."
+  }
+ ],
+ "The scientific method (7 steps)": [
+  {
+   "q": "A researcher has just tested her predictions and evaluated the results. What should she do next?",
+   "right": "Modify the theory based on her findings",
+   "wrong": [
+    [
+     "Develop a theory for the first time",
+     "The theory comes before the hypothesis and testing."
+    ],
+    [
+     "Make her very first observation",
+     "Observing is step 1."
+    ],
+    [
+     "Write the hypothesis before running any test",
+     "The hypothesis comes before testing."
+    ]
+   ],
+   "exp": "Observe, theory, hypothesis, test, evaluate, modify, replicate."
+  }
+ ],
+ "Theory": [
+  {
+   "q": "After noticing that tired students seem to remember less, a researcher proposes a general idea that sleep supports memory. What has she proposed?",
+   "right": "A theory",
+   "wrong": [
+    [
+     "A hypothesis",
+     "A hypothesis is a specific, testable prediction made from a theory."
+    ],
+    [
+     "An operational definition",
+     "That is how a variable will be measured."
+    ],
+    [
+     "A replication",
+     "That is repeating a study."
+    ]
+   ],
+   "exp": "A theory is a general idea that fits what you observed (step 2)."
+  }
+ ],
+ "Hypothesis": [
+  {
+   "q": "\"Students who sleep 8 hours will score higher on tomorrow's memory test than students who sleep 4 hours.\" What is this statement?",
+   "right": "A hypothesis",
+   "wrong": [
+    [
+     "A theory",
+     "A theory is a broad idea; this is a specific prediction."
+    ],
+    [
+     "A debriefing",
+     "A debriefing explains a study after it ends."
+    ],
+    [
+     "A correlation coefficient",
+     "That is a number from -1 to +1."
+    ]
+   ],
+   "exp": "A hypothesis is a testable prediction made from a theory."
+  }
+ ],
+ "Operational definition": [
+  {
+   "q": "A study measures \"aggression\" as the number of times a child hits a doll in 10 minutes. What is this?",
+   "right": "An operational definition",
+   "wrong": [
+    [
+     "A confounding variable in the study",
+     "A confounding variable is an outside influence on the results."
+    ],
+    [
+     "A hypothesis",
+     "A hypothesis is a prediction, not a measurement plan."
+    ],
+    [
+     "A case study",
+     "A case study examines one person or group in depth."
+    ]
+   ],
+   "exp": "It states exactly how the variable is measured."
+  }
+ ],
+ "Why operational definitions matter": [
+  {
+   "q": "Two labs run the \"same\" happiness study but get different results because each measured happiness differently. What was missing?",
+   "right": "A shared operational definition",
+   "wrong": [
+    [
+     "A larger control group of participants",
+     "Group size doesn't fix measuring the variable differently."
+    ],
+    [
+     "Informed consent",
+     "Consent is an ethics rule, not a measurement plan."
+    ],
+    [
+     "A higher p-value",
+     "A p-value doesn't define how to measure a variable."
+    ]
+   ],
+   "exp": "Research can't be replicated without operational definitions."
+  }
+ ],
+ "Replicate": [
+  {
+   "q": "A surprising finding is published. Other researchers run the identical study to see if they get the same result. What are they doing?",
+   "right": "Replicating it",
+   "wrong": [
+    [
+     "Debriefing it",
+     "Debriefing explains a study to participants afterward."
+    ],
+    [
+     "Operationalizing it",
+     "That means defining how variables are measured."
+    ],
+    [
+     "Hypothesizing it",
+     "They are repeating it, not making a prediction."
+    ]
+   ],
+   "exp": "Replication checks that results are reliable (step 7)."
+  }
+ ],
+ "Three types of research": [
+  {
+   "q": "Which list names the three types of research on your slides?",
+   "right": "Descriptive, correlational, experimental",
+   "wrong": [
+    [
+     "Case study, survey, naturalistic observation",
+     "Those are all descriptive methods."
+    ],
+    [
+     "Mean, median, mode",
+     "Those are measures of central tendency."
+    ],
+    [
+     "Population, sample, control group",
+     "Those are parts of an experiment."
+    ]
+   ],
+   "exp": "Descriptive, correlational and experimental."
+  }
+ ],
+ "Descriptive research": [
+  {
+   "q": "A researcher watches and records how children share toys at recess, without changing anything. What type of research is this?",
+   "right": "Descriptive",
+   "wrong": [
+    [
+     "Experimental",
+     "Nothing is manipulated, so it can't be an experiment."
+    ],
+    [
+     "Correlational",
+     "She isn't measuring a relationship between two variables."
+    ],
+    [
+     "Meta-analysis",
+     "That combines the results of many studies."
+    ]
+   ],
+   "exp": "Describing behavior (here by naturalistic observation) is descriptive research."
+  }
+ ],
+ "Correlational research": [
+  {
+   "q": "A study finds that students who use their phones more tend to sleep less. What type of research is this?",
+   "right": "Correlational",
+   "wrong": [
+    [
+     "Experimental",
+     "No variable was manipulated."
+    ],
+    [
+     "Descriptive",
+     "It relates two variables rather than just describing one."
+    ],
+    [
+     "A case study of one student",
+     "It studies many students, not one in depth."
+    ]
+   ],
+   "exp": "It shows a relationship between two variables."
+  }
+ ],
+ "Experimental research": [
+  {
+   "q": "A researcher wants to prove that caffeine CAUSES faster reaction times. Which type of research must she use?",
+   "right": "Experimental",
+   "wrong": [
+    [
+     "Correlational",
+     "Correlation can't show cause and effect."
+    ],
+    [
+     "Descriptive",
+     "Describing behavior can't show cause and effect."
+    ],
+    [
+     "A survey",
+     "Self-reports can't show cause and effect."
+    ]
+   ],
+   "exp": "Only experiments can show cause and effect."
+  }
+ ],
+ "Case study": [
+  {
+   "q": "A psychologist spends two years studying one patient with a rare memory loss. What method is this?",
+   "right": "A case study",
+   "wrong": [
+    [
+     "A survey",
+     "Surveys question a sample of a group."
+    ],
+    [
+     "An experiment",
+     "Nothing is being manipulated."
+    ],
+    [
+     "Naturalistic observation",
+     "That watches behavior in natural settings, usually many people."
+    ]
+   ],
+   "exp": "One individual examined in depth."
+  }
+ ],
+ "Case study: pros and cons": [
+  {
+   "q": "A researcher concludes all people with brain injuries react like the one patient she studied. What weakness of case studies is this?",
+   "right": "Overgeneralizing from one atypical person",
+   "wrong": [
+    [
+     "Collecting too much data in a short time",
+     "That is an advantage of surveys."
+    ],
+    [
+     "Participants acting differently when watched",
+     "That is a problem with observation."
+    ],
+    [
+     "Questions being poorly worded",
+     "That is a problem with surveys."
+    ]
+   ],
+   "exp": "Case studies can mislead if the person is atypical, and results can be overgeneralized."
+  }
+ ],
+ "Naturalistic observation": [
+  {
+   "q": "A researcher sits in a mall food court and records how often people check their phones, without interacting. What method is this?",
+   "right": "Naturalistic observation",
+   "wrong": [
+    [
+     "A survey",
+     "She isn't asking anyone questions."
+    ],
+    [
+     "A controlled laboratory experiment",
+     "She isn't manipulating anything."
+    ],
+    [
+     "A case study",
+     "She is watching many people, not one in depth."
+    ]
+   ],
+   "exp": "Observing behavior in natural settings without controlling it."
+  }
+ ],
+ "Naturalistic observation: pros and cons": [
+  {
+   "q": "During an observation, the shoppers notice the researcher and start acting more politely. What problem is this?",
+   "right": "Subjects acting differently because they notice the observer",
+   "wrong": [
+    [
+     "A poor response rate because too few people send back the survey",
+     "That is a survey problem."
+    ],
+    [
+     "Overgeneralizing from one subject",
+     "That is a case-study problem."
+    ],
+    [
+     "Poorly worded questions",
+     "That is a survey problem."
+    ]
+   ],
+   "exp": "One disadvantage: subjects may notice the observer and change their behavior."
+  }
+ ],
+ "Survey": [
+  {
+   "q": "A school sends a questionnaire to a random sample of 300 students about their study habits. What method is this?",
+   "right": "A survey",
+   "wrong": [
+    [
+     "A case study",
+     "A case study looks at one person in depth."
+    ],
+    [
+     "An experiment",
+     "Nothing is manipulated."
+    ],
+    [
+     "Naturalistic observation",
+     "Students report on themselves instead of being watched."
+    ]
+   ],
+   "exp": "Self-reported attitudes and behaviors from a sample."
+  }
+ ],
+ "Survey: pros and cons": [
+  {
+   "q": "A survey asks, \"Don't you agree that homework is a waste of time?\" What disadvantage of surveys does this show?",
+   "right": "Poorly worded questions skew responses",
+   "wrong": [
+    [
+     "It can be very time consuming to watch subjects",
+     "That is an observation problem."
+    ],
+    [
+     "It studies only one atypical individual",
+     "That is a case-study problem."
+    ],
+    [
+     "It can't collect much data quickly",
+     "Surveys collect a lot of data quickly."
+    ]
+   ],
+   "exp": "The question pushes people toward one answer."
+  }
+ ],
+ "Correlation": [
+  {
+   "q": "A researcher wants to know whether hours of TV and reading scores are related, without changing anything. What is she studying?",
+   "right": "A correlation",
+   "wrong": [
+    [
+     "A cause-and-effect relationship",
+     "Without manipulation, she can't show cause."
+    ],
+    [
+     "An operational definition",
+     "That is how a variable is measured."
+    ],
+    [
+     "A placebo effect",
+     "That is a result caused by expectations."
+    ]
+   ],
+   "exp": "Correlation describes the relationship between two variables."
+  }
+ ],
+ "Positive correlation": [
+  {
+   "q": "The more hours students practice piano, the higher their recital scores. What kind of correlation is this?",
+   "right": "Positive",
+   "wrong": [
+    [
+     "Negative",
+     "In a negative correlation, one goes up as the other goes down."
+    ],
+    [
+     "Zero",
+     "There is a clear relationship here."
+    ],
+    [
+     "Bimodal",
+     "Bimodal describes a curve with two peaks, not a correlation."
+    ]
+   ],
+   "exp": "Both variables increase together."
+  }
+ ],
+ "Negative correlation": [
+  {
+   "q": "As the number of absences rises, a student's grades fall. What kind of correlation is this?",
+   "right": "Negative",
+   "wrong": [
+    [
+     "Positive",
+     "In a positive correlation both move the same way."
+    ],
+    [
+     "Zero",
+     "There is a relationship here."
+    ],
+    [
+     "Perfect positive",
+     "The variables move in opposite directions."
+    ]
+   ],
+   "exp": "One goes up, the other goes down."
+  }
+ ],
+ "Zero (no) correlation": [
+  {
+   "q": "A scatterplot of shoe size and math grades shows dots spread everywhere with no pattern. What does this show?",
+   "right": "No correlation",
+   "wrong": [
+    [
+     "A strong positive correlation",
+     "That would show dots rising together in a line."
+    ],
+    [
+     "A strong negative correlation",
+     "That would show dots falling in a line."
+    ],
+    [
+     "A cause-and-effect relationship",
+     "A scatterplot alone can't show cause."
+    ]
+   ],
+   "exp": "No pattern means no relationship."
+  }
+ ],
+ "Correlation coefficient": [
+  {
+   "q": "Which correlation coefficient shows the STRONGEST relationship?",
+   "right": "-0.92",
+   "wrong": [
+    [
+     "+0.45",
+     "Closer to zero, so weaker."
+    ],
+    [
+     "+0.10",
+     "Very close to zero, so very weak."
+    ],
+    [
+     "0.00",
+     "Zero means no correlation."
+    ]
+   ],
+   "exp": "Strength depends on how close the number is to +1 or -1, not on the sign."
+  }
+ ],
+ "Positive isn't \"good\"": [
+  {
+   "q": "A study finds a positive correlation between stress and illness. A classmate says, \"Positive, so that's good news.\" What is wrong?",
+   "right": "Positive only means both rise together",
+   "wrong": [
+    [
+     "Positive correlations always prove causation",
+     "No correlation proves causation."
+    ],
+    [
+     "Stress and illness can't be correlated",
+     "They can be; the sign just shows direction."
+    ],
+    [
+     "The correlation must actually be zero",
+     "Nothing suggests that."
+    ]
+   ],
+   "exp": "The sign describes direction, not whether it is good or bad."
+  }
+ ],
+ "Correlation does not equal causation": [
+  {
+   "q": "Cities with more firefighters have more fire damage. Which conclusion is best?",
+   "right": "A third factor, like bigger fires, may explain both",
+   "wrong": [
+    [
+     "Firefighters cause fire damage",
+     "Correlation does not show causation."
+    ],
+    [
+     "The study proves fewer firefighters would reduce damage",
+     "A correlation can't prove that."
+    ],
+    [
+     "There is no relationship between the two",
+     "There is a relationship; it just isn't proven causal."
+    ]
+   ],
+   "exp": "Like ice cream and sunburn, a third factor (big fires) causes both."
+  }
+ ],
+ "Population": [
+  {
+   "q": "A researcher wants her findings to apply to all U.S. high school students. What is \"all U.S. high school students\" in her study?",
+   "right": "The population",
+   "wrong": [
+    [
+     "The sample",
+     "The sample is the smaller group actually studied."
+    ],
+    [
+     "The control group",
+     "That group doesn't receive the manipulated variable."
+    ],
+    [
+     "The dependent variable",
+     "That is what is measured."
+    ]
+   ],
+   "exp": "The population is the group the research is meant to apply to."
+  }
+ ],
+ "Sample": [
+  {
+   "q": "From all U.S. high school students, a researcher studies 500. What are the 500?",
+   "right": "The sample",
+   "wrong": [
+    [
+     "The population",
+     "The population is all U.S. high school students."
+    ],
+    [
+     "The independent variable",
+     "That is the factor the researcher changes."
+    ],
+    [
+     "A case study",
+     "A case study examines one person or group in depth."
+    ]
+   ],
+   "exp": "The sample is the people from the population who take part."
+  }
+ ],
+ "Representative (random) sample": [
+  {
+   "q": "To study students at her school, a researcher draws names from a list of every student. Why is this a good method?",
+   "right": "Everyone has an equal chance of being chosen",
+   "wrong": [
+    [
+     "It guarantees the hypothesis will be supported",
+     "No method guarantees that."
+    ],
+    [
+     "It lets her pick the students she knows best",
+     "Picking friends would be biased."
+    ],
+    [
+     "It means she doesn't need a control group",
+     "Sampling and control groups are separate issues."
+    ]
+   ],
+   "exp": "A random sample fairly represents the population."
+  }
+ ],
+ "Experimental group": [
+  {
+   "q": "In a study of a new reading app, one group of students uses the app for a month. What is this group?",
+   "right": "The experimental group",
+   "wrong": [
+    [
+     "The control group",
+     "The control group doesn't use the app."
+    ],
+    [
+     "The population",
+     "The population is everyone the study is meant to apply to."
+    ],
+    [
+     "The dependent variable",
+     "That is what gets measured."
+    ]
+   ],
+   "exp": "It receives the manipulated variable."
+  }
+ ],
+ "Control group": [
+  {
+   "q": "In the same reading-app study, why does the researcher include students who don't use the app?",
+   "right": "To compare them with the app users",
+   "wrong": [
+    [
+     "To make the sample bigger without affecting results",
+     "The point is comparison, not size."
+    ],
+    [
+     "Because they are the population",
+     "They are part of the sample."
+    ],
+    [
+     "To measure the independent variable",
+     "The IV is manipulated, not measured."
+    ]
+   ],
+   "exp": "Comparing the groups shows whether the app really works."
+  }
+ ],
+ "Independent variable (IV)": [
+  {
+   "q": "A researcher gives some people 2 hours of sleep and others 8 hours, then tests their memory. What is the independent variable?",
+   "right": "The amount of sleep",
+   "wrong": [
+    [
+     "The memory test score",
+     "That is the dependent variable."
+    ],
+    [
+     "The people's ages",
+     "Age wasn't manipulated; it could be a confounding variable."
+    ],
+    [
+     "The room where the test is taken",
+     "That isn't what the researcher changes."
+    ]
+   ],
+   "exp": "The IV is what the researcher manipulates."
+  }
+ ],
+ "Dependent variable (DV)": [
+  {
+   "q": "A study tests whether room temperature affects test scores. What is the dependent variable?",
+   "right": "The test scores",
+   "wrong": [
+    [
+     "The room temperature",
+     "That is the independent variable."
+    ],
+    [
+     "The number of participants",
+     "That is sample size."
+    ],
+    [
+     "The type of test given",
+     "That is held the same, not measured."
+    ]
+   ],
+   "exp": "The DV is what is measured; it depends on the IV."
+  }
+ ],
+ "Confounding variable": [
+  {
+   "q": "A study finds a new exercise plan causes weight loss, but the exercise group also ate healthier. What is the healthier eating?",
+   "right": "A confounding variable",
+   "wrong": [
+    [
+     "The independent variable",
+     "The IV is the exercise plan."
+    ],
+    [
+     "The dependent variable",
+     "The DV is weight loss."
+    ],
+    [
+     "The control group",
+     "That is a group, not an outside influence."
+    ]
+   ],
+   "exp": "An outside influence that affects the results."
+  }
+ ],
+ "Problems with research (all 11)": [
+  {
+   "q": "Which of these is one of the 11 problems with research on your slides?",
+   "right": "Wording effects (framing)",
+   "wrong": [
+    [
+     "Operational definitions of variables",
+     "Those help research; they aren't a problem."
+    ],
+    [
+     "Random sampling",
+     "That improves research."
+    ],
+    [
+     "Debriefing",
+     "That is an ethics guideline."
+    ]
+   ],
+   "exp": "Wording effects are on the list, along with placebo, Hawthorne and Barnum effects, and others."
+  }
+ ],
+ "Placebo effect": [
+  {
+   "q": "Patients given a sugar pill report less pain because they think it's medicine. What is this?",
+   "right": "The placebo effect",
+   "wrong": [
+    [
+     "The Hawthorne effect",
+     "That is changing behavior because you're watched."
+    ],
+    [
+     "The Barnum effect",
+     "That is believing general descriptions fit you."
+    ],
+    [
+     "Social desirability bias",
+     "That is answering to look good."
+    ]
+   ],
+   "exp": "Results caused by expectations alone."
+  }
+ ],
+ "Hawthorne effect": [
+  {
+   "q": "Factory workers work harder during a study simply because they know researchers are watching. What is this?",
+   "right": "The Hawthorne effect",
+   "wrong": [
+    [
+     "The placebo effect",
+     "There is no fake treatment here."
+    ],
+    [
+     "Sampling bias in choosing the workers",
+     "That is about who is chosen to participate."
+    ],
+    [
+     "Gambler's fallacy",
+     "That is seeing patterns in random data."
+    ]
+   ],
+   "exp": "\"They're watching\" changes behavior."
+  }
+ ],
+ "Barnum effect": [
+  {
+   "q": "Lena reads a personality reading that says \"You sometimes doubt yourself\" and thinks it describes her perfectly. What is this?",
+   "right": "The Barnum effect",
+   "wrong": [
+    [
+     "The Hawthorne effect",
+     "She isn't being observed."
+    ],
+    [
+     "Hindsight bias",
+     "Nothing is being judged after an outcome."
+    ],
+    [
+     "Confirmation of a hypothesis",
+     "This is a general statement that fits everyone."
+    ]
+   ],
+   "exp": "Vague descriptions that fit everyone feel personal, like horoscopes."
+  }
+ ],
+ "Gambler's fallacy": [
+  {
+   "q": "A roulette player bets on black because red came up six times in a row. What error is this?",
+   "right": "Gambler's fallacy",
+   "wrong": [
+    [
+     "Placebo effect from expectations",
+     "That is a result caused by expectations of a treatment."
+    ],
+    [
+     "Barnum effect",
+     "That is about personality descriptions."
+    ],
+    [
+     "Wording effect",
+     "That is about how questions are phrased."
+    ]
+   ],
+   "exp": "Seeing patterns in random data."
+  }
+ ],
+ "Social desirability bias": [
+  {
+   "q": "On a survey, many students claim they never cheat, even those who do, because they want to look honest. What is this?",
+   "right": "Social desirability bias",
+   "wrong": [
+    [
+     "The placebo effect",
+     "There is no treatment here."
+    ],
+    [
+     "Sampling bias",
+     "That is about who is chosen."
+    ],
+    [
+     "The gambler's fallacy about patterns",
+     "That is about random patterns."
+    ]
+   ],
+   "exp": "Answering to look good."
+  }
+ ],
+ "Self-report bias": [
+  {
+   "q": "A participant who guesses the study's hypothesis purposely answers the opposite way to mess it up. What problem is this?",
+   "right": "Self-report bias",
+   "wrong": [
+    [
+     "The Barnum effect",
+     "That is about vague personality descriptions."
+    ],
+    [
+     "A confounding variable",
+     "That is an outside influence, not a participant's choice."
+    ],
+    [
+     "Hindsight bias",
+     "That is \"I knew it all along.\""
+    ]
+   ],
+   "exp": "Participants trying to affect the outcome or being unrealistic about themselves."
+  }
+ ],
+ "Sampling bias": [
+  {
+   "q": "To show a new snack is popular, a company surveys only people leaving its own store. What problem is this?",
+   "right": "Sampling bias",
+   "wrong": [
+    [
+     "The Hawthorne effect",
+     "Being watched isn't the issue."
+    ],
+    [
+     "The Barnum effect",
+     "That is about personality descriptions."
+    ],
+    [
+     "The placebo effect",
+     "There is no fake treatment."
+    ]
+   ],
+   "exp": "The sample isn't representative of the population."
+  }
+ ],
+ "Wording effects (framing)": [
+  {
+   "q": "More people support a policy described as \"helping the poor\" than one described as \"welfare.\" What explains this?",
+   "right": "Wording effects",
+   "wrong": [
+    [
+     "Sampling bias",
+     "The same people could answer differently based on the wording."
+    ],
+    [
+     "The placebo effect",
+     "There is no treatment."
+    ],
+    [
+     "Hindsight bias",
+     "Nothing is judged after an outcome."
+    ]
+   ],
+   "exp": "How a question is worded can skew answers."
+  }
+ ],
+ "Why ethics guidelines exist": [
+  {
+   "q": "Why can't some famous early psychology experiments be repeated today?",
+   "right": "They broke today's ethics rules",
+   "wrong": [
+    [
+     "The original data was lost",
+     "The reason on your slides is ethics."
+    ],
+    [
+     "They were never published",
+     "They are famous; the issue is how they treated people."
+    ],
+    [
+     "Modern computers can't analyze them",
+     "Technology isn't the problem."
+    ]
+   ],
+   "exp": "The APA set principles to protect everyone involved in research."
+  }
+ ],
+ "APA ethical guidelines": [
+  {
+   "q": "Which of these is NOT one of the APA ethical guidelines?",
+   "right": "Participants must be paid",
+   "wrong": [
+    [
+     "Informed consent before the study",
+     "That is a guideline."
+    ],
+    [
+     "Debriefing",
+     "That is a guideline."
+    ],
+    [
+     "Confidentiality",
+     "That is a guideline."
+    ]
+   ],
+   "exp": "The guidelines: voluntary participation, confidentiality, informed consent, debriefing, no long-term harm, care for animals, institutional approval."
+  }
+ ],
+ "Voluntary participation": [
+  {
+   "q": "A teacher requires every student to join a study or lose points. Which guideline does this break?",
+   "right": "Voluntary participation",
+   "wrong": [
+    [
+     "Debriefing",
+     "Debriefing is about explaining the study afterward."
+    ],
+    [
+     "Confidentiality",
+     "That is about keeping information private."
+    ],
+    [
+     "Approval from an institution",
+     "That is about getting the study approved."
+    ]
+   ],
+   "exp": "People must choose for themselves whether to take part."
+  }
+ ],
+ "Confidentiality": [
+  {
+   "q": "A researcher posts participants' names next to their depression scores online. Which guideline is broken?",
+   "right": "Confidentiality",
+   "wrong": [
+    [
+     "Informed consent",
+     "That is about explaining the study before people agree."
+    ],
+    [
+     "Voluntary participation",
+     "That is about choosing to take part."
+    ],
+    [
+     "Debriefing",
+     "That is about explaining the study afterward."
+    ]
+   ],
+   "exp": "Participants' information must be kept private."
+  }
+ ],
+ "Informed consent": [
+  {
+   "q": "Before a study starts, participants read what will happen and sign that they agree. What is this?",
+   "right": "Informed consent",
+   "wrong": [
+    [
+     "Debriefing",
+     "Debriefing happens AFTER the study."
+    ],
+    [
+     "Confidentiality of the data",
+     "That is keeping data private."
+    ],
+    [
+     "Replication",
+     "That is repeating a study."
+    ]
+   ],
+   "exp": "Informed consent = BEFORE."
+  }
+ ],
+ "Debriefing": [
+  {
+   "q": "After a study that used deception, the researcher explains its real purpose to the participants. What is this?",
+   "right": "Debriefing",
+   "wrong": [
+    [
+     "Informed consent",
+     "That happens BEFORE the study."
+    ],
+    [
+     "Operationalizing",
+     "That is defining how variables are measured."
+    ],
+    [
+     "Replicating",
+     "That is repeating the study."
+    ]
+   ],
+   "exp": "Debriefing = AFTER."
+  }
+ ],
+ "No long-term harm": [
+  {
+   "q": "A study plans to leave participants with lasting anxiety in order to test a theory. Which guideline does it break?",
+   "right": "Avoiding lasting harm",
+   "wrong": [
+    [
+     "Voluntary participation in the study",
+     "Even willing participants can't be harmed long-term."
+    ],
+    [
+     "Confidentiality",
+     "The problem is harm, not privacy."
+    ],
+    [
+     "Institutional approval",
+     "Approval doesn't make lasting harm acceptable."
+    ]
+   ],
+   "exp": "Studies may not cause long-term physical or psychological harm."
+  }
+ ],
+ "Animal participants": [
+  {
+   "q": "A lab keeps its research rats in dirty, crowded cages without enough food. Which guideline is broken?",
+   "right": "Care for animals in research",
+   "wrong": [
+    [
+     "Informed consent from participants",
+     "Animals can't give consent; the rule is about their care."
+    ],
+    [
+     "Debriefing",
+     "That applies to human participants after a study."
+    ],
+    [
+     "Confidentiality",
+     "That is about human participants' privacy."
+    ]
+   ],
+   "exp": "All animal participants must be well cared for."
+  }
+ ],
+ "Institutional approval": [
+  {
+   "q": "A student starts a study on classmates without asking any review board. Which guideline is missing?",
+   "right": "Approval by a review board",
+   "wrong": [
+    [
+     "Debriefing",
+     "That comes after the study."
+    ],
+    [
+     "Replication",
+     "That is repeating a study."
+    ],
+    [
+     "Random sampling of classmates",
+     "That is about choosing participants."
+    ]
+   ],
+   "exp": "Research needs approval from a research institution."
+  }
+ ],
+ "Descriptive statistics": [
+  {
+   "q": "A teacher makes a chart of how many students got each letter grade to see the overall picture. What kind of statistics is this?",
+   "right": "Descriptive statistics",
+   "wrong": [
+    [
+     "Inferential statistics",
+     "Those decide whether results apply to a larger population."
+    ],
+    [
+     "A meta-analysis",
+     "That combines many studies."
+    ],
+    [
+     "A p-value",
+     "That measures how likely results are due to chance."
+    ]
+   ],
+   "exp": "Descriptive statistics organize data meaningfully."
+  }
+ ],
+ "Frequency distribution": [
+  {
+   "q": "A store clerk tallies how many customers fall into each age group. What has the clerk made?",
+   "right": "A frequency distribution",
+   "wrong": [
+    [
+     "A correlation coefficient",
+     "That is a number from -1 to +1."
+    ],
+    [
+     "A standard deviation",
+     "That measures spread around the mean."
+    ],
+    [
+     "A hypothesis",
+     "That is a prediction."
+    ]
+   ],
+   "exp": "A count of how often each score or range appears."
+  }
+ ],
+ "Histogram": [
+  {
+   "q": "The clerk turns the age tallies into a bar graph to spot patterns quickly. What is the graph?",
+   "right": "A histogram",
+   "wrong": [
+    [
+     "A scatterplot",
+     "A scatterplot shows the relationship between two variables."
+    ],
+    [
+     "A normal curve",
+     "That is a bell-shaped distribution, not a bar graph of tallies."
+    ],
+    [
+     "A correlation",
+     "That is a relationship, not a graph type."
+    ]
+   ],
+   "exp": "A histogram is a bar graph of a frequency distribution."
+  }
+ ],
+ "Mean": [
+  {
+   "q": "Quiz scores are 6, 8, 10 and 12. What is the mean?",
+   "right": "9",
+   "wrong": [
+    [
+     "8",
+     "That is not the average."
+    ],
+    [
+     "10",
+     "That is not the average."
+    ],
+    [
+     "6",
+     "That is the range."
+    ]
+   ],
+   "exp": "Add the numbers (36) and divide by how many there are (4): 9."
+  }
+ ],
+ "Median": [
+  {
+   "q": "Ages in a group are 12, 15, 16, 19 and 40. What is the median?",
+   "right": "16",
+   "wrong": [
+    [
+     "20.4",
+     "That is the mean."
+    ],
+    [
+     "28",
+     "That is the range."
+    ],
+    [
+     "15",
+     "That is not the middle value."
+    ]
+   ],
+   "exp": "In order, the middle number is 16."
+  }
+ ],
+ "Mode": [
+  {
+   "q": "Shoe sizes in a class: 7, 8, 8, 8, 9, 10. What is the mode?",
+   "right": "8",
+   "wrong": [
+    [
+     "8.3",
+     "That is the mean."
+    ],
+    [
+     "3",
+     "That is the range."
+    ],
+    [
+     "9",
+     "That appears once."
+    ]
+   ],
+   "exp": "The mode is the number that appears most often."
+  }
+ ],
+ "Percentile rank": [
+  {
+   "q": "Jada is in the 70th percentile on the SAT. What does this mean?",
+   "right": "She scored higher than 70% of test takers",
+   "wrong": [
+    [
+     "She answered 70% of the questions correctly",
+     "Percentile isn't percent correct."
+    ],
+    [
+     "She was 70th from the top",
+     "Percentile isn't a place number."
+    ],
+    [
+     "70% of people scored higher than her",
+     "That reverses it."
+    ]
+   ],
+   "exp": "The percentage of scores below hers."
+  }
+ ],
+ "Measures of variation": [
+  {
+   "q": "Two classes both average 80 on a test, but one class's scores are much more spread out. What kind of statistic shows this difference?",
+   "right": "A measure of variation",
+   "wrong": [
+    [
+     "A measure of central tendency",
+     "Both classes have the same average."
+    ],
+    [
+     "A correlation coefficient",
+     "That compares two variables."
+    ],
+    [
+     "A p-value",
+     "That measures chance, not spread."
+    ]
+   ],
+   "exp": "Variation tells how similar or different scores are."
+  }
+ ],
+ "Range": [
+  {
+   "q": "Test scores are 55, 70, 82, 90 and 97. What is the range?",
+   "right": "42",
+   "wrong": [
+    [
+     "82",
+     "That is the median."
+    ],
+    [
+     "78.8",
+     "That is the mean."
+    ],
+    [
+     "97",
+     "That is the highest score."
+    ]
+   ],
+   "exp": "97 − 55 = 42."
+  }
+ ],
+ "Standard deviation": [
+  {
+   "q": "Class A's scores have a standard deviation of 3; Class B's have one of 15. What does this tell you?",
+   "right": "Class B's scores are much more spread out",
+   "wrong": [
+    [
+     "Class B scored higher on average",
+     "SD shows spread, not the average."
+    ],
+    [
+     "Class A has more students",
+     "SD doesn't measure class size."
+    ],
+    [
+     "Class A's scores are more spread out than Class B's",
+     "A smaller SD means scores are packed together."
+    ]
+   ],
+   "exp": "Small SD = packed together; big SD = spread out."
+  }
+ ],
+ "Normal curve": [
+  {
+   "q": "Heights of adults form a bell shape with most people near average. What is this called?",
+   "right": "A normal curve",
+   "wrong": [
+    [
+     "A bimodal curve",
+     "That has two peaks."
+    ],
+    [
+     "A positive skew",
+     "That has a tail to the right."
+    ],
+    [
+     "A negative skew",
+     "That has a tail to the left."
+    ]
+   ],
+   "exp": "Most scores near the mean, fewer at the extremes."
+  }
+ ],
+ "The 68% and 95% rule": [
+  {
+   "q": "IQ has a mean of 100 and an SD of 15. About what percentage of people score between 85 and 115?",
+   "right": "68%",
+   "wrong": [
+    [
+     "95%",
+     "That is within 2 SDs (70–130)."
+    ],
+    [
+     "50%",
+     "That isn't the rule for 1 SD."
+    ],
+    [
+     "99%",
+     "That isn't on your slides."
+    ]
+   ],
+   "exp": "About 68% fall within 1 SD of the mean."
+  }
+ ],
+ "Outlier": [
+  {
+   "q": "In a town of teachers, one billionaire moves in. Which measure of income will change the most?",
+   "right": "The mean",
+   "wrong": [
+    [
+     "The mode",
+     "The mode stays at the most common income."
+    ],
+    [
+     "The median",
+     "The middle income barely moves."
+    ],
+    [
+     "The number of teachers",
+     "Only one person moved in."
+    ]
+   ],
+   "exp": "Outliers pull the mean the most."
+  }
+ ],
+ "Skewed distribution": [
+  {
+   "q": "Most students finish a test in 30 minutes, but a few take over 2 hours, stretching the graph out on one side. What is the graph called?",
+   "right": "A skewed distribution",
+   "wrong": [
+    [
+     "A normal curve",
+     "A normal curve is symmetrical."
+    ],
+    [
+     "A bimodal curve",
+     "That has two peaks."
+    ],
+    [
+     "A symmetrical distribution",
+     "One side has a long tail."
+    ]
+   ],
+   "exp": "A few scores stretch away like a tail."
+  }
+ ],
+ "Positive skew": [
+  {
+   "q": "On a very hard test, most scores are low but a few students score very high. What shape is the distribution?",
+   "right": "Positively skewed",
+   "wrong": [
+    [
+     "Negatively skewed",
+     "The tail goes toward the high scores, to the right."
+    ],
+    [
+     "Symmetrical",
+     "The scores bunch on one side."
+    ],
+    [
+     "Bimodal",
+     "There is only one peak."
+    ]
+   ],
+   "exp": "Tail to the right = positive skew, and mean > median > mode."
+  }
+ ],
+ "Negative skew": [
+  {
+   "q": "On an easy test, most students score high but a few score very low. What shape is the distribution?",
+   "right": "Negatively skewed",
+   "wrong": [
+    [
+     "Positively skewed",
+     "The tail goes toward the low scores, to the left."
+    ],
+    [
+     "Normal",
+     "The scores bunch at the high end."
+    ],
+    [
+     "Bimodal",
+     "There is only one peak."
+    ]
+   ],
+   "exp": "Tail to the left = negative skew, and mean < median < mode."
+  }
+ ],
+ "Symmetrical distribution": [
+  {
+   "q": "In a data set, the mean, median and mode are all 50. What does this tell you about its shape?",
+   "right": "It is symmetrical, with no skew",
+   "wrong": [
+    [
+     "It is positively skewed",
+     "Then the mean would be greater than the median."
+    ],
+    [
+     "It is negatively skewed",
+     "Then the mean would be less than the median."
+    ],
+    [
+     "It must have two separate peaks, so it is bimodal",
+     "Equal measures point to symmetry, not two peaks."
+    ]
+   ],
+   "exp": "No skew: mean = median = mode."
+  }
+ ],
+ "The mean follows the tail": [
+  {
+   "q": "A distribution's tail stretches to the left. Where will the mean be compared with the mode?",
+   "right": "To the left of the mode",
+   "wrong": [
+    [
+     "To the right of the mode",
+     "The mean moves toward the tail, which is on the left."
+    ],
+    [
+     "Exactly at the mode",
+     "Only in a symmetrical distribution."
+    ],
+    [
+     "At the highest peak",
+     "The mode stays at the peak."
+    ]
+   ],
+   "exp": "The mean always moves in the direction of the tail."
+  }
+ ],
+ "Bimodal curve": [
+  {
+   "q": "A graph of customers by hour shows one peak at lunch and another at dinner. What kind of curve is this?",
+   "right": "Bimodal",
+   "wrong": [
+    [
+     "Normal",
+     "A normal curve has one peak."
+    ],
+    [
+     "Positively skewed",
+     "Skew is about a tail, not two peaks."
+    ],
+    [
+     "Symmetrical",
+     "Two peaks make it bimodal."
+    ]
+   ],
+   "exp": "\"Bi\" means two peaks."
+  }
+ ],
+ "Inferential statistics": [
+  {
+   "q": "A researcher wants to know whether her results from 200 students are true of all teenagers, not just chance. What does she need?",
+   "right": "Inferential statistics",
+   "wrong": [
+    [
+     "Descriptive statistics",
+     "Those organize data; they don't generalize it."
+    ],
+    [
+     "A histogram",
+     "That displays data visually."
+    ],
+    [
+     "A case study",
+     "That studies one person in depth."
+    ]
+   ],
+   "exp": "Inferential statistics decide whether results can be generalized."
+  }
+ ],
+ "3 key principles": [
+  {
+   "q": "Which study gives the most trustworthy estimate of teen sleep habits?",
+   "right": "A large random sample of teens nationwide",
+   "wrong": [
+    [
+     "Five of the researcher's friends",
+     "Small and unrepresentative."
+    ],
+    [
+     "One teen studied in great depth",
+     "One person can't represent a population."
+    ],
+    [
+     "Hundreds of teens who all visit one sleep clinic",
+     "Not representative of all teens."
+    ]
+   ],
+   "exp": "Representative and bigger samples are better."
+  }
+ ],
+ "Meta-analysis": [
+  {
+   "q": "A researcher combines the results of 40 studies on exercise and mood into one estimate. What is this?",
+   "right": "A meta-analysis",
+   "wrong": [
+    [
+     "A case study",
+     "That studies one person or group in depth."
+    ],
+    [
+     "A replication of one study",
+     "That repeats one study."
+    ],
+    [
+     "A survey",
+     "That collects self-reports from a sample."
+    ]
+   ],
+   "exp": "More estimates are better than fewer."
+  }
+ ],
+ "The café example": [
+  {
+   "q": "Alex decides Café Mocha is better after asking two friends. What is the best criticism?",
+   "right": "Her sample is small and unrepresentative",
+   "wrong": [
+    [
+     "She asked too many people, making her data messy",
+     "Two people is far too small."
+    ],
+    [
+     "Her study had no hypothesis",
+     "The issue on your slides is the sample."
+    ],
+    [
+     "She should have used a placebo",
+     "Placebos aren't relevant here."
+    ]
+   ],
+   "exp": "Two friends each: unrepresentative and too small."
+  }
+ ],
+ "Statistical significance": [
+  {
+   "q": "A study finds that a tutoring group scored higher, and the chance that this difference happened randomly is very low. What can researchers say?",
+   "right": "The difference is statistically significant",
+   "wrong": [
+    [
+     "The tutoring caused a huge effect",
+     "Significance doesn't tell you the size of the effect."
+    ],
+    [
+     "The results are due to chance",
+     "Low probability of chance means the opposite."
+    ],
+    [
+     "The study must be replicated before it means anything",
+     "It can still be significant now."
+    ]
+   ],
+   "exp": "Low probability of chance = statistically significant."
+  }
+ ],
+ "P-value": [
+  {
+   "q": "Which p-value gives the strongest evidence that results were NOT due to chance?",
+   "right": "p = .01",
+   "wrong": [
+    [
+     "p = .30",
+     "That is too high to be significant."
+    ],
+    [
+     "p = .50",
+     "That means a 50% chance it was random."
+    ],
+    [
+     "p = .90",
+     "That is very likely due to chance."
+    ]
+   ],
+   "exp": "The smaller the p-value, the less likely the result was chance; .05 or less is significant."
+  }
+ ],
+ "Effect size": [
+  {
+   "q": "Two studies are both statistically significant, but one raised scores by 2 points and the other by 15. What does the difference show?",
+   "right": "They have different effect sizes",
+   "wrong": [
+    [
+     "They have different p-values only",
+     "A p-value says whether an effect exists, not its size."
+    ],
+    [
+     "One study must be wrong",
+     "Both can be significant with different strengths."
+    ],
+    [
+     "Neither result is real",
+     "Both are significant."
+    ]
+   ],
+   "exp": "Effect size tells how strong the relationship is."
+  }
+ ]
+}

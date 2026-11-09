@@ -1,0 +1,678 @@
+[
+ {
+  "id": "SQ1",
+  "deck": 1,
+  "q": "A neuron gets stimulation that is just below threshold. What happens?",
+  "opts": [
+   "It fires weakly",
+   "It does not fire",
+   "It fires more slowly",
+   "It enters the refractory period"
+  ],
+  "ans": 1,
+  "exp": "All-or-none principle: no threshold, no action potential."
+ },
+ {
+  "id": "SQ2",
+  "deck": 1,
+  "q": "Right after firing, a neuron is flooded with neurotransmitters but still won't fire. Why?",
+  "opts": [
+   "It's at resting potential",
+   "It's in the refractory period",
+   "Its myelin is damaged",
+   "Reuptake is blocked"
+  ],
+  "ans": 1,
+  "exp": "During the refractory period the neuron cannot fire no matter how much it is stimulated."
+ },
+ {
+  "id": "SQ3",
+  "deck": 1,
+  "q": "A patient's signals travel slowly down the axon and they have trouble walking. Which part is most likely damaged?",
+  "opts": [
+   "Dendrites",
+   "Vesicles",
+   "Myelin sheath",
+   "Soma"
+  ],
+  "ans": 2,
+  "exp": "Myelin speeds the signal. Loss of myelin (demyelination) is multiple sclerosis."
+ },
+ {
+  "id": "SQ4",
+  "deck": 2,
+  "q": "A drug blocks the reuptake of serotonin. What is it most likely used for?",
+  "opts": [
+   "Parkinson's",
+   "Depression",
+   "Schizophrenia",
+   "Paralysis"
+  ],
+  "ans": 1,
+  "exp": "That's an SSRI. Low serotonin is linked to depression."
+ },
+ {
+  "id": "SQ5",
+  "deck": 2,
+  "q": "Patients with Parkinson's disease have a shortage of which neurotransmitter?",
+  "opts": [
+   "Dopamine",
+   "GABA",
+   "Glutamate",
+   "Endorphins"
+  ],
+  "ans": 0,
+  "exp": "Low dopamine → Parkinson's tremors. High dopamine is linked to schizophrenia."
+ },
+ {
+  "id": "SQ6",
+  "deck": 2,
+  "q": "Someone has an anxiety disorder linked to a neurotransmitter that normally calms the nervous system. Which one is probably too low?",
+  "opts": [
+   "Glutamate",
+   "Norepinephrine",
+   "GABA",
+   "Substance P"
+  ],
+  "ans": 2,
+  "exp": "GABA is the main inhibitory neurotransmitter; too little → anxiety."
+ },
+ {
+  "id": "SQ7",
+  "deck": 2,
+  "q": "A runner feels euphoric and pain-free at mile 10. Which chemical is responsible?",
+  "opts": [
+   "Endorphins",
+   "Acetylcholine",
+   "Melatonin",
+   "Substance P"
+  ],
+  "ans": 0,
+  "exp": "Endorphins are the body's natural painkillers — the runner's high."
+ },
+ {
+  "id": "SQ8",
+  "deck": 2,
+  "q": "A poison blocks acetylcholine receptors. What is the most likely result?",
+  "opts": [
+   "Insomnia",
+   "Paralysis",
+   "Hallucinations",
+   "Overeating"
+  ],
+  "ans": 1,
+  "exp": "ACh drives muscle movement; blocked receptors → paralysis."
+ },
+ {
+  "id": "SQ9",
+  "deck": 3,
+  "q": "You touch a hot stove and pull your hand back before you even feel the pain. What controlled this?",
+  "opts": [
+   "The cerebellum",
+   "The spinal cord (a reflex)",
+   "The amygdala",
+   "The somatosensory cortex"
+  ],
+  "ans": 1,
+  "exp": "Reflexes are directed by the spinal cord, which is why they are so fast."
+ },
+ {
+  "id": "SQ10",
+  "deck": 3,
+  "q": "After a scare, your heart rate slows back to normal. Which division is at work?",
+  "opts": [
+   "Sympathetic",
+   "Parasympathetic",
+   "Somatic",
+   "Central"
+  ],
+  "ans": 1,
+  "exp": "Parasympathetic = rest and digest; it calms you down."
+ },
+ {
+  "id": "SQ11",
+  "deck": 3,
+  "q": "Which neurons carry the message \"this is hot\" from your fingertip to your spinal cord?",
+  "opts": [
+   "Motor (efferent)",
+   "Interneurons",
+   "Sensory (afferent)",
+   "Glial cells"
+  ],
+  "ans": 2,
+  "exp": "Afferent = arrive. Sensory neurons carry info in toward the CNS."
+ },
+ {
+  "id": "SQ12",
+  "deck": 3,
+  "q": "Why does the effect of a hormone last longer than a neurotransmitter's?",
+  "opts": [
+   "Hormones are made in the brain only",
+   "Hormones travel through the bloodstream",
+   "Hormones are always excitatory",
+   "Hormones skip the synapse by using myelin"
+  ],
+  "ans": 1,
+  "exp": "Hormones travel in the blood: slower, but longer-lasting."
+ },
+ {
+  "id": "SQ13",
+  "deck": 3,
+  "q": "You haven't eaten in hours and your stomach is releasing a hormone telling you to eat. Which one?",
+  "opts": [
+   "Leptin",
+   "Ghrelin",
+   "Oxytocin",
+   "Melatonin"
+  ],
+  "ans": 1,
+  "exp": "Ghrelin = hungry (growling stomach). Leptin = full."
+ },
+ {
+  "id": "SQ14",
+  "deck": 3,
+  "q": "Which gland is called the \"master gland\"?",
+  "opts": [
+   "Adrenal",
+   "Pineal",
+   "Pituitary",
+   "Thyroid"
+  ],
+  "ans": 2,
+  "exp": "The pituitary signals the other glands to release their hormones."
+ },
+ {
+  "id": "SQ15",
+  "deck": 4,
+  "q": "A patient speaks fluently, but their sentences make no sense and they can't understand what others say. Which area is damaged?",
+  "opts": [
+   "Broca's area",
+   "Wernicke's area",
+   "Motor cortex",
+   "Cerebellum"
+  ],
+  "ans": 1,
+  "exp": "Wernicke's = comprehension. Broca's = producing speech."
+ },
+ {
+  "id": "SQ16",
+  "deck": 4,
+  "q": "A stroke patient understands everything but can only say short phrases like \"want... water.\" Where is the damage?",
+  "opts": [
+   "Wernicke's area",
+   "Occipital lobe",
+   "Broca's area",
+   "Hippocampus"
+  ],
+  "ans": 2,
+  "exp": "Broca's aphasia: trouble producing speech, understanding mostly intact."
+ },
+ {
+  "id": "SQ17",
+  "deck": 4,
+  "q": "A rat with a damaged lateral hypothalamus will most likely:",
+  "opts": [
+   "Overeat",
+   "Lose interest in eating",
+   "Lose its balance",
+   "Stop forming memories"
+  ],
+  "ans": 1,
+  "exp": "LH = hunger. Damage → no hunger. VMH damage → overeating."
+ },
+ {
+  "id": "SQ18",
+  "deck": 4,
+  "q": "Someone who drank too much alcohol can't walk a straight line. Which structure is most affected?",
+  "opts": [
+   "Medulla",
+   "Cerebellum",
+   "Thalamus",
+   "Amygdala"
+  ],
+  "ans": 1,
+  "exp": "The cerebellum controls balance and coordination, and alcohol hits it hard."
+ },
+ {
+  "id": "SQ19",
+  "deck": 4,
+  "q": "A patient can't form new long-term memories after surgery. Which structure was most likely removed?",
+  "opts": [
+   "Hippocampus",
+   "Pons",
+   "Corpus callosum",
+   "Occipital lobe"
+  ],
+  "ans": 0,
+  "exp": "The hippocampus moves information into long-term memory."
+ },
+ {
+  "id": "SQ20",
+  "deck": 4,
+  "q": "After brain damage, a person becomes impulsive, rude, and makes poor decisions, like Phineas Gage. Which area?",
+  "opts": [
+   "Parietal lobe",
+   "Prefrontal cortex",
+   "Temporal lobe",
+   "Medulla"
+  ],
+  "ans": 1,
+  "exp": "Prefrontal cortex = judgment, planning, personality."
+ },
+ {
+  "id": "SQ21",
+  "deck": 4,
+  "q": "A researcher wants to see which brain areas are active while someone solves math problems, with the best precision. Which scan?",
+  "opts": [
+   "CT",
+   "MRI",
+   "fMRI",
+   "X-ray"
+  ],
+  "ans": 2,
+  "exp": "fMRI shows function through blood flow and is more precise than PET. CT and MRI only show structure."
+ },
+ {
+  "id": "SQ22",
+  "deck": 4,
+  "q": "A stroke damages the left hemisphere's motor cortex. Which body part is most likely affected?",
+  "opts": [
+   "Left arm",
+   "Right arm",
+   "Both legs",
+   "Neither — only speech"
+  ],
+  "ans": 1,
+  "exp": "Contralateral control: the left brain controls the right side of the body."
+ },
+ {
+  "id": "SQ23",
+  "deck": 4,
+  "q": "Damage to which structure could put someone into a coma?",
+  "opts": [
+   "Reticular formation",
+   "Cerebellum",
+   "Amygdala",
+   "Corpus callosum"
+  ],
+  "ans": 0,
+  "exp": "The reticular formation controls arousal and consciousness."
+ },
+ {
+  "id": "SQ24",
+  "deck": 4,
+  "q": "A blind person reads Braille and the brain area for their reading finger expands into the visual cortex. This shows:",
+  "opts": [
+   "Neurogenesis",
+   "Plasticity",
+   "Lateralization",
+   "Accommodation"
+  ],
+  "ans": 1,
+  "exp": "Plasticity is the brain reorganizing based on experience or damage."
+ },
+ {
+  "id": "SQ25",
+  "deck": 5,
+  "q": "You walk into a dark movie theater and can't see; after a while you can make out shapes but not colors. Which receptors are working?",
+  "opts": [
+   "Cones",
+   "Rods",
+   "Bipolar cells",
+   "Feature detectors"
+  ],
+  "ans": 1,
+  "exp": "Rods work in dim light but don't see color. Cones need brighter light."
+ },
+ {
+  "id": "SQ26",
+  "deck": 5,
+  "q": "Stare at a green flag, then look at a white wall, and you see a red flag. Which theory explains this?",
+  "opts": [
+   "Trichromatic",
+   "Opponent-process",
+   "Gate control",
+   "Gestalt"
+  ],
+  "ans": 1,
+  "exp": "Opponent-process: tiring the green response leaves red firing — an afterimage."
+ },
+ {
+  "id": "SQ27",
+  "deck": 5,
+  "q": "Railroad tracks look like they meet at the horizon. Which depth cue is this?",
+  "opts": [
+   "Retinal disparity",
+   "Interposition",
+   "Linear perspective",
+   "Relative clarity"
+  ],
+  "ans": 2,
+  "exp": "Linear perspective is a monocular cue: parallel lines converge in the distance."
+ },
+ {
+  "id": "SQ28",
+  "deck": 5,
+  "q": "One car partly blocks your view of another, so you see the first car as closer. Which cue?",
+  "opts": [
+   "Interposition",
+   "Relative size",
+   "Closure",
+   "Proximity"
+  ],
+  "ans": 0,
+  "exp": "Interposition: whatever blocks the other object looks closer."
+ },
+ {
+  "id": "SQ29",
+  "deck": 5,
+  "q": "You see a circle even though the drawing has small gaps in its outline. Which Gestalt principle?",
+  "opts": [
+   "Similarity",
+   "Proximity",
+   "Closure",
+   "Figure-ground"
+  ],
+  "ans": 2,
+  "exp": "Closure: we fill in gaps to see a complete shape."
+ },
+ {
+  "id": "SQ30",
+  "deck": 5,
+  "q": "Where does transduction happen in vision?",
+  "opts": [
+   "Cornea",
+   "Lens",
+   "Retina",
+   "Optic nerve"
+  ],
+  "ans": 2,
+  "exp": "The retina's rods and cones turn light into neural impulses."
+ },
+ {
+  "id": "SQ31",
+  "deck": 5,
+  "q": "Your eyes are about 2.5 inches apart, so each sees a slightly different image of a nearby object. This depth cue is:",
+  "opts": [
+   "Relative size",
+   "Retinal disparity",
+   "Linear perspective",
+   "Accommodation"
+  ],
+  "ans": 1,
+  "exp": "Retinal disparity is the binocular cue."
+ },
+ {
+  "id": "SQ32",
+  "deck": 6,
+  "q": "A concert leaves a fan with permanent damage to the cochlea's hair cells. What type of hearing loss is this?",
+  "opts": [
+   "Conduction — fixable with surgery",
+   "Sensorineural — irreversible",
+   "Conduction — irreversible",
+   "Vestibular"
+  ],
+  "ans": 1,
+  "exp": "Inner-ear damage is sensorineural. A cochlear implant can help, but the damage can't be reversed."
+ },
+ {
+  "id": "SQ33",
+  "deck": 6,
+  "q": "You spin in circles, stop, and still feel like the room is moving. This involves your:",
+  "opts": [
+   "Kinesthetic sense",
+   "Vestibular sense",
+   "Sense of smell",
+   "Sense of hearing"
+  ],
+  "ans": 1,
+  "exp": "The fluid in your semicircular canals keeps moving after you stop."
+ },
+ {
+  "id": "SQ34",
+  "deck": 6,
+  "q": "Which sense does NOT get routed through the thalamus?",
+  "opts": [
+   "Vision",
+   "Hearing",
+   "Touch",
+   "Smell"
+  ],
+  "ans": 3,
+  "exp": "Smell goes straight to areas connected to the limbic system."
+ },
+ {
+  "id": "SQ35",
+  "deck": 6,
+  "q": "You rub your stubbed toe and it hurts less. Which theory explains this?",
+  "opts": [
+   "Gate control theory",
+   "Opponent-process theory",
+   "Trichromatic theory",
+   "All-or-none principle"
+  ],
+  "ans": 0,
+  "exp": "Other activity can close the spinal cord's pain \"gate.\""
+ },
+ {
+  "id": "SQ36",
+  "deck": 6,
+  "q": "Food tastes bland when you have a stuffy nose. This is an example of:",
+  "opts": [
+   "Synesthesia",
+   "Sensory interaction",
+   "Supertasting",
+   "Transduction"
+  ],
+  "ans": 1,
+  "exp": "Sensory interaction: smell strongly influences taste."
+ },
+ {
+  "id": "SQ37",
+  "deck": 6,
+  "q": "A sound wave with a very high amplitude will be heard as:",
+  "opts": [
+   "High-pitched",
+   "Low-pitched",
+   "Loud",
+   "Soft"
+  ],
+  "ans": 2,
+  "exp": "Amplitude = loudness. Frequency = pitch."
+ },
+ {
+  "id": "SQ38",
+  "deck": 6,
+  "q": "With your eyes closed, you can still touch your nose with your finger. Which sense makes that possible?",
+  "opts": [
+   "Vestibular sense",
+   "Kinesthesis",
+   "Gustation",
+   "Audition"
+  ],
+  "ans": 1,
+  "exp": "Kinesthesis senses where your individual body parts are."
+ },
+ {
+  "id": "SQ39",
+  "deck": 8,
+  "q": "A picture of a cat is flashed to a split-brain patient's left visual field and a mouse to her right visual field. She will be able to use her:",
+  "opts": [
+   "Right hand to indicate she saw a cat",
+   "Left hand to indicate she saw a mouse",
+   "Right hand to indicate she saw a mouse",
+   "Either hand to indicate she saw a cat"
+  ],
+  "ans": 2,
+  "exp": "The mouse (right visual field) goes to the left hemisphere, which controls the right hand. The cut corpus callosum stops it from reaching the right hemisphere."
+ },
+ {
+  "id": "SQ40",
+  "deck": 8,
+  "q": "The word KEY is flashed to a split-brain patient's left visual field. Asked what he saw, he will most likely:",
+  "opts": [
+   "Say \"key\"",
+   "Say \"nothing,\" but pick out a key with his left hand",
+   "Say \"nothing,\" but pick out a key with his right hand",
+   "Say \"key\" and draw it with his right hand"
+  ],
+  "ans": 1,
+  "exp": "Left visual field → right hemisphere, which can't speak but controls the left hand."
+ },
+ {
+  "id": "SQ41",
+  "deck": 8,
+  "q": "The word FACE is flashed to a split-brain patient's right visual field. What does he say he saw?",
+  "opts": [
+   "\"Face\"",
+   "\"Nothing\"",
+   "He can only draw it with his left hand",
+   "He sees it in both hemispheres"
+  ],
+  "ans": 0,
+  "exp": "Right visual field → left hemisphere, which is dominant for language, so he can say it."
+ },
+ {
+  "id": "SQ42",
+  "deck": 8,
+  "q": "Why would a surgeon cut a patient's corpus callosum?",
+  "opts": [
+   "To treat Broca's aphasia",
+   "To stop severe seizures from spreading between hemispheres",
+   "To improve memory",
+   "To restore vision"
+  ],
+  "ans": 1,
+  "exp": "The surgery is a last resort for severe seizures. The side effect is that the hemispheres can no longer share information."
+ },
+ {
+  "id": "SQ43",
+  "deck": 8,
+  "q": "In a split-brain patient, information from the right visual field goes only to the:",
+  "opts": [
+   "Right hemisphere",
+   "Left hemisphere",
+   "Cerebellum",
+   "Both hemispheres equally"
+  ],
+  "ans": 1,
+  "exp": "Visual fields cross at the optic chiasm: right field → left hemisphere."
+ },
+ {
+  "id": "SQ44",
+  "deck": 8,
+  "q": "A friend understands every word of your sarcastic \"Oh, great\" but misses that you meant it sarcastically. Which hemisphere handles that part of language?",
+  "opts": [
+   "Left — words and definitions",
+   "Right — tone, inflection, and context",
+   "Left — calculation",
+   "Neither; it's the cerebellum"
+  ],
+  "ans": 1,
+  "exp": "Left = the words. Right = tone and context."
+ },
+ {
+  "id": "SQ45",
+  "deck": 7,
+  "q": "Jake scrolls on his phone in bed every night, and now he can't fall asleep at his usual time. What is most likely interfering?",
+  "opts": [
+   "Artificial light disrupting his circadian rhythm",
+   "Sleep apnea",
+   "Narcolepsy",
+   "Night terrors"
+  ],
+  "ans": 0,
+  "exp": "Light from phones, lamps, and other devices can interfere with circadian rhythms."
+ },
+ {
+  "id": "SQ46",
+  "deck": 7,
+  "q": "A child wakes up screaming and crying in intense fear, but the next morning remembers nothing. This is most likely:",
+  "opts": [
+   "A nightmare",
+   "A night terror",
+   "Narcolepsy",
+   "Insomnia"
+  ],
+  "ans": 1,
+  "exp": "Night terrors are not nightmares: intense fear, screaming or crying, no memory the next morning. They happen in Stage 3."
+ },
+ {
+  "id": "SQ47",
+  "deck": 7,
+  "q": "A drug fits into endorphin receptors and mimics endorphins, increasing their effects. The drug is acting as:",
+  "opts": [
+   "An agonist",
+   "An antagonist",
+   "A depressant",
+   "A hallucinogen"
+  ],
+  "ans": 0,
+  "exp": "Agonists mimic a neurotransmitter and increase its effects, like opiates with endorphins."
+ },
+ {
+  "id": "SQ48",
+  "deck": 7,
+  "q": "Ava used to need one cup of coffee to feel alert. Now she needs three to get the same effect. This is:",
+  "opts": [
+   "Tolerance",
+   "Withdrawal",
+   "Substance abuse",
+   "Insomnia"
+  ],
+  "ans": 0,
+  "exp": "Tolerance: needing larger amounts of a drug to get the same effect."
+ },
+ {
+  "id": "SQ49",
+  "deck": 7,
+  "q": "When Leo quits smoking, he becomes irritable, gets headaches, and feels nervous. He is experiencing:",
+  "opts": [
+   "Tolerance",
+   "Withdrawal",
+   "Narcolepsy",
+   "A hallucination"
+  ],
+  "ans": 1,
+  "exp": "Those are the nicotine withdrawal symptoms on your slides."
+ },
+ {
+  "id": "SQ50",
+  "deck": 7,
+  "q": "Which category do benzodiazepines like Valium and Xanax belong to?",
+  "opts": [
+   "Depressants",
+   "Stimulants",
+   "Hallucinogens",
+   "Opioids"
+  ],
+  "ans": 0,
+  "exp": "Benzodiazepines calm the nervous system and depress heartbeat and breathing."
+ },
+ {
+  "id": "SQ51",
+  "deck": 7,
+  "q": "A drug intensifies the effects of GABA and reduces glutamate, causing slurred speech and poor judgment. Which drug is it?",
+  "opts": [
+   "Alcohol",
+   "Cocaine",
+   "LSD",
+   "Caffeine"
+  ],
+  "ans": 0,
+  "exp": "Alcohol: more GABA → sluggish, slurred speech; less glutamate → slow reactions, impaired judgment."
+ },
+ {
+  "id": "SQ52",
+  "deck": 7,
+  "q": "After pulling an all-nighter, Sam feels unusually hungry all day. Which change best explains this?",
+  "opts": [
+   "More ghrelin and less leptin",
+   "More leptin and less ghrelin",
+   "More endorphins",
+   "Less GABA"
+  ],
+  "ans": 0,
+  "exp": "Sleep loss increases hunger-arousing ghrelin and decreases hunger-suppressing leptin."
+ }
+]

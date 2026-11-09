@@ -1,0 +1,106 @@
+[
+ {
+  "id": "SQ1",
+  "deck": 1,
+  "q": "While texting and walking, Maya walks right past a friend who is waving at her and never sees him. This is:",
+  "opts": [
+   "Inattentional blindness",
+   "Change blindness",
+   "The cocktail party effect",
+   "The Stroop effect"
+  ],
+  "ans": 0,
+  "exp": "She failed to see something visible because her attention was on her phone."
+ },
+ {
+  "id": "SQ2",
+  "deck": 1,
+  "q": "In a movie, an actor's shirt is red in one shot and blue in the next, but most viewers never notice. This is:",
+  "opts": [
+   "Change blindness",
+   "Inattentional blindness",
+   "The pop-out phenomenon",
+   "The absolute threshold"
+  ],
+  "ans": 0,
+  "exp": "Missing a change because attention is directed elsewhere is change blindness."
+ },
+ {
+  "id": "SQ3",
+  "deck": 1,
+  "q": "In a crowded, noisy cafeteria, Eli is talking with one friend when he suddenly hears his own name from across the room. This is:",
+  "opts": [
+   "The cocktail party effect",
+   "Change blindness",
+   "The pop-out phenomenon",
+   "Weber's law"
+  ],
+  "ans": 0,
+  "exp": "Your brain can register your name even amongst background noise."
+ },
+ {
+  "id": "SQ4",
+  "deck": 1,
+  "q": "You see the word BLUE printed in red ink and must say the ink color. You answer more slowly than usual. This is:",
+  "opts": [
+   "The Stroop effect",
+   "Change blindness",
+   "Bottom-up processing",
+   "The difference threshold"
+  ],
+  "ans": 0,
+  "exp": "Stroop effect: delayed reaction time when you must say the color of a word, not the word."
+ },
+ {
+  "id": "SQ5",
+  "deck": 1,
+  "q": "Raj can taste one teaspoon of salt dissolved in two gallons of water about half the time. This is a measure of his:",
+  "opts": [
+   "Absolute threshold",
+   "Difference threshold",
+   "Selective attention",
+   "Top-down processing"
+  ],
+  "ans": 0,
+  "exp": "The weakest stimulus detected 50% of the time is the absolute threshold."
+ },
+ {
+  "id": "SQ6",
+  "deck": 1,
+  "q": "When Dana turns her car radio from 5 to 6, she doesn't notice, but from 5 to 10 she does. This shows her:",
+  "opts": [
+   "Difference threshold (just noticeable difference)",
+   "Absolute threshold",
+   "Inattentional blindness",
+   "Precognition"
+  ],
+  "ans": 0,
+  "exp": "The smallest change you notice 50% of the time is the difference threshold."
+ },
+ {
+  "id": "SQ7",
+  "deck": 1,
+  "q": "You can easily read \"Tihs is a vrey smiple snetecne\" even though the letters are scrambled. This is mainly:",
+  "opts": [
+   "Top-down processing",
+   "Bottom-up processing",
+   "The absolute threshold",
+   "Change blindness"
+  ],
+  "ans": 0,
+  "exp": "You read each word as a whole using what you already know. That's top-down."
+ },
+ {
+  "id": "SQ8",
+  "deck": 1,
+  "q": "A psychic tells police where a missing person's body is buried, though she never saw what happened. This claim is called:",
+  "opts": [
+   "Clairvoyance",
+   "Telepathy",
+   "Precognition",
+   "Selective attention"
+  ],
+  "ans": 0,
+  "exp": "Clairvoyance = perceiving events you didn't witness. There's no scientific basis for it."
+ }
+]

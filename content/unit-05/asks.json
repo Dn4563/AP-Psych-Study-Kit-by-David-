@@ -1,0 +1,4286 @@
+{
+ "Stress": [
+  {
+   "q": "During finals week, Leo gets headaches, his blood pressure rises, and he catches every cold. What best explains all three?",
+   "right": "Stress activating his fight-or-flight system",
+   "wrong": [
+    [
+     "Too much leptin from eating late at night during finals",
+     "Leptin signals fullness; stress explains these symptoms."
+    ],
+    [
+     "A lack of melatonin only",
+     "That would affect sleep, not all three."
+    ],
+    [
+     "His parasympathetic system calming him",
+     "That would lower stress."
+    ]
+   ],
+   "exp": "Stress activates the sympathetic system and cortisol, leading to hypertension, headaches and immunosuppression."
+  }
+ ],
+ "Cortisol": [
+  {
+   "q": "Which hormone rises in the body during long periods of stress?",
+   "right": "Cortisol",
+   "wrong": [
+    [
+     "Melatonin from the pineal gland at night",
+     "Melatonin regulates sleep."
+    ],
+    [
+     "Leptin",
+     "That signals fullness."
+    ],
+    [
+     "Oxytocin",
+     "That is the bonding hormone."
+    ]
+   ],
+   "exp": "Cortisol is a stress hormone."
+  }
+ ],
+ "Hypertension": [
+  {
+   "q": "A doctor tells a stressed CEO her blood pressure is too high. What is the medical term?",
+   "right": "Hypertension",
+   "wrong": [
+    [
+     "Immunosuppression, a weakened immune system",
+     "That is a weakened immune system."
+    ],
+    [
+     "Narcolepsy",
+     "That is a sleep disorder."
+    ],
+    [
+     "Eustress",
+     "That is good stress."
+    ]
+   ],
+   "exp": "Hypertension = high blood pressure."
+  }
+ ],
+ "Immunosuppression": [
+  {
+   "q": "Students who are stressed about exams get sick more often. What effect of stress explains this?",
+   "right": "Immunosuppression",
+   "wrong": [
+    [
+     "Hypertension, or high blood pressure",
+     "That is about blood pressure, not getting sick."
+    ],
+    [
+     "Eustress",
+     "That is motivating stress."
+    ],
+    [
+     "Tend-and-befriend",
+     "That is a stress response."
+    ]
+   ],
+   "exp": "Stress pushes the immune system down."
+  }
+ ],
+ "Eustress": [
+  {
+   "q": "Maya is nervous but excited about starting at a new school, and the challenge helps her grow. What kind of stress is this?",
+   "right": "Eustress",
+   "wrong": [
+    [
+     "Distress from a negative, debilitating event",
+     "Hers is motivating, not debilitating."
+    ],
+    [
+     "A catastrophe",
+     "That is a large-scale disaster."
+    ],
+    [
+     "A daily hassle",
+     "That is everyday annoyance."
+    ]
+   ],
+   "exp": "Eu = good: challenging but manageable stress."
+  }
+ ],
+ "Distress": [
+  {
+   "q": "After losing his job and his home, Carl feels overwhelmed and can't function. What kind of stress is this?",
+   "right": "Distress",
+   "wrong": [
+    [
+     "Eustress that motivates him to grow and improve",
+     "His stress is debilitating, not motivating."
+    ],
+    [
+     "Hypomania",
+     "That is a mood episode."
+    ],
+    [
+     "Tending",
+     "That is caring for others."
+    ]
+   ],
+   "exp": "Dis = bad stress."
+  }
+ ],
+ "Catastrophes": [
+  {
+   "q": "A hurricane destroys a whole town without warning. Which type of stressor is this?",
+   "right": "A catastrophe",
+   "wrong": [
+    [
+     "A daily hassle that everyone faces now and then",
+     "This is unpredictable and large-scale."
+    ],
+    [
+     "A significant life change",
+     "Those are personal events like divorce."
+    ],
+    [
+     "Eustress",
+     "This isn't good stress."
+    ]
+   ],
+   "exp": "Catastrophes are unpredictable, large-scale events."
+  }
+ ],
+ "Significant life changes": [
+  {
+   "q": "Which of these is a \"significant life change\" type of distress?",
+   "right": "The death of a loved one",
+   "wrong": [
+    [
+     "Getting stuck in traffic on the way to school",
+     "That is a daily hassle."
+    ],
+    [
+     "An earthquake",
+     "That is a catastrophe."
+    ],
+    [
+     "A dead phone battery",
+     "That is a daily hassle."
+    ]
+   ],
+   "exp": "Divorce or the death of a loved one."
+  }
+ ],
+ "Daily hassles": [
+  {
+   "q": "No Wi-Fi, a dead phone and a long line at lunch all in one day. What type of stress are these?",
+   "right": "Daily hassles",
+   "wrong": [
+    [
+     "Catastrophes that affect a whole community at once",
+     "These are everyday annoyances."
+    ],
+    [
+     "Significant life changes",
+     "These are small, not life-changing."
+    ],
+    [
+     "ACEs",
+     "Those are childhood traumas."
+    ]
+   ],
+   "exp": "Everyday distress."
+  }
+ ],
+ "Adverse Childhood Experiences (ACEs)": [
+  {
+   "q": "A researcher studies how growing up with abuse affects adult health. What is she studying?",
+   "right": "Adverse Childhood Experiences",
+   "wrong": [
+    [
+     "Daily hassles, the small annoyances of adult life",
+     "Those aren't childhood trauma."
+    ],
+    [
+     "Eustress",
+     "That is good stress."
+    ],
+    [
+     "The General Adaptation Syndrome",
+     "That is the body's response to ongoing stress."
+    ]
+   ],
+   "exp": "ACEs: stressful or traumatic events from ages 0 to 17."
+  }
+ ],
+ "Three types of ACEs": [
+  {
+   "q": "Which list names the three types of ACEs?",
+   "right": "Abuse, neglect, household dysfunction",
+   "wrong": [
+    [
+     "Alarm, resistance, exhaustion, recovery",
+     "Those are GAS stages (and recovery isn't one)."
+    ],
+    [
+     "Catastrophes, life changes, hassles",
+     "Those are types of distress."
+    ],
+    [
+     "Deviant, dysfunctional, distressing",
+     "Those are the 3 Ds."
+    ]
+   ],
+   "exp": "A-N-H: abuse, neglect, household."
+  }
+ ],
+ "ACE: Abuse": [
+  {
+   "q": "A child is regularly hit and yelled at by a parent. Which type of ACE is this?",
+   "right": "Abuse",
+   "wrong": [
+    [
+     "Household dysfunction like a parent in prison",
+     "This is direct harm to the child."
+    ],
+    [
+     "Neglect",
+     "Neglect is failing to meet needs."
+    ],
+    [
+     "A daily hassle",
+     "This is serious trauma."
+    ]
+   ],
+   "exp": "Physical, emotional or sexual abuse."
+  }
+ ],
+ "ACE: Neglect": [
+  {
+   "q": "A child is often left without food or attention for days. Which type of ACE is this?",
+   "right": "Neglect",
+   "wrong": [
+    [
+     "Abuse involving physical or emotional harm",
+     "Abuse is active harm; this is failing to meet needs."
+    ],
+    [
+     "Household dysfunction",
+     "That covers things like domestic violence."
+    ],
+    [
+     "A catastrophe",
+     "That is a disaster."
+    ]
+   ],
+   "exp": "Physical or emotional neglect."
+  }
+ ],
+ "ACE: Household dysfunction": [
+  {
+   "q": "A child grows up with a parent who is in prison. Which type of ACE is this?",
+   "right": "Household dysfunction",
+   "wrong": [
+    [
+     "Neglect of the child's basic physical needs",
+     "This is about the household situation."
+    ],
+    [
+     "Abuse",
+     "No one is directly harming the child here."
+    ],
+    [
+     "Eustress",
+     "This is not good stress."
+    ]
+   ],
+   "exp": "Includes substance abuse, domestic violence, mental illness or an incarcerated parent."
+  }
+ ],
+ "Health risks of ACEs": [
+  {
+   "q": "A doctor learns a patient had many ACEs. What should she watch for, according to your slides?",
+   "right": "Higher risks like heart disease and depression",
+   "wrong": [
+    [
+     "A stronger immune system from early exposure to stress",
+     "ACEs raise health risks."
+    ],
+    [
+     "Better coping skills in all cases",
+     "ACEs are linked to more problems."
+    ],
+    [
+     "No lasting effects after age 18",
+     "Effects continue into adulthood."
+    ]
+   ],
+   "exp": "ACEs are linked to obesity, heart disease, depression and more."
+  }
+ ],
+ "General Adaptation Syndrome (GAS)": [
+  {
+   "q": "Which model describes the body's response to ongoing stress in three stages?",
+   "right": "General Adaptation Syndrome",
+   "wrong": [
+    [
+     "Tend-and-befriend theory of seeking support",
+     "That is a stress response, not a three-stage model."
+    ],
+    [
+     "Gate control theory",
+     "That is about pain."
+    ],
+    [
+     "The 3 Ds",
+     "Those define disorders."
+    ]
+   ],
+   "exp": "Alarm, resistance, exhaustion."
+  }
+ ],
+ "Alarm stage": [
+  {
+   "q": "Right after a car nearly hits her, Ana's heart races and she's ready to run. Which GAS stage is she in?",
+   "right": "Alarm",
+   "wrong": [
+    [
+     "Resistance, as her body keeps adapting to stress",
+     "That comes after the first shock."
+    ],
+    [
+     "Exhaustion",
+     "That is when resources run out."
+    ],
+    [
+     "Recovery",
+     "That isn't a GAS stage."
+    ]
+   ],
+   "exp": "Alarm: fight-or-flight activates."
+  }
+ ],
+ "Resistance stage": [
+  {
+   "q": "Weeks into caring for a sick parent, Jon is still running on stress hormones and using up his reserves. Which GAS stage?",
+   "right": "Resistance",
+   "wrong": [
+    [
+     "Alarm, the first burst of fight-or-flight",
+     "That is the immediate reaction."
+    ],
+    [
+     "Exhaustion",
+     "His reserves aren't gone yet."
+    ],
+    [
+     "Eustress",
+     "That is a type of stress, not a stage."
+    ]
+   ],
+   "exp": "Resistance: still high stress, using up reserves."
+  }
+ ],
+ "Exhaustion stage": [
+  {
+   "q": "After months of nonstop stress, a nurse gets sick often and can't cope anymore. Which GAS stage is she in?",
+   "right": "Exhaustion",
+   "wrong": [
+    [
+     "Resistance, still holding up under the stress",
+     "Her resources are now depleted."
+    ],
+    [
+     "Alarm",
+     "That is the first reaction."
+    ],
+    [
+     "Tending",
+     "That is caring for others."
+    ]
+   ],
+   "exp": "Exhaustion: resources depleted, health problems follow."
+  }
+ ],
+ "Tend-and-befriend theory": [
+  {
+   "q": "After a stressful day, Keisha calls her friends and cooks for her kids instead of fighting or fleeing. Which theory describes this?",
+   "right": "Tend-and-befriend",
+   "wrong": [
+    [
+     "General Adaptation Syndrome of alarm, resistance and exhaustion",
+     "That describes stages of stress, not seeking support."
+    ],
+    [
+     "Gate control theory",
+     "That is about pain."
+    ],
+    [
+     "Opponent-process theory",
+     "That is about color."
+    ]
+   ],
+   "exp": "Seeking support and caring for others, observed mainly in women."
+  }
+ ],
+ "Tending": [
+  {
+   "q": "During a crisis, a mother focuses on protecting and comforting her children. Which part of tend-and-befriend is this?",
+   "right": "Tending",
+   "wrong": [
+    [
+     "Befriending, reaching out to friends for support",
+     "That is building social connections."
+    ],
+    [
+     "Problem-focused coping",
+     "That is solving the stressor itself."
+    ],
+    [
+     "Alarm",
+     "That is a GAS stage."
+    ]
+   ],
+   "exp": "Tending = caring for others."
+  }
+ ],
+ "Befriending": [
+  {
+   "q": "After a scare, a woman reaches out to her neighbors so they can support one another. Which part of tend-and-befriend is this?",
+   "right": "Befriending",
+   "wrong": [
+    [
+     "Tending, caring for and protecting children",
+     "That is caring for others."
+    ],
+    [
+     "Emotion-focused coping",
+     "That is managing feelings."
+    ],
+    [
+     "Resistance",
+     "That is a GAS stage."
+    ]
+   ],
+   "exp": "Befriending = strengthening social connections."
+  }
+ ],
+ "Problem-focused coping": [
+  {
+   "q": "Stressed about failing chemistry, Ben makes a study schedule and signs up for tutoring. What coping style is this?",
+   "right": "Problem-focused coping",
+   "wrong": [
+    [
+     "Emotion-focused coping, managing how he feels",
+     "He is changing the situation, not just his feelings."
+    ],
+    [
+     "Tending",
+     "That is caring for others."
+    ],
+    [
+     "Distress",
+     "That is a type of stress."
+    ]
+   ],
+   "exp": "Tackling the root cause of the stressor."
+  }
+ ],
+ "Emotion-focused coping": [
+  {
+   "q": "Unable to change her parents' divorce, Lia journals and meditates to feel calmer. What coping style is this?",
+   "right": "Emotion-focused coping",
+   "wrong": [
+    [
+     "Problem-focused coping, fixing the cause of stress",
+     "She can't change the stressor; she is managing feelings."
+    ],
+    [
+     "Befriending",
+     "That is building social connections."
+    ],
+    [
+     "Alarm",
+     "That is a GAS stage."
+    ]
+   ],
+   "exp": "Regulating your emotional response, not the stressor."
+  }
+ ],
+ "When is it a disorder? (the 3 Ds)": [
+  {
+   "q": "A professional decides whether someone's behavior is a disorder. Which three features does she look for?",
+   "right": "Deviant, dysfunctional, distressing",
+   "wrong": [
+    [
+     "Dangerous, delusional, dramatic, and diagnosed early",
+     "Those aren't the 3 Ds."
+    ],
+    [
+     "Abuse, neglect, dysfunction",
+     "Those are types of ACEs."
+    ],
+    [
+     "Alarm, resistance, exhaustion",
+     "Those are GAS stages."
+    ]
+   ],
+   "exp": "Deviant, dysfunctional/maladaptive and distressing."
+  }
+ ],
+ "Deviant": [
+  {
+   "q": "Talking loudly to yourself in a quiet library goes against social norms. Which of the 3 Ds does this describe?",
+   "right": "Deviant",
+   "wrong": [
+    [
+     "Dysfunctional, interfering with daily life",
+     "This is about breaking norms."
+    ],
+    [
+     "Distressing",
+     "That is about causing distress."
+    ],
+    [
+     "Maladaptive",
+     "That is another word for dysfunctional."
+    ]
+   ],
+   "exp": "Deviant = different from social norms."
+  }
+ ],
+ "Dysfunctional / maladaptive": [
+  {
+   "q": "Rita's fear of germs keeps her from going to work or school. Which of the 3 Ds does this show most clearly?",
+   "right": "Dysfunctional / maladaptive",
+   "wrong": [
+    [
+     "Deviant, going against social norms",
+     "The key point is that it stops her from functioning."
+    ],
+    [
+     "Distressing",
+     "It may be, but the key point is functioning."
+    ],
+    [
+     "Hypomanic",
+     "That is a mood episode."
+    ]
+   ],
+   "exp": "It interferes with daily functioning."
+  }
+ ],
+ "Distressing": [
+  {
+   "q": "Omar's thoughts cause him constant suffering, even though others don't notice anything unusual. Which of the 3 Ds is clearest?",
+   "right": "Distressing",
+   "wrong": [
+    [
+     "Deviant, since others see him as strange",
+     "Others don't notice anything."
+    ],
+    [
+     "Dysfunctional",
+     "The key point is his suffering."
+    ],
+    [
+     "Tending",
+     "That is caring for others."
+    ]
+   ],
+   "exp": "It causes distress for the person or others."
+  }
+ ],
+ "DSM-5": [
+  {
+   "q": "Which manual do U.S. clinicians use to classify mental disorders?",
+   "right": "The DSM-5",
+   "wrong": [
+    [
+     "The APA ethical guidelines for research studies",
+     "Those are for research ethics."
+    ],
+    [
+     "The Codex Mendoza",
+     "That is not psychology."
+    ],
+    [
+     "The ACE questionnaire",
+     "That measures childhood experiences."
+    ]
+   ],
+   "exp": "Diagnostic and Statistical Manual of Mental Disorders, 5th edition."
+  }
+ ],
+ "Biological explanation": [
+  {
+   "q": "A psychiatrist says a patient's depression comes from a serotonin imbalance. Which explanation is this?",
+   "right": "Biological",
+   "wrong": [
+    [
+     "Psychodynamic, about unconscious childhood conflicts",
+     "That would point to the unconscious."
+    ],
+    [
+     "Behavioral",
+     "That would point to learning."
+    ],
+    [
+     "Sociocultural",
+     "That would point to culture."
+    ]
+   ],
+   "exp": "Chemical imbalances, genetics and brain structure."
+  }
+ ],
+ "Psychodynamic explanation": [
+  {
+   "q": "A therapist says a patient's anxiety comes from unresolved childhood conflicts he isn't aware of. Which explanation is this?",
+   "right": "Psychodynamic",
+   "wrong": [
+    [
+     "Cognitive, about irrational thoughts he is aware of",
+     "That would point to conscious thinking patterns."
+    ],
+    [
+     "Biological",
+     "That would point to brain chemistry."
+    ],
+    [
+     "Evolutionary",
+     "That would point to survival."
+    ]
+   ],
+   "exp": "Unconscious thoughts and childhood experiences."
+  }
+ ],
+ "Behavioral explanation": [
+  {
+   "q": "A child fears dogs after being bitten and then avoids them, which keeps the fear going. Which explanation is this?",
+   "right": "Behavioral",
+   "wrong": [
+    [
+     "Humanistic, about not reaching full potential",
+     "That focuses on potential and support."
+    ],
+    [
+     "Biological",
+     "That focuses on the body."
+    ],
+    [
+     "Psychodynamic",
+     "That focuses on the unconscious."
+    ]
+   ],
+   "exp": "Responses learned through conditioning and reinforcement."
+  }
+ ],
+ "Cognitive explanation": [
+  {
+   "q": "A therapist says a student's depression comes from thinking \"I fail at everything.\" Which explanation is this?",
+   "right": "Cognitive",
+   "wrong": [
+    [
+     "Behavioral, about learned rewards and conditioning",
+     "That focuses on learning, not thoughts."
+    ],
+    [
+     "Biological",
+     "That focuses on chemistry."
+    ],
+    [
+     "Evolutionary",
+     "That focuses on survival."
+    ]
+   ],
+   "exp": "Maladaptive, irrational thoughts and beliefs."
+  }
+ ],
+ "Sociocultural explanation": [
+  {
+   "q": "A researcher links rising teen anxiety to social media pressure and family dynamics. Which explanation is this?",
+   "right": "Sociocultural",
+   "wrong": [
+    [
+     "Psychodynamic, about hidden childhood conflicts",
+     "That focuses on the unconscious."
+    ],
+    [
+     "Biological",
+     "That focuses on genes and chemistry."
+    ],
+    [
+     "Cognitive",
+     "That focuses on individual thoughts."
+    ]
+   ],
+   "exp": "Social and cultural relationships and dynamics."
+  }
+ ],
+ "Humanistic explanation": [
+  {
+   "q": "A counselor says a client's depression comes from lacking support and being unable to reach his potential. Which explanation is this?",
+   "right": "Humanistic",
+   "wrong": [
+    [
+     "Evolutionary, about traits that lower survival",
+     "That focuses on survival."
+    ],
+    [
+     "Behavioral",
+     "That focuses on conditioning."
+    ],
+    [
+     "Biological",
+     "That focuses on the body."
+    ]
+   ],
+   "exp": "Lack of support and unmet potential."
+  }
+ ],
+ "Evolutionary explanation": [
+  {
+   "q": "Which explanation looks at a disorder as behaviors and mental processes that reduce our chance of survival?",
+   "right": "Evolutionary",
+   "wrong": [
+    [
+     "Sociocultural, about social and cultural dynamics",
+     "That focuses on culture."
+    ],
+    [
+     "Cognitive",
+     "That focuses on thoughts."
+    ],
+    [
+     "Humanistic",
+     "That focuses on potential."
+    ]
+   ],
+   "exp": "Evolutionary: processes that reduce survival chances."
+  }
+ ],
+ "Intern syndrome": [
+  {
+   "q": "After reading about anxiety disorders, Zoe decides she has three of them. What does your slide warn about?",
+   "right": "Intern syndrome: don't diagnose yourself",
+   "wrong": [
+    [
+     "The Barnum effect, which only applies to horoscopes and readings",
+     "The slide names intern syndrome for this."
+    ],
+    [
+     "Hindsight bias",
+     "That is \"I knew it all along.\""
+    ],
+    [
+     "Tend-and-befriend",
+     "That is a stress response."
+    ]
+   ],
+   "exp": "Students often believe they have the conditions they study."
+  }
+ ],
+ "Anxiety disorders": [
+  {
+   "q": "Which group of disorders is defined by persistent, excessive worry and fear that interferes with daily life?",
+   "right": "Anxiety disorders",
+   "wrong": [
+    [
+     "Dissociative disorders, a disconnection from identity",
+     "Those involve disconnection, not mainly fear."
+    ],
+    [
+     "Personality disorders",
+     "Those are lasting patterns of behavior."
+    ],
+    [
+     "Neurodevelopmental disorders",
+     "Those begin in early childhood."
+    ]
+   ],
+   "exp": "GAD, panic disorder, phobias and others."
+  }
+ ],
+ "Specific phobia": [
+  {
+   "q": "Dana's fear of spiders is so intense she won't enter her own basement, though spiders there are harmless. What does she likely have?",
+   "right": "A specific phobia",
+   "wrong": [
+    [
+     "Generalized anxiety disorder about everyday things",
+     "GAD is worry about many things."
+    ],
+    [
+     "Agoraphobia",
+     "That is fear of places where escape is hard."
+    ],
+    [
+     "Panic disorder",
+     "That is about recurring panic attacks."
+    ]
+   ],
+   "exp": "Intense fear out of proportion to the actual threat."
+  }
+ ],
+ "Symptoms of specific phobias": [
+  {
+   "q": "Which symptom fits a specific phobia?",
+   "right": "Avoiding the feared object or situation",
+   "wrong": [
+    [
+     "Long periods of elevated mood and very little sleep",
+     "That is mania."
+    ],
+    [
+     "Losing memories of personal information",
+     "That is dissociative amnesia."
+    ],
+    [
+     "Hearing voices",
+     "That is a positive symptom of schizophrenia."
+    ]
+   ],
+   "exp": "Intense fear, avoidance, panic attacks, feeling out of control."
+  }
+ ],
+ "Agoraphobia": [
+  {
+   "q": "Marcus hasn't left his house in months because he fears crowds and public transportation. What does he likely have?",
+   "right": "Agoraphobia",
+   "wrong": [
+    [
+     "Social anxiety disorder, fear of being judged",
+     "His fear is about places and crowds, not judgment."
+    ],
+    [
+     "Specific phobia of one object",
+     "His fears cover many situations."
+    ],
+    [
+     "GAD",
+     "That is worry about everyday things."
+    ]
+   ],
+   "exp": "Anxiety about crowds, open or enclosed spaces, transport, being out alone."
+  }
+ ],
+ "Symptoms of agoraphobia": [
+  {
+   "q": "Which pattern fits agoraphobia?",
+   "right": "Staying home for fear of a panic attack",
+   "wrong": [
+    [
+     "Extreme mood swings between mania and depression",
+     "That is bipolar disorder."
+    ],
+    [
+     "Fidgeting and blurting out answers",
+     "Those are ADHD symptoms."
+    ],
+    [
+     "Hoarding",
+     "That is an OCD-related disorder."
+    ]
+   ],
+   "exp": "Avoidance, staying home and isolation, with fear of a panic attack."
+  }
+ ],
+ "Panic disorder": [
+  {
+   "q": "Jen has sudden attacks of terror with a racing heart several times a month and constantly worries about the next one. What does she likely have?",
+   "right": "Panic disorder",
+   "wrong": [
+    [
+     "Generalized anxiety disorder about many everyday things",
+     "GAD is constant worry, not sudden attacks."
+    ],
+    [
+     "Specific phobia",
+     "Her attacks aren't tied to one object."
+    ],
+    [
+     "Bipolar II",
+     "That is a mood disorder."
+    ]
+   ],
+   "exp": "Recurring sudden panic attacks."
+  }
+ ],
+ "Symptoms of panic disorder": [
+  {
+   "q": "Which two symptoms define panic disorder on your slides?",
+   "right": "Panic attacks and fear of having more",
+   "wrong": [
+    [
+     "Hallucinations and disorganized speech or behavior",
+     "Those are schizophrenia symptoms."
+    ],
+    [
+     "Inattention and impulsivity",
+     "Those are ADHD."
+    ],
+    [
+     "Binge eating and purging",
+     "That is bulimia."
+    ]
+   ],
+   "exp": "Panic attacks, plus anxiety about having panic attacks."
+  }
+ ],
+ "Social anxiety disorder (social phobia)": [
+  {
+   "q": "Ethan skips class presentations and parties because he's terrified of being judged and humiliated. What does he likely have?",
+   "right": "Social anxiety disorder",
+   "wrong": [
+    [
+     "Agoraphobia, fear of crowds and open spaces",
+     "His fear is about being judged."
+    ],
+    [
+     "Panic disorder",
+     "His fear is tied to social judgment."
+    ],
+    [
+     "Avoidant personality disorder only",
+     "His fear is centered on social situations where he's judged."
+    ]
+   ],
+   "exp": "Intense fear of social situations where one may be judged."
+  }
+ ],
+ "Symptoms of social anxiety disorder": [
+  {
+   "q": "Which symptom fits social anxiety disorder?",
+   "right": "Trouble making eye contact around others",
+   "wrong": [
+    [
+     "Believing you have special powers and a mission from God",
+     "That is a delusion of grandeur."
+    ],
+    [
+     "Losing track of time for days",
+     "That fits dissociative disorders."
+    ],
+    [
+     "Washing hands for hours",
+     "That fits OCD."
+    ]
+   ],
+   "exp": "Fear of embarrassment or rejection, trouble with eye contact or speaking."
+  }
+ ],
+ "Generalized anxiety disorder (GAD)": [
+  {
+   "q": "For over six months, Priya has worried constantly about grades, money, health and her family, with no single focus. What does she likely have?",
+   "right": "Generalized anxiety disorder",
+   "wrong": [
+    [
+     "Specific phobia of a single feared object",
+     "Her worry isn't about one object."
+    ],
+    [
+     "Panic disorder",
+     "She has constant worry, not sudden attacks."
+    ],
+    [
+     "Agoraphobia",
+     "Her worry isn't about places."
+    ]
+   ],
+   "exp": "Nonspecific, uncontrollable worry for at least 6 months."
+  }
+ ],
+ "Symptoms of GAD": [
+  {
+   "q": "Which set of symptoms fits GAD?",
+   "right": "Restlessness, fatigue, poor focus, sore muscles",
+   "wrong": [
+    [
+     "Hallucinations, delusions and disorganized speech or behavior",
+     "Those are schizophrenia symptoms."
+    ],
+    [
+     "Identity switches",
+     "That is DID."
+    ],
+    [
+     "Purging after meals",
+     "That is bulimia."
+    ]
+   ],
+   "exp": "Worry plus muscle aches, poor concentration, fatigue, irritability, restlessness, sleep trouble."
+  }
+ ],
+ "Behavioral cause of anxiety disorders": [
+  {
+   "q": "A girl watches her mother panic at every thunderstorm and develops the same fear. Which cause of anxiety does this show?",
+   "right": "Behavioral: modeling and learning",
+   "wrong": [
+    [
+     "Biological: low levels of GABA and serotonin in the brain",
+     "That is a chemical cause."
+    ],
+    [
+     "Genetic: inheriting the fear",
+     "The point here is watching and learning."
+    ],
+    [
+     "Cognitive only",
+     "The key is modeling."
+    ]
+   ],
+   "exp": "Anxiety can be learned by association or modeling."
+  }
+ ],
+ "Cognitive cause of anxiety disorders": [
+  {
+   "q": "A therapist says a client's anxiety comes from always expecting the worst. Which cause is this?",
+   "right": "Cognitive: maladaptive thinking",
+   "wrong": [
+    [
+     "Biological: hormone or neurotransmitter imbalances",
+     "That is a chemical cause."
+    ],
+    [
+     "Genetic",
+     "That is inherited predisposition."
+    ],
+    [
+     "Behavioral",
+     "That is learned association."
+    ]
+   ],
+   "exp": "Maladaptive thinking and emotional responses."
+  }
+ ],
+ "Biological cause of anxiety disorders": [
+  {
+   "q": "A doctor links a patient's anxiety to low GABA and serotonin. Which cause is this?",
+   "right": "Biological",
+   "wrong": [
+    [
+     "Cognitive, from always expecting the worst outcome",
+     "That is about thinking patterns."
+    ],
+    [
+     "Behavioral",
+     "That is about learning."
+    ],
+    [
+     "Sociocultural",
+     "That is about culture."
+    ]
+   ],
+   "exp": "Neurotransmitter and hormonal imbalances."
+  }
+ ],
+ "Genetic cause of anxiety disorders": [
+  {
+   "q": "Anxiety disorders run in Ken's family, even among relatives raised apart. Which cause does this suggest?",
+   "right": "Genetic predisposition",
+   "wrong": [
+    [
+     "Behavioral modeling of anxious relatives at home",
+     "They were raised apart, so modeling is less likely."
+    ],
+    [
+     "Cognitive",
+     "That is about thinking."
+    ],
+    [
+     "Catastrophes",
+     "That is a stressor type."
+    ]
+   ],
+   "exp": "A genetic predisposition."
+  }
+ ],
+ "Depressive disorders": [
+  {
+   "q": "Which group of disorders involves a sad, empty or irritable mood with physical and cognitive changes that hurt functioning?",
+   "right": "Depressive disorders",
+   "wrong": [
+    [
+     "Anxiety disorders, with fear and constant worry",
+     "Those center on fear and worry."
+    ],
+    [
+     "Dissociative disorders",
+     "Those involve disconnection."
+    ],
+    [
+     "Neurodevelopmental disorders",
+     "Those begin in childhood."
+    ]
+   ],
+   "exp": "Depressive disorders."
+  }
+ ],
+ "Depression quick facts": [
+  {
+   "q": "According to your slides, about how many U.S. adults does depression affect in a given year?",
+   "right": "Over 18 million (one in ten)",
+   "wrong": [
+    [
+     "About 500 people in every major U.S. city each year",
+     "The number is far larger."
+    ],
+    [
+     "One in a million",
+     "Far too small."
+    ],
+    [
+     "Nearly everyone",
+     "Far too large."
+    ]
+   ],
+   "exp": "Over 18 million U.S. adults; the leading cause of disability for ages 15–44."
+  }
+ ],
+ "Major depressive disorder (MDD)": [
+  {
+   "q": "For three weeks, Alex has felt hopeless, lost interest in everything and barely sleeps, a big change from before. What might he have?",
+   "right": "Major depressive disorder",
+   "wrong": [
+    [
+     "Persistent depressive disorder, lasting two years",
+     "That needs two years or more."
+    ],
+    [
+     "Bipolar I",
+     "He has no manic episodes."
+    ],
+    [
+     "GAD",
+     "That is worry, not low mood."
+    ]
+   ],
+   "exp": "MDD: symptoms for 2 weeks or more, a change from before."
+  }
+ ],
+ "Symptoms of major depressive disorder": [
+  {
+   "q": "Which symptom fits major depressive disorder?",
+   "right": "Losing interest in favorite activities",
+   "wrong": [
+    [
+     "Racing thoughts and a decreased need for sleep each night",
+     "Those are manic symptoms."
+    ],
+    [
+     "Fear of crowds",
+     "That is agoraphobia."
+    ],
+    [
+     "Blurting out answers",
+     "That is ADHD."
+    ]
+   ],
+   "exp": "Sadness, loss of interest, weight and sleep changes and more."
+  }
+ ],
+ "Persistent depressive disorder": [
+  {
+   "q": "For over two years, Nora has felt low most of the day on most days, without any manic episodes. What fits best?",
+   "right": "Persistent depressive disorder",
+   "wrong": [
+    [
+     "Major depressive disorder lasting a few weeks at most",
+     "MDD needs only 2 weeks; hers has lasted years."
+    ],
+    [
+     "Bipolar II",
+     "She has no hypomanic episodes."
+    ],
+    [
+     "Panic disorder",
+     "That involves panic attacks."
+    ]
+   ],
+   "exp": "Depression most days for two years or more."
+  }
+ ],
+ "Causes of depressive disorders": [
+  {
+   "q": "Twin studies show depression often runs in families. Which cause does this support?",
+   "right": "A genetic component",
+   "wrong": [
+    [
+     "Too much dopamine causing hallucinations and delusions",
+     "That is linked to schizophrenia."
+    ],
+    [
+     "Teratogens",
+     "Those affect development before birth."
+    ],
+    [
+     "Gate control",
+     "That is about pain."
+    ]
+   ],
+   "exp": "Genetic, biological and environmental causes."
+  }
+ ],
+ "Bipolar disorders": [
+  {
+   "q": "Sam swings between weeks of extreme energy and weeks of deep sadness. Which group of disorders fits?",
+   "right": "Bipolar disorders",
+   "wrong": [
+    [
+     "Depressive disorders, which have low mood only",
+     "Those don't include manic highs."
+    ],
+    [
+     "Anxiety disorders",
+     "Those center on fear."
+    ],
+    [
+     "Dissociative disorders",
+     "Those involve disconnection."
+    ]
+   ],
+   "exp": "Bi = two poles: mania and depression."
+  }
+ ],
+ "Manic episode": [
+  {
+   "q": "For a week, Jay barely sleeps, talks rapidly, feels invincible and spends his savings on impulse. What is he experiencing?",
+   "right": "A manic episode",
+   "wrong": [
+    [
+     "A depressive episode with fatigue and hopelessness",
+     "His mood is elevated, not low."
+    ],
+    [
+     "A panic attack",
+     "That is a sudden burst of fear."
+    ],
+    [
+     "Dissociative fugue",
+     "That is sudden travel with memory loss."
+    ]
+   ],
+   "exp": "Elevated mood, energy, little sleep, grandiosity, impulsivity."
+  }
+ ],
+ "Depressive episode (bipolar)": [
+  {
+   "q": "Between her highs, a woman with bipolar disorder feels hopeless, tired and can't make decisions. What is this phase?",
+   "right": "A depressive episode",
+   "wrong": [
+    [
+     "A hypomanic episode with milder high energy",
+     "Her mood is low."
+    ],
+    [
+     "A manic episode",
+     "Her mood is low, not high."
+    ],
+    [
+     "A panic attack",
+     "That is a burst of fear."
+    ]
+   ],
+   "exp": "Sadness, hopelessness, fatigue and poor concentration."
+  }
+ ],
+ "Bipolar I": [
+  {
+   "q": "A patient has full manic episodes with hallucinations and needs hospitalization. Which disorder fits?",
+   "right": "Bipolar I",
+   "wrong": [
+    [
+     "Bipolar II, which has milder hypomanic episodes",
+     "Bipolar II has no psychosis or full mania."
+    ],
+    [
+     "Persistent depressive disorder",
+     "That has no mania."
+    ],
+    [
+     "GAD",
+     "That is an anxiety disorder."
+    ]
+   ],
+   "exp": "Bipolar I: full-blown mania, possibly with psychosis."
+  }
+ ],
+ "Bipolar II": [
+  {
+   "q": "A patient has periods of depression and milder high-energy episodes, but never full mania or psychosis. Which disorder fits?",
+   "right": "Bipolar II",
+   "wrong": [
+    [
+     "Bipolar I, with full mania and possible psychosis",
+     "Bipolar I has full mania."
+    ],
+    [
+     "Major depressive disorder",
+     "That has no highs."
+    ],
+    [
+     "Schizophrenia",
+     "That is a psychotic disorder."
+    ]
+   ],
+   "exp": "Bipolar II: hypomania, no psychosis."
+  }
+ ],
+ "Hypomanic episode": [
+  {
+   "q": "In Bipolar II, the \"high\" periods are less extreme than full mania. What are they called?",
+   "right": "Hypomanic episodes",
+   "wrong": [
+    [
+     "Manic episodes with extreme euphoria and psychosis",
+     "Those are full-blown mania."
+    ],
+    [
+     "Panic attacks",
+     "Those are bursts of fear."
+    ],
+    [
+     "Dissociative episodes",
+     "Those involve disconnection."
+    ]
+   ],
+   "exp": "Hypo = under mania."
+  }
+ ],
+ "Causes of bipolar disorder": [
+  {
+   "q": "Which is the strongest indicator of bipolar disorder risk on your slides?",
+   "right": "Family history",
+   "wrong": [
+    [
+     "Eating too much sugar during childhood and the teen years",
+     "Not on your slides."
+    ],
+    [
+     "A single stressful day",
+     "That alone isn't a cause."
+    ],
+    [
+     "Being left-handed",
+     "Not on your slides."
+    ]
+   ],
+   "exp": "Genetics (family history) is a strong indicator, plus biological factors."
+  }
+ ],
+ "Neurodevelopmental disorders": [
+  {
+   "q": "Which group of disorders involves central nervous system issues that start to appear in early childhood?",
+   "right": "Neurodevelopmental disorders",
+   "wrong": [
+    [
+     "Personality disorders, lasting patterns that start in adulthood",
+     "Those are diagnosed later."
+    ],
+    [
+     "Dissociative disorders",
+     "Those usually follow trauma."
+    ],
+    [
+     "Anxiety disorders",
+     "Those center on fear."
+    ]
+   ],
+   "exp": "ADHD and ASD are neurodevelopmental disorders."
+  }
+ ],
+ "Causes of neurodevelopmental disorders": [
+  {
+   "q": "Which best describes the causes of neurodevelopmental disorders on your slides?",
+   "right": "Genes plus environmental factors",
+   "wrong": [
+    [
+     "A single gene inherited from the father in every case",
+     "Usually there isn't a single cause."
+    ],
+    [
+     "Bad parenting alone",
+     "Not on your slides."
+    ],
+    [
+     "Watching too much TV",
+     "Not on your slides."
+    ]
+   ],
+   "exp": "A combination of genetic/biological and environmental factors."
+  }
+ ],
+ "High heritability": [
+  {
+   "q": "ADHD and ASD both tend to run in families. What does this suggest?",
+   "right": "A strong genetic component",
+   "wrong": [
+    [
+     "They are caused only by teratogens before birth",
+     "Running in families points to genes."
+    ],
+    [
+     "They are learned by imitation",
+     "Not on your slides."
+    ],
+    [
+     "They are caused by stress",
+     "Not on your slides."
+    ]
+   ],
+   "exp": "High heritability."
+  }
+ ],
+ "Teratogens": [
+  {
+   "q": "A pregnant woman drinks alcohol, and her baby is born with developmental problems. What was the alcohol in this case?",
+   "right": "A teratogen",
+   "wrong": [
+    [
+     "A neurotransmitter that carries messages between neurons",
+     "Alcohol isn't a neurotransmitter."
+    ],
+    [
+     "An ACE",
+     "ACEs happen after birth, in childhood."
+    ],
+    [
+     "A hormone",
+     "Alcohol isn't a hormone."
+    ]
+   ],
+   "exp": "Harmful substances before birth."
+  }
+ ],
+ "ADHD": [
+  {
+   "q": "A boy constantly fidgets, can't wait his turn and loses focus in every class, at home and school. Which disorder fits?",
+   "right": "ADHD",
+   "wrong": [
+    [
+     "Autism spectrum disorder with repetitive behavior",
+     "ASD centers on social contact and repetitive behaviors."
+    ],
+    [
+     "GAD",
+     "That is anxiety."
+    ],
+    [
+     "Bipolar II",
+     "That is a mood disorder."
+    ]
+   ],
+   "exp": "Inattention and/or hyperactivity-impulsivity that interferes with functioning."
+  }
+ ],
+ "ADHD symptom count": [
+  {
+   "q": "How many symptoms are needed for an ADHD diagnosis in a 10-year-old?",
+   "right": "Six or more",
+   "wrong": [
+    [
+     "Five or more, the number used for adults",
+     "Five is for ages 17 and older."
+    ],
+    [
+     "Three or more",
+     "Not enough."
+    ],
+    [
+     "Eleven",
+     "That is the number of substance use disorder criteria."
+    ]
+   ],
+   "exp": "6 for kids, 5 for 17 and older."
+  }
+ ],
+ "Inattention symptoms": [
+  {
+   "q": "Which is an inattention symptom of ADHD?",
+   "right": "Often losing things",
+   "wrong": [
+    [
+     "Running and climbing when it isn't appropriate",
+     "That is hyperactivity."
+    ],
+    [
+     "Blurting out answers",
+     "That is impulsivity."
+    ],
+    [
+     "Talking excessively",
+     "That is hyperactivity."
+    ]
+   ],
+   "exp": "Not listening, not following instructions, losing things, easily distracted."
+  }
+ ],
+ "Hyperactivity symptoms": [
+  {
+   "q": "Which is a hyperactivity symptom of ADHD?",
+   "right": "Fidgeting",
+   "wrong": [
+    [
+     "Not following instructions on multi-step tasks",
+     "That is inattention."
+    ],
+    [
+     "Interrupting others",
+     "That is impulsivity."
+    ],
+    [
+     "Avoiding tasks that need focus",
+     "That is inattention."
+    ]
+   ],
+   "exp": "Fidgety, running and climbing, talking excessively."
+  }
+ ],
+ "Impulsivity symptoms": [
+  {
+   "q": "Which is an impulsivity symptom of ADHD?",
+   "right": "Blurting out answers",
+   "wrong": [
+    [
+     "Losing homework and school supplies very often",
+     "That is inattention."
+    ],
+    [
+     "Fidgeting",
+     "That is hyperactivity."
+    ],
+    [
+     "Climbing on furniture",
+     "That is hyperactivity."
+    ]
+   ],
+   "exp": "Blurting, trouble waiting, interrupting."
+  }
+ ],
+ "Other ADHD criteria": [
+  {
+   "q": "A 15-year-old shows ADHD symptoms only at school, starting this year. Why would an ADHD diagnosis be unlikely?",
+   "right": "Symptoms must start before 12, in 2+ settings",
+   "wrong": [
+    [
+     "ADHD can only be diagnosed after the age of 18",
+     "It is usually diagnosed in childhood."
+    ],
+    [
+     "Symptoms must appear only at school",
+     "They must appear in two or more settings."
+    ],
+    [
+     "ADHD needs 11 symptoms",
+     "Not the rule."
+    ]
+   ],
+   "exp": "Several symptoms before age 12, in two or more settings."
+  }
+ ],
+ "ADHD onset": [
+  {
+   "q": "At about what age does ADHD typically begin?",
+   "right": "Around age eight",
+   "wrong": [
+    [
+     "Around age 25, in early adulthood after college",
+     "Onset is in childhood."
+    ],
+    [
+     "At birth",
+     "Diagnosing that early is difficult."
+    ],
+    [
+     "In old age",
+     "It starts in childhood."
+    ]
+   ],
+   "exp": "Average onset around age eight."
+  }
+ ],
+ "Autism spectrum disorder (ASD)": [
+  {
+   "q": "A child avoids eye contact and social play, is very sensitive to loud noises, and repeats the same actions. Which disorder fits?",
+   "right": "Autism spectrum disorder",
+   "wrong": [
+    [
+     "ADHD, with inattention and hyperactivity",
+     "ADHD centers on attention and activity, not these social and sensory signs."
+    ],
+    [
+     "Social anxiety disorder",
+     "That is fear of judgment."
+    ],
+    [
+     "Schizophrenia",
+     "That is a psychotic disorder."
+    ]
+   ],
+   "exp": "Less social contact, sensory sensitivity, repetitive behaviors."
+  }
+ ],
+ "Why \"spectrum\"?": [
+  {
+   "q": "Why is autism called a \"spectrum\" disorder?",
+   "right": "Symptoms range from mild to severe",
+   "wrong": [
+    [
+     "It only affects people who see colors very differently",
+     "Not related to color."
+    ],
+    [
+     "It has exactly three types",
+     "Not on your slides."
+    ],
+    [
+     "It always gets worse with age",
+     "Not on your slides."
+    ]
+   ],
+   "exp": "The symptoms range from mild to severe."
+  }
+ ],
+ "ASD statistics": [
+  {
+   "q": "According to your slides, how much more common is ASD among boys than girls?",
+   "right": "Over 3 times",
+   "wrong": [
+    [
+     "About the same among boys and girls at every age",
+     "It is over 3 times more common in boys."
+    ],
+    [
+     "Twice as common in girls",
+     "It is more common in boys."
+    ],
+    [
+     "Ten times",
+     "Not on your slides."
+    ]
+   ],
+   "exp": "About 1 in 31 eight-year-olds; over 3 times more common in boys."
+  }
+ ],
+ "Dissociative disorders": [
+  {
+   "q": "Which group of disorders involves a loss of connection between memories, identity and surroundings, often as an escape from reality?",
+   "right": "Dissociative disorders",
+   "wrong": [
+    [
+     "Anxiety disorders, centered on fear and constant worry",
+     "Those center on fear."
+    ],
+    [
+     "Mood disorders",
+     "Those center on mood."
+    ],
+    [
+     "Eating disorders",
+     "Those center on food and weight."
+    ]
+   ],
+   "exp": "Dissociative disorders: disconnection from thoughts, memory and identity."
+  }
+ ],
+ "Cause of dissociative disorders": [
+  {
+   "q": "What is the most common cause of dissociative disorders, according to your slides?",
+   "right": "Severe trauma or major stress",
+   "wrong": [
+    [
+     "Too much caffeine and other stimulants over many years",
+     "Not on your slides."
+    ],
+    [
+     "A dopamine imbalance",
+     "That is linked to schizophrenia."
+    ],
+    [
+     "Teratogens",
+     "Those affect development before birth."
+    ]
+   ],
+   "exp": "Severe trauma or major stress."
+  }
+ ],
+ "Symptoms of dissociative disorders": [
+  {
+   "q": "Which set of symptoms fits dissociative disorders?",
+   "right": "Memory loss, detachment, identity confusion",
+   "wrong": [
+    [
+     "Fidgeting, blurting out answers and talking too much",
+     "Those are ADHD symptoms."
+    ],
+    [
+     "Binge eating and purging",
+     "That is bulimia."
+    ],
+    [
+     "Fear of crowds",
+     "That is agoraphobia."
+    ]
+   ],
+   "exp": "Memory loss, identity confusion, detachment, reasoning trouble, mood changes."
+  }
+ ],
+ "Dissociative amnesia": [
+  {
+   "q": "After surviving a violent attack, a woman can't remember the event or the days around it. What does she likely have?",
+   "right": "Dissociative amnesia",
+   "wrong": [
+    [
+     "Dissociative identity disorder with several alters",
+     "There is no sign of separate identities."
+    ],
+    [
+     "Alzheimer's disease",
+     "That is a gradual brain disease."
+    ],
+    [
+     "Narcolepsy",
+     "That is a sleep disorder."
+    ]
+   ],
+   "exp": "Inability to recall important personal information, usually tied to trauma."
+  }
+ ],
+ "Symptoms of dissociative amnesia": [
+  {
+   "q": "Which symptom fits dissociative amnesia?",
+   "right": "Losing personal life memories",
+   "wrong": [
+    [
+     "Hearing voices that tell you what to do each day",
+     "That is a hallucination (schizophrenia)."
+    ],
+    [
+     "Constant worry",
+     "That is GAD."
+    ],
+    [
+     "Extreme mood swings",
+     "That is bipolar disorder."
+    ]
+   ],
+   "exp": "Inability to remember events or periods; loss of autobiographical information."
+  }
+ ],
+ "Fugue state": [
+  {
+   "q": "A man is found in a city 300 miles away with no idea who he is or how he got there. What happened?",
+   "right": "A fugue state",
+   "wrong": [
+    [
+     "A manic episode with grandiose plans and travel",
+     "Mania doesn't erase identity."
+    ],
+    [
+     "Sleepwalking",
+     "He traveled far while awake."
+    ],
+    [
+     "A panic attack",
+     "That is a burst of fear."
+    ]
+   ],
+   "exp": "Wandering or traveling without awareness of identity."
+  }
+ ],
+ "Dissociative identity disorder (DID)": [
+  {
+   "q": "A patient has two distinct personalities with different names, memories and ways of speaking. What disorder fits?",
+   "right": "Dissociative identity disorder",
+   "wrong": [
+    [
+     "Schizophrenia, with hallucinations and delusions",
+     "Schizophrenia isn't multiple personalities."
+    ],
+    [
+     "Bipolar I",
+     "That is mood swings."
+    ],
+    [
+     "Borderline personality disorder",
+     "That is unstable mood and relationships."
+    ]
+   ],
+   "exp": "Two or more distinct personality states."
+  }
+ ],
+ "Alters": [
+  {
+   "q": "In DID, what are the separate personality states called?",
+   "right": "Alters",
+   "wrong": [
+    [
+     "Delusions, false beliefs about the world",
+     "Those are false beliefs."
+    ],
+    [
+     "Obsessions",
+     "Those are intrusive thoughts."
+    ],
+    [
+     "Hallucinations",
+     "Those are false perceptions."
+    ]
+   ],
+   "exp": "Alters each have their own identity, memories and behaviors."
+  }
+ ],
+ "Symptoms of DID": [
+  {
+   "q": "Which symptom fits dissociative identity disorder?",
+   "right": "Gaps in memory and shifts in identity",
+   "wrong": [
+    [
+     "Repeatedly checking that the door is locked before leaving",
+     "That is OCD."
+    ],
+    [
+     "A fear of being judged",
+     "That is social anxiety."
+    ],
+    [
+     "Refusing to eat",
+     "That fits anorexia."
+    ]
+   ],
+   "exp": "Distinct personality states, identity shifts, memory gaps."
+  }
+ ],
+ "Schizophrenia": [
+  {
+   "q": "A patient hears voices, believes the TV sends him messages, and his speech jumps randomly between topics. Which disorder fits?",
+   "right": "Schizophrenia",
+   "wrong": [
+    [
+     "Dissociative identity disorder with several alters",
+     "DID involves separate identities, not psychosis."
+    ],
+    [
+     "Bipolar II",
+     "That has no psychosis."
+    ],
+    [
+     "GAD",
+     "That is worry."
+    ]
+   ],
+   "exp": "Schizophrenia is a psychotic disorder."
+  }
+ ],
+ "Positive symptoms": [
+  {
+   "q": "Hallucinations and delusions are called \"positive\" symptoms. Why?",
+   "right": "They add something not normally there",
+   "wrong": [
+    [
+     "They are good signs that the patient will soon recover",
+     "Positive doesn't mean good."
+    ],
+    [
+     "They respond well to praise",
+     "Not related."
+    ],
+    [
+     "They happen only in happy moods",
+     "Not related."
+    ]
+   ],
+   "exp": "Positive = added, not \"good.\""
+  }
+ ],
+ "Delusions": [
+  {
+   "q": "A woman is sure she is secretly the queen of England, despite all evidence. What symptom is this?",
+   "right": "A delusion",
+   "wrong": [
+    [
+     "A hallucination, a false perception of the senses",
+     "A hallucination is a false perception; this is a false belief."
+    ],
+    [
+     "Flat affect",
+     "That is no emotional expression."
+    ],
+    [
+     "Word salad",
+     "That is jumbled speech."
+    ]
+   ],
+   "exp": "Delusion = false belief."
+  }
+ ],
+ "Delusions of grandeur": [
+  {
+   "q": "A man insists he has been chosen to save the world and has special powers. What type of delusion is this?",
+   "right": "A delusion of grandeur",
+   "wrong": [
+    [
+     "A delusion of persecution, that people are out to get him",
+     "His belief is about his importance."
+    ],
+    [
+     "A hallucination",
+     "That is a false perception."
+    ],
+    [
+     "Hypervigilance",
+     "That is a PTSD symptom."
+    ]
+   ],
+   "exp": "False beliefs about one's own importance."
+  }
+ ],
+ "Delusions of persecution": [
+  {
+   "q": "A woman is convinced her neighbors are poisoning her food and spying on her. What type of delusion is this?",
+   "right": "A delusion of persecution",
+   "wrong": [
+    [
+     "A delusion of grandeur about her own importance",
+     "Her belief is that others are out to get her."
+    ],
+    [
+     "A compulsion",
+     "That is a repetitive behavior."
+    ],
+    [
+     "A fugue state",
+     "That is travel without awareness of identity."
+    ]
+   ],
+   "exp": "Paranoia: others are out to get you."
+  }
+ ],
+ "Hallucinations": [
+  {
+   "q": "A patient hears voices commenting on everything he does, though no one is there. What symptom is this?",
+   "right": "A hallucination",
+   "wrong": [
+    [
+     "A delusion, a false belief held despite evidence",
+     "A delusion is a belief; this is a false perception."
+    ],
+    [
+     "An obsession",
+     "That is an intrusive thought."
+    ],
+    [
+     "Catatonic stupor",
+     "That is no movement."
+    ]
+   ],
+   "exp": "Hallucination = false perception."
+  }
+ ],
+ "Disorganized thinking/speech": [
+  {
+   "q": "A patient answers, \"The cat sky drives purple running.\" What symptom is this?",
+   "right": "Disorganized speech",
+   "wrong": [
+    [
+     "Flat affect, a lack of emotional expression",
+     "That is about emotion, not speech."
+    ],
+    [
+     "A delusion of grandeur",
+     "That is a false belief."
+    ],
+    [
+     "Catatonic stupor",
+     "That is no movement."
+    ]
+   ],
+   "exp": "Word salad, jumping topics or rhyming."
+  }
+ ],
+ "Word salad": [
+  {
+   "q": "Words strung together in a jumbled way that makes no sense are a sign of what?",
+   "right": "Disorganized speech",
+   "wrong": [
+    [
+     "Broca's aphasia, with short but meaningful phrases",
+     "Not the term on this card."
+    ],
+    [
+     "Social anxiety",
+     "That is fear of judgment."
+    ],
+    [
+     "Hypomania",
+     "That is a milder high."
+    ]
+   ],
+   "exp": "Word salad is a sign of disorganized speech."
+  }
+ ],
+ "Disorganized motor movement": [
+  {
+   "q": "A patient moves in silly, childlike, purposeless ways. Which positive symptom is this?",
+   "right": "Disorganized motor movement",
+   "wrong": [
+    [
+     "Catatonic stupor, where there is no movement at all",
+     "That is a negative symptom: no movement."
+    ],
+    [
+     "Flat affect",
+     "That is emotional."
+    ],
+    [
+     "Hallucination",
+     "That is perception."
+    ]
+   ],
+   "exp": "Childlike, excessive, silly or purposeless movement."
+  }
+ ],
+ "Negative symptoms": [
+  {
+   "q": "A patient shows no emotion, barely moves and has lost all motivation. What kind of symptoms are these?",
+   "right": "Negative symptoms",
+   "wrong": [
+    [
+     "Positive symptoms like hallucinations and delusions",
+     "Positive symptoms add something; these are absences."
+    ],
+    [
+     "Manic symptoms",
+     "Those are elevated mood."
+    ],
+    [
+     "Dissociative symptoms",
+     "Those involve disconnection."
+    ]
+   ],
+   "exp": "Negative = missing: flat affect, catatonia, lack of motivation."
+  }
+ ],
+ "Flat affect": [
+  {
+   "q": "A patient describes his father's death in the same flat, expressionless tone as his breakfast. Which symptom is this?",
+   "right": "Flat affect",
+   "wrong": [
+    [
+     "Word salad, jumbled and meaningless speech",
+     "His speech makes sense."
+    ],
+    [
+     "A delusion",
+     "That is a false belief."
+    ],
+    [
+     "Hypervigilance",
+     "That is always being on guard."
+    ]
+   ],
+   "exp": "A lack of emotional expression."
+  }
+ ],
+ "Catatonic stupor": [
+  {
+   "q": "A patient sits completely still for hours, not responding or moving. Which symptom is this?",
+   "right": "Catatonic stupor",
+   "wrong": [
+    [
+     "Disorganized motor movement that is silly and childlike",
+     "That is excessive movement, the opposite."
+    ],
+    [
+     "A fugue state",
+     "That involves travel."
+    ],
+    [
+     "A panic attack",
+     "That is a burst of fear."
+    ]
+   ],
+   "exp": "No movement: a negative symptom."
+  }
+ ],
+ "Causes of schizophrenia": [
+  {
+   "q": "Which is listed as a possible cause of schizophrenia on your slides?",
+   "right": "Prenatal exposure to certain viruses",
+   "wrong": [
+    [
+     "Being raised by a strict parent who set high standards",
+     "Not on your slides."
+    ],
+    [
+     "Eating too much sugar",
+     "Not on your slides."
+    ],
+    [
+     "Too little dopamine",
+     "Excess dopamine is the hypothesis."
+    ]
+   ],
+   "exp": "Genes, prenatal viruses (teratogens) and neurotransmitter imbalances."
+  }
+ ],
+ "Dopamine hypothesis": [
+  {
+   "q": "Antipsychotic drugs that block dopamine reduce hallucinations. Which theory does this support?",
+   "right": "The dopamine hypothesis",
+   "wrong": [
+    [
+     "The diathesis-stress model of stress triggering a predisposition",
+     "That is about stress triggering a predisposition."
+    ],
+    [
+     "Gate control theory",
+     "That is about pain."
+    ],
+    [
+     "Tend-and-befriend",
+     "That is a stress response."
+    ]
+   ],
+   "exp": "Too much dopamine activity may cause positive symptoms."
+  }
+ ],
+ "Diathesis-stress model": [
+  {
+   "q": "Identical twins share a genetic risk for schizophrenia, but only the one who goes through intense stress develops it. Which model explains this?",
+   "right": "The diathesis-stress model",
+   "wrong": [
+    [
+     "The dopamine hypothesis about too much dopamine",
+     "That doesn't explain why only one twin developed it."
+    ],
+    [
+     "The General Adaptation Syndrome",
+     "That describes stress stages."
+    ],
+    [
+     "The 3 Ds",
+     "Those define disorders."
+    ]
+   ],
+   "exp": "Stress can trigger a genetic predisposition."
+  }
+ ],
+ "Diathesis": [
+  {
+   "q": "In the diathesis-stress model, what is the \"diathesis\"?",
+   "right": "A genetic or biological predisposition",
+   "wrong": [
+    [
+     "A stressful event like a divorce or the loss of a job",
+     "That is the stress part."
+    ],
+    [
+     "A type of therapy",
+     "Not a treatment."
+    ],
+    [
+     "A hallucination",
+     "That is a symptom."
+    ]
+   ],
+   "exp": "Diathesis = predisposition."
+  }
+ ],
+ "Obsessive-compulsive & related disorders": [
+  {
+   "q": "OCD, hoarding, hair-pulling and skin-picking are grouped together. What is the group called?",
+   "right": "Obsessive-compulsive & related disorders",
+   "wrong": [
+    [
+     "Anxiety disorders, as in older versions of the DSM",
+     "The DSM-5 moved them to their own category."
+    ],
+    [
+     "Dissociative disorders",
+     "Those involve disconnection."
+    ],
+    [
+     "Personality disorders",
+     "Those are enduring patterns."
+    ]
+   ],
+   "exp": "OCD and related disorders."
+  }
+ ],
+ "Their own DSM-5 category": [
+  {
+   "q": "Where were OCD and hoarding placed in older versions of the DSM, before getting their own category?",
+   "right": "Under anxiety disorders",
+   "wrong": [
+    [
+     "Under personality disorders, as Cluster C problems",
+     "They were with anxiety disorders."
+    ],
+    [
+     "Under eating disorders",
+     "No."
+    ],
+    [
+     "Under mood disorders",
+     "No."
+    ]
+   ],
+   "exp": "The DSM-5 gave them their own category."
+  }
+ ],
+ "Trichotillomania": [
+  {
+   "q": "A teen repeatedly pulls out her own hair and can't stop. Which disorder fits?",
+   "right": "Trichotillomania",
+   "wrong": [
+    [
+     "Excoriation disorder, which involves picking at the skin",
+     "Excoriation is skin-picking."
+    ],
+    [
+     "Hoarding disorder",
+     "That is difficulty discarding things."
+    ],
+    [
+     "Anorexia",
+     "That is an eating disorder."
+    ]
+   ],
+   "exp": "Hair-pulling disorder."
+  }
+ ],
+ "Excoriation disorder": [
+  {
+   "q": "A man picks at his skin until it bleeds and can't stop. Which disorder fits?",
+   "right": "Excoriation disorder",
+   "wrong": [
+    [
+     "Trichotillomania, which involves pulling out hair",
+     "That is hair-pulling."
+    ],
+    [
+     "Hoarding disorder",
+     "That is keeping possessions."
+    ],
+    [
+     "Hypervigilance",
+     "That is a PTSD symptom."
+    ]
+   ],
+   "exp": "Skin-picking disorder."
+  }
+ ],
+ "OCD": [
+  {
+   "q": "Every night, Ava worries her house will burn down and checks the stove 20 times before bed. Which disorder fits?",
+   "right": "OCD",
+   "wrong": [
+    [
+     "Generalized anxiety disorder about many everyday things",
+     "Her worry leads to a specific repeated ritual."
+    ],
+    [
+     "Specific phobia",
+     "She isn't avoiding a feared object."
+    ],
+    [
+     "Hoarding disorder",
+     "She isn't keeping possessions."
+    ]
+   ],
+   "exp": "Obsessions plus compulsions."
+  }
+ ],
+ "Obsessions": [
+  {
+   "q": "In OCD, constant intrusive thoughts that germs are everywhere are called what?",
+   "right": "Obsessions",
+   "wrong": [
+    [
+     "Compulsions, the repeated actions to reduce anxiety",
+     "Compulsions are the actions."
+    ],
+    [
+     "Delusions",
+     "Those are false beliefs in psychosis."
+    ],
+    [
+     "Hallucinations",
+     "Those are false perceptions."
+    ]
+   ],
+   "exp": "Obsessions = thoughts."
+  }
+ ],
+ "Compulsions": [
+  {
+   "q": "In OCD, washing your hands 50 times a day to ease anxiety is called what?",
+   "right": "A compulsion",
+   "wrong": [
+    [
+     "An obsession, an intrusive and recurring thought",
+     "Obsessions are the thoughts."
+    ],
+    [
+     "A delusion",
+     "That is a false belief."
+    ],
+    [
+     "Tending",
+     "That is caring for others."
+    ]
+   ],
+   "exp": "Compulsions = actions."
+  }
+ ],
+ "The OCD cycle": [
+  {
+   "q": "Which order shows the OCD cycle?",
+   "right": "Obsession, distress, compulsion, relief",
+   "wrong": [
+    [
+     "Compulsion, then relief, then obsession, then final distress",
+     "The obsession comes first."
+    ],
+    [
+     "Relief, distress, obsession, compulsion",
+     "Relief follows the compulsion."
+    ],
+    [
+     "Distress, relief, compulsion, obsession",
+     "Out of order."
+    ]
+   ],
+   "exp": "Obsession → distress → compulsion → relief → back to obsession."
+  }
+ ],
+ "Behavioral cause of OCD": [
+  {
+   "q": "Why do compulsions keep happening, according to the behavioral explanation of OCD?",
+   "right": "The relief from anxiety reinforces them",
+   "wrong": [
+    [
+     "They are caused only by an inherited gene from one parent",
+     "That is a genetic explanation."
+    ],
+    [
+     "They are unconscious childhood wishes",
+     "That is psychodynamic."
+    ],
+    [
+     "They are false perceptions",
+     "That describes hallucinations."
+    ]
+   ],
+   "exp": "Operant conditioning: anxiety reduction is the reinforcement."
+  }
+ ],
+ "Other causes of OCD & related disorders": [
+  {
+   "q": "OCD shows up more often in identical twins and runs in families. Which cause does this support?",
+   "right": "Genetic",
+   "wrong": [
+    [
+     "Environmental trauma and stressful life events",
+     "Twin and family patterns point to genes."
+    ],
+    [
+     "Cognitive",
+     "That is distorted thinking."
+    ],
+    [
+     "Behavioral",
+     "That is conditioning."
+    ]
+   ],
+   "exp": "Cognitive, environmental and genetic causes."
+  }
+ ],
+ "Hoarding disorder": [
+  {
+   "q": "A woman's home is so packed with saved newspapers that she can't use her kitchen, and throwing any away causes her great distress. Which disorder fits?",
+   "right": "Hoarding disorder",
+   "wrong": [
+    [
+     "Obsessive-compulsive personality disorder",
+     "That is perfectionism and rigidity, not saving items."
+    ],
+    [
+     "Trichotillomania",
+     "That is hair-pulling."
+    ],
+    [
+     "Agoraphobia",
+     "That is fear of places."
+    ]
+   ],
+   "exp": "Persistent difficulty discarding possessions, with distress and clutter."
+  }
+ ],
+ "Trauma- and stressor-related disorders": [
+  {
+   "q": "PTSD, acute stress disorder and adjustment disorders all result from what?",
+   "right": "Exposure to a traumatic or stressful event",
+   "wrong": [
+    [
+     "An imbalance of dopamine present since early childhood",
+     "Not the defining cause."
+    ],
+    [
+     "Teratogens before birth",
+     "Those cause developmental problems."
+    ],
+    [
+     "Learning a new skill",
+     "Not related."
+    ]
+   ],
+   "exp": "Trauma- and stressor-related disorders follow a traumatic or stressful event."
+  }
+ ],
+ "Cause of trauma disorders": [
+  {
+   "q": "What causes trauma- and stressor-related disorders?",
+   "right": "A traumatic or stressful event",
+   "wrong": [
+    [
+     "A genetic mutation inherited from a parent or grandparent",
+     "The cause is the event."
+    ],
+    [
+     "Too much leptin",
+     "Not related."
+    ],
+    [
+     "Watching TV",
+     "Not related."
+    ]
+   ],
+   "exp": "Exposure to a traumatic or stressful event that results in distress."
+  }
+ ],
+ "Symptoms of PTSD": [
+  {
+   "q": "Months after a car crash, a man has flashbacks, nightmares and jumps at every loud noise. What does he likely have?",
+   "right": "PTSD",
+   "wrong": [
+    [
+     "Generalized anxiety disorder with worry about everything",
+     "His symptoms are tied to the trauma."
+    ],
+    [
+     "Bipolar II",
+     "That is a mood disorder."
+    ],
+    [
+     "Schizophrenia",
+     "That is psychosis."
+    ]
+   ],
+   "exp": "Intrusive thoughts, flashbacks, nightmares, hypervigilance."
+  }
+ ],
+ "Hypervigilance": [
+  {
+   "q": "A veteran with PTSD always sits facing the door and scans every room for danger. What symptom is this?",
+   "right": "Hypervigilance",
+   "wrong": [
+    [
+     "Catatonic stupor, sitting still without moving",
+     "That is no movement."
+    ],
+    [
+     "Flat affect",
+     "That is no emotion."
+    ],
+    [
+     "A compulsion",
+     "That is an OCD behavior."
+    ]
+   ],
+   "exp": "Always being on guard."
+  }
+ ],
+ "Feeding & eating disorders": [
+  {
+   "q": "Which group of disorders involves an intense focus on weight, body shape and food, with dangerous eating behaviors?",
+   "right": "Feeding & eating disorders",
+   "wrong": [
+    [
+     "Obsessive-compulsive and related disorders like hoarding",
+     "Those involve obsessions and compulsions."
+    ],
+    [
+     "Mood disorders",
+     "Those center on mood."
+    ],
+    [
+     "Neurodevelopmental disorders",
+     "Those begin in childhood."
+    ]
+   ],
+   "exp": "Eating disorders can cause permanent damage."
+  }
+ ],
+ "The two to know": [
+  {
+   "q": "Which two eating disorders does your class focus on?",
+   "right": "Anorexia and bulimia",
+   "wrong": [
+    [
+     "Hoarding disorder and excoriation, the skin-picking disorder",
+     "Those are OCD-related."
+    ],
+    [
+     "Insomnia and narcolepsy",
+     "Those are sleep disorders."
+    ],
+    [
+     "ADHD and ASD",
+     "Those are neurodevelopmental."
+    ]
+   ],
+   "exp": "Anorexia nervosa and bulimia nervosa."
+  }
+ ],
+ "Anorexia nervosa": [
+  {
+   "q": "A girl who is already very underweight keeps restricting calories because she's terrified of gaining weight. Which disorder fits?",
+   "right": "Anorexia nervosa",
+   "wrong": [
+    [
+     "Bulimia nervosa, with cycles of binging and purging",
+     "She isn't binging; she restricts."
+    ],
+    [
+     "Body dysmorphic disorder",
+     "Not the eating disorder described."
+    ],
+    [
+     "GAD",
+     "That is worry."
+    ]
+   ],
+   "exp": "Refusal to maintain a minimally normal weight plus fear of gaining."
+  }
+ ],
+ "Signs of anorexia": [
+  {
+   "q": "Which is a sign of anorexia on your slides?",
+   "right": "Excessive exercising and restricted eating",
+   "wrong": [
+    [
+     "Eating large amounts of food in under two hours, then purging",
+     "That describes bulimia."
+    ],
+    [
+     "Hoarding food",
+     "Not listed."
+    ],
+    [
+     "Hearing voices",
+     "That is schizophrenia."
+    ]
+   ],
+   "exp": "Distorted self-image, fear of gaining, restricted intake, excessive exercise."
+  }
+ ],
+ "Bulimia nervosa": [
+  {
+   "q": "A teen at a normal weight secretly eats large amounts of food, then makes herself vomit. Which disorder fits?",
+   "right": "Bulimia nervosa",
+   "wrong": [
+    [
+     "Anorexia nervosa, restricting food to a very low weight",
+     "She binges and is at a normal weight."
+    ],
+    [
+     "Hoarding disorder",
+     "Not related."
+    ],
+    [
+     "OCD",
+     "Not the best fit."
+    ]
+   ],
+   "exp": "Binge eating plus purging or other ways to prevent weight gain."
+  }
+ ],
+ "Binge eating episode": [
+  {
+   "q": "Which counts as a binge eating episode under your slides' definition?",
+   "right": "Eating far more than normal in 2 hours, unable to stop",
+   "wrong": [
+    [
+     "Eating one large meal on a holiday with family members",
+     "A binge needs both the large amount and loss of control."
+    ],
+    [
+     "Skipping breakfast",
+     "That isn't binging."
+    ],
+    [
+     "Snacking all day",
+     "Not the definition."
+    ]
+   ],
+   "exp": "A definitely larger amount in 2 hours plus feeling you can't stop."
+  }
+ ],
+ "Signs of bulimia": [
+  {
+   "q": "Why can bulimia be hard to spot?",
+   "right": "People often binge and purge in private",
+   "wrong": [
+    [
+     "People with bulimia always have a very low body weight",
+     "Many are at a normal weight."
+    ],
+    [
+     "It has no physical effects",
+     "It does."
+    ],
+    [
+     "It only lasts a day",
+     "It is ongoing."
+    ]
+   ],
+   "exp": "Frequent bathroom visits and private binging and purging."
+  }
+ ],
+ "Biological & genetic causes": [
+  {
+   "q": "Eating disorders run in Kim's family. Which cause does this support?",
+   "right": "Genetic predisposition",
+   "wrong": [
+    [
+     "Cultural pressure to be thin from social media and ads",
+     "That is a cultural cause."
+    ],
+    [
+     "Weight-related bullying",
+     "That is a social cause."
+    ],
+    [
+     "Stress of starting college",
+     "That is stress."
+    ]
+   ],
+   "exp": "Brain chemistry and family history."
+  }
+ ],
+ "Social cause": [
+  {
+   "q": "A boy develops an eating disorder after years of being teased about his weight. Which cause is this?",
+   "right": "Social",
+   "wrong": [
+    [
+     "Cultural, from a society that values extreme thinness",
+     "This is about his personal social experience."
+    ],
+    [
+     "Genetic",
+     "That is inherited."
+    ],
+    [
+     "Biological",
+     "That is brain chemistry."
+    ]
+   ],
+   "exp": "Weight-related bullying and family focus on fitness or perfection."
+  }
+ ],
+ "Cultural cause": [
+  {
+   "q": "Why are eating disorders most common in industrialized cultures, according to your slides?",
+   "right": "Those cultures emphasize thinness",
+   "wrong": [
+    [
+     "Those cultures have less stress and more free time for exercise",
+     "Not on your slides."
+    ],
+    [
+     "Food is scarce there",
+     "Not the reason given."
+    ],
+    [
+     "They have fewer doctors",
+     "Not the reason."
+    ]
+   ],
+   "exp": "Emphasis on thinness and extreme diet information."
+  }
+ ],
+ "Cognitive cause": [
+  {
+   "q": "A student believes she must look perfect and thinks about her body constantly. Which cause of eating disorders is this?",
+   "right": "Cognitive",
+   "wrong": [
+    [
+     "Social, from weight-related bullying by classmates",
+     "This is about her own thinking."
+    ],
+    [
+     "Cultural",
+     "That is about society."
+    ],
+    [
+     "Genetic",
+     "That is inherited."
+    ]
+   ],
+   "exp": "Dysfunctional attitudes about appearance, perfectionism, obsessive thoughts."
+  }
+ ],
+ "Stress as a cause": [
+  {
+   "q": "An eating disorder starts soon after Mia moves away to college. Which cause does this fit?",
+   "right": "Stress",
+   "wrong": [
+    [
+     "Genetic predisposition passed down from her parents",
+     "The trigger here is the life change."
+    ],
+    [
+     "Teratogens",
+     "Those act before birth."
+    ],
+    [
+     "Cultural",
+     "The key factor is the stressful change."
+    ]
+   ],
+   "exp": "Stress like heading to college, family or relationship problems."
+  }
+ ],
+ "Personality disorders": [
+  {
+   "q": "Which best describes a personality disorder?",
+   "right": "A lasting, rigid pattern starting by early adulthood",
+   "wrong": [
+    [
+     "A brief reaction to a stressful week that goes away on its own",
+     "Personality disorders are enduring."
+    ],
+    [
+     "A disorder that begins in early childhood",
+     "They begin in adolescence or early adulthood."
+    ],
+    [
+     "A short manic episode",
+     "That is a mood episode."
+    ]
+   ],
+   "exp": "Enduring, pervasive, inflexible patterns that cause distress."
+  }
+ ],
+ "Three clusters": [
+  {
+   "q": "How are the 10 personality disorders grouped?",
+   "right": "Odd, dramatic, and anxious clusters",
+   "wrong": [
+    [
+     "Mild, moderate and severe levels, like substance use disorder",
+     "Those are severity levels for substance use disorder."
+    ],
+    [
+     "Positive and negative",
+     "Those are schizophrenia symptoms."
+    ],
+    [
+     "Alarm, resistance, exhaustion",
+     "Those are GAS stages."
+    ]
+   ],
+   "exp": "Cluster A: odd; B: dramatic; C: anxious."
+  }
+ ],
+ "Cluster A": [
+  {
+   "q": "Paranoid, schizoid and schizotypal personality disorders belong to which cluster?",
+   "right": "Cluster A (odd or eccentric)",
+   "wrong": [
+    [
+     "Cluster B, the dramatic, emotional and erratic group",
+     "Cluster B is antisocial, histrionic, narcissistic, borderline."
+    ],
+    [
+     "Cluster C",
+     "That is anxious or fearful."
+    ],
+    [
+     "Cluster D",
+     "There is no Cluster D."
+    ]
+   ],
+   "exp": "A = odd or eccentric."
+  }
+ ],
+ "Paranoid personality disorder": [
+  {
+   "q": "Jim believes coworkers secretly want to hurt him, though he's in touch with reality and has no hallucinations. Which disorder fits?",
+   "right": "Paranoid personality disorder",
+   "wrong": [
+    [
+     "Schizophrenia with delusions of persecution",
+     "He has no psychosis."
+    ],
+    [
+     "Social anxiety disorder",
+     "That is fear of judgment."
+    ],
+    [
+     "Antisocial personality disorder",
+     "That is disregard for others."
+    ]
+   ],
+   "exp": "Distrust of others' motives, without psychosis."
+  }
+ ],
+ "Schizoid personality disorder": [
+  {
+   "q": "Sara has no interest in relationships, shows little emotion and doesn't care about praise or criticism. Which disorder fits?",
+   "right": "Schizoid personality disorder",
+   "wrong": [
+    [
+     "Avoidant personality disorder, from fear of rejection",
+     "Avoidant people want relationships but fear rejection."
+    ],
+    [
+     "Histrionic",
+     "That seeks attention."
+    ],
+    [
+     "Narcissistic",
+     "That needs admiration."
+    ]
+   ],
+   "exp": "Little interest in relationships and little emotion."
+  }
+ ],
+ "Schizotypal personality disorder": [
+  {
+   "q": "A man dresses oddly, believes he can read minds and is suspicious of others. Which disorder fits?",
+   "right": "Schizotypal personality disorder",
+   "wrong": [
+    [
+     "Schizoid personality disorder, with no interest in others",
+     "Schizoid lacks the magical thinking and odd behavior."
+    ],
+    [
+     "Borderline",
+     "That is unstable mood and relationships."
+    ],
+    [
+     "Dependent",
+     "That is clingy and needy."
+    ]
+   ],
+   "exp": "Odd behavior and appearance plus magical thinking."
+  }
+ ],
+ "Cluster B": [
+  {
+   "q": "Antisocial, histrionic, narcissistic and borderline personality disorders belong to which cluster?",
+   "right": "Cluster B (dramatic, emotional, erratic)",
+   "wrong": [
+    [
+     "Cluster C, the anxious and fearful group of disorders",
+     "Cluster C is avoidant, dependent, OCPD."
+    ],
+    [
+     "Cluster A",
+     "That is odd or eccentric."
+    ],
+    [
+     "Cluster D",
+     "There is no Cluster D."
+    ]
+   ],
+   "exp": "B = dramatic, emotional, erratic."
+  }
+ ],
+ "Antisocial personality disorder": [
+  {
+   "q": "A man repeatedly lies, steals and hurts people with no remorse. Which disorder fits?",
+   "right": "Antisocial personality disorder",
+   "wrong": [
+    [
+     "Narcissistic personality disorder, craving admiration",
+     "Narcissism centers on admiration and entitlement."
+    ],
+    [
+     "Avoidant",
+     "That is shyness and fear of rejection."
+    ],
+    [
+     "Schizoid",
+     "That is lack of interest in others."
+    ]
+   ],
+   "exp": "Disregard for others' rights, without empathy or remorse."
+  }
+ ],
+ "Histrionic personality disorder": [
+  {
+   "q": "Lina is always dramatic and theatrical, needing to be the center of attention at every gathering. Which disorder fits?",
+   "right": "Histrionic personality disorder",
+   "wrong": [
+    [
+     "Narcissistic personality disorder and its sense of entitlement",
+     "Narcissism centers on self-importance; histrionic on attention and emotion."
+    ],
+    [
+     "Schizotypal",
+     "That is odd and eccentric."
+    ],
+    [
+     "Dependent",
+     "That is clingy and submissive."
+    ]
+   ],
+   "exp": "Excessive emotionality and attention-seeking."
+  }
+ ],
+ "Narcissistic personality disorder": [
+  {
+   "q": "A boss believes he's superior to everyone, demands constant admiration and uses others to get ahead. Which disorder fits?",
+   "right": "Narcissistic personality disorder",
+   "wrong": [
+    [
+     "Histrionic personality disorder and its dramatic attention-seeking",
+     "Histrionic is about emotion and attention, not superiority."
+    ],
+    [
+     "Paranoid",
+     "That is distrust."
+    ],
+    [
+     "Avoidant",
+     "That is fear of rejection."
+    ]
+   ],
+   "exp": "Grandiose self-importance, need for admiration, entitlement."
+  }
+ ],
+ "Borderline personality disorder": [
+  {
+   "q": "Kara's mood swings wildly, her self-image keeps changing, and her relationships are intense and unstable. Which disorder fits?",
+   "right": "Borderline personality disorder",
+   "wrong": [
+    [
+     "Bipolar I, with full manic episodes and psychosis",
+     "Bipolar centers on mood episodes, not unstable relationships and self-image."
+    ],
+    [
+     "Schizoid",
+     "That is detachment."
+    ],
+    [
+     "OCPD",
+     "That is perfectionism."
+    ]
+   ],
+   "exp": "Instability in mood, self-image and relationships."
+  }
+ ],
+ "Cluster C": [
+  {
+   "q": "Avoidant, dependent and obsessive-compulsive personality disorders belong to which cluster?",
+   "right": "Cluster C (anxious or fearful)",
+   "wrong": [
+    [
+     "Cluster A, the odd and eccentric group of disorders",
+     "Cluster A is paranoid, schizoid, schizotypal."
+    ],
+    [
+     "Cluster B",
+     "That is dramatic and erratic."
+    ],
+    [
+     "Cluster E",
+     "There is no Cluster E."
+    ]
+   ],
+   "exp": "C = anxious or fearful."
+  }
+ ],
+ "Avoidant personality disorder": [
+  {
+   "q": "Tim wants friends but avoids people because he feels inadequate and fears rejection. Which disorder fits?",
+   "right": "Avoidant personality disorder",
+   "wrong": [
+    [
+     "Schizoid personality disorder, with no interest in others",
+     "Schizoid people don't want relationships."
+    ],
+    [
+     "Antisocial",
+     "That is disregard for others."
+    ],
+    [
+     "Histrionic",
+     "That seeks attention."
+    ]
+   ],
+   "exp": "Extreme shyness, fear of rejection, feelings of inadequacy."
+  }
+ ],
+ "Dependent personality disorder": [
+  {
+   "q": "Rosa can't pick her own clothes or lunch without asking her partner and panics at the thought of being alone. Which disorder fits?",
+   "right": "Dependent personality disorder",
+   "wrong": [
+    [
+     "Avoidant personality disorder from fear of rejection",
+     "Avoidant centers on fearing rejection, not needing others to decide."
+    ],
+    [
+     "Narcissistic",
+     "That needs admiration."
+    ],
+    [
+     "Paranoid",
+     "That is distrust."
+    ]
+   ],
+   "exp": "Needs reassurance to decide, fears separation, clingy."
+  }
+ ],
+ "Obsessive-compulsive personality disorder": [
+  {
+   "q": "A manager redoes everyone's work because only his way is right, and he insists on strict order. Which disorder fits?",
+   "right": "Obsessive-compulsive personality disorder",
+   "wrong": [
+    [
+     "OCD, with intrusive thoughts and repeated rituals",
+     "OCD involves obsessions and compulsions; OCPD is perfectionism and rigidity."
+    ],
+    [
+     "Histrionic",
+     "That seeks attention."
+    ],
+    [
+     "Borderline",
+     "That is unstable mood."
+    ]
+   ],
+   "exp": "Perfectionism, rigidity, need for control, can't delegate."
+  }
+ ],
+ "Causes of personality disorders": [
+  {
+   "q": "Which is an environmental cause of personality disorders on your slides?",
+   "right": "Early childhood abuse or neglect",
+   "wrong": [
+    [
+     "A genetic predisposition inherited from a parent",
+     "That is a genetic cause."
+    ],
+    [
+     "Too much caffeine",
+     "Not on your slides."
+    ],
+    [
+     "A single bad day",
+     "Not a cause."
+    ]
+   ],
+   "exp": "Genetic predisposition plus environmental factors like abuse, neglect or an unstable home."
+  }
+ ],
+ "History of treatment": [
+  {
+   "q": "How were people with mental illness usually treated in the past, according to your slides?",
+   "right": "Locked away, often in poor asylums",
+   "wrong": [
+    [
+     "Treated with modern medication in outpatient clinics close to home",
+     "That is today's approach."
+    ],
+    [
+     "Given person-centered therapy",
+     "That came much later."
+    ],
+    [
+     "Celebrated as healers",
+     "Not on your slides."
+    ]
+   ],
+   "exp": "Very dark: locked at home or in asylums with poor conditions."
+  }
+ ],
+ "Lobotomies in history": [
+  {
+   "q": "In the 1930s and 1940s, which surgery that cut connections in the prefrontal lobe was widely used?",
+   "right": "Lobotomy",
+   "wrong": [
+    [
+     "Transcranial magnetic stimulation using a magnetic coil",
+     "That is modern and noninvasive."
+    ],
+    [
+     "ECT",
+     "That uses electric current, not surgery."
+    ],
+    [
+     "Biofeedback",
+     "That uses sensors."
+    ]
+   ],
+   "exp": "Lobotomies were widely used then."
+  }
+ ],
+ "Deinstitutionalization": [
+  {
+   "q": "In the late 1900s, many asylums closed and patients were treated as outpatients with medication and therapy. What was this movement?",
+   "right": "Deinstitutionalization",
+   "wrong": [
+    [
+     "The eclectic approach of mixing several types of therapy",
+     "That is a therapy style."
+    ],
+    [
+     "Lobotomy",
+     "That is a surgery."
+    ],
+    [
+     "The diathesis-stress model",
+     "That explains disorders."
+    ]
+   ],
+   "exp": "Closing asylums and treating people outpatient."
+  }
+ ],
+ "Biomedical therapy": [
+  {
+   "q": "A psychiatrist treats a patient's depression with medication to correct a chemical imbalance. What approach is this?",
+   "right": "Biomedical therapy",
+   "wrong": [
+    [
+     "Psychotherapy, talking with a trained therapist",
+     "Psychotherapy uses conversation, not drugs."
+    ],
+    [
+     "Person-centered therapy",
+     "That is humanistic."
+    ],
+    [
+     "Token economy",
+     "That is behavioral."
+    ]
+   ],
+   "exp": "The medical model uses drugs to treat symptoms."
+  }
+ ],
+ "Psychotherapy": [
+  {
+   "q": "A client meets weekly with a trained therapist to talk through her problems and learn coping skills. What is this?",
+   "right": "Psychotherapy",
+   "wrong": [
+    [
+     "Biomedical therapy using medication prescribed by a doctor",
+     "No medication is involved."
+    ],
+    [
+     "Pharmacology",
+     "That is drug use."
+    ],
+    [
+     "ECT",
+     "That uses electricity."
+    ]
+   ],
+   "exp": "Interactions between a therapist and a client."
+  }
+ ],
+ "Who can prescribe": [
+  {
+   "q": "A clinical psychologist wants to give her client an antidepressant. What does she need to do?",
+   "right": "Refer the client to a doctor or psychiatrist",
+   "wrong": [
+    [
+     "Write the prescription herself after a single therapy session",
+     "Only doctors and psychiatrists can prescribe."
+    ],
+    [
+     "Use free association instead",
+     "That doesn't solve prescribing."
+    ],
+    [
+     "Nothing; anyone can prescribe",
+     "Only doctors and psychiatrists can."
+    ]
+   ],
+   "exp": "Medications can only be prescribed by a doctor or psychiatrist."
+  }
+ ],
+ "Eclectic approach": [
+  {
+   "q": "A therapist uses CBT techniques, some humanistic listening, and suggests medication, depending on what fits the client. What approach is this?",
+   "right": "The eclectic approach",
+   "wrong": [
+    [
+     "A strict psychodynamic approach based only on Freud",
+     "She mixes methods."
+    ],
+    [
+     "The medical model only",
+     "She uses more than medication."
+    ],
+    [
+     "Deinstitutionalization",
+     "That is a historical movement."
+    ]
+   ],
+   "exp": "Combining methods to fit the client's case."
+  }
+ ],
+ "Psychotropic medications": [
+  {
+   "q": "A patient asks if his medication will cure his disorder. What does your slide say?",
+   "right": "It treats the symptoms, not the cause",
+   "wrong": [
+    [
+     "It permanently cures the disorder within just a few weeks",
+     "Psychotropic drugs don't cure the disorder."
+    ],
+    [
+     "It works only with hypnosis",
+     "Not on your slides."
+    ],
+    [
+     "It replaces all therapy",
+     "Usually treatment combines both."
+    ]
+   ],
+   "exp": "They interact with neurotransmitters to treat symptoms."
+  }
+ ],
+ "Pharmacology": [
+  {
+   "q": "Which part of biomedical therapy refers to the use of drugs?",
+   "right": "Pharmacology",
+   "wrong": [
+    [
+     "Psychotherapy, talking with a trained therapist",
+     "That is talk therapy."
+    ],
+    [
+     "Biofeedback",
+     "That uses sensors."
+    ],
+    [
+     "Free association",
+     "That is psychodynamic."
+    ]
+   ],
+   "exp": "Pharmacology = the use of drugs."
+  }
+ ],
+ "Antidepressants": [
+  {
+   "q": "A doctor prescribes Prozac, which blocks the reuptake of serotonin. What type of drug is it?",
+   "right": "An antidepressant",
+   "wrong": [
+    [
+     "An antipsychotic that blocks dopamine receptors",
+     "Antipsychotics block dopamine."
+    ],
+    [
+     "A mood stabilizer",
+     "That is lithium for bipolar."
+    ],
+    [
+     "An anti-anxiety drug",
+     "Those increase GABA."
+    ]
+   ],
+   "exp": "Antidepressants are typically SSRIs."
+  }
+ ],
+ "Anti-anxiety medications": [
+  {
+   "q": "A drug calms a patient's panic by increasing the effects of GABA. What type of medication is it?",
+   "right": "An anti-anxiety medication",
+   "wrong": [
+    [
+     "An antidepressant that blocks serotonin reuptake",
+     "That targets serotonin."
+    ],
+    [
+     "An antipsychotic",
+     "That blocks dopamine."
+    ],
+    [
+     "A stimulant",
+     "That excites the nervous system."
+    ]
+   ],
+   "exp": "Anti-anxiety drugs (benzodiazepines) increase GABA."
+  }
+ ],
+ "Antipsychotics": [
+  {
+   "q": "A patient with schizophrenia gets a drug that blocks dopamine receptors and reduces his hallucinations. What type of drug is it?",
+   "right": "An antipsychotic",
+   "wrong": [
+    [
+     "An antidepressant that raises serotonin in the synapse",
+     "That targets serotonin."
+    ],
+    [
+     "A mood stabilizer",
+     "That is for bipolar disorder."
+    ],
+    [
+     "An anti-anxiety drug",
+     "That increases GABA."
+    ]
+   ],
+   "exp": "Antipsychotics (neuroleptics) block dopamine."
+  }
+ ],
+ "Tardive dyskinesia": [
+  {
+   "q": "After years on an antipsychotic, a patient develops repetitive, involuntary movements of his face. What side effect is this?",
+   "right": "Tardive dyskinesia",
+   "wrong": [
+    [
+     "Catatonic stupor, a lack of all movement",
+     "That is a symptom of schizophrenia, not a drug side effect."
+    ],
+    [
+     "Narcolepsy",
+     "That is a sleep disorder."
+    ],
+    [
+     "A fugue state",
+     "That is dissociative."
+    ]
+   ],
+   "exp": "A movement disorder caused by antipsychotics."
+  }
+ ],
+ "Mood stabilizers": [
+  {
+   "q": "Which medication is used to treat bipolar disorder?",
+   "right": "Lithium, a mood stabilizer",
+   "wrong": [
+    [
+     "Prozac, an SSRI that blocks the reuptake of serotonin",
+     "That is an antidepressant."
+    ],
+    [
+     "Xanax",
+     "That is an anti-anxiety drug."
+    ],
+    [
+     "Antabuse",
+     "That is for alcohol use."
+    ]
+   ],
+   "exp": "Lithium = bipolar."
+  }
+ ],
+ "Lobotomy": [
+  {
+   "q": "Why are lobotomies rarely used today?",
+   "right": "They reduce functioning and awareness",
+   "wrong": [
+    [
+     "They were found to cure every disorder far too quickly",
+     "They don't cure disorders."
+    ],
+    [
+     "They require hypnosis",
+     "Not related."
+    ],
+    [
+     "They only work in children",
+     "Not on your slides."
+    ]
+   ],
+   "exp": "A lobotomy may calm behavior but reduces functioning and awareness."
+  }
+ ],
+ "Transcranial magnetic stimulation (rTMS)": [
+  {
+   "q": "A doctor holds a magnetic coil near a patient's skull to stimulate neurons and treat chronic depression while he stays awake. What treatment is this?",
+   "right": "rTMS",
+   "wrong": [
+    [
+     "ECT, which causes a seizure with an electric current",
+     "ECT uses electric current and causes a seizure."
+    ],
+    [
+     "Lobotomy",
+     "That is surgery."
+    ],
+    [
+     "Biofeedback",
+     "That uses body sensors."
+    ]
+   ],
+   "exp": "Repeated magnetic pulses stimulate neurons."
+  }
+ ],
+ "Electroconvulsive therapy (ECT)": [
+  {
+   "q": "For a patient with extreme depression and a high risk of suicide, a doctor uses an electric current to cause a brief seizure. What is this?",
+   "right": "ECT",
+   "wrong": [
+    [
+     "rTMS, which uses magnetic pulses near the skull",
+     "rTMS uses magnets and doesn't cause seizures."
+    ],
+    [
+     "A lobotomy",
+     "That is surgery."
+    ],
+    [
+     "Antabuse",
+     "That is a drug for alcohol."
+    ]
+   ],
+   "exp": "ECT causes a 30–60 second seizure."
+  }
+ ],
+ "Confidentiality (cardinal rule)": [
+  {
+   "q": "When may a therapist break confidentiality?",
+   "right": "When the patient is a danger to self or others",
+   "wrong": [
+    [
+     "Whenever the patient's family members call and ask about them",
+     "Families don't automatically get access."
+    ],
+    [
+     "Never, for any reason at all",
+     "There is an exception for danger."
+    ],
+    [
+     "When the therapist is curious",
+     "Not a valid reason."
+    ]
+   ],
+   "exp": "The cardinal rule, with an exception for danger."
+  }
+ ],
+ "Cultural humility": [
+  {
+   "q": "A therapist reflects on her own biases before working with clients from different cultures. What is she practicing?",
+   "right": "Cultural humility",
+   "wrong": [
+    [
+     "Unconditional positive regard toward every one of her clients",
+     "That is accepting the client, not examining her own biases."
+    ],
+    [
+     "Resistance",
+     "That is a mental block in therapy."
+    ],
+    [
+     "Free association",
+     "That is a psychodynamic method."
+    ]
+   ],
+   "exp": "A self-first approach to cultural differences."
+  }
+ ],
+ "Therapeutic alliance": [
+  {
+   "q": "Research shows therapy works best when patient and therapist trust each other and agree on goals. What is this bond called?",
+   "right": "The therapeutic alliance",
+   "wrong": [
+    [
+     "Unconditional positive regard from the therapist alone",
+     "That is one attitude, not the shared bond."
+    ],
+    [
+     "Transference",
+     "Not on your slides."
+    ],
+    [
+     "The eclectic approach",
+     "That is mixing methods."
+    ]
+   ],
+   "exp": "Goals, tasks, bond, trust, collaboration and agreement."
+  }
+ ],
+ "Hans Eysenck": [
+  {
+   "q": "Which researcher concluded in the 1950s that psychotherapy was no more effective than no treatment?",
+   "right": "Hans Eysenck",
+   "wrong": [
+    [
+     "Carl Rogers, who developed person-centered therapy",
+     "Rogers developed client-centered therapy."
+    ],
+    [
+     "Aaron Beck",
+     "Beck developed a cognitive theory of depression."
+    ],
+    [
+     "Albert Ellis",
+     "Ellis developed REBT."
+    ]
+   ],
+   "exp": "Eysenck's 1950s study."
+  }
+ ],
+ "Is psychotherapy effective?": [
+  {
+   "q": "What does modern research say about Eysenck's claim that therapy doesn't work?",
+   "right": "Meta-analyses show it does work",
+   "wrong": [
+    [
+     "He was right; most therapy is no better than doing nothing at all",
+     "Meta-analysis shows it is effective."
+    ],
+    [
+     "Only hypnosis works",
+     "Not on your slides."
+    ],
+    [
+     "Only lobotomies work",
+     "Not true."
+    ]
+   ],
+   "exp": "It works, especially with medication and a strong therapeutic alliance."
+  }
+ ],
+ "Fidelity and responsibility": [
+  {
+   "q": "A therapist builds trust with her client and owns up when she makes a mistake. Which ethics principle is this?",
+   "right": "Fidelity and responsibility",
+   "wrong": [
+    [
+     "Beneficence and nonmaleficence, meaning do no harm",
+     "That is about weighing harm."
+    ],
+    [
+     "Justice",
+     "That is fairness."
+    ],
+    [
+     "Integrity",
+     "That is honesty."
+    ]
+   ],
+   "exp": "Build trust and take responsibility."
+  }
+ ],
+ "Beneficence and nonmaleficence": [
+  {
+   "q": "Before starting a treatment, a therapist weighs its benefits against its risks of harm. Which ethics principle is this?",
+   "right": "Beneficence and nonmaleficence",
+   "wrong": [
+    [
+     "Respect for rights and dignity, including privacy",
+     "That is about privacy and self-determination."
+    ],
+    [
+     "Justice",
+     "That is fairness."
+    ],
+    [
+     "Fidelity",
+     "That is trust."
+    ]
+   ],
+   "exp": "Do no harm."
+  }
+ ],
+ "Respect for rights and dignity": [
+  {
+   "q": "A therapist lets her client make his own choices and keeps his records private. Which ethics principle is this?",
+   "right": "Respect for rights and dignity",
+   "wrong": [
+    [
+     "Justice, treating all clients fairly and equally",
+     "That is about equal access."
+    ],
+    [
+     "Integrity",
+     "That is honesty."
+    ],
+    [
+     "Beneficence",
+     "That is doing no harm."
+    ]
+   ],
+   "exp": "Confidentiality, privacy and self-determination."
+  }
+ ],
+ "Integrity": [
+  {
+   "q": "A therapist is always honest and transparent with her clients and never lies to them. Which ethics principle is this?",
+   "right": "Integrity",
+   "wrong": [
+    [
+     "Fidelity and responsibility to the client's trust",
+     "That is building trust and responsibility."
+    ],
+    [
+     "Justice",
+     "That is fairness."
+    ],
+    [
+     "Respect for rights",
+     "That is privacy and choice."
+    ]
+   ],
+   "exp": "Honesty, accuracy and transparency."
+  }
+ ],
+ "Justice": [
+  {
+   "q": "A clinic makes sure every client gets the same quality of care, no matter their background or income. Which ethics principle is this?",
+   "right": "Justice",
+   "wrong": [
+    [
+     "Integrity, being honest and transparent with clients",
+     "That is honesty."
+    ],
+    [
+     "Fidelity",
+     "That is trust."
+    ],
+    [
+     "Beneficence",
+     "That is doing no harm."
+    ]
+   ],
+   "exp": "Fairness and equal access for all clients."
+  }
+ ],
+ "Psychodynamic therapies": [
+  {
+   "q": "Which therapies try to uncover the unconscious mind through free association and dream interpretation?",
+   "right": "Psychodynamic therapies",
+   "wrong": [
+    [
+     "Cognitive therapies that challenge negative thinking",
+     "Those focus on conscious thoughts."
+    ],
+    [
+     "Behavioral therapies",
+     "Those use conditioning."
+    ],
+    [
+     "Humanistic therapies",
+     "Those focus on growth and acceptance."
+    ]
+   ],
+   "exp": "Psychodynamic therapies uncover the unconscious."
+  }
+ ],
+ "Free association": [
+  {
+   "q": "A patient lies on a couch and says whatever comes to mind, no matter how embarrassing. Which technique is this?",
+   "right": "Free association",
+   "wrong": [
+    [
+     "Socratic questioning that challenges the patient's thoughts",
+     "That challenges thoughts with questions."
+    ],
+    [
+     "Active listening",
+     "That is the therapist echoing and clarifying."
+    ],
+    [
+     "Biofeedback",
+     "That uses sensors."
+    ]
+   ],
+   "exp": "A way to explore the unconscious."
+  }
+ ],
+ "Resistance": [
+  {
+   "q": "During free association, a patient suddenly goes blank whenever her father comes up. What is this called?",
+   "right": "Resistance",
+   "wrong": [
+    [
+     "Hypervigilance, always being on guard for danger",
+     "That is a PTSD symptom."
+    ],
+    [
+     "Flat affect",
+     "That is no emotional expression."
+    ],
+    [
+     "Congruence",
+     "That is the therapist being genuine."
+    ]
+   ],
+   "exp": "A mental block during free association."
+  }
+ ],
+ "Dream interpretation": [
+  {
+   "q": "A therapist asks what a patient's recurring dream about falling might symbolize. Which technique is this?",
+   "right": "Dream interpretation",
+   "wrong": [
+    [
+     "Cognitive restructuring of the patient's negative thoughts",
+     "That challenges thoughts."
+    ],
+    [
+     "Systematic desensitization",
+     "That is behavioral."
+    ],
+    [
+     "Token economy",
+     "That is behavioral."
+    ]
+   ],
+   "exp": "Dreams as a window into the unconscious."
+  }
+ ],
+ "Hypnosis": [
+  {
+   "q": "A TV show claims hypnosis can recover hidden childhood memories. What does research say?",
+   "right": "It is NOT a valid way to recover memories",
+   "wrong": [
+    [
+     "It is the best way to recover memories from early childhood",
+     "Research says it isn't valid for that."
+    ],
+    [
+     "It cures schizophrenia",
+     "Not on your slides."
+    ],
+    [
+     "It only works on children",
+     "Not on your slides."
+    ]
+   ],
+   "exp": "Today hypnosis is used for pain and anxiety, not memory recovery."
+  }
+ ],
+ "Person-centered (client-centered) therapy": [
+  {
+   "q": "A therapist offers acceptance, genuineness and empathy and lets the client lead the session. Which therapy is this?",
+   "right": "Person-centered therapy",
+   "wrong": [
+    [
+     "Cognitive behavioral therapy with homework and goals",
+     "CBT is directive and structured."
+    ],
+    [
+     "Psychoanalysis",
+     "That interprets the unconscious."
+    ],
+    [
+     "Aversion therapy",
+     "That is behavioral."
+    ]
+   ],
+   "exp": "Carl Rogers' non-directive humanistic therapy."
+  }
+ ],
+ "Non-directive therapy": [
+  {
+   "q": "A therapist simply listens without judging, interpreting or telling the client what to do. What kind of therapy is this?",
+   "right": "Non-directive",
+   "wrong": [
+    [
+     "Directive, with the therapist guiding each step",
+     "This therapist doesn't direct."
+    ],
+    [
+     "Aversive",
+     "That pairs unpleasant states with behavior."
+    ],
+    [
+     "Biomedical",
+     "That uses drugs."
+    ]
+   ],
+   "exp": "The therapist listens without directing."
+  }
+ ],
+ "Unconditional positive regard": [
+  {
+   "q": "A client admits to something shameful, and the therapist still treats him with warmth and acceptance. What is she showing?",
+   "right": "Unconditional positive regard",
+   "wrong": [
+    [
+     "Resistance, a block that comes up during therapy",
+     "That is a patient's mental block."
+    ],
+    [
+     "Socratic questioning",
+     "That challenges thoughts."
+    ],
+    [
+     "Congruence alone",
+     "That is being genuine; this is acceptance."
+    ]
+   ],
+   "exp": "Accepting and valuing the client as a person."
+  }
+ ],
+ "Empathy, congruence, UPR": [
+  {
+   "q": "Which three parts make up person-centered therapy?",
+   "right": "Empathy, congruence, unconditional positive regard",
+   "wrong": [
+    [
+     "Mindfulness, distress tolerance, emotion regulation, interpersonal effectiveness",
+     "Those are DBT skills."
+    ],
+    [
+     "Alarm, resistance, exhaustion",
+     "Those are GAS stages."
+    ],
+    [
+     "Obsession, compulsion, relief",
+     "That is the OCD cycle."
+    ]
+   ],
+   "exp": "Understanding, genuineness and acceptance."
+  }
+ ],
+ "Active listening": [
+  {
+   "q": "A therapist says, \"So what I'm hearing is that you feel ignored at home. Is that right?\" What technique is this?",
+   "right": "Active listening",
+   "wrong": [
+    [
+     "Free association, saying whatever comes to mind",
+     "That is the patient speaking freely."
+    ],
+    [
+     "Dream interpretation",
+     "That is psychodynamic."
+    ],
+    [
+     "Aversion therapy",
+     "That is behavioral."
+    ]
+   ],
+   "exp": "Echoing, restating and clarifying."
+  }
+ ],
+ "Cognitive therapy": [
+  {
+   "q": "A therapist teaches a client that his thoughts about events, not the events themselves, drive his feelings. Which therapy is this?",
+   "right": "Cognitive therapy",
+   "wrong": [
+    [
+     "Psychodynamic therapy exploring the unconscious mind",
+     "That digs into the unconscious."
+    ],
+    [
+     "Biomedical therapy",
+     "That uses drugs."
+    ],
+    [
+     "Token economy",
+     "That uses rewards."
+    ]
+   ],
+   "exp": "Thoughts come between events and emotions."
+  }
+ ],
+ "Cognitive restructuring": [
+  {
+   "q": "A therapist helps a client replace \"I'll never make it\" with \"I can improve if I keep practicing.\" Which method is this?",
+   "right": "Cognitive restructuring",
+   "wrong": [
+    [
+     "Systematic desensitization with a fear hierarchy",
+     "That is behavioral exposure."
+    ],
+    [
+     "Free association",
+     "That is psychodynamic."
+    ],
+    [
+     "Token economy",
+     "That is behavioral."
+    ]
+   ],
+   "exp": "Challenging and replacing pessimistic thoughts."
+  }
+ ],
+ "Socratic questioning": [
+  {
+   "q": "A therapist asks, \"What evidence do you have that everyone hates you?\" Which strategy is this?",
+   "right": "Socratic questioning",
+   "wrong": [
+    [
+     "Active listening, restating what the client said",
+     "That echoes; this challenges."
+    ],
+    [
+     "Dream interpretation",
+     "That is psychodynamic."
+    ],
+    [
+     "Biofeedback",
+     "That uses sensors."
+    ]
+   ],
+   "exp": "Deep questions that challenge thoughts."
+  }
+ ],
+ "Fear hierarchy": [
+  {
+   "q": "A therapist and client list feared situations from \"seeing a photo of a dog\" up to \"petting a dog.\" What did they make?",
+   "right": "A fear hierarchy",
+   "wrong": [
+    [
+     "A token economy chart of rewards for good behavior",
+     "That rewards behavior."
+    ],
+    [
+     "A negative cognitive triad",
+     "That is negative thoughts."
+    ],
+    [
+     "An ACE list",
+     "That lists childhood trauma."
+    ]
+   ],
+   "exp": "Feared situations ranked from least to most anxiety-provoking."
+  }
+ ],
+ "Beck's cognitive theory of depression": [
+  {
+   "q": "Which theory says depressed people develop negative ways of thinking about themselves, the world and the future?",
+   "right": "Beck's cognitive theory of depression",
+   "wrong": [
+    [
+     "The dopamine hypothesis about chemical imbalance",
+     "That explains schizophrenia."
+    ],
+    [
+     "The diathesis-stress model",
+     "That is stress plus predisposition."
+    ],
+    [
+     "Gate control theory",
+     "That is about pain."
+    ]
+   ],
+   "exp": "Aaron Beck: faulty information processing and the negative triad."
+  }
+ ],
+ "Negative cognitive triad": [
+  {
+   "q": "A depressed teen thinks, \"I'm worthless, nobody cares about me, and it will never get better.\" What does this show?",
+   "right": "The negative cognitive triad",
+   "wrong": [
+    [
+     "A delusion of persecution that others are out to get him",
+     "These are negative thoughts, not paranoid beliefs."
+    ],
+    [
+     "Word salad",
+     "His speech is organized."
+    ],
+    [
+     "The OCD cycle",
+     "Not related."
+    ]
+   ],
+   "exp": "Me, the world, the future."
+  }
+ ],
+ "Behavioral therapies": [
+  {
+   "q": "Which therapies apply conditioning principles, like exposure, aversion and token economies?",
+   "right": "Behavioral therapies",
+   "wrong": [
+    [
+     "Humanistic therapies built on acceptance and empathy",
+     "Those focus on acceptance."
+    ],
+    [
+     "Psychodynamic therapies",
+     "Those explore the unconscious."
+    ],
+    [
+     "Biomedical therapies",
+     "Those use drugs."
+    ]
+   ],
+   "exp": "Behavioral therapies use conditioning."
+  }
+ ],
+ "Exposure therapy": [
+  {
+   "q": "A therapist has a client who fears elevators ride one, again and again, until the fear fades. Which therapy is this?",
+   "right": "Exposure therapy",
+   "wrong": [
+    [
+     "Aversion therapy, pairing a behavior with discomfort",
+     "That makes something unpleasant."
+    ],
+    [
+     "Free association",
+     "That is psychodynamic."
+    ],
+    [
+     "Person-centered therapy",
+     "That is humanistic."
+    ]
+   ],
+   "exp": "Facing what you would normally avoid."
+  }
+ ],
+ "Systematic desensitization": [
+  {
+   "q": "A client learns relaxation techniques, then works up a fear hierarchy step by step while staying relaxed. Which therapy is this?",
+   "right": "Systematic desensitization",
+   "wrong": [
+    [
+     "Aversion therapy, the opposite kind of conditioning",
+     "Aversion makes things unpleasant; this makes fears calm."
+    ],
+    [
+     "Token economy",
+     "That rewards behavior."
+    ],
+    [
+     "Dream interpretation",
+     "That is psychodynamic."
+    ]
+   ],
+   "exp": "A fear hierarchy plus relaxation."
+  }
+ ],
+ "Aversion therapy": [
+  {
+   "q": "A man trying to quit nail-biting paints his nails with a bitter-tasting polish. Which therapy does this match?",
+   "right": "Aversion therapy",
+   "wrong": [
+    [
+     "Systematic desensitization through gradual relaxation",
+     "That reduces fear; this makes a habit unpleasant."
+    ],
+    [
+     "Token economy",
+     "That gives rewards."
+    ],
+    [
+     "Biofeedback",
+     "That uses sensors."
+    ]
+   ],
+   "exp": "Pairing an unpleasant state with an unwanted behavior."
+  }
+ ],
+ "Antabuse": [
+  {
+   "q": "A patient takes a drug that makes him feel sick if he drinks alcohol. What is it, and what therapy does it represent?",
+   "right": "Antabuse, for aversion therapy",
+   "wrong": [
+    [
+     "Lithium, a mood stabilizer used for bipolar disorder",
+     "Lithium treats bipolar disorder."
+    ],
+    [
+     "Prozac, for exposure therapy",
+     "Prozac is an antidepressant."
+    ],
+    [
+     "Xanax, for token economy",
+     "Xanax is anti-anxiety."
+    ]
+   ],
+   "exp": "Antabuse pairs drinking with feeling sick."
+  }
+ ],
+ "Token economy": [
+  {
+   "q": "In a hospital unit, patients earn points for making their beds and trade them for privileges. What procedure is this?",
+   "right": "A token economy",
+   "wrong": [
+    [
+     "Aversion therapy that makes the behavior unpleasant",
+     "That punishes; this rewards."
+    ],
+    [
+     "Free association",
+     "That is psychodynamic."
+    ],
+    [
+     "rTMS",
+     "That is a brain treatment."
+    ]
+   ],
+   "exp": "Operant conditioning with tokens for desired behavior."
+  }
+ ],
+ "Biofeedback": [
+  {
+   "q": "Sensors show a patient her heart rate on a screen so she can learn to slow it on purpose. What technique is this?",
+   "right": "Biofeedback",
+   "wrong": [
+    [
+     "rTMS, which uses magnetic pulses on the brain",
+     "That stimulates neurons with magnets."
+    ],
+    [
+     "ECT",
+     "That uses electric current."
+    ],
+    [
+     "Hypnosis",
+     "That induces relaxation, not feedback from sensors."
+    ]
+   ],
+   "exp": "Learning to consciously control physiological responses."
+  }
+ ],
+ "Cognitive behavioral therapy (CBT)": [
+  {
+   "q": "A therapist helps a client change both her negative thoughts and her avoidance behaviors. Which therapy is this?",
+   "right": "CBT",
+   "wrong": [
+    [
+     "Psychoanalysis, uncovering unconscious conflicts",
+     "That explores the unconscious."
+    ],
+    [
+     "Person-centered therapy",
+     "That is non-directive."
+    ],
+    [
+     "ECT",
+     "That is a brain treatment."
+    ]
+   ],
+   "exp": "CBT applies both cognitive and behavioral principles."
+  }
+ ],
+ "Dialectical behavior therapy (DBT)": [
+  {
+   "q": "A modified form of CBT helps a client with borderline personality disorder manage intense emotions. Which therapy is this?",
+   "right": "DBT",
+   "wrong": [
+    [
+     "REBT, which confronts irrational beliefs head-on",
+     "REBT is Ellis's approach."
+    ],
+    [
+     "Psychoanalysis",
+     "That is psychodynamic."
+    ],
+    [
+     "Aversion therapy",
+     "That is behavioral."
+    ]
+   ],
+   "exp": "DBT was originally developed for borderline personality disorder."
+  }
+ ],
+ "The 4 DBT skills": [
+  {
+   "q": "Which list shows the four DBT skills?",
+   "right": "Mindfulness, distress tolerance, emotion regulation, interpersonal effectiveness",
+   "wrong": [
+    [
+     "Empathy, congruence, unconditional positive regard, active listening, free association",
+     "Those are mostly person-centered parts."
+    ],
+    [
+     "Obsession, distress, compulsion, relief",
+     "That is the OCD cycle."
+    ],
+    [
+     "Alarm, resistance, exhaustion",
+     "Those are GAS stages."
+    ]
+   ],
+   "exp": "Mindfulness, distress tolerance, emotion regulation, interpersonal effectiveness."
+  }
+ ],
+ "Rational emotive behavior therapy (REBT)": [
+  {
+   "q": "A therapist bluntly challenges a client's belief that he must be perfect, saying it's irrational. Which therapy is this?",
+   "right": "REBT",
+   "wrong": [
+    [
+     "Person-centered therapy, which accepts without judging",
+     "That is non-directive and accepting."
+    ],
+    [
+     "Free association",
+     "That is psychodynamic."
+    ],
+    [
+     "Token economy",
+     "That is behavioral."
+    ]
+   ],
+   "exp": "Ellis: changing beliefs changes emotions."
+  }
+ ],
+ "Modes of therapy": [
+  {
+   "q": "Individual and group therapy describe what, rather than the type of therapy?",
+   "right": "How therapy is delivered",
+   "wrong": [
+    [
+     "Which disorders the therapy is able to treat and cure",
+     "Modes are about delivery."
+    ],
+    [
+     "Which drugs are prescribed",
+     "Not related."
+    ],
+    [
+     "How long therapy lasts",
+     "Not what modes describe."
+    ]
+   ],
+   "exp": "Modes: individual or group."
+  }
+ ],
+ "Group therapy": [
+  {
+   "q": "Five people who have lost a loved one meet weekly with a therapist and realize they aren't alone. Which mode is this?",
+   "right": "Group therapy",
+   "wrong": [
+    [
+     "Individual therapy, one-on-one with a therapist",
+     "There are five clients here."
+    ],
+    [
+     "Biomedical therapy",
+     "That uses drugs."
+    ],
+    [
+     "Aversion therapy",
+     "That is a type, not a mode."
+    ]
+   ],
+   "exp": "Cheaper, reduces isolation, shows you aren't the only one."
+  }
+ ],
+ "Individual therapy": [
+  {
+   "q": "A client needs a personalized, private approach and flexible scheduling, and can afford it. Which mode fits best?",
+   "right": "Individual therapy",
+   "wrong": [
+    [
+     "Group therapy, which is cheaper and less private",
+     "It is less personalized and private."
+    ],
+    [
+     "Deinstitutionalization",
+     "That is history."
+    ],
+    [
+     "Pharmacology",
+     "That is drugs."
+    ]
+   ],
+   "exp": "One-on-one: personalized but expensive."
+  }
+ ]
+}

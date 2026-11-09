@@ -1,0 +1,1027 @@
+{
+ "sections": [
+  {
+   "name": "Perception",
+   "mode": "practice",
+   "tips": [
+    "Exam-style questions from Phineas's kit for this deck. Read every choice before you pick: the wrong ones are common mix-ups."
+   ],
+   "questions": [
+    {
+     "id": "1-1",
+     "type": "mcq",
+     "topic": "Perception",
+     "stem": "Which of the following best describes selective attention?",
+     "options": [
+      "Focusing conscious awareness on one particular stimulus and not something else",
+      "Noticing every stimulus in the environment equally",
+      "The weakest stimulus a person can detect",
+      "Using past experience to interpret what you sense"
+     ],
+     "ans": 0,
+     "exp": "Selective attention = focusing on one thing and NOT something else.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "1-2",
+     "type": "mcq",
+     "topic": "Perception",
+     "stem": "In a class demo, the word GREEN is printed in purple ink, and students must say the ink color. Many answer slowly or say \"green\" by mistake. This demonstrates:",
+     "options": [
+      "The Stroop effect",
+      "Change blindness",
+      "The cocktail party effect",
+      "Weber's law"
+     ],
+     "ans": 0,
+     "exp": "The Stroop effect is the delayed reaction when you must say the color of a word instead of the word itself.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "1-3",
+     "type": "mcq",
+     "topic": "Perception",
+     "stem": "Which of the following is the best example of change blindness?",
+     "options": [
+      "Between shots in a movie, an actor's drink switches from full to empty, and most viewers don't notice.",
+      "A driver talking on the phone doesn't see a pedestrian in the crosswalk.",
+      "At a noisy party, you hear your name from across the room.",
+      "You can hear a watch ticking 20 feet away."
+     ],
+     "ans": 0,
+     "exp": "Missing a CHANGE = change blindness. Not seeing the pedestrian at all is inattentional blindness, the trap answer.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "1-4",
+     "type": "mcq",
+     "topic": "Perception",
+     "stem": "Which of the following is the best example of inattentional blindness?",
+     "options": [
+      "While focused on texting, Ben walks past a bright yellow car parked right in front of him and never sees it.",
+      "An actor's shirt changes color between scenes, and viewers miss it.",
+      "You notice one red dot in a field of blue dots.",
+      "Your music goes from volume 5 to 10, and you notice."
+     ],
+     "ans": 0,
+     "exp": "Failing to see a visible object because attention is elsewhere = inattentional blindness. The shirt is change blindness.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "1-5",
+     "type": "mcq",
+     "topic": "Perception",
+     "stem": "What do change blindness and inattentional blindness have in common?",
+     "options": [
+      "Both happen because attention is directed elsewhere.",
+      "Both are caused by damage to the occipital lobe.",
+      "Both involve hearing rather than vision.",
+      "Both are forms of extrasensory perception."
+     ],
+     "ans": 0,
+     "exp": "Both come from attention being directed elsewhere. The difference is missing a change vs. missing an object.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "1-6",
+     "type": "mcq",
+     "topic": "Perception",
+     "stem": "A student is so focused on her notes in a noisy cafeteria that she doesn't notice her friend sit down right across from her. Which concept best explains this?",
+     "options": [
+      "Inattentional blindness",
+      "The cocktail party effect",
+      "The absolute threshold",
+      "Precognition"
+     ],
+     "ans": 0,
+     "exp": "Her friend was fully visible, but her attention was directed elsewhere.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "1-7",
+     "type": "mcq",
+     "topic": "Perception",
+     "stem": "At a crowded school dance, Lena can focus on her friend's voice and tune out everyone else. This best illustrates:",
+     "options": [
+      "The cocktail party effect",
+      "The pop-out phenomenon",
+      "Change blindness",
+      "The difference threshold"
+     ],
+     "ans": 0,
+     "exp": "Focusing auditory attention on one voice while filtering out others is the cocktail party effect.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "1-8",
+     "type": "mcq",
+     "topic": "Perception",
+     "stem": "Which of the following best explains why you might suddenly notice your own name being said across a noisy cafeteria?",
+     "options": [
+      "Your brain can register your name even amongst background noise.",
+      "Your absolute threshold for sound drops in loud places.",
+      "Top-down processing shuts off in noisy places.",
+      "Change blindness makes you notice sounds."
+     ],
+     "ans": 0,
+     "exp": "That's part of the cocktail party effect on your slides.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "1-9",
+     "type": "mcq",
+     "topic": "Perception",
+     "stem": "In a crowd of people wearing black, one person in a bright orange jacket instantly catches your eye. This is:",
+     "options": [
+      "The pop-out phenomenon",
+      "Inattentional blindness",
+      "The Stroop effect",
+      "Clairvoyance"
+     ],
+     "ans": 0,
+     "exp": "Something different popping out to get your attention is the pop-out phenomenon.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "1-10",
+     "type": "mcq",
+     "topic": "Perception",
+     "stem": "Which of the following best describes the difference between bottom-up and top-down processing?",
+     "options": [
+      "Bottom-up starts with sensory receptors sending information up to the brain (sensation); top-down uses knowledge, experience, and context to interpret it (perception).",
+      "Bottom-up uses past experience; top-down uses only the senses.",
+      "Bottom-up happens only in vision; top-down only in hearing.",
+      "They are two names for the same process."
+     ],
+     "ans": 0,
+     "exp": "Bottom-up = sensation. Top-down = perception.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "1-11",
+     "type": "mcq",
+     "topic": "Perception",
+     "stem": "Looking at a messy handwritten note, you see a squiggle and recognize it as the number 15. Recognizing what the squiggle means is an example of:",
+     "options": [
+      "Top-down processing",
+      "Bottom-up processing",
+      "The absolute threshold",
+      "Selective attention"
+     ],
+     "ans": 0,
+     "exp": "Your slides: being aware of the squiggle is bottom-up; knowing what it means is top-down.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "1-12",
+     "type": "mcq",
+     "topic": "Perception",
+     "stem": "You can read a paragraph where the middle letters of every word are scrambled, as long as the first and last letters are in place. Which of the following best explains this?",
+     "options": [
+      "Top-down processing: the mind reads each word as a whole",
+      "Bottom-up processing: the eyes read every letter separately",
+      "The Stroop effect",
+      "Weber's law"
+     ],
+     "ans": 0,
+     "exp": "The mind doesn't read every letter by itself, but the word as a whole. That's top-down.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "1-13",
+     "type": "mcq",
+     "topic": "Perception",
+     "stem": "Which of the following is an example of bottom-up processing?",
+     "options": [
+      "Receptors in your skin register the cold of an ice cube and send that information up to the brain",
+      "Recognizing a friend's messy handwriting because you've seen it before",
+      "Reading scrambled words because you know the language",
+      "Using the context of a sentence to figure out a smudged word"
+     ],
+     "ans": 0,
+     "exp": "Bottom-up = receptors registering information and sending it up. The others all use knowledge or context (top-down).",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "1-14",
+     "type": "mcq",
+     "topic": "Perception",
+     "stem": "Which of the following best defines the absolute threshold?",
+     "options": [
+      "The weakest amount of a stimulus a person can detect 50% of the time",
+      "The smallest change in a stimulus a person can notice 50% of the time",
+      "The point at which a stimulus becomes painful",
+      "The constant amount a stimulus must change to be noticed"
+     ],
+     "ans": 0,
+     "exp": "Absolute = detecting it at all. The second option is the difference threshold, the trap answer.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "1-15",
+     "type": "mcq",
+     "topic": "Perception",
+     "stem": "Which of the following is an example of an absolute threshold?",
+     "options": [
+      "Hearing a watch ticking 20 feet away",
+      "Noticing your music went from volume 5 to 10",
+      "Noticing 1 ounce added to a 10-ounce weight",
+      "Not noticing an actor's shirt change color"
+     ],
+     "ans": 0,
+     "exp": "The watch is the faintest sound you can detect. The other two \"noticing\" options are about changes (difference threshold).",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "1-16",
+     "type": "mcq",
+     "topic": "Perception",
+     "stem": "The difference threshold (just noticeable difference) is best described as:",
+     "options": [
+      "The minimum amount something needs to change before a person notices the change 50% of the time",
+      "The weakest stimulus a person can detect at all",
+      "The ability to focus on one voice in a crowd",
+      "Perceiving events you didn't witness"
+     ],
+     "ans": 0,
+     "exp": "JND = the smallest change you notice half the time.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "1-17",
+     "type": "mcq",
+     "topic": "Perception",
+     "stem": "Weber's law states that for a difference to be noticed, two stimuli must differ by:",
+     "options": [
+      "A constant percentage",
+      "A constant amount",
+      "Exactly 1 ounce",
+      "At least 50%"
+     ],
+     "ans": 0,
+     "exp": "Weber = percentage, not amount.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "1-18",
+     "type": "mcq",
+     "topic": "Perception",
+     "stem": "According to Weber's law, which change is a person LEAST likely to notice?",
+     "options": [
+      "Adding 1 ounce to a 100-ounce weight",
+      "Adding 1 ounce to a 10-ounce weight",
+      "Adding 10 ounces to a 100-ounce weight",
+      "Adding 5 ounces to a 10-ounce weight"
+     ],
+     "ans": 0,
+     "exp": "1 ounce is only 1% of 100 ounces, below the 2% needed for weight. The others are 10% or more.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "1-19",
+     "type": "mcq",
+     "topic": "Perception",
+     "stem": "According to Weber's law, about how much must a weight change before a person notices the difference?",
+     "options": [
+      "2%",
+      "50%",
+      "1 ounce, no matter the starting weight",
+      "10 ounces"
+     ],
+     "ans": 0,
+     "exp": "Your slides: weight must change by 2%.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "1-20",
+     "type": "mcq",
+     "topic": "Perception",
+     "stem": "Which of the following best explains why adding 1 ounce is noticeable on a 10-ounce weight but not on a 100-ounce weight?",
+     "options": [
+      "Differences are noticed by percentage, not amount, and 1 ounce is a much bigger percentage of 10 ounces.",
+      "Heavier weights raise the absolute threshold for touch.",
+      "People use top-down processing only with light weights.",
+      "The Stroop effect slows reactions to heavy objects."
+     ],
+     "ans": 0,
+     "exp": "Weber's law: a constant percentage, not a constant amount.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "1-21",
+     "type": "mcq",
+     "topic": "Perception",
+     "stem": "A woman claims she can send her thoughts directly into her twin's mind. This claim is called:",
+     "options": [
+      "Telepathy",
+      "Clairvoyance",
+      "Precognition",
+      "Selective attention"
+     ],
+     "ans": 0,
+     "exp": "Telepathy = mind-to-mind communication.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "1-22",
+     "type": "mcq",
+     "topic": "Perception",
+     "stem": "A man claims he dreamed about a car crash the night before it happened. This claim is called:",
+     "options": [
+      "Precognition",
+      "Telepathy",
+      "Clairvoyance",
+      "The pop-out phenomenon"
+     ],
+     "ans": 0,
+     "exp": "Precognition = perceiving future events.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "1-23",
+     "type": "mcq",
+     "topic": "Perception",
+     "stem": "Which statement about extrasensory perception (ESP) is most accurate?",
+     "options": [
+      "There is no scientific basis for it, and psychic visions given to police are no more accurate than other people's guesses.",
+      "Studies show clairvoyance helps police solve most cases.",
+      "Telepathy has been proven in laboratory experiments.",
+      "Precognition is a type of bottom-up processing."
+     ],
+     "ans": 0,
+     "exp": "Your slides: no scientific basis, and psychics do no better than guesses.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "1-24",
+     "type": "mcq",
+     "topic": "Perception",
+     "stem": "Which of the following best explains why some people believe psychics are accurate?",
+     "options": [
+      "Psychics make so many predictions that some are bound to be right, and people remember the hits and forget the misses.",
+      "Psychics have lower absolute thresholds than other people.",
+      "Psychics use top-down processing and other people don't.",
+      "Most psychic predictions turn out to be correct."
+     ],
+     "ans": 0,
+     "exp": "So many predictions → a few hits; people focus on the 1 or 2 correct ones.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "1-25",
+     "type": "mcq",
+     "topic": "Perception",
+     "stem": "Which pair is correctly matched?",
+     "options": [
+      "Clairvoyance — perceiving events you didn't witness",
+      "Telepathy — perceiving future events",
+      "Precognition — mind-to-mind communication",
+      "Pop-out phenomenon — failing to notice a change"
+     ],
+     "ans": 0,
+     "exp": "Telepathy = mind to mind, precognition = the future, and failing to notice a change is change blindness.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Mock exam",
+   "mode": "exam",
+   "exam": "Mock exam",
+   "examTips": [
+    "Turn the Timer on and answer every question without looking anything up.",
+    "Aim for about one minute per question. Flag hard ones and come back."
+   ],
+   "tips": [
+    "A mix of exam-style questions from every deck in this unit."
+   ],
+   "questions": [
+    {
+     "id": "M1",
+     "type": "mcq",
+     "topic": "Perception",
+     "stem": "Which of the following best describes selective attention?",
+     "options": [
+      "Focusing conscious awareness on one particular stimulus and not something else",
+      "Noticing every stimulus in the environment equally",
+      "The weakest stimulus a person can detect",
+      "Using past experience to interpret what you sense"
+     ],
+     "ans": 0,
+     "exp": "Selective attention = focusing on one thing and NOT something else.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "M2",
+     "type": "mcq",
+     "topic": "Perception",
+     "stem": "In a class demo, the word GREEN is printed in purple ink, and students must say the ink color. Many answer slowly or say \"green\" by mistake. This demonstrates:",
+     "options": [
+      "The Stroop effect",
+      "Change blindness",
+      "The cocktail party effect",
+      "Weber's law"
+     ],
+     "ans": 0,
+     "exp": "The Stroop effect is the delayed reaction when you must say the color of a word instead of the word itself.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "M3",
+     "type": "mcq",
+     "topic": "Perception",
+     "stem": "Which of the following is the best example of change blindness?",
+     "options": [
+      "Between shots in a movie, an actor's drink switches from full to empty, and most viewers don't notice.",
+      "A driver talking on the phone doesn't see a pedestrian in the crosswalk.",
+      "At a noisy party, you hear your name from across the room.",
+      "You can hear a watch ticking 20 feet away."
+     ],
+     "ans": 0,
+     "exp": "Missing a CHANGE = change blindness. Not seeing the pedestrian at all is inattentional blindness, the trap answer.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "M4",
+     "type": "mcq",
+     "topic": "Perception",
+     "stem": "Which of the following is the best example of inattentional blindness?",
+     "options": [
+      "While focused on texting, Ben walks past a bright yellow car parked right in front of him and never sees it.",
+      "An actor's shirt changes color between scenes, and viewers miss it.",
+      "You notice one red dot in a field of blue dots.",
+      "Your music goes from volume 5 to 10, and you notice."
+     ],
+     "ans": 0,
+     "exp": "Failing to see a visible object because attention is elsewhere = inattentional blindness. The shirt is change blindness.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "M5",
+     "type": "mcq",
+     "topic": "Perception",
+     "stem": "What do change blindness and inattentional blindness have in common?",
+     "options": [
+      "Both happen because attention is directed elsewhere.",
+      "Both are caused by damage to the occipital lobe.",
+      "Both involve hearing rather than vision.",
+      "Both are forms of extrasensory perception."
+     ],
+     "ans": 0,
+     "exp": "Both come from attention being directed elsewhere. The difference is missing a change vs. missing an object.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "M6",
+     "type": "mcq",
+     "topic": "Perception",
+     "stem": "A student is so focused on her notes in a noisy cafeteria that she doesn't notice her friend sit down right across from her. Which concept best explains this?",
+     "options": [
+      "Inattentional blindness",
+      "The cocktail party effect",
+      "The absolute threshold",
+      "Precognition"
+     ],
+     "ans": 0,
+     "exp": "Her friend was fully visible, but her attention was directed elsewhere.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "M7",
+     "type": "mcq",
+     "topic": "Perception",
+     "stem": "At a crowded school dance, Lena can focus on her friend's voice and tune out everyone else. This best illustrates:",
+     "options": [
+      "The cocktail party effect",
+      "The pop-out phenomenon",
+      "Change blindness",
+      "The difference threshold"
+     ],
+     "ans": 0,
+     "exp": "Focusing auditory attention on one voice while filtering out others is the cocktail party effect.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "M8",
+     "type": "mcq",
+     "topic": "Perception",
+     "stem": "Which of the following best explains why you might suddenly notice your own name being said across a noisy cafeteria?",
+     "options": [
+      "Your brain can register your name even amongst background noise.",
+      "Your absolute threshold for sound drops in loud places.",
+      "Top-down processing shuts off in noisy places.",
+      "Change blindness makes you notice sounds."
+     ],
+     "ans": 0,
+     "exp": "That's part of the cocktail party effect on your slides.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "M9",
+     "type": "mcq",
+     "topic": "Perception",
+     "stem": "In a crowd of people wearing black, one person in a bright orange jacket instantly catches your eye. This is:",
+     "options": [
+      "The pop-out phenomenon",
+      "Inattentional blindness",
+      "The Stroop effect",
+      "Clairvoyance"
+     ],
+     "ans": 0,
+     "exp": "Something different popping out to get your attention is the pop-out phenomenon.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "M10",
+     "type": "mcq",
+     "topic": "Perception",
+     "stem": "Which of the following best describes the difference between bottom-up and top-down processing?",
+     "options": [
+      "Bottom-up starts with sensory receptors sending information up to the brain (sensation); top-down uses knowledge, experience, and context to interpret it (perception).",
+      "Bottom-up uses past experience; top-down uses only the senses.",
+      "Bottom-up happens only in vision; top-down only in hearing.",
+      "They are two names for the same process."
+     ],
+     "ans": 0,
+     "exp": "Bottom-up = sensation. Top-down = perception.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "M11",
+     "type": "mcq",
+     "topic": "Perception",
+     "stem": "Looking at a messy handwritten note, you see a squiggle and recognize it as the number 15. Recognizing what the squiggle means is an example of:",
+     "options": [
+      "Top-down processing",
+      "Bottom-up processing",
+      "The absolute threshold",
+      "Selective attention"
+     ],
+     "ans": 0,
+     "exp": "Your slides: being aware of the squiggle is bottom-up; knowing what it means is top-down.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "M12",
+     "type": "mcq",
+     "topic": "Perception",
+     "stem": "You can read a paragraph where the middle letters of every word are scrambled, as long as the first and last letters are in place. Which of the following best explains this?",
+     "options": [
+      "Top-down processing: the mind reads each word as a whole",
+      "Bottom-up processing: the eyes read every letter separately",
+      "The Stroop effect",
+      "Weber's law"
+     ],
+     "ans": 0,
+     "exp": "The mind doesn't read every letter by itself, but the word as a whole. That's top-down.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "M13",
+     "type": "mcq",
+     "topic": "Perception",
+     "stem": "Which of the following is an example of bottom-up processing?",
+     "options": [
+      "Receptors in your skin register the cold of an ice cube and send that information up to the brain",
+      "Recognizing a friend's messy handwriting because you've seen it before",
+      "Reading scrambled words because you know the language",
+      "Using the context of a sentence to figure out a smudged word"
+     ],
+     "ans": 0,
+     "exp": "Bottom-up = receptors registering information and sending it up. The others all use knowledge or context (top-down).",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "M14",
+     "type": "mcq",
+     "topic": "Perception",
+     "stem": "Which of the following best defines the absolute threshold?",
+     "options": [
+      "The weakest amount of a stimulus a person can detect 50% of the time",
+      "The smallest change in a stimulus a person can notice 50% of the time",
+      "The point at which a stimulus becomes painful",
+      "The constant amount a stimulus must change to be noticed"
+     ],
+     "ans": 0,
+     "exp": "Absolute = detecting it at all. The second option is the difference threshold, the trap answer.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "M15",
+     "type": "mcq",
+     "topic": "Perception",
+     "stem": "Which of the following is an example of an absolute threshold?",
+     "options": [
+      "Hearing a watch ticking 20 feet away",
+      "Noticing your music went from volume 5 to 10",
+      "Noticing 1 ounce added to a 10-ounce weight",
+      "Not noticing an actor's shirt change color"
+     ],
+     "ans": 0,
+     "exp": "The watch is the faintest sound you can detect. The other two \"noticing\" options are about changes (difference threshold).",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "M16",
+     "type": "mcq",
+     "topic": "Perception",
+     "stem": "The difference threshold (just noticeable difference) is best described as:",
+     "options": [
+      "The minimum amount something needs to change before a person notices the change 50% of the time",
+      "The weakest stimulus a person can detect at all",
+      "The ability to focus on one voice in a crowd",
+      "Perceiving events you didn't witness"
+     ],
+     "ans": 0,
+     "exp": "JND = the smallest change you notice half the time.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "M17",
+     "type": "mcq",
+     "topic": "Perception",
+     "stem": "Weber's law states that for a difference to be noticed, two stimuli must differ by:",
+     "options": [
+      "A constant percentage",
+      "A constant amount",
+      "Exactly 1 ounce",
+      "At least 50%"
+     ],
+     "ans": 0,
+     "exp": "Weber = percentage, not amount.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "M18",
+     "type": "mcq",
+     "topic": "Perception",
+     "stem": "According to Weber's law, which change is a person LEAST likely to notice?",
+     "options": [
+      "Adding 1 ounce to a 100-ounce weight",
+      "Adding 1 ounce to a 10-ounce weight",
+      "Adding 10 ounces to a 100-ounce weight",
+      "Adding 5 ounces to a 10-ounce weight"
+     ],
+     "ans": 0,
+     "exp": "1 ounce is only 1% of 100 ounces, below the 2% needed for weight. The others are 10% or more.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "M19",
+     "type": "mcq",
+     "topic": "Perception",
+     "stem": "According to Weber's law, about how much must a weight change before a person notices the difference?",
+     "options": [
+      "2%",
+      "50%",
+      "1 ounce, no matter the starting weight",
+      "10 ounces"
+     ],
+     "ans": 0,
+     "exp": "Your slides: weight must change by 2%.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "M20",
+     "type": "mcq",
+     "topic": "Perception",
+     "stem": "Which of the following best explains why adding 1 ounce is noticeable on a 10-ounce weight but not on a 100-ounce weight?",
+     "options": [
+      "Differences are noticed by percentage, not amount, and 1 ounce is a much bigger percentage of 10 ounces.",
+      "Heavier weights raise the absolute threshold for touch.",
+      "People use top-down processing only with light weights.",
+      "The Stroop effect slows reactions to heavy objects."
+     ],
+     "ans": 0,
+     "exp": "Weber's law: a constant percentage, not a constant amount.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "M21",
+     "type": "mcq",
+     "topic": "Perception",
+     "stem": "A woman claims she can send her thoughts directly into her twin's mind. This claim is called:",
+     "options": [
+      "Telepathy",
+      "Clairvoyance",
+      "Precognition",
+      "Selective attention"
+     ],
+     "ans": 0,
+     "exp": "Telepathy = mind-to-mind communication.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "M22",
+     "type": "mcq",
+     "topic": "Perception",
+     "stem": "A man claims he dreamed about a car crash the night before it happened. This claim is called:",
+     "options": [
+      "Precognition",
+      "Telepathy",
+      "Clairvoyance",
+      "The pop-out phenomenon"
+     ],
+     "ans": 0,
+     "exp": "Precognition = perceiving future events.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "M23",
+     "type": "mcq",
+     "topic": "Perception",
+     "stem": "Which statement about extrasensory perception (ESP) is most accurate?",
+     "options": [
+      "There is no scientific basis for it, and psychic visions given to police are no more accurate than other people's guesses.",
+      "Studies show clairvoyance helps police solve most cases.",
+      "Telepathy has been proven in laboratory experiments.",
+      "Precognition is a type of bottom-up processing."
+     ],
+     "ans": 0,
+     "exp": "Your slides: no scientific basis, and psychics do no better than guesses.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "M24",
+     "type": "mcq",
+     "topic": "Perception",
+     "stem": "Which of the following best explains why some people believe psychics are accurate?",
+     "options": [
+      "Psychics make so many predictions that some are bound to be right, and people remember the hits and forget the misses.",
+      "Psychics have lower absolute thresholds than other people.",
+      "Psychics use top-down processing and other people don't.",
+      "Most psychic predictions turn out to be correct."
+     ],
+     "ans": 0,
+     "exp": "So many predictions → a few hits; people focus on the 1 or 2 correct ones.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "id": "M25",
+     "type": "mcq",
+     "topic": "Perception",
+     "stem": "Which pair is correctly matched?",
+     "options": [
+      "Clairvoyance — perceiving events you didn't witness",
+      "Telepathy — perceiving future events",
+      "Precognition — mind-to-mind communication",
+      "Pop-out phenomenon — failing to notice a change"
+     ],
+     "ans": 0,
+     "exp": "Telepathy = mind to mind, precognition = the future, and failing to notice a change is change blindness.",
+     "why": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    }
+   ]
+  }
+ ]
+}
