@@ -149,4 +149,15 @@ UNITS.forEach((U, ui) => {
   report.push(ours.label + ": " + terms.length + " cards, " + sq.length + " scenarios, " + exam.length + " exam questions; " + missing.length + " cards need an applied question" + (orphan.length ? "; " + orphan.length + " applied questions have no card: " + orphan.join(", ") : ""));
 });
 
+// Card map for bringing progress over from Phineas's backup file (read by the engine's Restore from backup).
+// His card ids are "<deck>-<position in RAW>"; ours are found by unit and term.
+const unitOf = {};
+UNITS.forEach((U) => U.decks.forEach((d) => (unitOf[d] = OURS[U.id].id)));
+const cards = {};
+RAW.forEach((r, i) => {
+  if (HIDDEN.has(r[0] + "|" + r[2]) || !unitOf[r[0]]) return;
+  cards[r[0] + "-" + i] = [unitOf[r[0]], r[2]];
+});
+writeFileSync(root + "content/import-map.json", JSON.stringify({ app: "psych-unit-1", name: "Phineas's kit", known: "ps1-known", miss: "ps1-miss", cards }, null, 1) + "\n");
+report.push("Progress map: " + Object.keys(cards).length + " of Phineas's card ids");
 report.forEach((l) => console.log(l));

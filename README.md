@@ -25,3 +25,11 @@ Built with the study kit engine by David Noskow (https://github.com/Dn4563/Study
 2. `npm run import`. It rewrites the imported files and lists cards that still need an applied question. `asks.json` is never touched.
 3. Add the missing applied questions to `scripts/asks-src/<unit>.py` and run `python3 scripts/asks-src/make_asks.py <unit>`.
 4. `npm test`.
+
+## Move your progress from Phineas's kit
+
+1. On Phineas's site, open **Settings** and press **Download backup**. It saves a `.json` file.
+2. On this kit's home page (the list of units), press **Restore from backup** and choose that file.
+3. Cards you marked known there become "got it" here, in the right unit, and terms you missed come up more in Learn. His lesson numbers and quiz answers don't carry over (the lessons and question sets are different).
+
+The card map is `content/import-map.json`, rebuilt by `npm run import`.

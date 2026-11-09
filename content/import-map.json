@@ -1,0 +1,2108 @@
+{
+ "app": "psych-unit-1",
+ "name": "Phineas's kit",
+ "known": "ps1-known",
+ "miss": "ps1-miss",
+ "cards": {
+  "neuron-0": [
+   "u1",
+   "Neuron"
+  ],
+  "neuron-1": [
+   "u1",
+   "Glial cells (glia)"
+  ],
+  "neuron-2": [
+   "u1",
+   "Dendrites"
+  ],
+  "neuron-3": [
+   "u1",
+   "Soma"
+  ],
+  "neuron-4": [
+   "u1",
+   "Axon"
+  ],
+  "neuron-5": [
+   "u1",
+   "Myelin sheath"
+  ],
+  "neuron-6": [
+   "u1",
+   "Terminal branches"
+  ],
+  "neuron-7": [
+   "u1",
+   "Terminal buttons"
+  ],
+  "neuron-8": [
+   "u1",
+   "Vesicles"
+  ],
+  "neuron-9": [
+   "u1",
+   "Synapse"
+  ],
+  "neuron-10": [
+   "u1",
+   "Resting potential"
+  ],
+  "neuron-11": [
+   "u1",
+   "Threshold"
+  ],
+  "neuron-12": [
+   "u1",
+   "Action potential"
+  ],
+  "neuron-13": [
+   "u1",
+   "All-or-none principle"
+  ],
+  "neuron-14": [
+   "u1",
+   "Reuptake"
+  ],
+  "neuron-15": [
+   "u1",
+   "Refractory period"
+  ],
+  "neuron-16": [
+   "u1",
+   "Multiple sclerosis (MS)"
+  ],
+  "neuron-17": [
+   "u1",
+   "Myasthenia gravis"
+  ],
+  "nt-18": [
+   "u1",
+   "Neurotransmitter"
+  ],
+  "nt-19": [
+   "u1",
+   "Excitatory"
+  ],
+  "nt-20": [
+   "u1",
+   "Inhibitory"
+  ],
+  "nt-21": [
+   "u1",
+   "Acetylcholine (ACh)"
+  ],
+  "nt-22": [
+   "u1",
+   "Dopamine"
+  ],
+  "nt-23": [
+   "u1",
+   "Serotonin"
+  ],
+  "nt-24": [
+   "u1",
+   "SSRI"
+  ],
+  "nt-25": [
+   "u1",
+   "Norepinephrine"
+  ],
+  "nt-26": [
+   "u1",
+   "GABA"
+  ],
+  "nt-27": [
+   "u1",
+   "Glutamate"
+  ],
+  "nt-28": [
+   "u1",
+   "Endorphins"
+  ],
+  "nt-29": [
+   "u1",
+   "Substance P"
+  ],
+  "ns-30": [
+   "u1",
+   "Three functions of the nervous system"
+  ],
+  "ns-31": [
+   "u1",
+   "Sensory (afferent) neurons"
+  ],
+  "ns-32": [
+   "u1",
+   "Motor (efferent) neurons"
+  ],
+  "ns-33": [
+   "u1",
+   "Interneurons"
+  ],
+  "ns-34": [
+   "u1",
+   "Central nervous system (CNS)"
+  ],
+  "ns-35": [
+   "u1",
+   "Spinal cord"
+  ],
+  "ns-36": [
+   "u1",
+   "Peripheral nervous system (PNS)"
+  ],
+  "ns-37": [
+   "u1",
+   "Nerves"
+  ],
+  "ns-38": [
+   "u1",
+   "Somatic nervous system"
+  ],
+  "ns-39": [
+   "u1",
+   "Autonomic nervous system"
+  ],
+  "ns-40": [
+   "u1",
+   "Sympathetic nervous system"
+  ],
+  "ns-41": [
+   "u1",
+   "Parasympathetic nervous system"
+  ],
+  "ns-42": [
+   "u1",
+   "Reflex"
+  ],
+  "ns-43": [
+   "u1",
+   "Endocrine system"
+  ],
+  "ns-44": [
+   "u1",
+   "Hormones vs. neurotransmitters"
+  ],
+  "ns-45": [
+   "u1",
+   "Pituitary gland"
+  ],
+  "ns-46": [
+   "u1",
+   "Adrenaline"
+  ],
+  "ns-47": [
+   "u1",
+   "Ghrelin"
+  ],
+  "ns-48": [
+   "u1",
+   "Leptin"
+  ],
+  "ns-49": [
+   "u1",
+   "Testosterone"
+  ],
+  "ns-50": [
+   "u1",
+   "Estrogen"
+  ],
+  "ns-51": [
+   "u1",
+   "Oxytocin"
+  ],
+  "ns-52": [
+   "u1",
+   "Melatonin"
+  ],
+  "brain-53": [
+   "u1",
+   "Brainstem"
+  ],
+  "brain-54": [
+   "u1",
+   "Medulla"
+  ],
+  "brain-55": [
+   "u1",
+   "Pons"
+  ],
+  "brain-56": [
+   "u1",
+   "Reticular formation"
+  ],
+  "brain-57": [
+   "u1",
+   "Thalamus"
+  ],
+  "brain-58": [
+   "u1",
+   "Cerebellum"
+  ],
+  "brain-59": [
+   "u1",
+   "Limbic system"
+  ],
+  "brain-60": [
+   "u1",
+   "Amygdala"
+  ],
+  "brain-61": [
+   "u1",
+   "Hippocampus"
+  ],
+  "brain-62": [
+   "u1",
+   "Hypothalamus"
+  ],
+  "brain-63": [
+   "u1",
+   "Lateral hypothalamus (LH)"
+  ],
+  "brain-64": [
+   "u1",
+   "Ventromedial hypothalamus (VMH)"
+  ],
+  "brain-65": [
+   "u1",
+   "Cerebral cortex"
+  ],
+  "brain-66": [
+   "u1",
+   "Frontal lobe"
+  ],
+  "brain-67": [
+   "u1",
+   "Prefrontal cortex"
+  ],
+  "brain-68": [
+   "u1",
+   "Motor cortex"
+  ],
+  "brain-69": [
+   "u1",
+   "Broca's area"
+  ],
+  "brain-70": [
+   "u1",
+   "Broca's aphasia"
+  ],
+  "brain-71": [
+   "u1",
+   "Phineas Gage"
+  ],
+  "brain-72": [
+   "u1",
+   "Parietal lobe"
+  ],
+  "brain-73": [
+   "u1",
+   "Somatosensory cortex"
+  ],
+  "brain-74": [
+   "u1",
+   "Temporal lobe"
+  ],
+  "brain-75": [
+   "u1",
+   "Primary auditory cortex"
+  ],
+  "brain-76": [
+   "u1",
+   "Wernicke's area"
+  ],
+  "brain-77": [
+   "u1",
+   "Wernicke's aphasia"
+  ],
+  "brain-78": [
+   "u1",
+   "Occipital lobe"
+  ],
+  "brain-79": [
+   "u1",
+   "Corpus callosum"
+  ],
+  "brain-80": [
+   "u1",
+   "Brain lateralization"
+  ],
+  "brain-81": [
+   "u1",
+   "Contralateral control"
+  ],
+  "brain-82": [
+   "u1",
+   "Left hemisphere"
+  ],
+  "brain-83": [
+   "u1",
+   "Right hemisphere"
+  ],
+  "brain-84": [
+   "u1",
+   "Plasticity"
+  ],
+  "brain-85": [
+   "u1",
+   "Neurogenesis"
+  ],
+  "brain-86": [
+   "u1",
+   "EEG"
+  ],
+  "brain-87": [
+   "u1",
+   "PET scan"
+  ],
+  "brain-88": [
+   "u1",
+   "CT scan"
+  ],
+  "brain-89": [
+   "u1",
+   "MRI"
+  ],
+  "brain-90": [
+   "u1",
+   "fMRI"
+  ],
+  "vision-91": [
+   "u1",
+   "Cornea"
+  ],
+  "vision-92": [
+   "u1",
+   "Iris"
+  ],
+  "vision-93": [
+   "u1",
+   "Pupil"
+  ],
+  "vision-94": [
+   "u1",
+   "Lens"
+  ],
+  "vision-95": [
+   "u1",
+   "Accommodation"
+  ],
+  "vision-96": [
+   "u1",
+   "Retina"
+  ],
+  "vision-97": [
+   "u1",
+   "Transduction"
+  ],
+  "vision-98": [
+   "u1",
+   "Rods"
+  ],
+  "vision-99": [
+   "u1",
+   "Cones"
+  ],
+  "vision-100": [
+   "u1",
+   "Dark adaptation"
+  ],
+  "vision-101": [
+   "u1",
+   "Bipolar cells"
+  ],
+  "vision-102": [
+   "u1",
+   "Ganglion cells"
+  ],
+  "vision-103": [
+   "u1",
+   "Optic nerve"
+  ],
+  "vision-104": [
+   "u1",
+   "Primary visual cortex"
+  ],
+  "vision-105": [
+   "u1",
+   "Feature detectors"
+  ],
+  "vision-106": [
+   "u1",
+   "Parallel processing"
+  ],
+  "vision-107": [
+   "u1",
+   "Trichromatic theory"
+  ],
+  "vision-108": [
+   "u1",
+   "Color blindness"
+  ],
+  "vision-109": [
+   "u1",
+   "Opponent-process theory"
+  ],
+  "vision-110": [
+   "u1",
+   "Afterimage"
+  ],
+  "vision-111": [
+   "u1",
+   "Which color theory is right?"
+  ],
+  "vision-112": [
+   "u1",
+   "Gestalt"
+  ],
+  "vision-113": [
+   "u1",
+   "Proximity"
+  ],
+  "vision-114": [
+   "u1",
+   "Similarity"
+  ],
+  "vision-115": [
+   "u1",
+   "Closure"
+  ],
+  "vision-116": [
+   "u1",
+   "Figure-ground"
+  ],
+  "vision-117": [
+   "u1",
+   "Depth perception"
+  ],
+  "vision-118": [
+   "u1",
+   "Binocular cues"
+  ],
+  "vision-119": [
+   "u1",
+   "Retinal disparity"
+  ],
+  "vision-120": [
+   "u1",
+   "Monocular cues"
+  ],
+  "vision-121": [
+   "u1",
+   "Relative size"
+  ],
+  "vision-122": [
+   "u1",
+   "Interposition"
+  ],
+  "vision-123": [
+   "u1",
+   "Linear perspective"
+  ],
+  "vision-124": [
+   "u1",
+   "Relative clarity"
+  ],
+  "senses-125": [
+   "u1",
+   "Audition"
+  ],
+  "senses-126": [
+   "u1",
+   "Amplitude"
+  ],
+  "senses-127": [
+   "u1",
+   "Frequency"
+  ],
+  "senses-128": [
+   "u1",
+   "Sound localization"
+  ],
+  "senses-129": [
+   "u1",
+   "Eardrum"
+  ],
+  "senses-130": [
+   "u1",
+   "Ossicles"
+  ],
+  "senses-131": [
+   "u1",
+   "Cochlea"
+  ],
+  "senses-132": [
+   "u1",
+   "Conduction hearing loss"
+  ],
+  "senses-133": [
+   "u1",
+   "Sensorineural hearing loss"
+  ],
+  "senses-134": [
+   "u1",
+   "Cochlear implant"
+  ],
+  "senses-135": [
+   "u1",
+   "Vestibular sense"
+  ],
+  "senses-136": [
+   "u1",
+   "Kinesthesis"
+  ],
+  "senses-137": [
+   "u1",
+   "Olfaction"
+  ],
+  "senses-138": [
+   "u1",
+   "Gustation"
+  ],
+  "senses-139": [
+   "u1",
+   "Five basic tastes"
+  ],
+  "senses-140": [
+   "u1",
+   "Supertasters"
+  ],
+  "senses-141": [
+   "u1",
+   "Sensory interaction"
+  ],
+  "senses-142": [
+   "u1",
+   "Touch"
+  ],
+  "senses-143": [
+   "u1",
+   "Gate control theory"
+  ],
+  "senses-144": [
+   "u1",
+   "Phantom limb"
+  ],
+  "senses-145": [
+   "u1",
+   "Synesthesia"
+  ],
+  "senses-146": [
+   "u1",
+   "Prosopagnosia"
+  ],
+  "split-147": [
+   "u1",
+   "Split-brain patient"
+  ],
+  "split-148": [
+   "u1",
+   "Left visual field (LVF)"
+  ],
+  "split-149": [
+   "u1",
+   "Right visual field (RVF)"
+  ],
+  "split-150": [
+   "u1",
+   "Optic chiasm"
+  ],
+  "split-151": [
+   "u1",
+   "Object flashed to the right visual field"
+  ],
+  "split-152": [
+   "u1",
+   "Object flashed to the left visual field"
+  ],
+  "split-153": [
+   "u1",
+   "Trees vs. forest"
+  ],
+  "split-154": [
+   "u1",
+   "Words vs. tone"
+  ],
+  "split-155": [
+   "u1",
+   "Logic vs. intuition"
+  ],
+  "sleep-156": [
+   "u1",
+   "Sleep"
+  ],
+  "sleep-157": [
+   "u1",
+   "Dreaming"
+  ],
+  "sleep-158": [
+   "u1",
+   "Sleep stages"
+  ],
+  "sleep-159": [
+   "u1",
+   "Circadian rhythm"
+  ],
+  "sleep-160": [
+   "u1",
+   "Body temperature cycle"
+  ],
+  "sleep-161": [
+   "u1",
+   "Teens and young adults"
+  ],
+  "sleep-162": [
+   "u1",
+   "Older adults"
+  ],
+  "sleep-163": [
+   "u1",
+   "Artificial light"
+  ],
+  "sleep-164": [
+   "u1",
+   "Sleep loss: brain"
+  ],
+  "sleep-165": [
+   "u1",
+   "Sleep loss: immune system"
+  ],
+  "sleep-166": [
+   "u1",
+   "Sleep loss: stomach and fat cells"
+  ],
+  "sleep-167": [
+   "u1",
+   "Sleep loss: heart"
+  ],
+  "sleep-168": [
+   "u1",
+   "Sleep loss: muscles and joints"
+  ],
+  "sleep-169": [
+   "u1",
+   "Insomnia"
+  ],
+  "sleep-170": [
+   "u1",
+   "Sleep apnea"
+  ],
+  "sleep-171": [
+   "u1",
+   "Night terrors"
+  ],
+  "sleep-172": [
+   "u1",
+   "Sleepwalking"
+  ],
+  "sleep-173": [
+   "u1",
+   "Narcolepsy"
+  ],
+  "sleep-174": [
+   "u1",
+   "Psychoactive drugs"
+  ],
+  "sleep-175": [
+   "u1",
+   "Agonist"
+  ],
+  "sleep-176": [
+   "u1",
+   "Antagonist"
+  ],
+  "sleep-177": [
+   "u1",
+   "Reuptake inhibitor"
+  ],
+  "sleep-178": [
+   "u1",
+   "Four categories of psychoactive drugs"
+  ],
+  "sleep-179": [
+   "u1",
+   "Depressants"
+  ],
+  "sleep-180": [
+   "u1",
+   "Alcohol"
+  ],
+  "sleep-181": [
+   "u1",
+   "Barbiturates / sedatives"
+  ],
+  "sleep-182": [
+   "u1",
+   "Benzodiazepines"
+  ],
+  "sleep-183": [
+   "u1",
+   "Stimulants"
+  ],
+  "sleep-184": [
+   "u1",
+   "Caffeine"
+  ],
+  "sleep-185": [
+   "u1",
+   "Nicotine"
+  ],
+  "sleep-186": [
+   "u1",
+   "Cocaine"
+  ],
+  "sleep-187": [
+   "u1",
+   "Amphetamines"
+  ],
+  "sleep-188": [
+   "u1",
+   "Hallucinogens"
+  ],
+  "sleep-189": [
+   "u1",
+   "LSD"
+  ],
+  "sleep-190": [
+   "u1",
+   "THC"
+  ],
+  "sleep-191": [
+   "u1",
+   "Ecstasy (MDMA)"
+  ],
+  "sleep-192": [
+   "u1",
+   "Opioids"
+  ],
+  "sleep-193": [
+   "u1",
+   "How opioids work"
+  ],
+  "sleep-194": [
+   "u1",
+   "Results of opioid use"
+  ],
+  "sleep-195": [
+   "u1",
+   "Substance use"
+  ],
+  "sleep-196": [
+   "u1",
+   "Substance abuse"
+  ],
+  "sleep-197": [
+   "u1",
+   "Tolerance"
+  ],
+  "sleep-198": [
+   "u1",
+   "Addiction"
+  ],
+  "sleep-199": [
+   "u1",
+   "Withdrawal"
+  ],
+  "sleep-200": [
+   "u1",
+   "Substance use disorder"
+  ],
+  "sleep-201": [
+   "u1",
+   "Severity levels"
+  ],
+  "sleep-202": [
+   "u1",
+   "Criteria: losing control"
+  ],
+  "sleep-203": [
+   "u1",
+   "Criteria: life problems"
+  ],
+  "sleep-204": [
+   "u1",
+   "Criteria: risk and the body"
+  ],
+  "perception-205": [
+   "per",
+   "Selective attention"
+  ],
+  "perception-206": [
+   "per",
+   "Stroop effect"
+  ],
+  "perception-207": [
+   "per",
+   "Change blindness"
+  ],
+  "perception-208": [
+   "per",
+   "Inattentional blindness"
+  ],
+  "perception-209": [
+   "per",
+   "Change vs. inattentional blindness"
+  ],
+  "perception-210": [
+   "per",
+   "Cocktail party effect"
+  ],
+  "perception-211": [
+   "per",
+   "Hearing your name"
+  ],
+  "perception-212": [
+   "per",
+   "Pop-out phenomenon"
+  ],
+  "perception-213": [
+   "per",
+   "Bottom-up processing"
+  ],
+  "perception-214": [
+   "per",
+   "Top-down processing"
+  ],
+  "perception-215": [
+   "per",
+   "Reading scrambled words"
+  ],
+  "perception-216": [
+   "per",
+   "The handwriting example"
+  ],
+  "perception-217": [
+   "per",
+   "Absolute threshold"
+  ],
+  "perception-218": [
+   "per",
+   "Absolute threshold examples"
+  ],
+  "perception-219": [
+   "per",
+   "Difference threshold (just noticeable difference)"
+  ],
+  "perception-220": [
+   "per",
+   "JND example"
+  ],
+  "perception-221": [
+   "per",
+   "Weber's law"
+  ],
+  "perception-222": [
+   "per",
+   "Weber's law examples"
+  ],
+  "perception-223": [
+   "per",
+   "Extrasensory perception (ESP)"
+  ],
+  "perception-224": [
+   "per",
+   "Telepathy"
+  ],
+  "perception-225": [
+   "per",
+   "Clairvoyance"
+  ],
+  "perception-226": [
+   "per",
+   "Precognition"
+  ],
+  "perception-227": [
+   "per",
+   "Psychics and the police"
+  ],
+  "perception-228": [
+   "per",
+   "Why psychics seem accurate"
+  ],
+  "research-229": [
+   "u0",
+   "Intuition"
+  ],
+  "research-230": [
+   "u0",
+   "Why intuition fails"
+  ],
+  "research-231": [
+   "u0",
+   "Hindsight bias"
+  ],
+  "research-232": [
+   "u0",
+   "Overconfidence"
+  ],
+  "research-233": [
+   "u0",
+   "Misunderstanding of probability"
+  ],
+  "research-234": [
+   "u0",
+   "The scientific method (7 steps)"
+  ],
+  "research-235": [
+   "u0",
+   "Theory"
+  ],
+  "research-236": [
+   "u0",
+   "Hypothesis"
+  ],
+  "research-237": [
+   "u0",
+   "Operational definition"
+  ],
+  "research-238": [
+   "u0",
+   "Why operational definitions matter"
+  ],
+  "research-239": [
+   "u0",
+   "Replicate"
+  ],
+  "research-240": [
+   "u0",
+   "Three types of research"
+  ],
+  "research-241": [
+   "u0",
+   "Descriptive research"
+  ],
+  "research-242": [
+   "u0",
+   "Correlational research"
+  ],
+  "research-243": [
+   "u0",
+   "Experimental research"
+  ],
+  "research-244": [
+   "u0",
+   "Case study"
+  ],
+  "research-245": [
+   "u0",
+   "Case study: pros and cons"
+  ],
+  "research-246": [
+   "u0",
+   "Naturalistic observation"
+  ],
+  "research-247": [
+   "u0",
+   "Naturalistic observation: pros and cons"
+  ],
+  "research-248": [
+   "u0",
+   "Survey"
+  ],
+  "research-249": [
+   "u0",
+   "Survey: pros and cons"
+  ],
+  "research-250": [
+   "u0",
+   "Correlation"
+  ],
+  "research-251": [
+   "u0",
+   "Positive correlation"
+  ],
+  "research-252": [
+   "u0",
+   "Negative correlation"
+  ],
+  "research-253": [
+   "u0",
+   "Zero (no) correlation"
+  ],
+  "research-254": [
+   "u0",
+   "Correlation coefficient"
+  ],
+  "research-255": [
+   "u0",
+   "Positive isn't \"good\""
+  ],
+  "research-256": [
+   "u0",
+   "Correlation does not equal causation"
+  ],
+  "research-257": [
+   "u0",
+   "Population"
+  ],
+  "research-258": [
+   "u0",
+   "Sample"
+  ],
+  "research-259": [
+   "u0",
+   "Representative (random) sample"
+  ],
+  "research-260": [
+   "u0",
+   "Experimental group"
+  ],
+  "research-261": [
+   "u0",
+   "Control group"
+  ],
+  "research-262": [
+   "u0",
+   "Independent variable (IV)"
+  ],
+  "research-263": [
+   "u0",
+   "Dependent variable (DV)"
+  ],
+  "research-264": [
+   "u0",
+   "Confounding variable"
+  ],
+  "research-265": [
+   "u0",
+   "Problems with research (all 11)"
+  ],
+  "research-266": [
+   "u0",
+   "Placebo effect"
+  ],
+  "research-267": [
+   "u0",
+   "Hawthorne effect"
+  ],
+  "research-268": [
+   "u0",
+   "Barnum effect"
+  ],
+  "research-269": [
+   "u0",
+   "Gambler's fallacy"
+  ],
+  "research-270": [
+   "u0",
+   "Social desirability bias"
+  ],
+  "research-271": [
+   "u0",
+   "Self-report bias"
+  ],
+  "research-272": [
+   "u0",
+   "Sampling bias"
+  ],
+  "research-273": [
+   "u0",
+   "Wording effects (framing)"
+  ],
+  "research-274": [
+   "u0",
+   "Why ethics guidelines exist"
+  ],
+  "research-275": [
+   "u0",
+   "APA ethical guidelines"
+  ],
+  "research-276": [
+   "u0",
+   "Voluntary participation"
+  ],
+  "research-277": [
+   "u0",
+   "Confidentiality"
+  ],
+  "research-278": [
+   "u0",
+   "Informed consent"
+  ],
+  "research-279": [
+   "u0",
+   "Debriefing"
+  ],
+  "research-280": [
+   "u0",
+   "No long-term harm"
+  ],
+  "research-281": [
+   "u0",
+   "Animal participants"
+  ],
+  "research-282": [
+   "u0",
+   "Institutional approval"
+  ],
+  "perspectives-283": [
+   "u0",
+   "Psychological perspectives"
+  ],
+  "perspectives-284": [
+   "u0",
+   "The 7 perspectives"
+  ],
+  "perspectives-285": [
+   "u0",
+   "Psychodynamic perspective"
+  ],
+  "perspectives-286": [
+   "u0",
+   "Cognitive perspective"
+  ],
+  "perspectives-287": [
+   "u0",
+   "Behavioral perspective"
+  ],
+  "perspectives-288": [
+   "u0",
+   "Humanistic perspective"
+  ],
+  "perspectives-289": [
+   "u0",
+   "Biological perspective"
+  ],
+  "perspectives-290": [
+   "u0",
+   "Evolutionary perspective"
+  ],
+  "perspectives-291": [
+   "u0",
+   "Sociocultural perspective"
+  ],
+  "perspectives-292": [
+   "u0",
+   "Applying a perspective"
+  ],
+  "perspectives-293": [
+   "u0",
+   "Slide example: Suzanne"
+  ],
+  "perspectives-294": [
+   "u0",
+   "Perspective keywords"
+  ],
+  "stats-295": [
+   "u0",
+   "Descriptive statistics"
+  ],
+  "stats-296": [
+   "u0",
+   "Frequency distribution"
+  ],
+  "stats-297": [
+   "u0",
+   "Histogram"
+  ],
+  "stats-298": [
+   "u0",
+   "Mean"
+  ],
+  "stats-299": [
+   "u0",
+   "Median"
+  ],
+  "stats-300": [
+   "u0",
+   "Mode"
+  ],
+  "stats-301": [
+   "u0",
+   "Percentile rank"
+  ],
+  "stats-302": [
+   "u0",
+   "Measures of variation"
+  ],
+  "stats-303": [
+   "u0",
+   "Range"
+  ],
+  "stats-304": [
+   "u0",
+   "Standard deviation"
+  ],
+  "stats-305": [
+   "u0",
+   "Normal curve"
+  ],
+  "stats-306": [
+   "u0",
+   "The 68% and 95% rule"
+  ],
+  "stats-307": [
+   "u0",
+   "Outlier"
+  ],
+  "stats-308": [
+   "u0",
+   "Skewed distribution"
+  ],
+  "stats-309": [
+   "u0",
+   "Positive skew"
+  ],
+  "stats-310": [
+   "u0",
+   "Negative skew"
+  ],
+  "stats-311": [
+   "u0",
+   "Symmetrical distribution"
+  ],
+  "stats-312": [
+   "u0",
+   "The mean follows the tail"
+  ],
+  "stats-313": [
+   "u0",
+   "Bimodal curve"
+  ],
+  "stats-314": [
+   "u0",
+   "Inferential statistics"
+  ],
+  "stats-315": [
+   "u0",
+   "3 key principles"
+  ],
+  "stats-316": [
+   "u0",
+   "Meta-analysis"
+  ],
+  "stats-317": [
+   "u0",
+   "The café example"
+  ],
+  "stats-318": [
+   "u0",
+   "Statistical significance"
+  ],
+  "stats-319": [
+   "u0",
+   "P-value"
+  ],
+  "stats-320": [
+   "u0",
+   "Effect size"
+  ],
+  "health-321": [
+   "u5",
+   "Stress"
+  ],
+  "health-322": [
+   "u5",
+   "Cortisol"
+  ],
+  "health-323": [
+   "u5",
+   "Hypertension"
+  ],
+  "health-324": [
+   "u5",
+   "Immunosuppression"
+  ],
+  "health-325": [
+   "u5",
+   "Eustress"
+  ],
+  "health-326": [
+   "u5",
+   "Distress"
+  ],
+  "health-327": [
+   "u5",
+   "Catastrophes"
+  ],
+  "health-328": [
+   "u5",
+   "Significant life changes"
+  ],
+  "health-329": [
+   "u5",
+   "Daily hassles"
+  ],
+  "health-330": [
+   "u5",
+   "Adverse Childhood Experiences (ACEs)"
+  ],
+  "health-331": [
+   "u5",
+   "Three types of ACEs"
+  ],
+  "health-332": [
+   "u5",
+   "ACE: Abuse"
+  ],
+  "health-333": [
+   "u5",
+   "ACE: Neglect"
+  ],
+  "health-334": [
+   "u5",
+   "ACE: Household dysfunction"
+  ],
+  "health-335": [
+   "u5",
+   "Health risks of ACEs"
+  ],
+  "health-336": [
+   "u5",
+   "General Adaptation Syndrome (GAS)"
+  ],
+  "health-337": [
+   "u5",
+   "Alarm stage"
+  ],
+  "health-338": [
+   "u5",
+   "Resistance stage"
+  ],
+  "health-339": [
+   "u5",
+   "Exhaustion stage"
+  ],
+  "health-340": [
+   "u5",
+   "Tend-and-befriend theory"
+  ],
+  "health-341": [
+   "u5",
+   "Tending"
+  ],
+  "health-342": [
+   "u5",
+   "Befriending"
+  ],
+  "health-343": [
+   "u5",
+   "Problem-focused coping"
+  ],
+  "health-344": [
+   "u5",
+   "Emotion-focused coping"
+  ],
+  "disorders-345": [
+   "u5",
+   "When is it a disorder? (the 3 Ds)"
+  ],
+  "disorders-346": [
+   "u5",
+   "Deviant"
+  ],
+  "disorders-347": [
+   "u5",
+   "Dysfunctional / maladaptive"
+  ],
+  "disorders-348": [
+   "u5",
+   "Distressing"
+  ],
+  "disorders-349": [
+   "u5",
+   "DSM-5"
+  ],
+  "disorders-350": [
+   "u5",
+   "Biological explanation"
+  ],
+  "disorders-351": [
+   "u5",
+   "Psychodynamic explanation"
+  ],
+  "disorders-352": [
+   "u5",
+   "Behavioral explanation"
+  ],
+  "disorders-353": [
+   "u5",
+   "Cognitive explanation"
+  ],
+  "disorders-354": [
+   "u5",
+   "Sociocultural explanation"
+  ],
+  "disorders-355": [
+   "u5",
+   "Humanistic explanation"
+  ],
+  "disorders-356": [
+   "u5",
+   "Evolutionary explanation"
+  ],
+  "disorders-357": [
+   "u5",
+   "Intern syndrome"
+  ],
+  "anxiety-358": [
+   "u5",
+   "Anxiety disorders"
+  ],
+  "anxiety-359": [
+   "u5",
+   "Specific phobia"
+  ],
+  "anxiety-360": [
+   "u5",
+   "Symptoms of specific phobias"
+  ],
+  "anxiety-369": [
+   "u5",
+   "Agoraphobia"
+  ],
+  "anxiety-370": [
+   "u5",
+   "Symptoms of agoraphobia"
+  ],
+  "anxiety-371": [
+   "u5",
+   "Panic disorder"
+  ],
+  "anxiety-372": [
+   "u5",
+   "Symptoms of panic disorder"
+  ],
+  "anxiety-373": [
+   "u5",
+   "Social anxiety disorder (social phobia)"
+  ],
+  "anxiety-374": [
+   "u5",
+   "Symptoms of social anxiety disorder"
+  ],
+  "anxiety-375": [
+   "u5",
+   "Generalized anxiety disorder (GAD)"
+  ],
+  "anxiety-376": [
+   "u5",
+   "Symptoms of GAD"
+  ],
+  "anxiety-377": [
+   "u5",
+   "Behavioral cause of anxiety disorders"
+  ],
+  "anxiety-378": [
+   "u5",
+   "Cognitive cause of anxiety disorders"
+  ],
+  "anxiety-379": [
+   "u5",
+   "Biological cause of anxiety disorders"
+  ],
+  "anxiety-380": [
+   "u5",
+   "Genetic cause of anxiety disorders"
+  ],
+  "mood-381": [
+   "u5",
+   "Depressive disorders"
+  ],
+  "mood-382": [
+   "u5",
+   "Depression quick facts"
+  ],
+  "mood-383": [
+   "u5",
+   "Major depressive disorder (MDD)"
+  ],
+  "mood-384": [
+   "u5",
+   "Symptoms of major depressive disorder"
+  ],
+  "mood-385": [
+   "u5",
+   "Persistent depressive disorder"
+  ],
+  "mood-386": [
+   "u5",
+   "Causes of depressive disorders"
+  ],
+  "mood-387": [
+   "u5",
+   "Bipolar disorders"
+  ],
+  "mood-388": [
+   "u5",
+   "Manic episode"
+  ],
+  "mood-389": [
+   "u5",
+   "Depressive episode (bipolar)"
+  ],
+  "mood-390": [
+   "u5",
+   "Bipolar I"
+  ],
+  "mood-391": [
+   "u5",
+   "Bipolar II"
+  ],
+  "mood-392": [
+   "u5",
+   "Hypomanic episode"
+  ],
+  "mood-393": [
+   "u5",
+   "Causes of bipolar disorder"
+  ],
+  "neurodev-394": [
+   "u5",
+   "Neurodevelopmental disorders"
+  ],
+  "neurodev-395": [
+   "u5",
+   "Causes of neurodevelopmental disorders"
+  ],
+  "neurodev-396": [
+   "u5",
+   "High heritability"
+  ],
+  "neurodev-397": [
+   "u5",
+   "Teratogens"
+  ],
+  "neurodev-398": [
+   "u5",
+   "ADHD"
+  ],
+  "neurodev-399": [
+   "u5",
+   "ADHD symptom count"
+  ],
+  "neurodev-400": [
+   "u5",
+   "Inattention symptoms"
+  ],
+  "neurodev-401": [
+   "u5",
+   "Hyperactivity symptoms"
+  ],
+  "neurodev-402": [
+   "u5",
+   "Impulsivity symptoms"
+  ],
+  "neurodev-403": [
+   "u5",
+   "Other ADHD criteria"
+  ],
+  "neurodev-404": [
+   "u5",
+   "ADHD onset"
+  ],
+  "neurodev-405": [
+   "u5",
+   "Autism spectrum disorder (ASD)"
+  ],
+  "neurodev-406": [
+   "u5",
+   "Why \"spectrum\"?"
+  ],
+  "neurodev-407": [
+   "u5",
+   "ASD statistics"
+  ],
+  "dissoc-408": [
+   "u5",
+   "Dissociative disorders"
+  ],
+  "dissoc-409": [
+   "u5",
+   "Cause of dissociative disorders"
+  ],
+  "dissoc-410": [
+   "u5",
+   "Symptoms of dissociative disorders"
+  ],
+  "dissoc-411": [
+   "u5",
+   "Dissociative amnesia"
+  ],
+  "dissoc-412": [
+   "u5",
+   "Symptoms of dissociative amnesia"
+  ],
+  "dissoc-413": [
+   "u5",
+   "Fugue state"
+  ],
+  "dissoc-414": [
+   "u5",
+   "Dissociative identity disorder (DID)"
+  ],
+  "dissoc-415": [
+   "u5",
+   "Alters"
+  ],
+  "dissoc-416": [
+   "u5",
+   "Symptoms of DID"
+  ],
+  "schizo-417": [
+   "u5",
+   "Schizophrenia"
+  ],
+  "schizo-418": [
+   "u5",
+   "Positive symptoms"
+  ],
+  "schizo-419": [
+   "u5",
+   "Delusions"
+  ],
+  "schizo-420": [
+   "u5",
+   "Delusions of grandeur"
+  ],
+  "schizo-421": [
+   "u5",
+   "Delusions of persecution"
+  ],
+  "schizo-422": [
+   "u5",
+   "Hallucinations"
+  ],
+  "schizo-423": [
+   "u5",
+   "Disorganized thinking/speech"
+  ],
+  "schizo-424": [
+   "u5",
+   "Word salad"
+  ],
+  "schizo-425": [
+   "u5",
+   "Disorganized motor movement"
+  ],
+  "schizo-426": [
+   "u5",
+   "Negative symptoms"
+  ],
+  "schizo-427": [
+   "u5",
+   "Flat affect"
+  ],
+  "schizo-428": [
+   "u5",
+   "Catatonic stupor"
+  ],
+  "schizo-429": [
+   "u5",
+   "Causes of schizophrenia"
+  ],
+  "schizo-430": [
+   "u5",
+   "Dopamine hypothesis"
+  ],
+  "schizo-431": [
+   "u5",
+   "Diathesis-stress model"
+  ],
+  "schizo-432": [
+   "u5",
+   "Diathesis"
+  ],
+  "ocdptsd-433": [
+   "u5",
+   "Obsessive-compulsive & related disorders"
+  ],
+  "ocdptsd-434": [
+   "u5",
+   "Their own DSM-5 category"
+  ],
+  "ocdptsd-435": [
+   "u5",
+   "Trichotillomania"
+  ],
+  "ocdptsd-436": [
+   "u5",
+   "Excoriation disorder"
+  ],
+  "ocdptsd-437": [
+   "u5",
+   "OCD"
+  ],
+  "ocdptsd-438": [
+   "u5",
+   "Obsessions"
+  ],
+  "ocdptsd-439": [
+   "u5",
+   "Compulsions"
+  ],
+  "ocdptsd-440": [
+   "u5",
+   "The OCD cycle"
+  ],
+  "ocdptsd-441": [
+   "u5",
+   "Behavioral cause of OCD"
+  ],
+  "ocdptsd-442": [
+   "u5",
+   "Other causes of OCD & related disorders"
+  ],
+  "ocdptsd-443": [
+   "u5",
+   "Hoarding disorder"
+  ],
+  "ocdptsd-444": [
+   "u5",
+   "Trauma- and stressor-related disorders"
+  ],
+  "ocdptsd-445": [
+   "u5",
+   "Cause of trauma disorders"
+  ],
+  "ocdptsd-446": [
+   "u5",
+   "Symptoms of PTSD"
+  ],
+  "ocdptsd-447": [
+   "u5",
+   "Hypervigilance"
+  ],
+  "eating-448": [
+   "u5",
+   "Feeding & eating disorders"
+  ],
+  "eating-449": [
+   "u5",
+   "The two to know"
+  ],
+  "eating-450": [
+   "u5",
+   "Anorexia nervosa"
+  ],
+  "eating-451": [
+   "u5",
+   "Signs of anorexia"
+  ],
+  "eating-452": [
+   "u5",
+   "Bulimia nervosa"
+  ],
+  "eating-453": [
+   "u5",
+   "Binge eating episode"
+  ],
+  "eating-454": [
+   "u5",
+   "Signs of bulimia"
+  ],
+  "eating-455": [
+   "u5",
+   "Biological & genetic causes"
+  ],
+  "eating-456": [
+   "u5",
+   "Social cause"
+  ],
+  "eating-457": [
+   "u5",
+   "Cultural cause"
+  ],
+  "eating-458": [
+   "u5",
+   "Cognitive cause"
+  ],
+  "eating-459": [
+   "u5",
+   "Stress as a cause"
+  ],
+  "personality-460": [
+   "u5",
+   "Personality disorders"
+  ],
+  "personality-461": [
+   "u5",
+   "Three clusters"
+  ],
+  "personality-462": [
+   "u5",
+   "Cluster A"
+  ],
+  "personality-463": [
+   "u5",
+   "Paranoid personality disorder"
+  ],
+  "personality-464": [
+   "u5",
+   "Schizoid personality disorder"
+  ],
+  "personality-465": [
+   "u5",
+   "Schizotypal personality disorder"
+  ],
+  "personality-466": [
+   "u5",
+   "Cluster B"
+  ],
+  "personality-467": [
+   "u5",
+   "Antisocial personality disorder"
+  ],
+  "personality-468": [
+   "u5",
+   "Histrionic personality disorder"
+  ],
+  "personality-469": [
+   "u5",
+   "Narcissistic personality disorder"
+  ],
+  "personality-470": [
+   "u5",
+   "Borderline personality disorder"
+  ],
+  "personality-471": [
+   "u5",
+   "Cluster C"
+  ],
+  "personality-472": [
+   "u5",
+   "Avoidant personality disorder"
+  ],
+  "personality-473": [
+   "u5",
+   "Dependent personality disorder"
+  ],
+  "personality-474": [
+   "u5",
+   "Obsessive-compulsive personality disorder"
+  ],
+  "personality-475": [
+   "u5",
+   "Causes of personality disorders"
+  ],
+  "treatment-476": [
+   "u5",
+   "History of treatment"
+  ],
+  "treatment-477": [
+   "u5",
+   "Lobotomies in history"
+  ],
+  "treatment-478": [
+   "u5",
+   "Deinstitutionalization"
+  ],
+  "treatment-479": [
+   "u5",
+   "Biomedical therapy"
+  ],
+  "treatment-480": [
+   "u5",
+   "Psychotherapy"
+  ],
+  "treatment-481": [
+   "u5",
+   "Who can prescribe"
+  ],
+  "treatment-482": [
+   "u5",
+   "Eclectic approach"
+  ],
+  "treatment-483": [
+   "u5",
+   "Psychotropic medications"
+  ],
+  "treatment-484": [
+   "u5",
+   "Pharmacology"
+  ],
+  "treatment-485": [
+   "u5",
+   "Antidepressants"
+  ],
+  "treatment-486": [
+   "u5",
+   "Anti-anxiety medications"
+  ],
+  "treatment-487": [
+   "u5",
+   "Antipsychotics"
+  ],
+  "treatment-488": [
+   "u5",
+   "Tardive dyskinesia"
+  ],
+  "treatment-489": [
+   "u5",
+   "Mood stabilizers"
+  ],
+  "treatment-490": [
+   "u5",
+   "Lobotomy"
+  ],
+  "treatment-491": [
+   "u5",
+   "Transcranial magnetic stimulation (rTMS)"
+  ],
+  "treatment-492": [
+   "u5",
+   "Electroconvulsive therapy (ECT)"
+  ],
+  "treatment-493": [
+   "u5",
+   "Confidentiality (cardinal rule)"
+  ],
+  "treatment-494": [
+   "u5",
+   "Cultural humility"
+  ],
+  "treatment-495": [
+   "u5",
+   "Therapeutic alliance"
+  ],
+  "treatment-496": [
+   "u5",
+   "Hans Eysenck"
+  ],
+  "treatment-497": [
+   "u5",
+   "Is psychotherapy effective?"
+  ],
+  "treatment-498": [
+   "u5",
+   "Fidelity and responsibility"
+  ],
+  "treatment-499": [
+   "u5",
+   "Beneficence and nonmaleficence"
+  ],
+  "treatment-500": [
+   "u5",
+   "Respect for rights and dignity"
+  ],
+  "treatment-501": [
+   "u5",
+   "Integrity"
+  ],
+  "treatment-502": [
+   "u5",
+   "Justice"
+  ],
+  "treatment-503": [
+   "u5",
+   "Psychodynamic therapies"
+  ],
+  "treatment-504": [
+   "u5",
+   "Free association"
+  ],
+  "treatment-505": [
+   "u5",
+   "Resistance"
+  ],
+  "treatment-506": [
+   "u5",
+   "Dream interpretation"
+  ],
+  "treatment-507": [
+   "u5",
+   "Hypnosis"
+  ],
+  "treatment-508": [
+   "u5",
+   "Person-centered (client-centered) therapy"
+  ],
+  "treatment-509": [
+   "u5",
+   "Non-directive therapy"
+  ],
+  "treatment-510": [
+   "u5",
+   "Unconditional positive regard"
+  ],
+  "treatment-511": [
+   "u5",
+   "Empathy, congruence, UPR"
+  ],
+  "treatment-512": [
+   "u5",
+   "Active listening"
+  ],
+  "treatment-513": [
+   "u5",
+   "Cognitive therapy"
+  ],
+  "treatment-514": [
+   "u5",
+   "Cognitive restructuring"
+  ],
+  "treatment-515": [
+   "u5",
+   "Socratic questioning"
+  ],
+  "treatment-516": [
+   "u5",
+   "Fear hierarchy"
+  ],
+  "treatment-517": [
+   "u5",
+   "Beck's cognitive theory of depression"
+  ],
+  "treatment-518": [
+   "u5",
+   "Negative cognitive triad"
+  ],
+  "treatment-519": [
+   "u5",
+   "Behavioral therapies"
+  ],
+  "treatment-520": [
+   "u5",
+   "Exposure therapy"
+  ],
+  "treatment-521": [
+   "u5",
+   "Systematic desensitization"
+  ],
+  "treatment-522": [
+   "u5",
+   "Aversion therapy"
+  ],
+  "treatment-523": [
+   "u5",
+   "Antabuse"
+  ],
+  "treatment-524": [
+   "u5",
+   "Token economy"
+  ],
+  "treatment-525": [
+   "u5",
+   "Biofeedback"
+  ],
+  "treatment-526": [
+   "u5",
+   "Cognitive behavioral therapy (CBT)"
+  ],
+  "treatment-527": [
+   "u5",
+   "Dialectical behavior therapy (DBT)"
+  ],
+  "treatment-528": [
+   "u5",
+   "The 4 DBT skills"
+  ],
+  "treatment-529": [
+   "u5",
+   "Rational emotive behavior therapy (REBT)"
+  ],
+  "treatment-530": [
+   "u5",
+   "Modes of therapy"
+  ],
+  "treatment-531": [
+   "u5",
+   "Group therapy"
+  ],
+  "treatment-532": [
+   "u5",
+   "Individual therapy"
+  ]
+ }
+}

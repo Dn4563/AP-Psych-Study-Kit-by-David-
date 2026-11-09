@@ -10,6 +10,6 @@
     { "id": "u0", "dir": "unit-00", "label": "Unit 0", "title": "Perspectives, Research & Statistics", "blurb": "The seven perspectives, research methods, and statistics and data.", "learnMix": true },
     { "id": "u1", "dir": "unit-01", "label": "Unit 1", "title": "Neuroscience, Senses, Sleep & Drugs", "blurb": "The neuron, neurotransmitters, the nervous and endocrine systems, the brain, vision, the other senses, and sleep, consciousness and drugs. Optional: split brain.", "learnMix": true, "recall": true },
     { "id": "u5", "dir": "unit-05", "label": "Unit 5", "title": "Health, Disorders & Treatment", "blurb": "Health psychology, an introduction to disorders, anxiety, depressive and bipolar, neurodevelopmental, dissociative, schizophrenia spectrum, OCD and trauma, eating and personality disorders, and treatment.", "learnMix": true, "recall": true },
-    { "id": "per", "dir": "perception", "label": "Perception", "title": "Perception", "blurb": "Attention, perceptual organization, depth and motion, and the other topics on the Perception slides.", "learnMix": true, "recall": true }
+    { "id": "per", "dir": "perception", "label": "Perception", "title": "Perception", "blurb": "Attention, top-down vs. bottom-up processing, thresholds, and ESP, from the Perception slides.", "learnMix": true, "recall": true }
   ]
 }
