@@ -8,17 +8,17 @@
    ],
    "questions": [
     {
-     "id": "1-1",
+     "id": "q1-1",
      "type": "mcq",
      "topic": "The Neuron",
      "stem": "Maria's neurologist explains that the fatty coating around her axons is breaking down, slowing her neural signals and making walking difficult. Maria most likely has:",
      "options": [
       "Myasthenia gravis",
-      "Multiple sclerosis",
       "Parkinson's disease",
+      "Multiple sclerosis",
       "Alzheimer's disease"
      ],
-     "ans": 1,
+     "ans": 2,
      "exp": "MS is the breakdown of the myelin sheath (demyelination). Myasthenia gravis is the trap: it blocks acetylcholine receptors at the muscles and doesn't damage myelin.",
      "why": [
       "",
@@ -28,17 +28,17 @@
      ]
     },
     {
-     "id": "1-2",
+     "id": "q1-2",
      "type": "mcq",
      "topic": "The Neuron",
      "stem": "Which of the following best describes the all-or-none principle?",
      "options": [
-      "A stronger stimulus causes a neuron to fire with greater intensity.",
       "Once threshold is reached, a neuron fires completely; below threshold it does not fire at all.",
+      "A stronger stimulus causes a neuron to fire with greater intensity.",
       "A neuron must receive signals from all of its dendrites before it can fire.",
       "A neuron releases either all of its neurotransmitters or none during reuptake."
      ],
-     "ans": 1,
+     "ans": 0,
      "exp": "A neuron's firing strength never changes. It either reaches threshold and fires fully, or it doesn't fire.",
      "why": [
       "",
@@ -48,17 +48,17 @@
      ]
     },
     {
-     "id": "1-3",
+     "id": "q1-3",
      "type": "mcq",
      "topic": "The Neuron",
      "stem": "A new drug stops the sending neuron from reabsorbing leftover neurotransmitters in the synapse. Which process is the drug blocking?",
      "options": [
-      "Reuptake",
       "The action potential",
       "The refractory period",
+      "Reuptake",
       "Threshold"
      ],
-     "ans": 0,
+     "ans": 2,
      "exp": "Reuptake is the sending neuron reabsorbing leftover neurotransmitters. SSRIs work by blocking it.",
      "why": [
       "",
@@ -68,7 +68,7 @@
      ]
     },
     {
-     "id": "1-4",
+     "id": "q1-4",
      "type": "mcq",
      "topic": "The Neuron",
      "stem": "Which sequence correctly describes the path of a signal through a single neuron?",
@@ -88,17 +88,17 @@
      ]
     },
     {
-     "id": "1-5",
+     "id": "q1-5",
      "type": "mcq",
      "topic": "The Neuron",
      "stem": "Which of the following best describes the function of glial cells?",
      "options": [
-      "They carry electrical impulses down the axon.",
       "They support, nourish, and protect neurons.",
+      "They carry electrical impulses down the axon.",
       "They store neurotransmitters in vesicles.",
       "They form the gap between two neurons."
      ],
-     "ans": 1,
+     "ans": 0,
      "exp": "Glia are support cells (\"glue\"). They don't send the signal themselves.",
      "why": [
       "",
@@ -108,17 +108,17 @@
      ]
     },
     {
-     "id": "1-6",
+     "id": "q1-6",
      "type": "mcq",
      "topic": "The Neuron",
      "stem": "Antibodies in Jordan's body are blocking his muscles' receptor sites for acetylcholine, and his muscles are growing weak. Jordan most likely has:",
      "options": [
-      "Multiple sclerosis",
       "Myasthenia gravis",
+      "Multiple sclerosis",
       "Parkinson's disease",
       "Schizophrenia"
      ],
-     "ans": 1,
+     "ans": 0,
      "exp": "Myasthenia gravis is an autoimmune disorder that blocks or destroys ACh receptors at the muscles. MS is the trap: it attacks myelin.",
      "why": [
       "",
@@ -128,17 +128,17 @@
      ]
     },
     {
-     "id": "1-7",
+     "id": "q1-7",
      "type": "mcq",
      "topic": "The Neuron",
      "stem": "Which of the following best explains why neurons use chemical messengers to communicate with each other?",
      "options": [
       "Neurons are physically connected, so chemicals flow directly between them.",
-      "A small gap separates neurons, so neurotransmitters carry the signal across the synapse.",
       "The myelin sheath blocks electrical signals from reaching the dendrites.",
-      "Dendrites can only detect electrical signals, not chemical ones."
+      "Dendrites can only detect electrical signals, not chemical ones.",
+      "A small gap separates neurons, so neurotransmitters carry the signal across the synapse."
      ],
-     "ans": 1,
+     "ans": 3,
      "exp": "Neurons never touch. The electrical impulse stops at the terminal buttons, and neurotransmitters cross the synaptic gap.",
      "why": [
       "",
@@ -148,7 +148,7 @@
      ]
     },
     {
-     "id": "1-8",
+     "id": "q1-8",
      "type": "mcq",
      "topic": "The Neuron",
      "stem": "Immediately after firing, a neuron will not fire again no matter how much it is stimulated. Which of the following best describes this?",
@@ -168,17 +168,17 @@
      ]
     },
     {
-     "id": "1-9",
+     "id": "q1-9",
      "type": "mcq",
      "topic": "The Neuron",
      "stem": "Where are neurotransmitters stored before they are released into the synapse?",
      "options": [
       "In the dendrites",
       "In the soma",
-      "In vesicles inside the terminal buttons",
-      "In the myelin sheath"
+      "In the myelin sheath",
+      "In vesicles inside the terminal buttons"
      ],
-     "ans": 2,
+     "ans": 3,
      "exp": "Vesicles are tiny sacs in the terminal buttons that hold neurotransmitters until the neuron fires.",
      "why": [
       "",
@@ -197,17 +197,17 @@
    ],
    "questions": [
     {
-     "id": "2-1",
+     "id": "q2-1",
      "type": "mcq",
      "topic": "Neurotransmitters",
      "stem": "Ella has been diagnosed with depression. Her doctor prescribes a medication that keeps serotonin in the synapse longer. Which type of drug is this?",
      "options": [
-      "An SSRI",
       "A GABA blocker",
       "An acetylcholine blocker",
+      "An SSRI",
       "An endorphin inhibitor"
      ],
-     "ans": 0,
+     "ans": 2,
      "exp": "SSRI = selective serotonin reuptake inhibitor. Blocking reuptake leaves more serotonin in the synapse.",
      "why": [
       "",
@@ -217,17 +217,17 @@
      ]
     },
     {
-     "id": "2-2",
+     "id": "q2-2",
      "type": "mcq",
      "topic": "Neurotransmitters",
      "stem": "A patient with Parkinson's disease has tremors and trouble starting movements. A shortage of which neurotransmitter is most responsible?",
      "options": [
       "Serotonin",
-      "Dopamine",
       "GABA",
-      "Glutamate"
+      "Glutamate",
+      "Dopamine"
      ],
-     "ans": 1,
+     "ans": 3,
      "exp": "Low dopamine → Parkinson's. High dopamine → schizophrenia.",
      "why": [
       "",
@@ -237,7 +237,7 @@
      ]
     },
     {
-     "id": "2-3",
+     "id": "q2-3",
      "type": "mcq",
      "topic": "Neurotransmitters",
      "stem": "Excess activity of which neurotransmitter has been linked to schizophrenia?",
@@ -257,17 +257,17 @@
      ]
     },
     {
-     "id": "2-4",
+     "id": "q2-4",
      "type": "mcq",
      "topic": "Neurotransmitters",
      "stem": "Which of the following best describes the role of GABA?",
      "options": [
       "It is the main excitatory neurotransmitter and is involved in memory.",
-      "It is the main inhibitory neurotransmitter and calms the nervous system.",
       "It sends hunger signals to the brain.",
+      "It is the main inhibitory neurotransmitter and calms the nervous system.",
       "It is the body's natural painkiller."
      ],
-     "ans": 1,
+     "ans": 2,
      "exp": "GABA is the brakes. Glutamate (the main excitatory one) is the trap.",
      "why": [
       "",
@@ -277,17 +277,17 @@
      ]
     },
     {
-     "id": "2-5",
+     "id": "q2-5",
      "type": "mcq",
      "topic": "Neurotransmitters",
      "stem": "Low levels of acetylcholine are most closely associated with which disorder?",
      "options": [
-      "Alzheimer's disease",
       "Parkinson's disease",
+      "Alzheimer's disease",
       "Schizophrenia",
       "Anxiety disorders"
      ],
-     "ans": 0,
+     "ans": 1,
      "exp": "ACh helps with memory and movement; too little is linked to Alzheimer's. Parkinson's is dopamine.",
      "why": [
       "",
@@ -297,7 +297,7 @@
      ]
     },
     {
-     "id": "2-6",
+     "id": "q2-6",
      "type": "mcq",
      "topic": "Neurotransmitters",
      "stem": "After finishing a marathon, Kai feels euphoric and barely notices the blisters on his feet. Which neurotransmitter best explains this?",
@@ -317,17 +317,17 @@
      ]
     },
     {
-     "id": "2-7",
+     "id": "q2-7",
      "type": "mcq",
      "topic": "Neurotransmitters",
      "stem": "Which neurotransmitter is the brain's major excitatory neurotransmitter and, in excess, is linked to migraines?",
      "options": [
-      "Glutamate",
       "GABA",
       "Serotonin",
-      "Dopamine"
+      "Dopamine",
+      "Glutamate"
      ],
-     "ans": 0,
+     "ans": 3,
      "exp": "Glutamate = go. Too much is linked to anxiety, OCD, and migraines.",
      "why": [
       "",
@@ -337,7 +337,7 @@
      ]
     },
     {
-     "id": "2-8",
+     "id": "q2-8",
      "type": "mcq",
      "topic": "Neurotransmitters",
      "stem": "Sam's doctor suspects his trouble focusing is related to low levels of a chemical that also drives the fight-or-flight response. Which one?",
@@ -357,7 +357,7 @@
      ]
     },
     {
-     "id": "2-9",
+     "id": "q2-9",
      "type": "mcq",
      "topic": "Neurotransmitters",
      "stem": "Which of the following correctly pairs a neurotransmitter with its function?",
@@ -377,17 +377,17 @@
      ]
     },
     {
-     "id": "2-10",
+     "id": "q2-10",
      "type": "mcq",
      "topic": "Neurotransmitters",
      "stem": "Which of the following best explains the difference between excitatory and inhibitory neurotransmitters?",
      "options": [
-      "Excitatory ones make the receiving neuron more likely to fire; inhibitory ones make it less likely to fire.",
       "Excitatory ones work only in the brain; inhibitory ones work only in the spinal cord.",
+      "Excitatory ones make the receiving neuron more likely to fire; inhibitory ones make it less likely to fire.",
       "Excitatory ones are hormones; inhibitory ones are neurotransmitters.",
       "Excitatory ones speed up reuptake; inhibitory ones slow it down."
      ],
-     "ans": 0,
+     "ans": 1,
      "exp": "Excite = go, inhibit = stop. It's about the next neuron's chance of firing.",
      "why": [
       "",
@@ -406,17 +406,17 @@
    ],
    "questions": [
     {
-     "id": "3-1",
+     "id": "q3-1",
      "type": "mcq",
      "topic": "Nervous & Endocrine Systems",
      "stem": "While hiking, Leah spots a rattlesnake. Her heart races, her pupils dilate, and her digestion slows. Which division of the nervous system is responsible?",
      "options": [
       "Parasympathetic",
-      "Sympathetic",
       "Somatic",
-      "Central"
+      "Central",
+      "Sympathetic"
      ],
-     "ans": 1,
+     "ans": 3,
      "exp": "Sympathetic = stressed: fight, flight, or freeze.",
      "why": [
       "",
@@ -426,17 +426,17 @@
      ]
     },
     {
-     "id": "3-2",
+     "id": "q3-2",
      "type": "mcq",
      "topic": "Nervous & Endocrine Systems",
      "stem": "After the snake slithers away, Leah's heart rate and breathing gradually return to normal. Which division is now most active?",
      "options": [
+      "Parasympathetic",
       "Sympathetic",
       "Somatic",
-      "Parasympathetic",
       "Central"
      ],
-     "ans": 2,
+     "ans": 0,
      "exp": "Parasympathetic = rest and digest; it calms the body back down.",
      "why": [
       "",
@@ -446,7 +446,7 @@
      ]
     },
     {
-     "id": "3-3",
+     "id": "q3-3",
      "type": "mcq",
      "topic": "Nervous & Endocrine Systems",
      "stem": "Which of the following is an example of the somatic nervous system at work?",
@@ -466,7 +466,7 @@
      ]
     },
     {
-     "id": "3-4",
+     "id": "q3-4",
      "type": "mcq",
      "topic": "Nervous & Endocrine Systems",
      "stem": "When the doctor taps Luis's knee, his leg kicks before his brain even registers the tap. Which of the following best explains why the response is so fast?",
@@ -486,17 +486,17 @@
      ]
     },
     {
-     "id": "3-5",
+     "id": "q3-5",
      "type": "mcq",
      "topic": "Nervous & Endocrine Systems",
      "stem": "Which type of neuron carries messages from the brain and spinal cord out to the muscles?",
      "options": [
       "Sensory (afferent) neurons",
-      "Motor (efferent) neurons",
       "Interneurons",
+      "Motor (efferent) neurons",
       "Glial cells"
      ],
-     "ans": 1,
+     "ans": 2,
      "exp": "Efferent = exit. Afferent = arrive.",
      "why": [
       "",
@@ -506,17 +506,17 @@
      ]
     },
     {
-     "id": "3-6",
+     "id": "q3-6",
      "type": "mcq",
      "topic": "Nervous & Endocrine Systems",
      "stem": "Which of the following best describes the role of interneurons?",
      "options": [
-      "They relay messages between sensory and motor neurons within the brain and spinal cord.",
       "They carry messages from the senses to the brain.",
       "They carry messages from the brain to the muscles.",
+      "They relay messages between sensory and motor neurons within the brain and spinal cord.",
       "They insulate axons to speed up signals."
      ],
-     "ans": 0,
+     "ans": 2,
      "exp": "Inter = in between. They connect sensory input to motor output inside the CNS.",
      "why": [
       "",
@@ -526,17 +526,17 @@
      ]
     },
     {
-     "id": "3-7",
+     "id": "q3-7",
      "type": "mcq",
      "topic": "Nervous & Endocrine Systems",
      "stem": "Which of the following best explains how the endocrine system differs from the nervous system?",
      "options": [
-      "Hormones travel through the bloodstream, so they act more slowly but their effects last longer.",
       "Hormones travel along axons, so they act faster than neurotransmitters.",
+      "Hormones travel through the bloodstream, so they act more slowly but their effects last longer.",
       "The endocrine system controls only voluntary movement.",
       "Hormones act only inside the brain."
      ],
-     "ans": 0,
+     "ans": 1,
      "exp": "Blood is slower than nerves, but hormone effects linger.",
      "why": [
       "",
@@ -546,17 +546,17 @@
      ]
     },
     {
-     "id": "3-8",
+     "id": "q3-8",
      "type": "mcq",
      "topic": "Nervous & Endocrine Systems",
      "stem": "Which gland is called the \"master gland\" because it signals other glands to release their hormones?",
      "options": [
+      "Pituitary gland",
       "Pineal gland",
       "Adrenal gland",
-      "Pituitary gland",
       "Thyroid gland"
      ],
-     "ans": 2,
+     "ans": 0,
      "exp": "The pituitary regulates growth, stress, and reproduction and directs the other glands.",
      "why": [
       "",
@@ -566,17 +566,17 @@
      ]
     },
     {
-     "id": "3-9",
+     "id": "q3-9",
      "type": "mcq",
      "topic": "Nervous & Endocrine Systems",
      "stem": "After a big Thanksgiving dinner, Aiden feels full and stops eating. Which hormone is most responsible for this signal?",
      "options": [
       "Ghrelin",
-      "Leptin",
       "Oxytocin",
-      "Melatonin"
+      "Melatonin",
+      "Leptin"
      ],
-     "ans": 1,
+     "ans": 3,
      "exp": "Leptin = leave the table (full). Ghrelin = growling stomach (hungry).",
      "why": [
       "",
@@ -586,17 +586,17 @@
      ]
     },
     {
-     "id": "3-10",
+     "id": "q3-10",
      "type": "mcq",
      "topic": "Nervous & Endocrine Systems",
      "stem": "A new mother feels a strong bond with her baby soon after giving birth. Which hormone plays the biggest role in this bonding?",
      "options": [
-      "Oxytocin",
       "Testosterone",
+      "Oxytocin",
       "Adrenaline",
       "Ghrelin"
      ],
-     "ans": 0,
+     "ans": 1,
      "exp": "Oxytocin is the bonding hormone: labor, mother–baby bonding, and close relationships.",
      "why": [
       "",
@@ -606,17 +606,17 @@
      ]
     },
     {
-     "id": "3-11",
+     "id": "q3-11",
      "type": "mcq",
      "topic": "Nervous & Endocrine Systems",
      "stem": "Jet lag throws off Mia's sleep-wake cycle. Which hormone, released by the pineal gland in response to darkness, regulates this cycle?",
      "options": [
-      "Melatonin",
       "Leptin",
+      "Melatonin",
       "Estrogen",
       "Adrenaline"
      ],
-     "ans": 0,
+     "ans": 1,
      "exp": "Melatonin regulates the circadian rhythm and helps you sleep.",
      "why": [
       "",
@@ -626,17 +626,17 @@
      ]
     },
     {
-     "id": "3-12",
+     "id": "q3-12",
      "type": "mcq",
      "topic": "Nervous & Endocrine Systems",
      "stem": "During a scary movie, Ben's adrenal glands release a hormone that raises his heart rate and blood sugar. Which hormone is it?",
      "options": [
-      "Adrenaline",
       "Melatonin",
       "Oxytocin",
-      "Leptin"
+      "Leptin",
+      "Adrenaline"
      ],
-     "ans": 0,
+     "ans": 3,
      "exp": "Adrenaline from the adrenal glands powers the fight-or-flight energy surge.",
      "why": [
       "",
@@ -655,7 +655,7 @@
    ],
    "questions": [
     {
-     "id": "4-1",
+     "id": "q4-1",
      "type": "mcq",
      "topic": "The Brain",
      "stem": "Which of the following best describes what Phineas Gage's injury taught psychologists?",
@@ -675,17 +675,17 @@
      ]
     },
     {
-     "id": "4-2",
+     "id": "q4-2",
      "type": "mcq",
      "topic": "The Brain",
      "stem": "Which of the following scenarios best illustrates neuroplasticity?",
      "options": [
-      "After a stroke, a patient regains the ability to walk through months of therapy as other brain areas take over.",
       "A student drinks coffee to stay alert while studying.",
       "A runner's heart rate speeds up during a race.",
+      "After a stroke, a patient regains the ability to walk through months of therapy as other brain areas take over.",
       "A person blinks when dust blows toward their eyes."
      ],
-     "ans": 0,
+     "ans": 2,
      "exp": "Plasticity is the brain reorganizing itself. The others are a drug effect, the sympathetic system, and a reflex.",
      "why": [
       "",
@@ -695,17 +695,17 @@
      ]
     },
     {
-     "id": "4-3",
+     "id": "q4-3",
      "type": "mcq",
      "topic": "The Brain",
      "stem": "Which of the following functions is most closely associated with the limbic system?",
      "options": [
-      "Regulating emotions, forming memories, and survival drives like hunger",
       "Coordinating balance and fine motor movement",
       "Controlling breathing and heartbeat",
+      "Regulating emotions, forming memories, and survival drives like hunger",
       "Processing visual information"
      ],
-     "ans": 0,
+     "ans": 2,
      "exp": "Limbic = amygdala (emotion), hippocampus (memory), hypothalamus (drives). Breathing and heartbeat are the medulla, part of the brainstem.",
      "why": [
       "",
@@ -715,7 +715,7 @@
      ]
     },
     {
-     "id": "4-4",
+     "id": "q4-4",
      "type": "mcq",
      "topic": "The Brain",
      "stem": "Which of the following best describes the primary function of the cerebellum?",
@@ -735,17 +735,17 @@
      ]
     },
     {
-     "id": "4-5",
+     "id": "q4-5",
      "type": "mcq",
      "topic": "The Brain",
      "stem": "Which part of the brain plays a crucial role in controlling arousal and attention, and if damaged could leave a person in a coma?",
      "options": [
       "Hippocampus",
-      "Thalamus",
       "Reticular formation",
+      "Thalamus",
       "Hypothalamus"
      ],
-     "ans": 2,
+     "ans": 1,
      "exp": "The reticular formation controls arousal and consciousness. The hypothalamus is the trap: it handles hunger, thirst, temperature, and the 4 Fs.",
      "why": [
       "",
@@ -755,17 +755,17 @@
      ]
     },
     {
-     "id": "4-6",
+     "id": "q4-6",
      "type": "mcq",
      "topic": "The Brain",
      "stem": "Which part of the brainstem is most involved in regulating the sleep-wake cycle?",
      "options": [
-      "Pons",
       "Medulla",
       "Cerebellum",
+      "Pons",
       "Amygdala"
      ],
-     "ans": 0,
+     "ans": 2,
      "exp": "The pons connects the spinal cord to the brain and helps regulate sleep. The medulla handles breathing and heartbeat.",
      "why": [
       "",
@@ -775,17 +775,17 @@
      ]
     },
     {
-     "id": "4-7",
+     "id": "q4-7",
      "type": "mcq",
      "topic": "The Brain",
      "stem": "A gymnast's fall damages her medulla. Which function is most at risk?",
      "options": [
-      "Breathing and heartbeat",
       "Recognizing faces",
+      "Breathing and heartbeat",
       "Forming new memories",
       "Producing speech"
      ],
-     "ans": 0,
+     "ans": 1,
      "exp": "The medulla controls life-sustaining functions, which is why medulla damage can be fatal.",
      "why": [
       "",
@@ -795,7 +795,7 @@
      ]
     },
     {
-     "id": "4-8",
+     "id": "q4-8",
      "type": "mcq",
      "topic": "The Brain",
      "stem": "After a stroke, Mr. Lee understands everything his family says, but he speaks slowly in short, broken phrases like \"want... coffee.\" Which area was most likely damaged?",
@@ -815,17 +815,17 @@
      ]
     },
     {
-     "id": "4-9",
+     "id": "q4-9",
      "type": "mcq",
      "topic": "The Brain",
      "stem": "After a head injury, Ana speaks fluently, but her sentences make little sense and she can't follow what others say. Which area was most likely damaged?",
      "options": [
       "Broca's area",
-      "Wernicke's area",
       "Motor cortex",
-      "Amygdala"
+      "Amygdala",
+      "Wernicke's area"
      ],
-     "ans": 1,
+     "ans": 3,
      "exp": "Wernicke's = understanding language. The speech flows but doesn't make sense.",
      "why": [
       "",
@@ -835,7 +835,7 @@
      ]
     },
     {
-     "id": "4-10",
+     "id": "q4-10",
      "type": "mcq",
      "topic": "The Brain",
      "stem": "Which lobe contains the somatosensory cortex, which processes touch, temperature, and pain?",
@@ -855,17 +855,17 @@
      ]
     },
     {
-     "id": "4-11",
+     "id": "q4-11",
      "type": "mcq",
      "topic": "The Brain",
      "stem": "A tumor in the temporal lobe would most likely affect a person's:",
      "options": [
-      "Hearing and understanding of language",
       "Vision",
       "Balance",
+      "Hearing and understanding of language",
       "Breathing"
      ],
-     "ans": 0,
+     "ans": 2,
      "exp": "The temporal lobe holds the auditory cortex and Wernicke's area.",
      "why": [
       "",
@@ -875,17 +875,17 @@
      ]
     },
     {
-     "id": "4-12",
+     "id": "q4-12",
      "type": "mcq",
      "topic": "The Brain",
      "stem": "A stroke damages the motor cortex in Tom's left hemisphere. Which of the following is most likely?",
      "options": [
-      "Weakness or paralysis on the right side of his body",
       "Weakness or paralysis on the left side of his body",
+      "Weakness or paralysis on the right side of his body",
       "Blindness in both eyes",
       "Loss of hearing in his left ear"
      ],
-     "ans": 0,
+     "ans": 1,
      "exp": "Contralateral control: the left brain controls the right side of the body.",
      "why": [
       "",
@@ -895,17 +895,17 @@
      ]
     },
     {
-     "id": "4-13",
+     "id": "q4-13",
      "type": "mcq",
      "topic": "The Brain",
      "stem": "Which of the following best describes the role of the thalamus?",
      "options": [
-      "It relays incoming sensory information (except smell) to the right areas of the cortex.",
       "It stores long-term memories.",
       "It controls hunger and thirst.",
-      "It coordinates balance."
+      "It coordinates balance.",
+      "It relays incoming sensory information (except smell) to the right areas of the cortex."
      ],
-     "ans": 0,
+     "ans": 3,
      "exp": "The thalamus is the sensory switchboard. Smell is the one sense that skips it.",
      "why": [
       "",
@@ -915,17 +915,17 @@
      ]
     },
     {
-     "id": "4-14",
+     "id": "q4-14",
      "type": "mcq",
      "topic": "The Brain",
      "stem": "Which brain structure is most involved in fear and aggression?",
      "options": [
       "Hippocampus",
-      "Amygdala",
       "Pons",
-      "Cerebellum"
+      "Cerebellum",
+      "Amygdala"
      ],
-     "ans": 1,
+     "ans": 3,
      "exp": "The amygdala processes fear and aggression and triggers fight-or-flight.",
      "why": [
       "",
@@ -935,7 +935,7 @@
      ]
     },
     {
-     "id": "4-15",
+     "id": "q4-15",
      "type": "mcq",
      "topic": "The Brain",
      "stem": "After surgery, a patient remembers his childhood clearly but cannot form any new long-term memories. Which structure was most likely removed?",
@@ -955,7 +955,7 @@
      ]
     },
     {
-     "id": "4-16",
+     "id": "q4-16",
      "type": "mcq",
      "topic": "The Brain",
      "stem": "A rat stops eating after damage to part of its hypothalamus. Which part was most likely damaged?",
@@ -975,17 +975,17 @@
      ]
     },
     {
-     "id": "4-17",
+     "id": "q4-17",
      "type": "mcq",
      "topic": "The Brain",
      "stem": "Which part of the brain regulates body temperature, hunger, and thirst?",
      "options": [
-      "Hypothalamus",
       "Thalamus",
+      "Hypothalamus",
       "Medulla",
       "Cerebellum"
      ],
-     "ans": 0,
+     "ans": 1,
      "exp": "Hypothalamus: temperature, thirst, hunger, and sexual responses. Don't mix it up with the thalamus, the sensory relay.",
      "why": [
       "",
@@ -995,17 +995,17 @@
      ]
     },
     {
-     "id": "4-18",
+     "id": "q4-18",
      "type": "mcq",
      "topic": "The Brain",
      "stem": "Which of the following best describes the role of the prefrontal cortex?",
      "options": [
-      "Planning, judgment, decision making, and personality",
       "Processing visual information",
+      "Planning, judgment, decision making, and personality",
       "Coordinating balance",
       "Relaying sensory information"
      ],
-     "ans": 0,
+     "ans": 1,
      "exp": "The prefrontal cortex handles executive functions; it was Phineas Gage's injury.",
      "why": [
       "",
@@ -1015,17 +1015,17 @@
      ]
     },
     {
-     "id": "4-19",
+     "id": "q4-19",
      "type": "mcq",
      "topic": "The Brain",
      "stem": "A doctor wants to check for a tumor quickly by looking at the shape of a patient's brain structures, not their activity. Which scan fits best?",
      "options": [
       "fMRI",
       "PET scan",
-      "CT scan",
-      "EEG"
+      "EEG",
+      "CT scan"
      ],
-     "ans": 2,
+     "ans": 3,
      "exp": "CT (and MRI) show structure. fMRI, PET, and EEG show activity.",
      "why": [
       "",
@@ -1035,7 +1035,7 @@
      ]
     },
     {
-     "id": "4-20",
+     "id": "q4-20",
      "type": "mcq",
      "topic": "The Brain",
      "stem": "A researcher wants to see which brain areas become more active when people look at photos of their friends, as precisely as possible. Which technique is best?",
@@ -1055,17 +1055,17 @@
      ]
     },
     {
-     "id": "4-21",
+     "id": "q4-21",
      "type": "mcq",
      "topic": "The Brain",
      "stem": "Which technique records brain waves through electrodes placed on the scalp and is often used to detect seizures?",
      "options": [
-      "EEG",
       "PET scan",
       "MRI",
-      "CT scan"
+      "CT scan",
+      "EEG"
      ],
-     "ans": 0,
+     "ans": 3,
      "exp": "EEG = electrical activity.",
      "why": [
       "",
@@ -1075,17 +1075,17 @@
      ]
     },
     {
-     "id": "4-22",
+     "id": "q4-22",
      "type": "mcq",
      "topic": "The Brain",
      "stem": "Doctors sometimes cut the corpus callosum in patients with severe epilepsy. Which of the following best describes the purpose of this surgery?",
      "options": [
-      "To keep seizures from spreading from one hemisphere to the other",
       "To speed up communication between the hemispheres",
       "To improve memory and learning",
+      "To keep seizures from spreading from one hemisphere to the other",
       "To reduce activity in the frontal lobe"
      ],
-     "ans": 0,
+     "ans": 2,
      "exp": "The corpus callosum connects the hemispheres. Cutting it stops seizure activity from crossing over.",
      "why": [
       "",
@@ -1095,17 +1095,17 @@
      ]
     },
     {
-     "id": "4-23",
+     "id": "q4-23",
      "type": "mcq",
      "topic": "The Brain",
      "stem": "Which statement about the two hemispheres is most accurate?",
      "options": [
-      "The left hemisphere is usually dominant for language, and each hemisphere controls the opposite side of the body.",
       "The right hemisphere controls the right side of the body.",
       "Language is processed equally by both hemispheres.",
-      "The corpus callosum controls movement on both sides of the body."
+      "The corpus callosum controls movement on both sides of the body.",
+      "The left hemisphere is usually dominant for language, and each hemisphere controls the opposite side of the body."
      ],
-     "ans": 0,
+     "ans": 3,
      "exp": "Left = language. Each side of the brain controls the opposite side of the body.",
      "why": [
       "",
@@ -1115,7 +1115,7 @@
      ]
     },
     {
-     "id": "4-24",
+     "id": "q4-24",
      "type": "mcq",
      "topic": "The Brain",
      "stem": "Which of the following best explains why young children often recover better from brain injuries than adults do?",
@@ -1135,7 +1135,7 @@
      ]
     },
     {
-     "id": "4-25",
+     "id": "q4-25",
      "type": "mcq",
      "topic": "The Brain",
      "stem": "Which of the following correctly matches a brain structure with its function?",
@@ -1155,17 +1155,17 @@
      ]
     },
     {
-     "id": "4-26",
+     "id": "q4-26",
      "type": "mcq",
      "topic": "The Brain",
      "stem": "Which part of the brain is primarily responsible for processing visual information?",
      "options": [
+      "Occipital lobe",
       "Frontal lobe",
       "Parietal lobe",
-      "Temporal lobe",
-      "Occipital lobe"
+      "Temporal lobe"
      ],
-     "ans": 3,
+     "ans": 0,
      "exp": "Occipital = optical, at the back of the brain.",
      "why": [
       "",
@@ -1184,17 +1184,17 @@
    ],
    "questions": [
     {
-     "id": "5-1",
+     "id": "q5-1",
      "type": "mcq",
      "topic": "Vision",
      "stem": "Which of the following best explains why it is hard to see colors in a dimly lit room?",
      "options": [
-      "Cones need more light to work, and rods, which work in dim light, don't detect color.",
       "Rods detect color only in bright light.",
+      "Cones need more light to work, and rods, which work in dim light, don't detect color.",
       "The lens can't focus in dim light.",
       "The optic nerve shuts off in darkness."
      ],
-     "ans": 0,
+     "ans": 1,
      "exp": "Rods = reduced light, black and white. Cones = color, need brighter light.",
      "why": [
       "",
@@ -1204,17 +1204,17 @@
      ]
     },
     {
-     "id": "5-2",
+     "id": "q5-2",
      "type": "mcq",
      "topic": "Vision",
      "stem": "Which of the following correctly describes the path of light through the eye?",
      "options": [
-      "Cornea → pupil → lens → retina",
       "Lens → cornea → retina → pupil",
       "Retina → lens → pupil → cornea",
+      "Cornea → pupil → lens → retina",
       "Pupil → retina → cornea → lens"
      ],
-     "ans": 0,
+     "ans": 2,
      "exp": "Light enters through the cornea, passes the pupil, is focused by the lens, and lands on the retina.",
      "why": [
       "",
@@ -1224,17 +1224,17 @@
      ]
     },
     {
-     "id": "5-3",
+     "id": "q5-3",
      "type": "mcq",
      "topic": "Vision",
      "stem": "Which theory best explains why a person with red-green color blindness has trouble telling red from green?",
      "options": [
-      "Trichromatic theory",
       "Opponent-process theory",
+      "Trichromatic theory",
       "Gate control theory",
       "Feature detection"
      ],
-     "ans": 0,
+     "ans": 1,
      "exp": "Trichromatic theory: red, green, and blue cones. Color blindness usually comes from impaired red or green cones.",
      "why": [
       "",
@@ -1244,17 +1244,17 @@
      ]
     },
     {
-     "id": "5-4",
+     "id": "q5-4",
      "type": "mcq",
      "topic": "Vision",
      "stem": "Which of the following is a monocular depth cue?",
      "options": [
       "Retinal disparity",
-      "Linear perspective",
       "Comparing the slightly different images from each eye",
+      "Linear perspective",
       "Using both eyes to judge how close something is"
      ],
-     "ans": 1,
+     "ans": 2,
      "exp": "Linear perspective works with one eye. The other three all need both eyes (binocular).",
      "why": [
       "",
@@ -1264,7 +1264,7 @@
      ]
     },
     {
-     "id": "5-5",
+     "id": "q5-5",
      "type": "mcq",
      "topic": "Vision",
      "stem": "Which Gestalt principle explains why you see the letters on a page as separate words rather than one long string?",
@@ -1284,17 +1284,17 @@
      ]
     },
     {
-     "id": "5-6",
+     "id": "q5-6",
      "type": "mcq",
      "topic": "Vision",
      "stem": "Every player on one team wears red, so you see them as one group separate from the team in blue. Which Gestalt principle is this?",
      "options": [
-      "Similarity",
       "Proximity",
       "Closure",
-      "Figure-ground"
+      "Figure-ground",
+      "Similarity"
      ],
-     "ans": 0,
+     "ans": 3,
      "exp": "Similarity: things that look alike get grouped together.",
      "why": [
       "",
@@ -1304,7 +1304,7 @@
      ]
     },
     {
-     "id": "5-7",
+     "id": "q5-7",
      "type": "mcq",
      "topic": "Vision",
      "stem": "Which part of the eye changes shape to focus images on near or far objects?",
@@ -1324,7 +1324,7 @@
      ]
     },
     {
-     "id": "5-8",
+     "id": "q5-8",
      "type": "mcq",
      "topic": "Vision",
      "stem": "Which of the following best describes feature detectors?",
@@ -1344,17 +1344,17 @@
      ]
     },
     {
-     "id": "5-9",
+     "id": "q5-9",
      "type": "mcq",
      "topic": "Vision",
      "stem": "In a painting, a distant mountain looks hazy and blurry, so viewers see it as far away. Which depth cue is the artist using?",
      "options": [
-      "Relative clarity",
       "Interposition",
       "Retinal disparity",
-      "Linear perspective"
+      "Linear perspective",
+      "Relative clarity"
      ],
-     "ans": 0,
+     "ans": 3,
      "exp": "Relative clarity: sharp objects seem close, hazy ones seem far.",
      "why": [
       "",
@@ -1364,17 +1364,17 @@
      ]
     },
     {
-     "id": "5-10",
+     "id": "q5-10",
      "type": "mcq",
      "topic": "Vision",
      "stem": "Which of the following best describes transduction in vision?",
      "options": [
-      "Rods and cones in the retina convert light energy into neural impulses.",
       "The lens bends light so it focuses on the retina.",
+      "Rods and cones in the retina convert light energy into neural impulses.",
       "The optic nerve carries signals to the occipital lobe.",
       "The iris controls how much light enters the eye."
      ],
-     "ans": 0,
+     "ans": 1,
      "exp": "Transduction = converting energy into neural signals, and it happens in the retina.",
      "why": [
       "",
@@ -1393,7 +1393,7 @@
    ],
    "questions": [
     {
-     "id": "6-1",
+     "id": "q6-1",
      "type": "mcq",
      "topic": "Hearing, Smell, Taste, Touch & more",
      "stem": "An older adult's eardrum and middle-ear bones are damaged, but the cochlea is healthy. What type of hearing loss is this, and can it be treated?",
@@ -1413,7 +1413,7 @@
      ]
     },
     {
-     "id": "6-2",
+     "id": "q6-2",
      "type": "mcq",
      "topic": "Hearing, Smell, Taste, Touch & more",
      "stem": "Which treatment would most likely help someone whose hearing loss comes from damaged hair cells in the cochlea?",
@@ -1433,17 +1433,17 @@
      ]
     },
     {
-     "id": "6-3",
+     "id": "q6-3",
      "type": "mcq",
      "topic": "Hearing, Smell, Taste, Touch & more",
      "stem": "Two sounds are equally loud, but one is a high whistle and the other a low drum. What property of the sound waves is different?",
      "options": [
-      "Frequency",
       "Amplitude",
       "Loudness",
+      "Frequency",
       "Localization"
      ],
-     "ans": 0,
+     "ans": 2,
      "exp": "Frequency = pitch. Amplitude = loudness, and the question says they're equally loud.",
      "why": [
       "",
@@ -1453,17 +1453,17 @@
      ]
     },
     {
-     "id": "6-4",
+     "id": "q6-4",
      "type": "mcq",
      "topic": "Hearing, Smell, Taste, Touch & more",
      "stem": "A gymnast can do a backflip with her eyes closed because she senses where her arms and legs are. Which sense makes this possible?",
      "options": [
-      "Kinesthesis",
       "Vestibular sense",
+      "Kinesthesis",
       "Olfaction",
       "Gustation"
      ],
-     "ans": 0,
+     "ans": 1,
      "exp": "Kinesthesis senses the position of body parts. The vestibular sense is about the head's position and balance.",
      "why": [
       "",
@@ -1473,7 +1473,7 @@
      ]
     },
     {
-     "id": "6-5",
+     "id": "q6-5",
      "type": "mcq",
      "topic": "Hearing, Smell, Taste, Touch & more",
      "stem": "The smell of fresh cookies instantly brings back a vivid childhood memory. Which of the following best explains why?",
@@ -1493,17 +1493,17 @@
      ]
     },
     {
-     "id": "6-6",
+     "id": "q6-6",
      "type": "mcq",
      "topic": "Hearing, Smell, Taste, Touch & more",
      "stem": "Which of the following best describes gate control theory?",
      "options": [
-      "The spinal cord has a neurological \"gate\" that can block pain signals or let them reach the brain.",
       "Pain is felt only when all four skin senses are activated at once.",
+      "The spinal cord has a neurological \"gate\" that can block pain signals or let them reach the brain.",
       "The thalamus decides which pains are real.",
       "Pain receptors stop firing after a few seconds."
      ],
-     "ans": 0,
+     "ans": 1,
      "exp": "Distraction or rubbing the spot can close the gate.",
      "why": [
       "",
@@ -1513,17 +1513,17 @@
      ]
     },
     {
-     "id": "6-7",
+     "id": "q6-7",
      "type": "mcq",
      "topic": "Hearing, Smell, Taste, Touch & more",
      "stem": "Years after losing his arm, Marcus still feels an itch in his missing hand. This is called:",
      "options": [
-      "Phantom limb sensation",
       "Synesthesia",
       "Prosopagnosia",
-      "Sensory interaction"
+      "Sensory interaction",
+      "Phantom limb sensation"
      ],
-     "ans": 0,
+     "ans": 3,
      "exp": "The sensory cortex area for the missing limb is still active.",
      "why": [
       "",
@@ -1533,17 +1533,17 @@
      ]
     },
     {
-     "id": "6-8",
+     "id": "q6-8",
      "type": "mcq",
      "topic": "Hearing, Smell, Taste, Touch & more",
      "stem": "Whenever Priya hears a trumpet, she also sees the color orange. This is an example of:",
      "options": [
-      "Synesthesia",
       "Sensory interaction",
+      "Synesthesia",
       "Prosopagnosia",
       "Kinesthesis"
      ],
-     "ans": 0,
+     "ans": 1,
      "exp": "Synesthesia is one sense triggering another. Sensory interaction is the trap: one sense influencing another, like smell and taste.",
      "why": [
       "",
@@ -1553,17 +1553,17 @@
      ]
     },
     {
-     "id": "6-9",
+     "id": "q6-9",
      "type": "mcq",
      "topic": "Hearing, Smell, Taste, Touch & more",
      "stem": "A person with prosopagnosia would have the most trouble:",
      "options": [
-      "Recognizing a friend's face",
       "Tasting bitter foods",
       "Keeping their balance",
-      "Hearing high-pitched sounds"
+      "Hearing high-pitched sounds",
+      "Recognizing a friend's face"
      ],
-     "ans": 0,
+     "ans": 3,
      "exp": "Prosopagnosia = face blindness.",
      "why": [
       "",
@@ -1573,17 +1573,17 @@
      ]
     },
     {
-     "id": "6-10",
+     "id": "q6-10",
      "type": "mcq",
      "topic": "Hearing, Smell, Taste, Touch & more",
      "stem": "Jamal finds jalapeños unbearably hot, while his friend barely notices them. Jamal is most likely:",
      "options": [
-      "A supertaster",
       "Experiencing synesthesia",
       "Experiencing sensory interaction",
+      "A supertaster",
       "Experiencing phantom limb sensation"
      ],
-     "ans": 0,
+     "ans": 2,
      "exp": "Supertasters have more taste buds and feel tastes and pain more intensely.",
      "why": [
       "",
@@ -1593,17 +1593,17 @@
      ]
     },
     {
-     "id": "6-11",
+     "id": "q6-11",
      "type": "mcq",
      "topic": "Hearing, Smell, Taste, Touch & more",
      "stem": "Which of the following is one of the five basic tastes?",
      "options": [
-      "Umami",
       "Spicy",
       "Cold",
+      "Umami",
       "Minty"
      ],
-     "ans": 0,
+     "ans": 2,
      "exp": "The five are sweet, sour, salty, bitter, and umami. \"Spicy\" is actually pain.",
      "why": [
       "",
@@ -1622,7 +1622,7 @@
    ],
    "questions": [
     {
-     "id": "7-1",
+     "id": "q7-1",
      "type": "mcq",
      "topic": "Sleep, Consciousness & Drugs",
      "stem": "Which statement about sleep is most accurate?",
@@ -1642,17 +1642,17 @@
      ]
     },
     {
-     "id": "7-2",
+     "id": "q7-2",
      "type": "mcq",
      "topic": "Sleep, Consciousness & Drugs",
      "stem": "Which of the following best describes the circadian rhythm?",
      "options": [
-      "The body's biological clock: regular cycles on a 24-hour schedule, synced with day and night",
       "The order of the four sleep stages",
       "A disorder in which people fall asleep suddenly",
+      "The body's biological clock: regular cycles on a 24-hour schedule, synced with day and night",
       "A drug's effect on dopamine"
      ],
-     "ans": 0,
+     "ans": 2,
      "exp": "Circadian rhythm = the biological clock on a 24-hour cycle.",
      "why": [
       "",
@@ -1662,17 +1662,17 @@
      ]
     },
     {
-     "id": "7-3",
+     "id": "q7-3",
      "type": "mcq",
      "topic": "Sleep, Consciousness & Drugs",
      "stem": "Tia, 16, struggles in her first-period class but feels sharp by evening. Her grandfather is up at dawn and fades by dinner. Which of the following best explains this?",
      "options": [
-      "Most teens are evening-energized, while most older adults are morning people.",
       "Tia has narcolepsy and her grandfather has insomnia.",
+      "Most teens are evening-energized, while most older adults are morning people.",
       "Older adults don't have circadian rhythms.",
       "Teens' body temperature is highest in the morning."
      ],
-     "ans": 0,
+     "ans": 1,
      "exp": "Teens and young adults improve across the day; older adults lose energy as the day goes on.",
      "why": [
       "",
@@ -1682,17 +1682,17 @@
      ]
     },
     {
-     "id": "7-4",
+     "id": "q7-4",
      "type": "mcq",
      "topic": "Sleep, Consciousness & Drugs",
      "stem": "Which of the following correctly describes body temperature across the day?",
      "options": [
-      "It rises through the day, dips in the afternoon, and is lowest at night.",
       "It is highest at night and lowest in the morning.",
       "It stays the same all day.",
+      "It rises through the day, dips in the afternoon, and is lowest at night.",
       "It is lowest in the afternoon and highest at night."
      ],
-     "ans": 0,
+     "ans": 2,
      "exp": "Body temperature increases throughout the day, dips in the afternoon, and is lowest at night.",
      "why": [
       "",
@@ -1702,17 +1702,17 @@
      ]
     },
     {
-     "id": "7-5",
+     "id": "q7-5",
      "type": "mcq",
      "topic": "Sleep, Consciousness & Drugs",
      "stem": "Which of the following is an effect of sleep loss?",
      "options": [
-      "Suppressed immune cell production and more colds",
       "Lower risk of high blood pressure",
+      "Suppressed immune cell production and more colds",
       "Better memory consolidation",
       "Faster reaction time"
      ],
-     "ans": 0,
+     "ans": 1,
      "exp": "Sleep loss weakens the immune system, raises blood pressure risk, and hurts memory and reaction time.",
      "why": [
       "",
@@ -1722,17 +1722,17 @@
      ]
     },
     {
-     "id": "7-6",
+     "id": "q7-6",
      "type": "mcq",
      "topic": "Sleep, Consciousness & Drugs",
      "stem": "Which of the following best explains why ongoing sleep loss is linked to obesity?",
      "options": [
-      "It raises hunger-arousing ghrelin, lowers hunger-suppressing leptin, and increases fat cell production.",
       "It raises leptin, which makes people hungrier.",
       "It increases GABA, which slows metabolism.",
-      "It blocks the reuptake of dopamine."
+      "It blocks the reuptake of dopamine.",
+      "It raises hunger-arousing ghrelin, lowers hunger-suppressing leptin, and increases fat cell production."
      ],
-     "ans": 0,
+     "ans": 3,
      "exp": "Ghrelin up, leptin down, more fat cells → greater risk of obesity.",
      "why": [
       "",
@@ -1742,17 +1742,17 @@
      ]
     },
     {
-     "id": "7-7",
+     "id": "q7-7",
      "type": "mcq",
      "topic": "Sleep, Consciousness & Drugs",
      "stem": "A student who has been sleeping only four hours a night has trouble focusing in class and remembering what she studied. Which effect of sleep loss is this?",
      "options": [
-      "Diminished attentional focus and memory consolidation",
       "Increased inflammation in the joints",
       "Increased leptin",
-      "Narcolepsy"
+      "Narcolepsy",
+      "Diminished attentional focus and memory consolidation"
      ],
-     "ans": 0,
+     "ans": 3,
      "exp": "Brain effects of sleep loss: less focus, weaker memory consolidation, higher risk of depression.",
      "why": [
       "",
@@ -1762,17 +1762,17 @@
      ]
     },
     {
-     "id": "7-8",
+     "id": "q7-8",
      "type": "mcq",
      "topic": "Sleep, Consciousness & Drugs",
      "stem": "Darnell's wife notices that he stops breathing several times every night. Darnell most likely has:",
      "options": [
-      "Sleep apnea",
       "Narcolepsy",
       "Insomnia",
+      "Sleep apnea",
       "Night terrors"
      ],
-     "ans": 0,
+     "ans": 2,
      "exp": "Sleep apnea = you stop breathing in your sleep.",
      "why": [
       "",
@@ -1782,7 +1782,7 @@
      ]
     },
     {
-     "id": "7-9",
+     "id": "q7-9",
      "type": "mcq",
      "topic": "Sleep, Consciousness & Drugs",
      "stem": "In the middle of a conversation, Rosa suddenly falls asleep without warning. She most likely has:",
@@ -1802,7 +1802,7 @@
      ]
     },
     {
-     "id": "7-10",
+     "id": "q7-10",
      "type": "mcq",
      "topic": "Sleep, Consciousness & Drugs",
      "stem": "Which of the following correctly describes night terrors?",
@@ -1822,17 +1822,17 @@
      ]
     },
     {
-     "id": "7-11",
+     "id": "q7-11",
      "type": "mcq",
      "topic": "Sleep, Consciousness & Drugs",
      "stem": "Which of the following best describes an agonist?",
      "options": [
-      "A drug that fits into receptors, mimics a neurotransmitter, and increases its effects",
       "A drug that blocks the effects of a neurotransmitter",
+      "A drug that fits into receptors, mimics a neurotransmitter, and increases its effects",
       "A drug that only affects the body, not the brain",
       "The discomfort after stopping a drug"
      ],
-     "ans": 0,
+     "ans": 1,
      "exp": "Agonist = acts like the neurotransmitter. Example: opiates mimic endorphins.",
      "why": [
       "",
@@ -1842,17 +1842,17 @@
      ]
     },
     {
-     "id": "7-12",
+     "id": "q7-12",
      "type": "mcq",
      "topic": "Sleep, Consciousness & Drugs",
      "stem": "Which of the following best describes an antagonist?",
      "options": [
-      "A drug that blocks the effects of a neurotransmitter",
       "A drug that mimics a neurotransmitter and increases its effects",
       "A drug made from the opium poppy",
-      "A drug that only works on hormones"
+      "A drug that only works on hormones",
+      "A drug that blocks the effects of a neurotransmitter"
      ],
-     "ans": 0,
+     "ans": 3,
      "exp": "Antagonist = against it. Your slides' example: cocaine blocking dopamine reuptake.",
      "why": [
       "",
@@ -1862,17 +1862,17 @@
      ]
     },
     {
-     "id": "7-13",
+     "id": "q7-13",
      "type": "mcq",
      "topic": "Sleep, Consciousness & Drugs",
      "stem": "Cocaine produces alertness, euphoria, and motivation by:",
      "options": [
-      "Blocking the reabsorption (reuptake) of dopamine",
       "Mimicking endorphins",
       "Increasing GABA",
+      "Blocking the reabsorption (reuptake) of dopamine",
       "Damaging serotonin-producing neurons"
      ],
-     "ans": 0,
+     "ans": 2,
      "exp": "Cocaine blocks dopamine reuptake, then comes a huge crash with anxiety, depression, and cravings.",
      "why": [
       "",
@@ -1882,17 +1882,17 @@
      ]
     },
     {
-     "id": "7-14",
+     "id": "q7-14",
      "type": "mcq",
      "topic": "Sleep, Consciousness & Drugs",
      "stem": "People at a party get loud and do wild things after drinking, so some assume alcohol is a stimulant. Which of the following best explains why it is actually a depressant?",
      "options": [
-      "It intensifies GABA and reduces glutamate, slowing neural activity, reactions, and judgment.",
       "It blocks the reuptake of dopamine.",
       "It mimics adrenaline.",
-      "It distorts visual and auditory perception."
+      "It distorts visual and auditory perception.",
+      "It intensifies GABA and reduces glutamate, slowing neural activity, reactions, and judgment."
      ],
-     "ans": 0,
+     "ans": 3,
      "exp": "Depressants reduce neural activity. Alcohol only seems like a stimulant because of how people act.",
      "why": [
       "",
@@ -1902,17 +1902,17 @@
      ]
     },
     {
-     "id": "7-15",
+     "id": "q7-15",
      "type": "mcq",
      "topic": "Sleep, Consciousness & Drugs",
      "stem": "A doctor prescribes a \"downer\" to treat a patient's insomnia. It increases GABA and has effects similar to alcohol. Which type of drug is it most likely?",
      "options": [
-      "A barbiturate/sedative",
       "A stimulant",
       "A hallucinogen",
-      "An amphetamine"
+      "An amphetamine",
+      "A barbiturate/sedative"
      ],
-     "ans": 0,
+     "ans": 3,
      "exp": "Barbiturates/sedatives: \"downers,\" used for insomnia, alcohol-like, increase GABA, and cause dependence.",
      "why": [
       "",
@@ -1922,17 +1922,17 @@
      ]
     },
     {
-     "id": "7-16",
+     "id": "q7-16",
      "type": "mcq",
      "topic": "Sleep, Consciousness & Drugs",
      "stem": "Which drug mimics adrenaline, gives a sense of euphoria followed by a huge crash, and leads to a cycle of addiction?",
      "options": [
-      "Amphetamines",
       "Benzodiazepines",
       "LSD",
-      "Codeine"
+      "Codeine",
+      "Amphetamines"
      ],
-     "ans": 0,
+     "ans": 3,
      "exp": "Amphetamines mimic epinephrine/adrenaline. Meth and ecstasy are forms.",
      "why": [
       "",
@@ -1942,17 +1942,17 @@
      ]
     },
     {
-     "id": "7-17",
+     "id": "q7-17",
      "type": "mcq",
      "topic": "Sleep, Consciousness & Drugs",
      "stem": "Which substance is considered both a stimulant and a hallucinogen?",
      "options": [
-      "Ecstasy (MDMA)",
       "Caffeine",
+      "Ecstasy (MDMA)",
       "Alcohol",
       "Morphine"
      ],
-     "ans": 0,
+     "ans": 1,
      "exp": "Ecstasy/MDMA is on your slides as a form of amphetamine and as a hallucinogen.",
      "why": [
       "",
@@ -1962,7 +1962,7 @@
      ]
     },
     {
-     "id": "7-18",
+     "id": "q7-18",
      "type": "mcq",
      "topic": "Sleep, Consciousness & Drugs",
      "stem": "Heavy ecstasy use can permanently lower a person's mood and impair memory. Which of the following best explains why?",
@@ -1982,17 +1982,17 @@
      ]
     },
     {
-     "id": "7-19",
+     "id": "q7-19",
      "type": "mcq",
      "topic": "Sleep, Consciousness & Drugs",
      "stem": "Which drug produces hallucinations and delusions like a psychotic state and can lead to paranoia and panic attacks?",
      "options": [
-      "LSD",
       "THC",
       "Caffeine",
+      "LSD",
       "Codeine"
      ],
-     "ans": 0,
+     "ans": 2,
      "exp": "LSD can result in psychosis, memory loss, paranoia, panic attacks, nightmares, and aggression.",
      "why": [
       "",
@@ -2002,17 +2002,17 @@
      ]
     },
     {
-     "id": "7-20",
+     "id": "q7-20",
      "type": "mcq",
      "topic": "Sleep, Consciousness & Drugs",
      "stem": "THC, the active ingredient in marijuana, is most likely to produce:",
      "options": [
-      "Mild hallucinations, relaxation, and a distorted sense of time",
       "Severe insomnia and heart palpitations",
       "Depressed heartbeat and breathing",
-      "A huge crash with strong cravings"
+      "A huge crash with strong cravings",
+      "Mild hallucinations, relaxation, and a distorted sense of time"
      ],
-     "ans": 0,
+     "ans": 3,
      "exp": "THC: mild hallucinations, euphoria, relaxation, wellbeing, and time distortion.",
      "why": [
       "",
@@ -2022,7 +2022,7 @@
      ]
     },
     {
-     "id": "7-21",
+     "id": "q7-21",
      "type": "mcq",
      "topic": "Sleep, Consciousness & Drugs",
      "stem": "Which of the following best explains why opioids such as heroin relieve pain?",
@@ -2042,17 +2042,17 @@
      ]
     },
     {
-     "id": "7-22",
+     "id": "q7-22",
      "type": "mcq",
      "topic": "Sleep, Consciousness & Drugs",
      "stem": "With continued opioid use, the brain stops producing its own dopamine and endorphins. This most directly leads to:",
      "options": [
-      "Dependence, tolerance, and withdrawal",
       "Better natural pain control",
       "Narcolepsy",
+      "Dependence, tolerance, and withdrawal",
       "Improved memory"
      ],
-     "ans": 0,
+     "ans": 2,
      "exp": "Opioids result in dependence, tolerance, withdrawal, and physiological and psychological addiction.",
      "why": [
       "",
@@ -2062,17 +2062,17 @@
      ]
     },
     {
-     "id": "7-23",
+     "id": "q7-23",
      "type": "mcq",
      "topic": "Sleep, Consciousness & Drugs",
      "stem": "Which of the following correctly matches a drug with its category?",
      "options": [
-      "Caffeine — stimulant",
       "Benzodiazepines — stimulant",
+      "Caffeine — stimulant",
       "LSD — opioid",
       "Codeine — depressant"
      ],
-     "ans": 0,
+     "ans": 1,
      "exp": "Benzodiazepines are depressants, LSD is a hallucinogen, and codeine is an opioid.",
      "why": [
       "",
@@ -2082,17 +2082,17 @@
      ]
     },
     {
-     "id": "7-24",
+     "id": "q7-24",
      "type": "mcq",
      "topic": "Sleep, Consciousness & Drugs",
      "stem": "Which of the following best describes the difference between substance use and substance abuse?",
      "options": [
-      "Use doesn't interfere with daily functioning; abuse is a pattern that hurts functioning, can be dangerous, and leads to legal trouble.",
       "Use involves illegal drugs; abuse involves legal drugs.",
+      "Use doesn't interfere with daily functioning; abuse is a pattern that hurts functioning, can be dangerous, and leads to legal trouble.",
       "Use happens daily; abuse happens only occasionally.",
       "There is no difference between them."
      ],
-     "ans": 0,
+     "ans": 1,
      "exp": "Substance use = no interference with daily life. Substance abuse = it inhibits functioning.",
      "why": [
       "",
@@ -2102,17 +2102,17 @@
      ]
     },
     {
-     "id": "7-25",
+     "id": "q7-25",
      "type": "mcq",
      "topic": "Sleep, Consciousness & Drugs",
      "stem": "Nina says, \"I don't even enjoy it anymore, but I can't stop wanting it.\" This best describes:",
      "options": [
-      "Addiction",
       "Tolerance",
       "Substance use",
+      "Addiction",
       "Withdrawal"
      ],
-     "ans": 0,
+     "ans": 2,
      "exp": "Addiction: users want the drug more than they like the drug, and keep using despite consequences.",
      "why": [
       "",
@@ -2122,7 +2122,7 @@
      ]
     },
     {
-     "id": "7-26",
+     "id": "q7-26",
      "type": "mcq",
      "topic": "Sleep, Consciousness & Drugs",
      "stem": "Withdrawal is best described as:",
@@ -2142,17 +2142,17 @@
      ]
     },
     {
-     "id": "7-27",
+     "id": "q7-27",
      "type": "mcq",
      "topic": "Sleep, Consciousness & Drugs",
      "stem": "A person meets 7 of the DSM-5 criteria for substance use disorder. The disorder would be classified as:",
      "options": [
+      "Severe",
       "Mild",
       "Moderate",
-      "Severe",
       "Not a disorder"
      ],
-     "ans": 2,
+     "ans": 0,
      "exp": "Your slide: mild = 3, moderate = 4 or 5, severe = 6 or more.",
      "why": [
       "",
@@ -2162,17 +2162,17 @@
      ]
     },
     {
-     "id": "7-28",
+     "id": "q7-28",
      "type": "mcq",
      "topic": "Sleep, Consciousness & Drugs",
      "stem": "Which of the following is one of the DSM-5 criteria for substance use disorder?",
      "options": [
-      "Wanting to cut down or stop using but not managing to",
       "Using a substance once at a party",
+      "Wanting to cut down or stop using but not managing to",
       "Drinking coffee in the morning",
       "Taking medicine exactly as prescribed"
      ],
-     "ans": 0,
+     "ans": 1,
      "exp": "\"Wanting to cut down or stop but not managing to\" is criterion 2 on the slide's list of 11.",
      "why": [
       "",
@@ -2191,7 +2191,7 @@
    ],
    "questions": [
     {
-     "id": "8-1",
+     "id": "q8-1",
      "type": "mcq",
      "topic": "Split Brain",
      "stem": "A split-brain patient holds a hidden key in her left hand and can't see it. Asked what she is holding, which of the following is most likely?",
@@ -2211,17 +2211,17 @@
      ]
     },
     {
-     "id": "8-2",
+     "id": "q8-2",
      "type": "mcq",
      "topic": "Split Brain",
      "stem": "Which of the following best describes what research on split-brain patients revealed?",
      "options": [
-      "The two hemispheres specialize in different functions, such as language in the left hemisphere.",
       "Both hemispheres have identical abilities.",
       "Cutting the corpus callosum causes paralysis.",
+      "The two hemispheres specialize in different functions, such as language in the left hemisphere.",
       "The right hemisphere controls language."
      ],
-     "ans": 0,
+     "ans": 2,
      "exp": "Split-brain studies showed lateralization, like language on the left side.",
      "why": [
       "",
@@ -2231,17 +2231,17 @@
      ]
     },
     {
-     "id": "8-3",
+     "id": "q8-3",
      "type": "mcq",
      "topic": "Split Brain",
      "stem": "A split-brain patient looks at the center of the word HEART, so \"HE\" is in his left visual field and \"ART\" is in his right. Asked what word he saw, he will most likely say:",
      "options": [
-      "\"Art\"",
       "\"He\"",
+      "\"Art\"",
       "\"Heart\"",
       "Nothing at all"
      ],
-     "ans": 0,
+     "ans": 1,
      "exp": "\"ART\" reaches the left hemisphere, which can speak. \"HE\" reaches only the right hemisphere, so he could point to it with his left hand but not say it.",
      "why": [
       "",
@@ -2265,7 +2265,7 @@
    ],
    "questions": [
     {
-     "id": "M1",
+     "id": "qM1",
      "type": "mcq",
      "topic": "The Neuron",
      "stem": "Maria's neurologist explains that the fatty coating around her axons is breaking down, slowing her neural signals and making walking difficult. Maria most likely has:",
@@ -2285,7 +2285,7 @@
      ]
     },
     {
-     "id": "M2",
+     "id": "qM2",
      "type": "mcq",
      "topic": "The Neuron",
      "stem": "Which of the following best describes the all-or-none principle?",
@@ -2305,17 +2305,17 @@
      ]
     },
     {
-     "id": "M3",
+     "id": "qM3",
      "type": "mcq",
      "topic": "The Neuron",
      "stem": "A new drug stops the sending neuron from reabsorbing leftover neurotransmitters in the synapse. Which process is the drug blocking?",
      "options": [
-      "Reuptake",
       "The action potential",
       "The refractory period",
+      "Reuptake",
       "Threshold"
      ],
-     "ans": 0,
+     "ans": 2,
      "exp": "Reuptake is the sending neuron reabsorbing leftover neurotransmitters. SSRIs work by blocking it.",
      "why": [
       "",
@@ -2325,17 +2325,17 @@
      ]
     },
     {
-     "id": "M4",
+     "id": "qM4",
      "type": "mcq",
      "topic": "The Neuron",
      "stem": "Which sequence correctly describes the path of a signal through a single neuron?",
      "options": [
       "Axon → soma → dendrites → terminal buttons",
-      "Dendrites → soma → axon → terminal buttons",
       "Soma → dendrites → terminal buttons → axon",
+      "Dendrites → soma → axon → terminal buttons",
       "Terminal buttons → axon → soma → dendrites"
      ],
-     "ans": 1,
+     "ans": 2,
      "exp": "Dendrites detect the message, the soma decides to fire, the impulse travels down the axon, and terminal buttons release neurotransmitters.",
      "why": [
       "",
@@ -2345,17 +2345,17 @@
      ]
     },
     {
-     "id": "M5",
+     "id": "qM5",
      "type": "mcq",
      "topic": "The Neuron",
      "stem": "Which of the following best describes the function of glial cells?",
      "options": [
       "They carry electrical impulses down the axon.",
-      "They support, nourish, and protect neurons.",
       "They store neurotransmitters in vesicles.",
+      "They support, nourish, and protect neurons.",
       "They form the gap between two neurons."
      ],
-     "ans": 1,
+     "ans": 2,
      "exp": "Glia are support cells (\"glue\"). They don't send the signal themselves.",
      "why": [
       "",
@@ -2365,7 +2365,7 @@
      ]
     },
     {
-     "id": "M6",
+     "id": "qM6",
      "type": "mcq",
      "topic": "Neurotransmitters",
      "stem": "Ella has been diagnosed with depression. Her doctor prescribes a medication that keeps serotonin in the synapse longer. Which type of drug is this?",
@@ -2385,17 +2385,17 @@
      ]
     },
     {
-     "id": "M7",
+     "id": "qM7",
      "type": "mcq",
      "topic": "Neurotransmitters",
      "stem": "A patient with Parkinson's disease has tremors and trouble starting movements. A shortage of which neurotransmitter is most responsible?",
      "options": [
-      "Serotonin",
       "Dopamine",
+      "Serotonin",
       "GABA",
       "Glutamate"
      ],
-     "ans": 1,
+     "ans": 0,
      "exp": "Low dopamine → Parkinson's. High dopamine → schizophrenia.",
      "why": [
       "",
@@ -2405,7 +2405,7 @@
      ]
     },
     {
-     "id": "M8",
+     "id": "qM8",
      "type": "mcq",
      "topic": "Neurotransmitters",
      "stem": "Excess activity of which neurotransmitter has been linked to schizophrenia?",
@@ -2425,17 +2425,17 @@
      ]
     },
     {
-     "id": "M9",
+     "id": "qM9",
      "type": "mcq",
      "topic": "Neurotransmitters",
      "stem": "Which of the following best describes the role of GABA?",
      "options": [
       "It is the main excitatory neurotransmitter and is involved in memory.",
-      "It is the main inhibitory neurotransmitter and calms the nervous system.",
       "It sends hunger signals to the brain.",
-      "It is the body's natural painkiller."
+      "It is the body's natural painkiller.",
+      "It is the main inhibitory neurotransmitter and calms the nervous system."
      ],
-     "ans": 1,
+     "ans": 3,
      "exp": "GABA is the brakes. Glutamate (the main excitatory one) is the trap.",
      "why": [
       "",
@@ -2445,17 +2445,17 @@
      ]
     },
     {
-     "id": "M10",
+     "id": "qM10",
      "type": "mcq",
      "topic": "Neurotransmitters",
      "stem": "Low levels of acetylcholine are most closely associated with which disorder?",
      "options": [
-      "Alzheimer's disease",
       "Parkinson's disease",
+      "Alzheimer's disease",
       "Schizophrenia",
       "Anxiety disorders"
      ],
-     "ans": 0,
+     "ans": 1,
      "exp": "ACh helps with memory and movement; too little is linked to Alzheimer's. Parkinson's is dopamine.",
      "why": [
       "",
@@ -2465,7 +2465,7 @@
      ]
     },
     {
-     "id": "M11",
+     "id": "qM11",
      "type": "mcq",
      "topic": "Nervous & Endocrine Systems",
      "stem": "While hiking, Leah spots a rattlesnake. Her heart races, her pupils dilate, and her digestion slows. Which division of the nervous system is responsible?",
@@ -2485,17 +2485,17 @@
      ]
     },
     {
-     "id": "M12",
+     "id": "qM12",
      "type": "mcq",
      "topic": "Nervous & Endocrine Systems",
      "stem": "After the snake slithers away, Leah's heart rate and breathing gradually return to normal. Which division is now most active?",
      "options": [
+      "Parasympathetic",
       "Sympathetic",
       "Somatic",
-      "Parasympathetic",
       "Central"
      ],
-     "ans": 2,
+     "ans": 0,
      "exp": "Parasympathetic = rest and digest; it calms the body back down.",
      "why": [
       "",
@@ -2505,17 +2505,17 @@
      ]
     },
     {
-     "id": "M13",
+     "id": "qM13",
      "type": "mcq",
      "topic": "Nervous & Endocrine Systems",
      "stem": "Which of the following is an example of the somatic nervous system at work?",
      "options": [
       "Your heart speeding up before a test",
       "Your stomach digesting lunch",
-      "Raising your hand to answer a question",
-      "Your pupils shrinking in bright light"
+      "Your pupils shrinking in bright light",
+      "Raising your hand to answer a question"
      ],
-     "ans": 2,
+     "ans": 3,
      "exp": "Somatic = voluntary movement. The others are automatic, so they're autonomic.",
      "why": [
       "",
@@ -2525,17 +2525,17 @@
      ]
     },
     {
-     "id": "M14",
+     "id": "qM14",
      "type": "mcq",
      "topic": "Nervous & Endocrine Systems",
      "stem": "When the doctor taps Luis's knee, his leg kicks before his brain even registers the tap. Which of the following best explains why the response is so fast?",
      "options": [
-      "The signal goes to the spinal cord and straight back out, without waiting for the brain.",
       "Motor neurons are always faster than sensory neurons.",
+      "The signal goes to the spinal cord and straight back out, without waiting for the brain.",
       "The cerebellum processes all reflexes instantly.",
       "Hormones carry the signal directly to the leg."
      ],
-     "ans": 0,
+     "ans": 1,
      "exp": "Reflexes are directed by the spinal cord, which cuts out the trip to the brain.",
      "why": [
       "",
@@ -2545,7 +2545,7 @@
      ]
     },
     {
-     "id": "M15",
+     "id": "qM15",
      "type": "mcq",
      "topic": "Nervous & Endocrine Systems",
      "stem": "Which type of neuron carries messages from the brain and spinal cord out to the muscles?",
@@ -2565,17 +2565,17 @@
      ]
     },
     {
-     "id": "M16",
+     "id": "qM16",
      "type": "mcq",
      "topic": "The Brain",
      "stem": "Which of the following best describes what Phineas Gage's injury taught psychologists?",
      "options": [
-      "The frontal lobe plays a major role in personality and controlling behavior.",
       "The occipital lobe is responsible for processing vision.",
+      "The frontal lobe plays a major role in personality and controlling behavior.",
       "The cerebellum controls balance and coordination.",
       "The temporal lobe is needed to understand speech."
      ],
-     "ans": 0,
+     "ans": 1,
      "exp": "After the rod went through his prefrontal cortex, Gage became impulsive, profane, and irritable: his personality changed, not his movement or senses.",
      "why": [
       "",
@@ -2585,17 +2585,17 @@
      ]
     },
     {
-     "id": "M17",
+     "id": "qM17",
      "type": "mcq",
      "topic": "The Brain",
      "stem": "Which of the following scenarios best illustrates neuroplasticity?",
      "options": [
-      "After a stroke, a patient regains the ability to walk through months of therapy as other brain areas take over.",
       "A student drinks coffee to stay alert while studying.",
+      "After a stroke, a patient regains the ability to walk through months of therapy as other brain areas take over.",
       "A runner's heart rate speeds up during a race.",
       "A person blinks when dust blows toward their eyes."
      ],
-     "ans": 0,
+     "ans": 1,
      "exp": "Plasticity is the brain reorganizing itself. The others are a drug effect, the sympathetic system, and a reflex.",
      "why": [
       "",
@@ -2605,17 +2605,17 @@
      ]
     },
     {
-     "id": "M18",
+     "id": "qM18",
      "type": "mcq",
      "topic": "The Brain",
      "stem": "Which of the following functions is most closely associated with the limbic system?",
      "options": [
-      "Regulating emotions, forming memories, and survival drives like hunger",
       "Coordinating balance and fine motor movement",
       "Controlling breathing and heartbeat",
+      "Regulating emotions, forming memories, and survival drives like hunger",
       "Processing visual information"
      ],
-     "ans": 0,
+     "ans": 2,
      "exp": "Limbic = amygdala (emotion), hippocampus (memory), hypothalamus (drives). Breathing and heartbeat are the medulla, part of the brainstem.",
      "why": [
       "",
@@ -2625,17 +2625,17 @@
      ]
     },
     {
-     "id": "M19",
+     "id": "qM19",
      "type": "mcq",
      "topic": "The Brain",
      "stem": "Which of the following best describes the primary function of the cerebellum?",
      "options": [
-      "Coordinating voluntary movement, balance, and posture",
       "Regulating emotions and forming memories",
       "Controlling hunger, thirst, and body temperature",
+      "Coordinating voluntary movement, balance, and posture",
       "Producing speech"
      ],
-     "ans": 0,
+     "ans": 2,
      "exp": "The cerebellum (\"little brain\") handles balance, coordination, and learned motor skills.",
      "why": [
       "",
@@ -2645,7 +2645,7 @@
      ]
     },
     {
-     "id": "M20",
+     "id": "qM20",
      "type": "mcq",
      "topic": "The Brain",
      "stem": "Which part of the brain plays a crucial role in controlling arousal and attention, and if damaged could leave a person in a coma?",
@@ -2665,17 +2665,17 @@
      ]
     },
     {
-     "id": "M21",
+     "id": "qM21",
      "type": "mcq",
      "topic": "Vision",
      "stem": "Which of the following best explains why it is hard to see colors in a dimly lit room?",
      "options": [
-      "Cones need more light to work, and rods, which work in dim light, don't detect color.",
       "Rods detect color only in bright light.",
       "The lens can't focus in dim light.",
-      "The optic nerve shuts off in darkness."
+      "The optic nerve shuts off in darkness.",
+      "Cones need more light to work, and rods, which work in dim light, don't detect color."
      ],
-     "ans": 0,
+     "ans": 3,
      "exp": "Rods = reduced light, black and white. Cones = color, need brighter light.",
      "why": [
       "",
@@ -2685,17 +2685,17 @@
      ]
     },
     {
-     "id": "M22",
+     "id": "qM22",
      "type": "mcq",
      "topic": "Vision",
      "stem": "Which of the following correctly describes the path of light through the eye?",
      "options": [
-      "Cornea → pupil → lens → retina",
       "Lens → cornea → retina → pupil",
       "Retina → lens → pupil → cornea",
-      "Pupil → retina → cornea → lens"
+      "Pupil → retina → cornea → lens",
+      "Cornea → pupil → lens → retina"
      ],
-     "ans": 0,
+     "ans": 3,
      "exp": "Light enters through the cornea, passes the pupil, is focused by the lens, and lands on the retina.",
      "why": [
       "",
@@ -2705,17 +2705,17 @@
      ]
     },
     {
-     "id": "M23",
+     "id": "qM23",
      "type": "mcq",
      "topic": "Vision",
      "stem": "Which theory best explains why a person with red-green color blindness has trouble telling red from green?",
      "options": [
-      "Trichromatic theory",
       "Opponent-process theory",
       "Gate control theory",
-      "Feature detection"
+      "Feature detection",
+      "Trichromatic theory"
      ],
-     "ans": 0,
+     "ans": 3,
      "exp": "Trichromatic theory: red, green, and blue cones. Color blindness usually comes from impaired red or green cones.",
      "why": [
       "",
@@ -2725,17 +2725,17 @@
      ]
     },
     {
-     "id": "M24",
+     "id": "qM24",
      "type": "mcq",
      "topic": "Vision",
      "stem": "Which of the following is a monocular depth cue?",
      "options": [
       "Retinal disparity",
-      "Linear perspective",
       "Comparing the slightly different images from each eye",
-      "Using both eyes to judge how close something is"
+      "Using both eyes to judge how close something is",
+      "Linear perspective"
      ],
-     "ans": 1,
+     "ans": 3,
      "exp": "Linear perspective works with one eye. The other three all need both eyes (binocular).",
      "why": [
       "",
@@ -2745,7 +2745,7 @@
      ]
     },
     {
-     "id": "M25",
+     "id": "qM25",
      "type": "mcq",
      "topic": "Vision",
      "stem": "Which Gestalt principle explains why you see the letters on a page as separate words rather than one long string?",
@@ -2765,17 +2765,17 @@
      ]
     },
     {
-     "id": "M26",
+     "id": "qM26",
      "type": "mcq",
      "topic": "Hearing, Smell, Taste, Touch & more",
      "stem": "An older adult's eardrum and middle-ear bones are damaged, but the cochlea is healthy. What type of hearing loss is this, and can it be treated?",
      "options": [
-      "Conduction hearing loss; it can often be fixed with surgery",
       "Sensorineural hearing loss; it cannot be reversed",
       "Conduction hearing loss; it can never be treated",
+      "Conduction hearing loss; it can often be fixed with surgery",
       "Sensorineural hearing loss; it can be fixed with surgery"
      ],
-     "ans": 0,
+     "ans": 2,
      "exp": "Conduction = the parts that conduct sound (eardrum, ossicles). It's correctable. Sensorineural is the cochlea or auditory nerve.",
      "why": [
       "",
@@ -2785,7 +2785,7 @@
      ]
     },
     {
-     "id": "M27",
+     "id": "qM27",
      "type": "mcq",
      "topic": "Hearing, Smell, Taste, Touch & more",
      "stem": "Which treatment would most likely help someone whose hearing loss comes from damaged hair cells in the cochlea?",
@@ -2805,7 +2805,7 @@
      ]
     },
     {
-     "id": "M28",
+     "id": "qM28",
      "type": "mcq",
      "topic": "Hearing, Smell, Taste, Touch & more",
      "stem": "Two sounds are equally loud, but one is a high whistle and the other a low drum. What property of the sound waves is different?",
@@ -2825,17 +2825,17 @@
      ]
     },
     {
-     "id": "M29",
+     "id": "qM29",
      "type": "mcq",
      "topic": "Hearing, Smell, Taste, Touch & more",
      "stem": "A gymnast can do a backflip with her eyes closed because she senses where her arms and legs are. Which sense makes this possible?",
      "options": [
-      "Kinesthesis",
       "Vestibular sense",
       "Olfaction",
-      "Gustation"
+      "Gustation",
+      "Kinesthesis"
      ],
-     "ans": 0,
+     "ans": 3,
      "exp": "Kinesthesis senses the position of body parts. The vestibular sense is about the head's position and balance.",
      "why": [
       "",
@@ -2845,7 +2845,7 @@
      ]
     },
     {
-     "id": "M30",
+     "id": "qM30",
      "type": "mcq",
      "topic": "Hearing, Smell, Taste, Touch & more",
      "stem": "The smell of fresh cookies instantly brings back a vivid childhood memory. Which of the following best explains why?",

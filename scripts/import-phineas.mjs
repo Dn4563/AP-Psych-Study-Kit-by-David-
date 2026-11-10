@@ -11,6 +11,19 @@ import { readFileSync, writeFileSync, existsSync, mkdirSync } from "node:fs";
 import vm from "node:vm";
 
 const root = new URL("..", import.meta.url).pathname;
+/* Small seeded random number generator (mulberry32 over a string hash), so imports are repeatable. */
+function rng(seedText) {
+  let h = 1779033703;
+  for (const ch of seedText) h = Math.imul(h ^ ch.charCodeAt(0), 3432918353), (h = (h << 13) | (h >>> 19));
+  let a = h >>> 0;
+  return () => {
+    a = (a + 0x6d2b79f5) >>> 0;
+    let t = a;
+    t = Math.imul(t ^ (t >>> 15), t | 1);
+    t ^= t + Math.imul(t ^ (t >>> 7), t | 61);
+    return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
+  };
+}
 const src = process.argv[2] || root + "source/phineas-psych-kit.html";
 const html = readFileSync(src, "utf8");
 
@@ -97,7 +110,23 @@ UNITS.forEach((U, ui) => {
 
   // practice.json: his exam-style questions, one practice set per deck, plus a mock exam drawn evenly across decks.
   const exam = EXAM.filter((e) => num[e[0]]);
-  const toQ = (e, id) => ({ id, type: "mcq", topic: decks.find((d) => d.id === e[0]).name.replace(/^Optional:\s*/, ""), stem: e[1], options: e[2], ans: e[3], exp: e[4], why: e[2].map(() => "") });
+  // Phineas lists the right answer first almost every time. Each set gets its right answers spread evenly across
+  // the letters, in a fixed random order (same seed every import), with the wrong choices kept in his order.
+  const toSet = (list, idOf, seed) => {
+    const rnd = rng(seed);
+    const slots = list.map((_, i) => i % 4);
+    for (let i = slots.length - 1; i > 0; i--) {
+      const j = Math.floor(rnd() * (i + 1));
+      [slots[i], slots[j]] = [slots[j], slots[i]];
+    }
+    return list.map((e, i) => {
+      const right = e[2][e[3]],
+        wrong = e[2].filter((_, k) => k !== e[3]);
+      const at = slots[i] % e[2].length;
+      const options = wrong.slice(0, at).concat([right], wrong.slice(at));
+      return { id: idOf(i), type: "mcq", topic: decks.find((d) => d.id === e[0]).name.replace(/^Optional:\s*/, ""), stem: e[1], options, ans: at, exp: e[4], why: options.map(() => "") };
+    });
+  };
   const sections = [];
   decks.forEach((d) => {
     const qs = exam.filter((e) => e[0] === d.id);
@@ -106,7 +135,7 @@ UNITS.forEach((U, ui) => {
       name: d.name.replace(/^Optional:\s*/, ""),
       mode: "practice",
       tips: ["Exam-style questions from Phineas's kit for this deck. Read every choice before you pick: the wrong ones are common mix-ups."],
-      questions: qs.map((e, i) => toQ(e, num[d.id] + "-" + (i + 1))),
+      questions: toSet(qs, (i) => "q" + num[d.id] + "-" + (i + 1), ours.id + ":" + d.id),
     });
   });
   const core = decks.filter((d) => !d.opt);
@@ -120,7 +149,7 @@ UNITS.forEach((U, ui) => {
       exam: "Mock exam",
       examTips: ["Turn the Timer on and answer every question without looking anything up.", "Aim for about one minute per question. Flag hard ones and come back."],
       tips: ["A mix of exam-style questions from every deck in this unit."],
-      questions: mock.slice(0, 30).map((e, i) => toQ(e, "M" + (i + 1))),
+      questions: toSet(mock.slice(0, 30), (i) => "qM" + (i + 1), ours.id + ":mock"),
     });
   writeFileSync(dir + "practice.json", JSON.stringify({ sections }, null, 1) + "\n");
 

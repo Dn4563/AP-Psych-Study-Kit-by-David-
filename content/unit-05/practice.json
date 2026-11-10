@@ -8,17 +8,17 @@
    ],
    "questions": [
     {
-     "id": "1-1",
+     "id": "q1-1",
      "type": "mcq",
      "topic": "Health Psychology",
      "stem": "Which of the following best describes what happens when stress activates the sympathetic nervous system?",
      "options": [
-      "Hormones like cortisol are released, which can lead to hypertension, headaches, and immunosuppression.",
       "The parasympathetic system shuts down permanently.",
       "Leptin levels rise and hunger disappears.",
-      "The body immediately returns to baseline."
+      "The body immediately returns to baseline.",
+      "Hormones like cortisol are released, which can lead to hypertension, headaches, and immunosuppression."
      ],
-     "ans": 0,
+     "ans": 3,
      "exp": "Stress → sympathetic nervous system → cortisol → hypertension, headaches, immunosuppression.",
      "why": [
       "",
@@ -28,17 +28,17 @@
      ]
     },
     {
-     "id": "1-2",
+     "id": "q1-2",
      "type": "mcq",
      "topic": "Health Psychology",
      "stem": "Which of the following is the best example of eustress?",
      "options": [
-      "Preparing for a wedding you're excited about",
       "Being stuck in traffic every day",
+      "Preparing for a wedding you're excited about",
       "Going through a divorce",
       "Living through a natural disaster"
      ],
-     "ans": 0,
+     "ans": 1,
      "exp": "Eustress = challenging but manageable \"good\" stress. The others are distress.",
      "why": [
       "",
@@ -48,17 +48,17 @@
      ]
     },
     {
-     "id": "1-3",
+     "id": "q1-3",
      "type": "mcq",
      "topic": "Health Psychology",
      "stem": "A dead phone, no Wi-Fi, and a deadline in the same afternoon are examples of:",
      "options": [
-      "Daily hassles",
       "Catastrophes",
       "Significant life changes",
-      "Eustress"
+      "Eustress",
+      "Daily hassles"
      ],
-     "ans": 0,
+     "ans": 3,
      "exp": "Daily hassles are everyday distress.",
      "why": [
       "",
@@ -68,17 +68,17 @@
      ]
     },
     {
-     "id": "1-4",
+     "id": "q1-4",
      "type": "mcq",
      "topic": "Health Psychology",
      "stem": "Which of the following is an example of household dysfunction as an ACE?",
      "options": [
-      "Having a parent who is incarcerated",
       "Moving to a new school",
+      "Having a parent who is incarcerated",
       "Failing a test",
       "Getting a new sibling"
      ],
-     "ans": 0,
+     "ans": 1,
      "exp": "Household dysfunction: substance abuse, domestic violence, parent with mental illness, or an incarcerated parent.",
      "why": [
       "",
@@ -88,7 +88,7 @@
      ]
     },
     {
-     "id": "1-5",
+     "id": "q1-5",
      "type": "mcq",
      "topic": "Health Psychology",
      "stem": "Which of the following best explains why people with many ACEs face higher health risks as adults?",
@@ -108,7 +108,7 @@
      ]
     },
     {
-     "id": "1-6",
+     "id": "q1-6",
      "type": "mcq",
      "topic": "Health Psychology",
      "stem": "In which stage of the General Adaptation Syndrome is the body still in high stress, with cortisol and epinephrine flowing and reserves being used up?",
@@ -128,17 +128,17 @@
      ]
     },
     {
-     "id": "1-7",
+     "id": "q1-7",
      "type": "mcq",
      "topic": "Health Psychology",
      "stem": "Which statement best describes the tend-and-befriend theory?",
      "options": [
-      "Under stress, some people, mainly women, respond by caring for others and building social connections instead of fight-or-flight.",
       "Stress always triggers fight-or-flight.",
       "People under stress avoid all social contact.",
+      "Under stress, some people, mainly women, respond by caring for others and building social connections instead of fight-or-flight.",
       "Stress causes the body to become exhausted immediately."
      ],
-     "ans": 0,
+     "ans": 2,
      "exp": "It's part of evolutionary psychology: protecting offspring and building support.",
      "why": [
       "",
@@ -148,7 +148,7 @@
      ]
     },
     {
-     "id": "1-8",
+     "id": "q1-8",
      "type": "mcq",
      "topic": "Health Psychology",
      "stem": "Which of the following best describes the difference between problem-focused and emotion-focused coping?",
@@ -168,17 +168,17 @@
      ]
     },
     {
-     "id": "1-9",
+     "id": "q1-9",
      "type": "mcq",
      "topic": "Health Psychology",
      "stem": "When is emotion-focused coping most likely to be used?",
      "options": [
-      "When the stressor seems uncontrollable",
       "When the stressor can easily be changed",
       "Only during the alarm stage",
+      "When the stressor seems uncontrollable",
       "Only by people with ACEs"
      ],
-     "ans": 0,
+     "ans": 2,
      "exp": "Problem-focused coping works best when the stressor can be changed or controlled.",
      "why": [
       "",
@@ -197,17 +197,17 @@
    ],
    "questions": [
     {
-     "id": "2-1",
+     "id": "q2-1",
      "type": "mcq",
      "topic": "Intro to Psychological Disorders",
      "stem": "According to your slides, professionals label thoughts, feelings, and behaviors as a disorder when they are:",
      "options": [
-      "Deviant, dysfunctional/maladaptive, and distressing",
       "Rare, harmless, and temporary",
       "Genetic, chronic, and dangerous",
-      "Diagnosed, treated, and cured"
+      "Diagnosed, treated, and cured",
+      "Deviant, dysfunctional/maladaptive, and distressing"
      ],
-     "ans": 0,
+     "ans": 3,
      "exp": "The 3 Ds.",
      "why": [
       "",
@@ -217,7 +217,7 @@
      ]
     },
     {
-     "id": "2-2",
+     "id": "q2-2",
      "type": "mcq",
      "topic": "Intro to Psychological Disorders",
      "stem": "A man believes that wearing his lucky socks helps his team win, but he functions well and isn't bothered by it. Why is this NOT considered a disorder?",
@@ -237,17 +237,17 @@
      ]
     },
     {
-     "id": "2-3",
+     "id": "q2-3",
      "type": "mcq",
      "topic": "Intro to Psychological Disorders",
      "stem": "Which approach explains disorders through chemical imbalances, genetics, tumors, or brain structure?",
      "options": [
-      "Biological",
       "Psychodynamic",
       "Humanistic",
+      "Biological",
       "Sociocultural"
      ],
-     "ans": 0,
+     "ans": 2,
      "exp": "Biological = medical/genetic issues and neurotransmitters/hormones.",
      "why": [
       "",
@@ -257,17 +257,17 @@
      ]
     },
     {
-     "id": "2-4",
+     "id": "q2-4",
      "type": "mcq",
      "topic": "Intro to Psychological Disorders",
      "stem": "Which approach explains disorders as responses learned through conditioning and reinforcement?",
      "options": [
-      "Behavioral",
       "Cognitive",
+      "Behavioral",
       "Evolutionary",
       "Psychodynamic"
      ],
-     "ans": 0,
+     "ans": 1,
      "exp": "Behavioral = learned through the environment.",
      "why": [
       "",
@@ -277,7 +277,7 @@
      ]
     },
     {
-     "id": "2-5",
+     "id": "q2-5",
      "type": "mcq",
      "topic": "Intro to Psychological Disorders",
      "stem": "A therapist believes a client's anxiety comes from unconscious conflicts rooted in childhood. Which approach is this?",
@@ -297,17 +297,17 @@
      ]
     },
     {
-     "id": "2-6",
+     "id": "q2-6",
      "type": "mcq",
      "topic": "Intro to Psychological Disorders",
      "stem": "Which approach says disorders result from a lack of social support and not being able to reach your full potential?",
      "options": [
-      "Humanistic",
       "Cognitive",
+      "Humanistic",
       "Sociocultural",
       "Evolutionary"
      ],
-     "ans": 0,
+     "ans": 1,
      "exp": "Humanistic = potential and support.",
      "why": [
       "",
@@ -326,17 +326,17 @@
    ],
    "questions": [
     {
-     "id": "3-1",
+     "id": "q3-1",
      "type": "mcq",
      "topic": "Anxiety Disorders",
      "stem": "Which of the following best describes anxiety disorders?",
      "options": [
-      "Persistent, excessive worry and fear that significantly interfere with daily life",
       "Brief nervousness before a test",
       "Extreme mood swings between mania and depression",
+      "Persistent, excessive worry and fear that significantly interfere with daily life",
       "A loss of connection between thoughts and identity"
      ],
-     "ans": 0,
+     "ans": 2,
      "exp": "That's the slide's definition; GAD, panic disorder, and phobias are examples.",
      "why": [
       "",
@@ -346,17 +346,17 @@
      ]
     },
     {
-     "id": "3-2",
+     "id": "q3-2",
      "type": "mcq",
      "topic": "Anxiety Disorders",
      "stem": "Which of the following best describes a specific phobia?",
      "options": [
-      "An intense or irrational fear that is out of proportion to the actual threat",
       "Constant worry about many everyday things",
+      "An intense or irrational fear that is out of proportion to the actual threat",
       "Sudden panic attacks for no reason",
       "A fear of being judged in social situations"
      ],
-     "ans": 0,
+     "ans": 1,
      "exp": "Specific phobias are tied to a particular object or situation.",
      "why": [
       "",
@@ -366,17 +366,17 @@
      ]
     },
     {
-     "id": "3-3",
+     "id": "q3-3",
      "type": "mcq",
      "topic": "Anxiety Disorders",
      "stem": "Which disorder is described as \"nonspecific worry and fear\" lasting at least 6 months?",
      "options": [
-      "Generalized anxiety disorder",
       "Specific phobia",
+      "Generalized anxiety disorder",
       "Panic disorder",
       "Agoraphobia"
      ],
-     "ans": 0,
+     "ans": 1,
      "exp": "GAD worry isn't tied to one specific thing.",
      "why": [
       "",
@@ -386,17 +386,17 @@
      ]
     },
     {
-     "id": "3-4",
+     "id": "q3-4",
      "type": "mcq",
      "topic": "Anxiety Disorders",
      "stem": "A key symptom of panic disorder is:",
      "options": [
-      "Worrying about having more attacks",
       "Fear of one specific object",
       "Constant worry about money",
+      "Worrying about having more attacks",
       "Avoiding eye contact"
      ],
-     "ans": 0,
+     "ans": 2,
      "exp": "Panic disorder: panic attacks plus anxiety about having panic attacks.",
      "why": [
       "",
@@ -406,7 +406,7 @@
      ]
     },
     {
-     "id": "3-5",
+     "id": "q3-5",
      "type": "mcq",
      "topic": "Anxiety Disorders",
      "stem": "Which of the following is a cognitive symptom of agoraphobia?",
@@ -426,7 +426,7 @@
      ]
     },
     {
-     "id": "3-6",
+     "id": "q3-6",
      "type": "mcq",
      "topic": "Anxiety Disorders",
      "stem": "A child becomes terrified of dogs after watching her mother scream every time a dog walks by. Which cause of anxiety disorders does this show?",
@@ -446,17 +446,17 @@
      ]
     },
     {
-     "id": "3-7",
+     "id": "q3-7",
      "type": "mcq",
      "topic": "Anxiety Disorders",
      "stem": "Which neurotransmitter imbalances do your slides link to anxiety disorders?",
      "options": [
-      "Serotonin and GABA",
       "Dopamine and glutamate",
       "Acetylcholine and endorphins",
-      "Melatonin and leptin"
+      "Melatonin and leptin",
+      "Serotonin and GABA"
      ],
-     "ans": 0,
+     "ans": 3,
      "exp": "Biological cause: imbalances in serotonin and GABA, plus hormonal imbalances.",
      "why": [
       "",
@@ -475,17 +475,17 @@
    ],
    "questions": [
     {
-     "id": "4-1",
+     "id": "q4-1",
      "type": "mcq",
      "topic": "Depressive & Bipolar Disorders",
      "stem": "Which of the following best describes depressive disorders?",
      "options": [
-      "A sad, empty, or irritable mood with physical and cognitive changes that affect functioning",
       "A temporary bad mood after a disappointment",
       "Extreme mood swings between mania and depression",
+      "A sad, empty, or irritable mood with physical and cognitive changes that affect functioning",
       "Persistent fear of social situations"
      ],
-     "ans": 0,
+     "ans": 2,
      "exp": "Depression is a mental health condition, not just a temporary mood swing.",
      "why": [
       "",
@@ -495,17 +495,17 @@
      ]
     },
     {
-     "id": "4-2",
+     "id": "q4-2",
      "type": "mcq",
      "topic": "Depressive & Bipolar Disorders",
      "stem": "What is the key time difference between major depressive disorder and persistent depressive disorder?",
      "options": [
-      "MDD lasts 2+ weeks; persistent depressive disorder lasts 2+ years",
       "MDD lasts 2+ years; persistent lasts 2+ weeks",
       "Both last 6 months",
-      "There is no time requirement"
+      "There is no time requirement",
+      "MDD lasts 2+ weeks; persistent depressive disorder lasts 2+ years"
      ],
-     "ans": 0,
+     "ans": 3,
      "exp": "MDD = 2 weeks. Persistent = 2 years.",
      "why": [
       "",
@@ -515,17 +515,17 @@
      ]
     },
     {
-     "id": "4-3",
+     "id": "q4-3",
      "type": "mcq",
      "topic": "Depressive & Bipolar Disorders",
      "stem": "Changes in sleep in major depressive disorder can include:",
      "options": [
-      "Insomnia or hypersomnia",
       "Only sleepwalking",
+      "Insomnia or hypersomnia",
       "Only narcolepsy",
       "No changes in sleep"
      ],
-     "ans": 0,
+     "ans": 1,
      "exp": "Your slide: changes in sleep (insomnia or hypersomnia).",
      "why": [
       "",
@@ -535,17 +535,17 @@
      ]
     },
     {
-     "id": "4-4",
+     "id": "q4-4",
      "type": "mcq",
      "topic": "Depressive & Bipolar Disorders",
      "stem": "Why would someone with long-term depression who also has a manic episode NOT be diagnosed with persistent depressive disorder?",
      "options": [
-      "A manic episode means it would most likely be bipolar disorder",
       "Mania shortens the depression",
       "Manic episodes only happen in children",
+      "A manic episode means it would most likely be bipolar disorder",
       "Persistent depressive disorder requires mania"
      ],
-     "ans": 0,
+     "ans": 2,
      "exp": "Persistent depressive disorder requires no manic episodes.",
      "why": [
       "",
@@ -555,7 +555,7 @@
      ]
     },
     {
-     "id": "4-5",
+     "id": "q4-5",
      "type": "mcq",
      "topic": "Depressive & Bipolar Disorders",
      "stem": "Which of the following is a symptom of a manic episode?",
@@ -575,7 +575,7 @@
      ]
     },
     {
-     "id": "4-6",
+     "id": "q4-6",
      "type": "mcq",
      "topic": "Depressive & Bipolar Disorders",
      "stem": "Which statement correctly compares Bipolar I and Bipolar II?",
@@ -595,17 +595,17 @@
      ]
     },
     {
-     "id": "4-7",
+     "id": "q4-7",
      "type": "mcq",
      "topic": "Depressive & Bipolar Disorders",
      "stem": "Which neurotransmitters do your slides link to both depressive and bipolar disorders?",
      "options": [
-      "Serotonin, dopamine, and norepinephrine",
       "GABA and glutamate only",
       "Acetylcholine and endorphins",
-      "Melatonin and oxytocin"
+      "Melatonin and oxytocin",
+      "Serotonin, dopamine, and norepinephrine"
      ],
-     "ans": 0,
+     "ans": 3,
      "exp": "Both slides list imbalances in serotonin, dopamine, and norepinephrine.",
      "why": [
       "",
@@ -615,17 +615,17 @@
      ]
     },
     {
-     "id": "4-8",
+     "id": "q4-8",
      "type": "mcq",
      "topic": "Depressive & Bipolar Disorders",
      "stem": "Family histories and twin studies of depression suggest that:",
      "options": [
-      "There is a genetic component",
       "Depression is caused only by stress",
+      "There is a genetic component",
       "Depression cannot run in families",
       "Twins never share disorders"
      ],
-     "ans": 0,
+     "ans": 1,
      "exp": "Your slide: family histories and twin studies indicate a genetic component.",
      "why": [
       "",
@@ -644,17 +644,17 @@
    ],
    "questions": [
     {
-     "id": "5-1",
+     "id": "q5-1",
      "type": "mcq",
      "topic": "Neurodevelopmental Disorders",
      "stem": "Which of the following best describes neurodevelopmental disorders?",
      "options": [
-      "Issues in central nervous system functioning that begin to appear in early childhood",
       "Disorders that always start in adulthood",
+      "Issues in central nervous system functioning that begin to appear in early childhood",
       "Disorders caused only by trauma",
       "Disorders involving false beliefs and perceptions"
      ],
-     "ans": 0,
+     "ans": 1,
      "exp": "They involve social, intellectual, academic, or interpersonal functioning.",
      "why": [
       "",
@@ -664,17 +664,17 @@
      ]
     },
     {
-     "id": "5-2",
+     "id": "q5-2",
      "type": "mcq",
      "topic": "Neurodevelopmental Disorders",
      "stem": "ADHD is characterized by a persistent pattern of:",
      "options": [
-      "Inattention and/or hyperactivity-impulsivity",
       "Mania and depression",
       "Obsessions and compulsions",
-      "Delusions and hallucinations"
+      "Delusions and hallucinations",
+      "Inattention and/or hyperactivity-impulsivity"
      ],
-     "ans": 0,
+     "ans": 3,
      "exp": "That pattern must interfere with functioning or development.",
      "why": [
       "",
@@ -684,17 +684,17 @@
      ]
     },
     {
-     "id": "5-3",
+     "id": "q5-3",
      "type": "mcq",
      "topic": "Neurodevelopmental Disorders",
      "stem": "Which of the following is an inattention symptom of ADHD?",
      "options": [
-      "Often loses things and is easily distracted",
       "Talks excessively",
       "Blurts out answers",
+      "Often loses things and is easily distracted",
       "Runs and climbs excessively"
      ],
-     "ans": 0,
+     "ans": 2,
      "exp": "Talking excessively and running are hyperactivity; blurting out is impulsivity.",
      "why": [
       "",
@@ -704,17 +704,17 @@
      ]
     },
     {
-     "id": "5-4",
+     "id": "q5-4",
      "type": "mcq",
      "topic": "Neurodevelopmental Disorders",
      "stem": "For an ADHD diagnosis, several symptoms must be present:",
      "options": [
-      "Before age 12 and in two or more settings",
       "Only at school",
       "After age 18",
+      "Before age 12 and in two or more settings",
       "For at least two weeks"
      ],
-     "ans": 0,
+     "ans": 2,
      "exp": "Before 12, in 2+ settings, for 6+ months.",
      "why": [
       "",
@@ -724,7 +724,7 @@
      ]
     },
     {
-     "id": "5-5",
+     "id": "q5-5",
      "type": "mcq",
      "topic": "Neurodevelopmental Disorders",
      "stem": "Why can it be difficult to diagnose ADHD in very young children?",
@@ -744,7 +744,7 @@
      ]
     },
     {
-     "id": "5-6",
+     "id": "q5-6",
      "type": "mcq",
      "topic": "Neurodevelopmental Disorders",
      "stem": "Why is autism called a \"spectrum\" disorder?",
@@ -764,17 +764,17 @@
      ]
     },
     {
-     "id": "5-7",
+     "id": "q5-7",
      "type": "mcq",
      "topic": "Neurodevelopmental Disorders",
      "stem": "ADHD and ASD both have high heritability. This means they:",
      "options": [
-      "Tend to run in families, suggesting a strong genetic component",
       "Are always caused by teratogens",
       "Can be cured with medication",
-      "Only appear after trauma"
+      "Only appear after trauma",
+      "Tend to run in families, suggesting a strong genetic component"
      ],
-     "ans": 0,
+     "ans": 3,
      "exp": "Heritability = tends to run in families.",
      "why": [
       "",
@@ -784,17 +784,17 @@
      ]
     },
     {
-     "id": "5-8",
+     "id": "q5-8",
      "type": "mcq",
      "topic": "Neurodevelopmental Disorders",
      "stem": "According to your slides, ASD is:",
      "options": [
-      "Over 3 times more common in boys than girls",
       "More common in girls",
+      "Over 3 times more common in boys than girls",
       "Equally common in boys and girls",
       "Found only in adults"
      ],
-     "ans": 0,
+     "ans": 1,
      "exp": "About 1 in 31 children aged 8; over 3 times more common in boys.",
      "why": [
       "",
@@ -813,7 +813,7 @@
    ],
    "questions": [
     {
-     "id": "6-1",
+     "id": "q6-1",
      "type": "mcq",
      "topic": "Dissociative Disorders",
      "stem": "Which of the following best describes dissociative disorders?",
@@ -833,7 +833,7 @@
      ]
     },
     {
-     "id": "6-2",
+     "id": "q6-2",
      "type": "mcq",
      "topic": "Dissociative Disorders",
      "stem": "Which of the following is a symptom of dissociative amnesia?",
@@ -853,17 +853,17 @@
      ]
     },
     {
-     "id": "6-3",
+     "id": "q6-3",
      "type": "mcq",
      "topic": "Dissociative Disorders",
      "stem": "The distinct personality states in dissociative identity disorder are called:",
      "options": [
-      "Alters",
       "Obsessions",
       "Delusions",
-      "Diatheses"
+      "Diatheses",
+      "Alters"
      ],
-     "ans": 0,
+     "ans": 3,
      "exp": "Each alter has its own identity, memories, behaviors, and perspectives.",
      "why": [
       "",
@@ -873,17 +873,17 @@
      ]
     },
     {
-     "id": "6-4",
+     "id": "q6-4",
      "type": "mcq",
      "topic": "Dissociative Disorders",
      "stem": "Which of the following is the best example of a fugue state?",
      "options": [
-      "A woman travels to another city and doesn't know who she is",
       "A man feels sad for two weeks",
+      "A woman travels to another city and doesn't know who she is",
       "A child is afraid of dogs",
       "A student can't focus in class"
      ],
-     "ans": 0,
+     "ans": 1,
      "exp": "Fugue: wandering or traveling without awareness of identity or situation.",
      "why": [
       "",
@@ -893,17 +893,17 @@
      ]
     },
     {
-     "id": "6-5",
+     "id": "q6-5",
      "type": "mcq",
      "topic": "Dissociative Disorders",
      "stem": "Which statement best distinguishes DID from schizophrenia?",
      "options": [
-      "DID involves multiple distinct identities; schizophrenia involves psychosis like delusions and hallucinations",
       "They are the same disorder",
       "Schizophrenia involves multiple personalities",
+      "DID involves multiple distinct identities; schizophrenia involves psychosis like delusions and hallucinations",
       "DID is caused by too much dopamine"
      ],
-     "ans": 0,
+     "ans": 2,
      "exp": "\"Split personality\" is DID, not schizophrenia.",
      "why": [
       "",
@@ -922,7 +922,7 @@
    ],
    "questions": [
     {
-     "id": "7-1",
+     "id": "q7-1",
      "type": "mcq",
      "topic": "Schizophrenia Spectrum",
      "stem": "To be diagnosed on the schizophrenia spectrum, a patient must have:",
@@ -942,17 +942,17 @@
      ]
     },
     {
-     "id": "7-2",
+     "id": "q7-2",
      "type": "mcq",
      "topic": "Schizophrenia Spectrum",
      "stem": "Why did the DSM-5 place schizophrenia on a spectrum?",
      "options": [
-      "People experience its symptoms in a variety of ways",
       "It only has one symptom",
+      "People experience its symptoms in a variety of ways",
       "It is the same as bipolar disorder",
       "It always has the same severity"
      ],
-     "ans": 0,
+     "ans": 1,
      "exp": "It's a spectrum of psychotic disorders.",
      "why": [
       "",
@@ -962,17 +962,17 @@
      ]
     },
     {
-     "id": "7-3",
+     "id": "q7-3",
      "type": "mcq",
      "topic": "Schizophrenia Spectrum",
      "stem": "Which of the following is a positive symptom of schizophrenia?",
      "options": [
-      "Hallucinations",
       "Flat affect",
       "Catatonic stupor",
-      "Lack of motivation"
+      "Lack of motivation",
+      "Hallucinations"
      ],
-     "ans": 0,
+     "ans": 3,
      "exp": "Positive = added. The others are negative (absent).",
      "why": [
       "",
@@ -982,7 +982,7 @@
      ]
     },
     {
-     "id": "7-4",
+     "id": "q7-4",
      "type": "mcq",
      "topic": "Schizophrenia Spectrum",
      "stem": "A patient says, \"The table sky running blue mustard because seven.\" This is an example of:",
@@ -1002,17 +1002,17 @@
      ]
     },
     {
-     "id": "7-5",
+     "id": "q7-5",
      "type": "mcq",
      "topic": "Schizophrenia Spectrum",
      "stem": "A man believes he is a famous king chosen to save the world. This is a:",
      "options": [
-      "Delusion of grandeur",
       "Delusion of persecution",
+      "Delusion of grandeur",
       "Hallucination",
       "Negative symptom"
      ],
-     "ans": 0,
+     "ans": 1,
      "exp": "Grandeur = false belief of importance.",
      "why": [
       "",
@@ -1022,17 +1022,17 @@
      ]
     },
     {
-     "id": "7-6",
+     "id": "q7-6",
      "type": "mcq",
      "topic": "Schizophrenia Spectrum",
      "stem": "According to the dopamine hypothesis, what causes the positive symptoms of schizophrenia?",
      "options": [
-      "An overproduction of dopamine",
       "Too little dopamine",
       "Too little serotonin",
+      "An overproduction of dopamine",
       "Too much GABA"
      ],
-     "ans": 0,
+     "ans": 2,
      "exp": "This is also why antipsychotics block dopamine receptors.",
      "why": [
       "",
@@ -1042,17 +1042,17 @@
      ]
     },
     {
-     "id": "7-7",
+     "id": "q7-7",
      "type": "mcq",
      "topic": "Schizophrenia Spectrum",
      "stem": "Which of the following is listed on your slides as a cause of schizophrenia?",
      "options": [
-      "Prenatal exposure to viruses like flu, herpes, or rubella",
       "Too much sleep",
       "A fear of heights",
+      "Prenatal exposure to viruses like flu, herpes, or rubella",
       "Excessive exercise"
      ],
-     "ans": 0,
+     "ans": 2,
      "exp": "Also genetics and imbalances in dopamine and glutamate.",
      "why": [
       "",
@@ -1062,17 +1062,17 @@
      ]
     },
     {
-     "id": "7-8",
+     "id": "q7-8",
      "type": "mcq",
      "topic": "Schizophrenia Spectrum",
      "stem": "The diathesis-stress model suggests that:",
      "options": [
-      "Stress can trigger a genetic or biological predisposition to mental illness",
       "Genes alone always cause mental illness",
       "Stress alone always causes mental illness",
-      "Mental illness only comes from childhood"
+      "Mental illness only comes from childhood",
+      "Stress can trigger a genetic or biological predisposition to mental illness"
      ],
-     "ans": 0,
+     "ans": 3,
      "exp": "Diathesis = predisposition; stress = the trigger.",
      "why": [
       "",
@@ -1091,17 +1091,17 @@
    ],
    "questions": [
     {
-     "id": "8-1",
+     "id": "q8-1",
      "type": "mcq",
      "topic": "OCD & Trauma Disorders",
      "stem": "In OCD, obsessions are best described as:",
      "options": [
-      "Recurrent and persistent intrusive thoughts",
       "Repetitive behaviors the person feels driven to perform",
       "False perceptions",
-      "Mood swings"
+      "Mood swings",
+      "Recurrent and persistent intrusive thoughts"
      ],
-     "ans": 0,
+     "ans": 3,
      "exp": "Obsessions = thoughts; compulsions = actions.",
      "why": [
       "",
@@ -1111,17 +1111,17 @@
      ]
     },
     {
-     "id": "8-2",
+     "id": "q8-2",
      "type": "mcq",
      "topic": "OCD & Trauma Disorders",
      "stem": "Which sequence matches the OCD cycle?",
      "options": [
-      "Obsession → distress → compulsion → relief",
       "Compulsion → obsession → relief → distress",
       "Relief → obsession → compulsion → distress",
+      "Obsession → distress → compulsion → relief",
       "Distress → relief → obsession → compulsion"
      ],
-     "ans": 0,
+     "ans": 2,
      "exp": "The relief reinforces the compulsion, and the cycle repeats.",
      "why": [
       "",
@@ -1131,7 +1131,7 @@
      ]
     },
     {
-     "id": "8-3",
+     "id": "q8-3",
      "type": "mcq",
      "topic": "OCD & Trauma Disorders",
      "stem": "How did the DSM-5 change the classification of OCD?",
@@ -1151,17 +1151,17 @@
      ]
     },
     {
-     "id": "8-4",
+     "id": "q8-4",
      "type": "mcq",
      "topic": "OCD & Trauma Disorders",
      "stem": "Which neurotransmitter is OCD linked to being too low?",
      "options": [
-      "Serotonin",
       "Dopamine",
       "Endorphins",
+      "Serotonin",
       "Melatonin"
      ],
-     "ans": 0,
+     "ans": 2,
      "exp": "Your slide: low serotonin plus imbalances in GABA and glutamate.",
      "why": [
       "",
@@ -1171,17 +1171,17 @@
      ]
     },
     {
-     "id": "8-5",
+     "id": "q8-5",
      "type": "mcq",
      "topic": "OCD & Trauma Disorders",
      "stem": "Which of the following is one of the DSM-5 criteria for hoarding disorder?",
      "options": [
-      "Persistent difficulty discarding possessions regardless of their actual value",
       "Fear of germs",
+      "Persistent difficulty discarding possessions regardless of their actual value",
       "Hearing voices",
       "Binge eating"
      ],
-     "ans": 0,
+     "ans": 1,
      "exp": "Plus distress at discarding and clutter that compromises living areas.",
      "why": [
       "",
@@ -1191,7 +1191,7 @@
      ]
     },
     {
-     "id": "8-6",
+     "id": "q8-6",
      "type": "mcq",
      "topic": "OCD & Trauma Disorders",
      "stem": "PTSD, acute stress disorder, and adjustment disorders have similar symptoms but differ in:",
@@ -1211,17 +1211,17 @@
      ]
     },
     {
-     "id": "8-7",
+     "id": "q8-7",
      "type": "mcq",
      "topic": "OCD & Trauma Disorders",
      "stem": "Which of the following is a symptom of PTSD?",
      "options": [
-      "Hypervigilance, or always being on guard",
       "Grandiosity",
+      "Hypervigilance, or always being on guard",
       "Word salad",
       "Loss of autobiographical memory only"
      ],
-     "ans": 0,
+     "ans": 1,
      "exp": "Also intrusive thoughts, nightmares, flashbacks, anxiety, depression, and sleep problems.",
      "why": [
       "",
@@ -1240,17 +1240,17 @@
    ],
    "questions": [
     {
-     "id": "9-1",
+     "id": "q9-1",
      "type": "mcq",
      "topic": "Feeding & Eating Disorders",
      "stem": "Which of the following is a primary symptom of anorexia nervosa?",
      "options": [
-      "Intense fear of gaining weight even though underweight",
       "Eating large amounts in two hours",
       "Hearing voices",
-      "Fear of open spaces"
+      "Fear of open spaces",
+      "Intense fear of gaining weight even though underweight"
      ],
-     "ans": 0,
+     "ans": 3,
      "exp": "Anorexia also includes refusing to maintain a minimally normal weight.",
      "why": [
       "",
@@ -1260,17 +1260,17 @@
      ]
     },
     {
-     "id": "9-2",
+     "id": "q9-2",
      "type": "mcq",
      "topic": "Feeding & Eating Disorders",
      "stem": "Which of the following best describes bulimia nervosa?",
      "options": [
-      "Recurrent binge eating plus behaviors to prevent weight gain, like vomiting or laxatives",
       "Refusing to eat and becoming severely underweight",
+      "Recurrent binge eating plus behaviors to prevent weight gain, like vomiting or laxatives",
       "Eating non-food items",
       "Avoiding food because of disgust"
      ],
-     "ans": 0,
+     "ans": 1,
      "exp": "Binge + trying to prevent weight gain.",
      "why": [
       "",
@@ -1280,7 +1280,7 @@
      ]
     },
     {
-     "id": "9-3",
+     "id": "q9-3",
      "type": "mcq",
      "topic": "Feeding & Eating Disorders",
      "stem": "Why can bulimia nervosa be hard to spot?",
@@ -1300,17 +1300,17 @@
      ]
     },
     {
-     "id": "9-4",
+     "id": "q9-4",
      "type": "mcq",
      "topic": "Feeding & Eating Disorders",
      "stem": "Which of the following is a cognitive cause of eating disorders?",
      "options": [
-      "Dysfunctional attitudes about physical appearance and perfectionism",
       "Family history",
       "Imbalances in brain chemistry",
+      "Dysfunctional attitudes about physical appearance and perfectionism",
       "Weight-related bullying"
      ],
-     "ans": 0,
+     "ans": 2,
      "exp": "Family history is genetic; brain chemistry is biological; bullying is social.",
      "why": [
       "",
@@ -1320,7 +1320,7 @@
      ]
     },
     {
-     "id": "9-5",
+     "id": "q9-5",
      "type": "mcq",
      "topic": "Feeding & Eating Disorders",
      "stem": "Which of the following is a long-term risk of eating disorders, according to your slides?",
@@ -1349,17 +1349,17 @@
    ],
    "questions": [
     {
-     "id": "10-1",
+     "id": "q10-1",
      "type": "mcq",
      "topic": "Personality Disorders",
      "stem": "Which of the following best describes personality disorders?",
      "options": [
-      "Enduring, inflexible patterns of experience and behavior that deviate from one's culture and begin in adolescence or early adulthood",
       "Brief reactions to a stressful event",
+      "Enduring, inflexible patterns of experience and behavior that deviate from one's culture and begin in adolescence or early adulthood",
       "Disorders that always begin in early childhood",
       "Disorders caused only by trauma"
      ],
-     "ans": 0,
+     "ans": 1,
      "exp": "They're stable over time and must interfere with daily living.",
      "why": [
       "",
@@ -1369,17 +1369,17 @@
      ]
     },
     {
-     "id": "10-2",
+     "id": "q10-2",
      "type": "mcq",
      "topic": "Personality Disorders",
      "stem": "Which cluster is described as dramatic, emotional, and erratic?",
      "options": [
-      "Cluster B",
       "Cluster A",
       "Cluster C",
-      "Cluster D"
+      "Cluster D",
+      "Cluster B"
      ],
-     "ans": 0,
+     "ans": 3,
      "exp": "Cluster B: antisocial, histrionic, narcissistic, borderline.",
      "why": [
       "",
@@ -1389,17 +1389,17 @@
      ]
     },
     {
-     "id": "10-3",
+     "id": "q10-3",
      "type": "mcq",
      "topic": "Personality Disorders",
      "stem": "Which personality disorder belongs in Cluster C?",
      "options": [
-      "Avoidant",
       "Schizoid",
+      "Avoidant",
       "Narcissistic",
       "Antisocial"
      ],
-     "ans": 0,
+     "ans": 1,
      "exp": "Cluster C: avoidant, dependent, obsessive-compulsive.",
      "why": [
       "",
@@ -1409,17 +1409,17 @@
      ]
     },
     {
-     "id": "10-4",
+     "id": "q10-4",
      "type": "mcq",
      "topic": "Personality Disorders",
      "stem": "A woman constantly needs to be the center of attention and makes dramatic, theatrical displays to get it. Which disorder fits best?",
      "options": [
-      "Histrionic",
       "Avoidant",
       "Schizoid",
+      "Histrionic",
       "Obsessive-compulsive"
      ],
-     "ans": 0,
+     "ans": 2,
      "exp": "Histrionic = excessive emotionality and attention-seeking.",
      "why": [
       "",
@@ -1429,7 +1429,7 @@
      ]
     },
     {
-     "id": "10-5",
+     "id": "q10-5",
      "type": "mcq",
      "topic": "Personality Disorders",
      "stem": "A man has an intense fear of rejection and avoids relationships, even though he wants friends. Which disorder fits best?",
@@ -1449,7 +1449,7 @@
      ]
     },
     {
-     "id": "10-6",
+     "id": "q10-6",
      "type": "mcq",
      "topic": "Personality Disorders",
      "stem": "Which disorder involves instability in mood, self-image, and relationships, with intense emotions and impulsivity?",
@@ -1469,17 +1469,17 @@
      ]
     },
     {
-     "id": "10-7",
+     "id": "q10-7",
      "type": "mcq",
      "topic": "Personality Disorders",
      "stem": "A woman believes in magic, dresses very oddly, and is suspicious of others. Which disorder fits best?",
      "options": [
-      "Schizotypal",
       "Schizoid",
       "Dependent",
-      "Antisocial"
+      "Antisocial",
+      "Schizotypal"
      ],
-     "ans": 0,
+     "ans": 3,
      "exp": "Schizotypal: odd behavior and appearance, magical thinking.",
      "why": [
       "",
@@ -1489,17 +1489,17 @@
      ]
     },
     {
-     "id": "10-8",
+     "id": "q10-8",
      "type": "mcq",
      "topic": "Personality Disorders",
      "stem": "A manager refuses to let anyone else do tasks because \"they won't do it right,\" and is rigid about rules and order. Which disorder fits best?",
      "options": [
-      "Obsessive-compulsive personality disorder",
       "Paranoid personality disorder",
       "Histrionic personality disorder",
+      "Obsessive-compulsive personality disorder",
       "Avoidant personality disorder"
      ],
-     "ans": 0,
+     "ans": 2,
      "exp": "OCPD: perfectionism, rigidity, control, can't delegate.",
      "why": [
       "",
@@ -1509,7 +1509,7 @@
      ]
     },
     {
-     "id": "10-9",
+     "id": "q10-9",
      "type": "mcq",
      "topic": "Personality Disorders",
      "stem": "Which of the following is listed as an environmental cause of personality disorders?",
@@ -1538,17 +1538,17 @@
    ],
    "questions": [
     {
-     "id": "11-1",
+     "id": "q11-1",
      "type": "mcq",
      "topic": "Treatment",
      "stem": "Which of the following best describes deinstitutionalization?",
      "options": [
-      "The late 20th-century movement to close asylums and treat patients with medication and therapy as outpatients",
       "Using lobotomies in the 1930s and 1940s",
       "Sending patients to asylums",
-      "Banning all medications"
+      "Banning all medications",
+      "The late 20th-century movement to close asylums and treat patients with medication and therapy as outpatients"
      ],
-     "ans": 0,
+     "ans": 3,
      "exp": "New medications made outpatient treatment possible.",
      "why": [
       "",
@@ -1558,7 +1558,7 @@
      ]
     },
     {
-     "id": "11-2",
+     "id": "q11-2",
      "type": "mcq",
      "topic": "Treatment",
      "stem": "Who can prescribe psychotropic medications?",
@@ -1578,17 +1578,17 @@
      ]
     },
     {
-     "id": "11-3",
+     "id": "q11-3",
      "type": "mcq",
      "topic": "Treatment",
      "stem": "A therapist combines cognitive techniques with medication and group work to fit one client's needs. This is:",
      "options": [
-      "An eclectic approach",
       "Free association",
+      "An eclectic approach",
       "Deinstitutionalization",
       "A token economy"
      ],
-     "ans": 0,
+     "ans": 1,
      "exp": "Eclectic = combining methods from different approaches.",
      "why": [
       "",
@@ -1598,17 +1598,17 @@
      ]
     },
     {
-     "id": "11-4",
+     "id": "q11-4",
      "type": "mcq",
      "topic": "Treatment",
      "stem": "Which statement about psychotropic medications is correct?",
      "options": [
-      "They treat symptoms, not the underlying cause of the disorder",
       "They cure psychological disorders",
+      "They treat symptoms, not the underlying cause of the disorder",
       "They are never used with psychotherapy",
       "They only affect hormones"
      ],
-     "ans": 0,
+     "ans": 1,
      "exp": "Your slide: they treat symptoms by interacting with neurotransmitters.",
      "why": [
       "",
@@ -1618,17 +1618,17 @@
      ]
     },
     {
-     "id": "11-5",
+     "id": "q11-5",
      "type": "mcq",
      "topic": "Treatment",
      "stem": "Anti-anxiety medications like Xanax and Valium work by:",
      "options": [
-      "Increasing the effects of GABA",
       "Blocking dopamine receptors",
       "Blocking serotonin reuptake",
+      "Increasing the effects of GABA",
       "Stabilizing mood with lithium"
      ],
-     "ans": 0,
+     "ans": 2,
      "exp": "They're benzodiazepines that depress the CNS.",
      "why": [
       "",
@@ -1638,17 +1638,17 @@
      ]
     },
     {
-     "id": "11-6",
+     "id": "q11-6",
      "type": "mcq",
      "topic": "Treatment",
      "stem": "A patient taking an antipsychotic develops repetitive, involuntary movements. This side effect is:",
      "options": [
-      "Tardive dyskinesia",
       "Catatonic stupor",
       "Tolerance",
-      "Hypomania"
+      "Hypomania",
+      "Tardive dyskinesia"
      ],
-     "ans": 0,
+     "ans": 3,
      "exp": "Tardive dyskinesia is a medication-induced movement disorder.",
      "why": [
       "",
@@ -1658,17 +1658,17 @@
      ]
     },
     {
-     "id": "11-7",
+     "id": "q11-7",
      "type": "mcq",
      "topic": "Treatment",
      "stem": "Which treatment uses magnetic pulses to treat chronic depression with no seizures and no memory loss?",
      "options": [
-      "rTMS",
       "ECT",
       "Lobotomy",
+      "rTMS",
       "Lithium"
      ],
-     "ans": 0,
+     "ans": 2,
      "exp": "ECT causes a seizure and can cause memory loss.",
      "why": [
       "",
@@ -1678,17 +1678,17 @@
      ]
     },
     {
-     "id": "11-8",
+     "id": "q11-8",
      "type": "mcq",
      "topic": "Treatment",
      "stem": "Which is a drawback of electroconvulsive therapy (ECT)?",
      "options": [
-      "Memory loss and a 40% relapse rate within 6 months",
       "It requires surgery on the frontal lobe",
       "It increases suicide risk",
+      "Memory loss and a 40% relapse rate within 6 months",
       "It only works on anxiety"
      ],
-     "ans": 0,
+     "ans": 2,
      "exp": "ECT is used for extreme depression and reduces suicide risk, but no one knows why it works.",
      "why": [
       "",
@@ -1698,7 +1698,7 @@
      ]
     },
     {
-     "id": "11-9",
+     "id": "q11-9",
      "type": "mcq",
      "topic": "Treatment",
      "stem": "The cardinal rule of psychotherapy is that a therapist must keep information confidential unless:",
@@ -1718,17 +1718,17 @@
      ]
     },
     {
-     "id": "11-10",
+     "id": "q11-10",
      "type": "mcq",
      "topic": "Treatment",
      "stem": "What did Hans Eysenck's 1950s study conclude?",
      "options": [
-      "Psychotherapy, especially psychoanalysis, was no more effective than no treatment",
       "Psychotherapy cures all disorders",
+      "Psychotherapy, especially psychoanalysis, was no more effective than no treatment",
       "Medication never works",
       "Group therapy is better than individual therapy"
      ],
-     "ans": 0,
+     "ans": 1,
      "exp": "Today, meta-analysis shows psychotherapy is effective, especially with medication.",
      "why": [
       "",
@@ -1738,7 +1738,7 @@
      ]
     },
     {
-     "id": "11-11",
+     "id": "q11-11",
      "type": "mcq",
      "topic": "Treatment",
      "stem": "Which ethical guideline means \"do no harm\" and weighing benefits against risks?",
@@ -1758,7 +1758,7 @@
      ]
     },
     {
-     "id": "11-12",
+     "id": "q11-12",
      "type": "mcq",
      "topic": "Treatment",
      "stem": "During free association, a patient suddenly goes blank and can't remember details. A psychodynamic therapist would call this:",
@@ -1778,17 +1778,17 @@
      ]
     },
     {
-     "id": "11-13",
+     "id": "q11-13",
      "type": "mcq",
      "topic": "Treatment",
      "stem": "What does research show about hypnosis?",
      "options": [
-      "It is NOT a valid way to retrieve memories, but it is used today for pain and anxiety",
       "It reliably recovers repressed memories",
       "It is the main treatment for schizophrenia",
-      "It was invented by Carl Rogers"
+      "It was invented by Carl Rogers",
+      "It is NOT a valid way to retrieve memories, but it is used today for pain and anxiety"
      ],
-     "ans": 0,
+     "ans": 3,
      "exp": "Freud used it; research shows it doesn't retrieve memories accurately.",
      "why": [
       "",
@@ -1798,17 +1798,17 @@
      ]
     },
     {
-     "id": "11-14",
+     "id": "q11-14",
      "type": "mcq",
      "topic": "Treatment",
      "stem": "A therapist shows a caring, accepting, nonjudgmental attitude toward a client no matter what the client says. This is:",
      "options": [
-      "Unconditional positive regard",
       "Cognitive restructuring",
+      "Unconditional positive regard",
       "Aversion therapy",
       "Socratic questioning"
      ],
-     "ans": 0,
+     "ans": 1,
      "exp": "A key part of Carl Rogers' person-centered therapy.",
      "why": [
       "",
@@ -1818,17 +1818,17 @@
      ]
     },
     {
-     "id": "11-15",
+     "id": "q11-15",
      "type": "mcq",
      "topic": "Treatment",
      "stem": "Aaron Beck's negative cognitive triad involves negative thoughts about:",
      "options": [
-      "Yourself, the world, and the future",
       "Your parents, friends, and teachers",
       "The past, present, and future",
-      "Your body, mind, and spirit"
+      "Your body, mind, and spirit",
+      "Yourself, the world, and the future"
      ],
-     "ans": 0,
+     "ans": 3,
      "exp": "\"I'm worthless,\" \"No one cares,\" \"Things will never get better.\"",
      "why": [
       "",
@@ -1838,7 +1838,7 @@
      ]
     },
     {
-     "id": "11-16",
+     "id": "q11-16",
      "type": "mcq",
      "topic": "Treatment",
      "stem": "A therapist helps a client with a fear of spiders rank situations from least to most scary while learning relaxation techniques. This is:",
@@ -1858,17 +1858,17 @@
      ]
     },
     {
-     "id": "11-17",
+     "id": "q11-17",
      "type": "mcq",
      "topic": "Treatment",
      "stem": "Which therapy is described as the opposite of systematic desensitization?",
      "options": [
-      "Aversion therapy",
       "Exposure therapy",
       "Biofeedback",
+      "Aversion therapy",
       "Person-centered therapy"
      ],
-     "ans": 0,
+     "ans": 2,
      "exp": "Aversion therapy pairs an unpleasant state with an unwanted behavior.",
      "why": [
       "",
@@ -1878,17 +1878,17 @@
      ]
     },
     {
-     "id": "11-18",
+     "id": "q11-18",
      "type": "mcq",
      "topic": "Treatment",
      "stem": "A patient watches a screen showing her heart rate and learns to slow it down. This is:",
      "options": [
-      "Biofeedback",
       "A token economy",
+      "Biofeedback",
       "Free association",
       "Dream interpretation"
      ],
-     "ans": 0,
+     "ans": 1,
      "exp": "Biofeedback: monitoring, feedback, learning.",
      "why": [
       "",
@@ -1898,17 +1898,17 @@
      ]
     },
     {
-     "id": "11-19",
+     "id": "q11-19",
      "type": "mcq",
      "topic": "Treatment",
      "stem": "Dialectical behavior therapy (DBT) was originally developed to treat:",
      "options": [
-      "Borderline personality disorder",
       "Schizophrenia",
       "ADHD",
+      "Borderline personality disorder",
       "Hoarding disorder"
      ],
-     "ans": 0,
+     "ans": 2,
      "exp": "Its skills: mindfulness, distress tolerance, emotion regulation, interpersonal effectiveness.",
      "why": [
       "",
@@ -1918,17 +1918,17 @@
      ]
     },
     {
-     "id": "11-20",
+     "id": "q11-20",
      "type": "mcq",
      "topic": "Treatment",
      "stem": "Which of the following is an advantage of group therapy over individual therapy?",
      "options": [
-      "It's cheaper and shows people they aren't the only ones with the problem",
       "It's more personalized",
       "It has more flexible scheduling",
-      "It's better for every disorder"
+      "It's better for every disorder",
+      "It's cheaper and shows people they aren't the only ones with the problem"
      ],
-     "ans": 0,
+     "ans": 3,
      "exp": "Individual therapy is more personalized and flexible but expensive.",
      "why": [
       "",
@@ -1952,17 +1952,17 @@
    ],
    "questions": [
     {
-     "id": "M1",
+     "id": "qM1",
      "type": "mcq",
      "topic": "Health Psychology",
      "stem": "Which of the following best describes what happens when stress activates the sympathetic nervous system?",
      "options": [
-      "Hormones like cortisol are released, which can lead to hypertension, headaches, and immunosuppression.",
       "The parasympathetic system shuts down permanently.",
+      "Hormones like cortisol are released, which can lead to hypertension, headaches, and immunosuppression.",
       "Leptin levels rise and hunger disappears.",
       "The body immediately returns to baseline."
      ],
-     "ans": 0,
+     "ans": 1,
      "exp": "Stress → sympathetic nervous system → cortisol → hypertension, headaches, immunosuppression.",
      "why": [
       "",
@@ -1972,17 +1972,17 @@
      ]
     },
     {
-     "id": "M2",
+     "id": "qM2",
      "type": "mcq",
      "topic": "Health Psychology",
      "stem": "Which of the following is the best example of eustress?",
      "options": [
-      "Preparing for a wedding you're excited about",
       "Being stuck in traffic every day",
+      "Preparing for a wedding you're excited about",
       "Going through a divorce",
       "Living through a natural disaster"
      ],
-     "ans": 0,
+     "ans": 1,
      "exp": "Eustress = challenging but manageable \"good\" stress. The others are distress.",
      "why": [
       "",
@@ -1992,17 +1992,17 @@
      ]
     },
     {
-     "id": "M3",
+     "id": "qM3",
      "type": "mcq",
      "topic": "Health Psychology",
      "stem": "A dead phone, no Wi-Fi, and a deadline in the same afternoon are examples of:",
      "options": [
-      "Daily hassles",
       "Catastrophes",
       "Significant life changes",
-      "Eustress"
+      "Eustress",
+      "Daily hassles"
      ],
-     "ans": 0,
+     "ans": 3,
      "exp": "Daily hassles are everyday distress.",
      "why": [
       "",
@@ -2012,7 +2012,7 @@
      ]
     },
     {
-     "id": "M4",
+     "id": "qM4",
      "type": "mcq",
      "topic": "Intro to Psychological Disorders",
      "stem": "According to your slides, professionals label thoughts, feelings, and behaviors as a disorder when they are:",
@@ -2032,17 +2032,17 @@
      ]
     },
     {
-     "id": "M5",
+     "id": "qM5",
      "type": "mcq",
      "topic": "Intro to Psychological Disorders",
      "stem": "A man believes that wearing his lucky socks helps his team win, but he functions well and isn't bothered by it. Why is this NOT considered a disorder?",
      "options": [
-      "It isn't dysfunctional or distressing",
       "It isn't a real belief",
       "Only women can have disorders",
-      "It isn't in the DSM-5"
+      "It isn't in the DSM-5",
+      "It isn't dysfunctional or distressing"
      ],
-     "ans": 0,
+     "ans": 3,
      "exp": "A disorder needs all 3 Ds, not just being unusual.",
      "why": [
       "",
@@ -2052,17 +2052,17 @@
      ]
     },
     {
-     "id": "M6",
+     "id": "qM6",
      "type": "mcq",
      "topic": "Intro to Psychological Disorders",
      "stem": "Which approach explains disorders through chemical imbalances, genetics, tumors, or brain structure?",
      "options": [
-      "Biological",
       "Psychodynamic",
       "Humanistic",
+      "Biological",
       "Sociocultural"
      ],
-     "ans": 0,
+     "ans": 2,
      "exp": "Biological = medical/genetic issues and neurotransmitters/hormones.",
      "why": [
       "",
@@ -2072,17 +2072,17 @@
      ]
     },
     {
-     "id": "M7",
+     "id": "qM7",
      "type": "mcq",
      "topic": "Anxiety Disorders",
      "stem": "Which of the following best describes anxiety disorders?",
      "options": [
-      "Persistent, excessive worry and fear that significantly interfere with daily life",
       "Brief nervousness before a test",
+      "Persistent, excessive worry and fear that significantly interfere with daily life",
       "Extreme mood swings between mania and depression",
       "A loss of connection between thoughts and identity"
      ],
-     "ans": 0,
+     "ans": 1,
      "exp": "That's the slide's definition; GAD, panic disorder, and phobias are examples.",
      "why": [
       "",
@@ -2092,7 +2092,7 @@
      ]
     },
     {
-     "id": "M8",
+     "id": "qM8",
      "type": "mcq",
      "topic": "Anxiety Disorders",
      "stem": "Which of the following best describes a specific phobia?",
@@ -2112,17 +2112,17 @@
      ]
     },
     {
-     "id": "M9",
+     "id": "qM9",
      "type": "mcq",
      "topic": "Anxiety Disorders",
      "stem": "Which disorder is described as \"nonspecific worry and fear\" lasting at least 6 months?",
      "options": [
-      "Generalized anxiety disorder",
       "Specific phobia",
       "Panic disorder",
+      "Generalized anxiety disorder",
       "Agoraphobia"
      ],
-     "ans": 0,
+     "ans": 2,
      "exp": "GAD worry isn't tied to one specific thing.",
      "why": [
       "",
@@ -2132,7 +2132,7 @@
      ]
     },
     {
-     "id": "M10",
+     "id": "qM10",
      "type": "mcq",
      "topic": "Depressive & Bipolar Disorders",
      "stem": "Which of the following best describes depressive disorders?",
@@ -2152,7 +2152,7 @@
      ]
     },
     {
-     "id": "M11",
+     "id": "qM11",
      "type": "mcq",
      "topic": "Depressive & Bipolar Disorders",
      "stem": "What is the key time difference between major depressive disorder and persistent depressive disorder?",
@@ -2172,17 +2172,17 @@
      ]
     },
     {
-     "id": "M12",
+     "id": "qM12",
      "type": "mcq",
      "topic": "Depressive & Bipolar Disorders",
      "stem": "Changes in sleep in major depressive disorder can include:",
      "options": [
-      "Insomnia or hypersomnia",
       "Only sleepwalking",
+      "Insomnia or hypersomnia",
       "Only narcolepsy",
       "No changes in sleep"
      ],
-     "ans": 0,
+     "ans": 1,
      "exp": "Your slide: changes in sleep (insomnia or hypersomnia).",
      "why": [
       "",
@@ -2192,17 +2192,17 @@
      ]
     },
     {
-     "id": "M13",
+     "id": "qM13",
      "type": "mcq",
      "topic": "Neurodevelopmental Disorders",
      "stem": "Which of the following best describes neurodevelopmental disorders?",
      "options": [
-      "Issues in central nervous system functioning that begin to appear in early childhood",
       "Disorders that always start in adulthood",
       "Disorders caused only by trauma",
+      "Issues in central nervous system functioning that begin to appear in early childhood",
       "Disorders involving false beliefs and perceptions"
      ],
-     "ans": 0,
+     "ans": 2,
      "exp": "They involve social, intellectual, academic, or interpersonal functioning.",
      "why": [
       "",
@@ -2212,17 +2212,17 @@
      ]
     },
     {
-     "id": "M14",
+     "id": "qM14",
      "type": "mcq",
      "topic": "Neurodevelopmental Disorders",
      "stem": "ADHD is characterized by a persistent pattern of:",
      "options": [
-      "Inattention and/or hyperactivity-impulsivity",
       "Mania and depression",
       "Obsessions and compulsions",
+      "Inattention and/or hyperactivity-impulsivity",
       "Delusions and hallucinations"
      ],
-     "ans": 0,
+     "ans": 2,
      "exp": "That pattern must interfere with functioning or development.",
      "why": [
       "",
@@ -2232,17 +2232,17 @@
      ]
     },
     {
-     "id": "M15",
+     "id": "qM15",
      "type": "mcq",
      "topic": "Neurodevelopmental Disorders",
      "stem": "Which of the following is an inattention symptom of ADHD?",
      "options": [
-      "Often loses things and is easily distracted",
       "Talks excessively",
       "Blurts out answers",
+      "Often loses things and is easily distracted",
       "Runs and climbs excessively"
      ],
-     "ans": 0,
+     "ans": 2,
      "exp": "Talking excessively and running are hyperactivity; blurting out is impulsivity.",
      "why": [
       "",
@@ -2252,17 +2252,17 @@
      ]
     },
     {
-     "id": "M16",
+     "id": "qM16",
      "type": "mcq",
      "topic": "Dissociative Disorders",
      "stem": "Which of the following best describes dissociative disorders?",
      "options": [
-      "A loss of connection between thoughts, memories, feelings, surroundings, behavior, and identity",
       "Hearing voices that aren't there",
+      "A loss of connection between thoughts, memories, feelings, surroundings, behavior, and identity",
       "Extreme highs and lows in mood",
       "Fear of open spaces"
      ],
-     "ans": 0,
+     "ans": 1,
      "exp": "They involve escaping from reality in unhealthy ways.",
      "why": [
       "",
@@ -2272,7 +2272,7 @@
      ]
     },
     {
-     "id": "M17",
+     "id": "qM17",
      "type": "mcq",
      "topic": "Dissociative Disorders",
      "stem": "Which of the following is a symptom of dissociative amnesia?",
@@ -2292,17 +2292,17 @@
      ]
     },
     {
-     "id": "M18",
+     "id": "qM18",
      "type": "mcq",
      "topic": "Dissociative Disorders",
      "stem": "The distinct personality states in dissociative identity disorder are called:",
      "options": [
-      "Alters",
       "Obsessions",
+      "Alters",
       "Delusions",
       "Diatheses"
      ],
-     "ans": 0,
+     "ans": 1,
      "exp": "Each alter has its own identity, memories, behaviors, and perspectives.",
      "why": [
       "",
@@ -2312,17 +2312,17 @@
      ]
     },
     {
-     "id": "M19",
+     "id": "qM19",
      "type": "mcq",
      "topic": "Schizophrenia Spectrum",
      "stem": "To be diagnosed on the schizophrenia spectrum, a patient must have:",
      "options": [
-      "At least 2 symptoms for at least 6 months",
       "One symptom for 2 weeks",
+      "At least 2 symptoms for at least 6 months",
       "Only negative symptoms for 1 month",
       "Symptoms before age 12"
      ],
-     "ans": 0,
+     "ans": 1,
      "exp": "Your slide: at least 2 symptoms (positive and negative) for at least 6 months.",
      "why": [
       "",
@@ -2332,17 +2332,17 @@
      ]
     },
     {
-     "id": "M20",
+     "id": "qM20",
      "type": "mcq",
      "topic": "Schizophrenia Spectrum",
      "stem": "Why did the DSM-5 place schizophrenia on a spectrum?",
      "options": [
-      "People experience its symptoms in a variety of ways",
       "It only has one symptom",
       "It is the same as bipolar disorder",
-      "It always has the same severity"
+      "It always has the same severity",
+      "People experience its symptoms in a variety of ways"
      ],
-     "ans": 0,
+     "ans": 3,
      "exp": "It's a spectrum of psychotic disorders.",
      "why": [
       "",
@@ -2352,7 +2352,7 @@
      ]
     },
     {
-     "id": "M21",
+     "id": "qM21",
      "type": "mcq",
      "topic": "Schizophrenia Spectrum",
      "stem": "Which of the following is a positive symptom of schizophrenia?",
@@ -2372,17 +2372,17 @@
      ]
     },
     {
-     "id": "M22",
+     "id": "qM22",
      "type": "mcq",
      "topic": "OCD & Trauma Disorders",
      "stem": "In OCD, obsessions are best described as:",
      "options": [
-      "Recurrent and persistent intrusive thoughts",
       "Repetitive behaviors the person feels driven to perform",
       "False perceptions",
-      "Mood swings"
+      "Mood swings",
+      "Recurrent and persistent intrusive thoughts"
      ],
-     "ans": 0,
+     "ans": 3,
      "exp": "Obsessions = thoughts; compulsions = actions.",
      "why": [
       "",
@@ -2392,17 +2392,17 @@
      ]
     },
     {
-     "id": "M23",
+     "id": "qM23",
      "type": "mcq",
      "topic": "OCD & Trauma Disorders",
      "stem": "Which sequence matches the OCD cycle?",
      "options": [
-      "Obsession → distress → compulsion → relief",
       "Compulsion → obsession → relief → distress",
+      "Obsession → distress → compulsion → relief",
       "Relief → obsession → compulsion → distress",
       "Distress → relief → obsession → compulsion"
      ],
-     "ans": 0,
+     "ans": 1,
      "exp": "The relief reinforces the compulsion, and the cycle repeats.",
      "why": [
       "",
@@ -2412,17 +2412,17 @@
      ]
     },
     {
-     "id": "M24",
+     "id": "qM24",
      "type": "mcq",
      "topic": "OCD & Trauma Disorders",
      "stem": "How did the DSM-5 change the classification of OCD?",
      "options": [
-      "It moved OCD and related disorders out of anxiety disorders into their own category",
       "It removed OCD from the DSM",
       "It made OCD a personality disorder",
+      "It moved OCD and related disorders out of anxiety disorders into their own category",
       "It combined OCD with schizophrenia"
      ],
-     "ans": 0,
+     "ans": 2,
      "exp": "This showed they are distinct from anxiety disorders.",
      "why": [
       "",
@@ -2432,17 +2432,17 @@
      ]
     },
     {
-     "id": "M25",
+     "id": "qM25",
      "type": "mcq",
      "topic": "Feeding & Eating Disorders",
      "stem": "Which of the following is a primary symptom of anorexia nervosa?",
      "options": [
-      "Intense fear of gaining weight even though underweight",
       "Eating large amounts in two hours",
       "Hearing voices",
-      "Fear of open spaces"
+      "Fear of open spaces",
+      "Intense fear of gaining weight even though underweight"
      ],
-     "ans": 0,
+     "ans": 3,
      "exp": "Anorexia also includes refusing to maintain a minimally normal weight.",
      "why": [
       "",
@@ -2452,17 +2452,17 @@
      ]
     },
     {
-     "id": "M26",
+     "id": "qM26",
      "type": "mcq",
      "topic": "Feeding & Eating Disorders",
      "stem": "Which of the following best describes bulimia nervosa?",
      "options": [
-      "Recurrent binge eating plus behaviors to prevent weight gain, like vomiting or laxatives",
       "Refusing to eat and becoming severely underweight",
       "Eating non-food items",
-      "Avoiding food because of disgust"
+      "Avoiding food because of disgust",
+      "Recurrent binge eating plus behaviors to prevent weight gain, like vomiting or laxatives"
      ],
-     "ans": 0,
+     "ans": 3,
      "exp": "Binge + trying to prevent weight gain.",
      "why": [
       "",
@@ -2472,7 +2472,7 @@
      ]
     },
     {
-     "id": "M27",
+     "id": "qM27",
      "type": "mcq",
      "topic": "Feeding & Eating Disorders",
      "stem": "Why can bulimia nervosa be hard to spot?",
@@ -2492,17 +2492,17 @@
      ]
     },
     {
-     "id": "M28",
+     "id": "qM28",
      "type": "mcq",
      "topic": "Personality Disorders",
      "stem": "Which of the following best describes personality disorders?",
      "options": [
-      "Enduring, inflexible patterns of experience and behavior that deviate from one's culture and begin in adolescence or early adulthood",
       "Brief reactions to a stressful event",
       "Disorders that always begin in early childhood",
+      "Enduring, inflexible patterns of experience and behavior that deviate from one's culture and begin in adolescence or early adulthood",
       "Disorders caused only by trauma"
      ],
-     "ans": 0,
+     "ans": 2,
      "exp": "They're stable over time and must interfere with daily living.",
      "why": [
       "",
@@ -2512,17 +2512,17 @@
      ]
     },
     {
-     "id": "M29",
+     "id": "qM29",
      "type": "mcq",
      "topic": "Personality Disorders",
      "stem": "Which cluster is described as dramatic, emotional, and erratic?",
      "options": [
-      "Cluster B",
       "Cluster A",
       "Cluster C",
-      "Cluster D"
+      "Cluster D",
+      "Cluster B"
      ],
-     "ans": 0,
+     "ans": 3,
      "exp": "Cluster B: antisocial, histrionic, narcissistic, borderline.",
      "why": [
       "",
@@ -2532,7 +2532,7 @@
      ]
     },
     {
-     "id": "M30",
+     "id": "qM30",
      "type": "mcq",
      "topic": "Personality Disorders",
      "stem": "Which personality disorder belongs in Cluster C?",
