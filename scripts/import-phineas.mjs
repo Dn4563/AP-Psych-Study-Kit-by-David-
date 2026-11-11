@@ -151,6 +151,8 @@ UNITS.forEach((U, ui) => {
       tips: ["A mix of exam-style questions from every deck in this unit."],
       questions: toSet(mock.slice(0, 30), (i) => "qM" + (i + 1), ours.id + ":mock"),
     });
+  // Our own extra sets (written by scripts/asks-src/practice_extra.py) are kept across re-imports.
+  if (existsSync(dir + "practice-extra.json")) JSON.parse(readFileSync(dir + "practice-extra.json", "utf8")).sections.forEach((s) => sections.push(s));
   writeFileSync(dir + "practice.json", JSON.stringify({ sections }, null, 1) + "\n");
 
   // guide.json: his chains and tables.

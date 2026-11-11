@@ -2769,6 +2769,44 @@
     ]
    ],
    "exp": "Enduring, pervasive, inflexible patterns that cause distress."
+  },
+  {
+   "q": "Jordan has been rigid and suspicious since his teens, in every setting, and it costs him jobs and friendships. Which feature makes this a personality disorder rather than a bad phase?",
+   "right": "It's enduring, pervasive and inflexible",
+   "wrong": [
+    [
+     "It started only after a single stressful week at work last month",
+     "Personality disorders are enduring patterns, not brief reactions."
+    ],
+    [
+     "It causes hallucinations",
+     "Personality disorders don't involve psychosis."
+    ],
+    [
+     "It began in early childhood",
+     "They begin in adolescence or early adulthood."
+    ]
+   ],
+   "exp": "Enduring, pervasive, inflexible, stable over time, and it interferes with functioning."
+  },
+  {
+   "q": "A teacher calls a student \"a narcissist\" after one bragging moment. Why might a psychologist disagree that this is a disorder?",
+   "right": "One moment isn't a lasting, pervasive pattern",
+   "wrong": [
+    [
+     "Personality disorders can only be diagnosed in children under the age of 12",
+     "They begin in adolescence or early adulthood."
+    ],
+    [
+     "Bragging is a symptom of schizophrenia",
+     "It isn't."
+    ],
+    [
+     "Narcissism isn't a personality disorder",
+     "Narcissistic personality disorder is one of the 10."
+    ]
+   ],
+   "exp": "A disorder needs an enduring, inflexible pattern that interferes with functioning."
   }
  ],
  "Three clusters": [
@@ -2790,6 +2828,44 @@
     ]
    ],
    "exp": "Cluster A: odd; B: dramatic; C: anxious."
+  },
+  {
+   "q": "A psychologist groups a patient's disorder with others marked by fearfulness and worry. Which cluster is it?",
+   "right": "Cluster C",
+   "wrong": [
+    [
+     "Cluster A, the odd and eccentric group",
+     "Cluster A is odd or eccentric."
+    ],
+    [
+     "Cluster B",
+     "Cluster B is dramatic, emotional, erratic."
+    ],
+    [
+     "Cluster D",
+     "There are only three clusters."
+    ]
+   ],
+   "exp": "C = cowardly/fearful (anxious)."
+  },
+  {
+   "q": "Which pairing of cluster and description is correct?",
+   "right": "B: dramatic, emotional, erratic",
+   "wrong": [
+    [
+     "A: anxious and fearful, worried about rejection",
+     "Cluster A is odd or eccentric."
+    ],
+    [
+     "C: odd or eccentric",
+     "Cluster C is anxious or fearful."
+    ],
+    [
+     "B: odd or eccentric",
+     "Cluster B is dramatic."
+    ]
+   ],
+   "exp": "A = odd, B = dramatic, C = anxious."
   }
  ],
  "Cluster A": [
@@ -2811,6 +2887,44 @@
     ]
    ],
    "exp": "A = odd or eccentric."
+  },
+  {
+   "q": "Which three disorders would a psychologist group as odd or eccentric?",
+   "right": "Paranoid, schizoid, schizotypal",
+   "wrong": [
+    [
+     "Avoidant, dependent and obsessive-compulsive personality disorders",
+     "Those are Cluster C."
+    ],
+    [
+     "Antisocial, histrionic, narcissistic",
+     "Those are Cluster B."
+    ],
+    [
+     "Borderline, paranoid, avoidant",
+     "That mixes all three clusters."
+    ]
+   ],
+   "exp": "Cluster A: paranoid, schizoid, schizotypal."
+  },
+  {
+   "q": "A patient is odd and eccentric and believes in magical forces. Which cluster does the likely disorder belong to?",
+   "right": "Cluster A",
+   "wrong": [
+    [
+     "Cluster B, with dramatic and erratic behavior",
+     "Magical thinking and odd behavior point to schizotypal, Cluster A."
+    ],
+    [
+     "Cluster C",
+     "Cluster C is anxious or fearful."
+    ],
+    [
+     "No cluster; it's a mood disorder",
+     "This fits schizotypal personality disorder."
+    ]
+   ],
+   "exp": "Schizotypal is in Cluster A."
   }
  ],
  "Paranoid personality disorder": [
@@ -2832,6 +2946,44 @@
     ]
    ],
    "exp": "Distrust of others' motives, without psychosis."
+  },
+  {
+   "q": "Liam is convinced his coworkers are plotting against him, but he has no hallucinations and is in touch with reality. What separates this from schizophrenia?",
+   "right": "No psychosis or loss of touch with reality",
+   "wrong": [
+    [
+     "He has delusions of persecution that come with hallucinations",
+     "He has no hallucinations or psychosis."
+    ],
+    [
+     "He shows flat affect",
+     "Not described."
+    ],
+    [
+     "He has catatonic stupor",
+     "Not described."
+    ]
+   ],
+   "exp": "Paranoid personality disorder: distrust without psychosis."
+  },
+  {
+   "q": "When a friend compliments her haircut, Tess assumes the friend is mocking her. Which disorder does this pattern suggest, if it is lasting?",
+   "right": "Paranoid personality disorder",
+   "wrong": [
+    [
+     "Histrionic personality disorder, which seeks attention",
+     "She isn't seeking attention; she distrusts motives."
+    ],
+    [
+     "Dependent personality disorder",
+     "That is clinginess."
+    ],
+    [
+     "Schizoid personality disorder",
+     "That is indifference to others."
+    ]
+   ],
+   "exp": "Interpreting others' motives as malevolent."
   }
  ],
  "Schizoid personality disorder": [
@@ -2853,6 +3005,44 @@
     ]
    ],
    "exp": "Little interest in relationships and little emotion."
+  },
+  {
+   "q": "Owen lives alone, has no interest in friends or dating, shows little emotion, and doesn't care what people think. Which disorder fits?",
+   "right": "Schizoid personality disorder",
+   "wrong": [
+    [
+     "Schizotypal personality disorder, with magical thinking",
+     "He shows no odd beliefs or magical thinking."
+    ],
+    [
+     "Avoidant personality disorder",
+     "Avoidant people want relationships but fear rejection."
+    ],
+    [
+     "Antisocial personality disorder",
+     "He isn't violating others' rights."
+    ]
+   ],
+   "exp": "Schizoid: lack of interest in relationships, little emotion."
+  },
+  {
+   "q": "Which detail best separates schizoid from avoidant personality disorder?",
+   "right": "Schizoid people don't want relationships",
+   "wrong": [
+    [
+     "Avoidant people have no interest in relationships at all",
+     "Avoidant people want them but fear rejection."
+    ],
+    [
+     "Schizoid people fear criticism intensely",
+     "They are indifferent to it."
+    ],
+    [
+     "Avoidant people have magical thinking",
+     "That is schizotypal."
+    ]
+   ],
+   "exp": "Schizoid: indifferent. Avoidant: wants connection, fears rejection."
   }
  ],
  "Schizotypal personality disorder": [
@@ -2874,6 +3064,44 @@
     ]
    ],
    "exp": "Odd behavior and appearance plus magical thinking."
+  },
+  {
+   "q": "Gina dresses unusually, believes she can sense others' thoughts, and is suspicious and socially anxious. Which disorder fits best?",
+   "right": "Schizotypal personality disorder",
+   "wrong": [
+    [
+     "Schizophrenia with hallucinations and disorganized speech",
+     "No hallucinations or psychosis are described."
+    ],
+    [
+     "Schizoid personality disorder",
+     "Schizoid lacks the magical thinking."
+    ],
+    [
+     "Histrionic personality disorder",
+     "That is attention-seeking."
+    ]
+   ],
+   "exp": "Odd appearance and magical thinking point to schizotypal."
+  },
+  {
+   "q": "Which pair of features most clearly points to schizotypal rather than schizoid personality disorder?",
+   "right": "Magical thinking and odd appearance",
+   "wrong": [
+    [
+     "Indifference to praise and to criticism from other people",
+     "That fits schizoid."
+    ],
+    [
+     "Fear of abandonment",
+     "That fits dependent."
+    ],
+    [
+     "Need for admiration",
+     "That fits narcissistic."
+    ]
+   ],
+   "exp": "Schizotypal adds odd beliefs and appearance."
   }
  ],
  "Cluster B": [
@@ -2895,6 +3123,44 @@
     ]
    ],
    "exp": "B = dramatic, emotional, erratic."
+  },
+  {
+   "q": "Which three disorders all belong to the dramatic, emotional, erratic cluster?",
+   "right": "Histrionic, narcissistic, borderline",
+   "wrong": [
+    [
+     "Paranoid, schizoid and schizotypal personality disorders",
+     "Those are Cluster A."
+    ],
+    [
+     "Avoidant, dependent, OCPD",
+     "Those are Cluster C."
+    ],
+    [
+     "Antisocial, avoidant, paranoid",
+     "That mixes clusters."
+    ]
+   ],
+   "exp": "Cluster B: antisocial, histrionic, narcissistic, borderline."
+  },
+  {
+   "q": "A patient constantly seeks attention with theatrical displays. Which cluster does her likely disorder belong to?",
+   "right": "Cluster B",
+   "wrong": [
+    [
+     "Cluster C, the anxious and fearful group",
+     "Histrionic is Cluster B."
+    ],
+    [
+     "Cluster A",
+     "Cluster A is odd or eccentric."
+    ],
+    [
+     "It isn't a personality disorder",
+     "This fits histrionic personality disorder."
+    ]
+   ],
+   "exp": "Histrionic is in Cluster B."
   }
  ],
  "Antisocial personality disorder": [
@@ -2916,6 +3182,44 @@
     ]
    ],
    "exp": "Disregard for others' rights, without empathy or remorse."
+  },
+  {
+   "q": "Which detail from your chart is linked to antisocial personality disorder?",
+   "right": "It may be half of some prison populations",
+   "wrong": [
+    [
+     "It is the most common disorder among college students worldwide",
+     "Not on your chart."
+    ],
+    [
+     "It always includes hallucinations",
+     "It doesn't."
+    ],
+    [
+     "It mostly affects children",
+     "Personality disorders begin in adolescence or early adulthood."
+    ]
+   ],
+   "exp": "Your chart: may account for half the prison population in some countries."
+  },
+  {
+   "q": "Rick bullies coworkers, lies to get ahead, and feels no remorse. Nate also wants to get ahead but mainly craves admiration and feels entitled. Which pair fits?",
+   "right": "Rick antisocial; Nate narcissistic",
+   "wrong": [
+    [
+     "Rick narcissistic; Nate antisocial, the opposite way round",
+     "This swaps them."
+    ],
+    [
+     "Both histrionic",
+     "Neither is mainly seeking attention through drama."
+    ],
+    [
+     "Rick paranoid; Nate schizoid",
+     "Neither distrust nor indifference fits."
+    ]
+   ],
+   "exp": "Antisocial: violating others without remorse. Narcissistic: need for admiration, entitlement."
   }
  ],
  "Histrionic personality disorder": [
@@ -2937,6 +3241,44 @@
     ]
    ],
    "exp": "Excessive emotionality and attention-seeking."
+  },
+  {
+   "q": "At every party, Lena makes a dramatic scene, needs constant approval, and gets upset if she isn't the center of attention. Which disorder fits?",
+   "right": "Histrionic personality disorder",
+   "wrong": [
+    [
+     "Borderline personality disorder with unstable self-image",
+     "Her pattern is attention-seeking, not instability in self-image."
+    ],
+    [
+     "Narcissistic personality disorder",
+     "Narcissism is about superiority, not theatrical attention-seeking."
+    ],
+    [
+     "Dependent personality disorder",
+     "That is needing others to decide."
+    ]
+   ],
+   "exp": "Histrionic = theatrical, attention-seeking."
+  },
+  {
+   "q": "What best separates histrionic from narcissistic personality disorder?",
+   "right": "Histrionic seeks attention through drama",
+   "wrong": [
+    [
+     "Histrionic people believe they are superior to everyone around them",
+     "That describes narcissism."
+    ],
+    [
+     "Histrionic people avoid others",
+     "They seek attention."
+    ],
+    [
+     "Narcissistic people are fearful",
+     "Narcissism isn't fearfulness."
+    ]
+   ],
+   "exp": "Histrionic: drama and emotion for attention. Narcissistic: superiority and entitlement."
   }
  ],
  "Narcissistic personality disorder": [
@@ -2958,6 +3300,44 @@
     ]
    ],
    "exp": "Grandiose self-importance, need for admiration, entitlement."
+  },
+  {
+   "q": "A manager expects special treatment, takes credit for others' work, and explodes at any criticism. Which disorder fits?",
+   "right": "Narcissistic personality disorder",
+   "wrong": [
+    [
+     "Obsessive-compulsive personality disorder with rigid perfectionism",
+     "His issue is entitlement, not perfectionism."
+    ],
+    [
+     "Paranoid personality disorder",
+     "That is distrust."
+    ],
+    [
+     "Avoidant personality disorder",
+     "He isn't shy or fearful."
+    ]
+   ],
+   "exp": "Entitlement, exploiting others, sensitivity to criticism."
+  },
+  {
+   "q": "Which hook from your cards fits narcissistic personality disorder?",
+   "right": "Narcissus loved his own reflection",
+   "wrong": [
+    [
+     "A = Awkward, B = Bold, C = Cowardly",
+     "That is the cluster hook."
+    ],
+    [
+     "DBT = borderline",
+     "That links DBT to borderline."
+    ],
+    [
+     "Histrionic = theatrical",
+     "That is histrionic."
+    ]
+   ],
+   "exp": "Narcissus fell in love with his own reflection."
   }
  ],
  "Borderline personality disorder": [
@@ -2979,6 +3359,44 @@
     ]
    ],
    "exp": "Instability in mood, self-image and relationships."
+  },
+  {
+   "q": "Maya adores a friend one week and hates her the next, keeps changing how she sees herself, and acts impulsively. Which disorder fits?",
+   "right": "Borderline personality disorder",
+   "wrong": [
+    [
+     "Bipolar II disorder, with hypomanic and depressive episodes",
+     "Her instability is in relationships and self-image, not mood episodes."
+    ],
+    [
+     "Histrionic personality disorder",
+     "Her key issue is instability, not attention-seeking."
+    ],
+    [
+     "Dependent personality disorder",
+     "She isn't mainly clingy."
+    ]
+   ],
+   "exp": "Instability in mood, self-image and relationships."
+  },
+  {
+   "q": "Which therapy was originally developed for borderline personality disorder?",
+   "right": "DBT",
+   "wrong": [
+    [
+     "REBT, which is used mainly for anxiety",
+     "REBT is mainly used for anxiety."
+    ],
+    [
+     "Psychoanalysis",
+     "Not on your slides for borderline."
+    ],
+    [
+     "Aversion therapy",
+     "That is for unwanted behaviors like drinking."
+    ]
+   ],
+   "exp": "DBT = borderline."
   }
  ],
  "Cluster C": [
@@ -3000,6 +3418,44 @@
     ]
    ],
    "exp": "C = anxious or fearful."
+  },
+  {
+   "q": "Which three disorders share anxiety and fearfulness?",
+   "right": "Avoidant, dependent, OCPD",
+   "wrong": [
+    [
+     "Paranoid, schizoid and schizotypal personality disorders",
+     "Those are Cluster A."
+    ],
+    [
+     "Antisocial, histrionic, narcissistic",
+     "Those are Cluster B."
+    ],
+    [
+     "Borderline, avoidant, schizoid",
+     "That mixes clusters."
+    ]
+   ],
+   "exp": "Cluster C: avoidant, dependent, obsessive-compulsive."
+  },
+  {
+   "q": "A patient's disorder centers on fear of abandonment and needing others to decide for her. Which cluster?",
+   "right": "Cluster C",
+   "wrong": [
+    [
+     "Cluster B, the dramatic and erratic group",
+     "Dependent personality disorder is Cluster C."
+    ],
+    [
+     "Cluster A",
+     "Cluster A is odd."
+    ],
+    [
+     "It's not a personality disorder",
+     "This fits dependent personality disorder."
+    ]
+   ],
+   "exp": "Dependent is in Cluster C."
   }
  ],
  "Avoidant personality disorder": [
@@ -3021,6 +3477,44 @@
     ]
    ],
    "exp": "Extreme shyness, fear of rejection, feelings of inadequacy."
+  },
+  {
+   "q": "Sam turns down every invitation because he's sure people will find him boring and reject him, though he wishes he had friends. Which disorder fits?",
+   "right": "Avoidant personality disorder",
+   "wrong": [
+    [
+     "Schizoid personality disorder, with no interest in friends",
+     "He wants friends; schizoid people don't."
+    ],
+    [
+     "Paranoid personality disorder",
+     "He fears rejection, not plots."
+    ],
+    [
+     "Antisocial personality disorder",
+     "He doesn't harm others."
+    ]
+   ],
+   "exp": "Fear of rejection, feelings of inadequacy, low self-esteem."
+  },
+  {
+   "q": "Which feature appears on both the avoidant personality disorder card and the social anxiety disorder card?",
+   "right": "Fear of being judged or rejected",
+   "wrong": [
+    [
+     "Sudden panic attacks that strike out of nowhere, without warning",
+     "That is panic disorder."
+    ],
+    [
+     "Magical thinking",
+     "That is schizotypal."
+    ],
+    [
+     "Worry about everything for 6 months",
+     "That is GAD."
+    ]
+   ],
+   "exp": "Avoidant: fear of rejection and criticism. Social anxiety: fear of being judged, embarrassed or rejected."
   }
  ],
  "Dependent personality disorder": [
@@ -3042,6 +3536,44 @@
     ]
    ],
    "exp": "Needs reassurance to decide, fears separation, clingy."
+  },
+  {
+   "q": "Ella can't choose a college or even a lunch order without her mom's reassurance, and she panics at the thought of being alone. Which disorder fits?",
+   "right": "Dependent personality disorder",
+   "wrong": [
+    [
+     "Avoidant personality disorder from fear of being rejected",
+     "Her core issue is needing others to decide."
+    ],
+    [
+     "Borderline",
+     "She isn't unstable in self-image."
+    ],
+    [
+     "Histrionic",
+     "She isn't seeking attention."
+    ]
+   ],
+   "exp": "Difficulty deciding without reassurance, fear of separation."
+  },
+  {
+   "q": "Which behavior fits dependent personality disorder?",
+   "right": "Agreeing to avoid disagreement",
+   "wrong": [
+    [
+     "Taking over every task because no one else can do it right",
+     "That is OCPD."
+    ],
+    [
+     "Exploiting others",
+     "That is antisocial or narcissistic."
+    ],
+    [
+     "Showing no emotion",
+     "That is schizoid."
+    ]
+   ],
+   "exp": "Submissive, clingy, difficulty disagreeing or asserting oneself."
   }
  ],
  "Obsessive-compulsive personality disorder": [
@@ -3063,6 +3595,44 @@
     ]
    ],
    "exp": "Perfectionism, rigidity, need for control, can't delegate."
+  },
+  {
+   "q": "Which detail best separates OCPD from OCD?",
+   "right": "OCPD has no obsessions or rituals",
+   "wrong": [
+    [
+     "OCPD always involves hours of handwashing and checking rituals",
+     "That is OCD."
+    ],
+    [
+     "OCD is a personality disorder",
+     "OCD is in its own category."
+    ],
+    [
+     "OCPD causes hallucinations",
+     "It doesn't."
+    ]
+   ],
+   "exp": "OCPD is perfectionism and rigidity, not obsessions and compulsions."
+  },
+  {
+   "q": "A manager refuses to delegate, insists on strict order, is stingy with money and holds rigid moral rules. Which disorder fits?",
+   "right": "OCPD",
+   "wrong": [
+    [
+     "Narcissistic personality disorder and a need for admiration",
+     "He isn't seeking admiration."
+    ],
+    [
+     "Paranoid",
+     "He isn't distrustful."
+    ],
+    [
+     "Hoarding disorder",
+     "That is saving possessions."
+    ]
+   ],
+   "exp": "Perfectionism, rigidity, control, stinginess, strict morals."
   }
  ],
  "Causes of personality disorders": [
@@ -3084,6 +3654,44 @@
     ]
    ],
    "exp": "Genetic predisposition plus environmental factors like abuse, neglect or an unstable home."
+  },
+  {
+   "q": "A psychologist links a client's personality disorder to growing up in a chaotic, unpredictable home with poor attachment. Which kind of cause is this?",
+   "right": "Environmental",
+   "wrong": [
+    [
+     "Genetic, a predisposition inherited from the parents",
+     "The cause described is the home, not genes."
+    ],
+    [
+     "Biological",
+     "That is brain structure or functioning."
+    ],
+    [
+     "Cultural",
+     "That is norms and parenting styles across a society."
+    ]
+   ],
+   "exp": "Environmental causes: abuse, neglect, trauma, an unstable or unsupportive home, poor attachment."
+  },
+  {
+   "q": "A researcher finds that cultural norms and parenting styles shape a disorder's development. Which kind of cause is she describing?",
+   "right": "Cultural",
+   "wrong": [
+    [
+     "Biological, differences in brain structure or functioning",
+     "That is biological."
+    ],
+    [
+     "Genetic",
+     "That is inherited predisposition."
+    ],
+    [
+     "Substance abuse",
+     "That is a separate cause."
+    ]
+   ],
+   "exp": "Cultural: norms, expectations, socialization, parenting styles."
   }
  ],
  "History of treatment": [
@@ -3105,6 +3713,44 @@
     ]
    ],
    "exp": "Very dark: locked at home or in asylums with poor conditions."
+  },
+  {
+   "q": "A historian describes 1800s asylums where patients were locked away and \"treatments\" were often worse than the illness. What does this show about the history of treatment?",
+   "right": "It was very dark and often harmful",
+   "wrong": [
+    [
+     "Asylums gave patients the same outpatient care that most people get today",
+     "Outpatient care came with deinstitutionalization."
+    ],
+    [
+     "Patients were mostly treated with SSRIs",
+     "Modern drugs came much later."
+    ],
+    [
+     "Most patients received person-centered therapy",
+     "That came much later."
+    ]
+   ],
+   "exp": "Treatment history was very dark: asylums with horrible conditions."
+  },
+  {
+   "q": "Before modern medication, where were people with serious mental illness usually kept?",
+   "right": "Locked at home or in asylums",
+   "wrong": [
+    [
+     "In outpatient clinics close to home with weekly therapy sessions",
+     "That came after deinstitutionalization."
+    ],
+    [
+     "In group therapy programs",
+     "Not the historical norm."
+    ],
+    [
+     "In schools",
+     "Not on your slides."
+    ]
+   ],
+   "exp": "Locked away at home or in lunatic/insane asylums."
   }
  ],
  "Lobotomies in history": [
@@ -3126,6 +3772,44 @@
     ]
    ],
    "exp": "Lobotomies were widely used then."
+  },
+  {
+   "q": "In which decades were lobotomies widely used, according to your slides?",
+   "right": "The 1930s and 1940s",
+   "wrong": [
+    [
+     "The 1990s and 2000s, after the asylums had already closed",
+     "Lobotomies are rarely used today."
+    ],
+    [
+     "The 1600s",
+     "Too early."
+    ],
+    [
+     "Only after 2010",
+     "They are rarely used today."
+    ]
+   ],
+   "exp": "Widely used in the 1930s and 1940s."
+  },
+  {
+   "q": "Besides lobotomies, which other harsh treatment was used in many institutions in that era?",
+   "right": "Electroshock therapy",
+   "wrong": [
+    [
+     "Person-centered therapy with unconditional positive regard",
+     "That is a later, humanistic therapy."
+    ],
+    [
+     "Token economies",
+     "Not listed for that era."
+    ],
+    [
+     "SSRIs",
+     "Those came later."
+    ]
+   ],
+   "exp": "Electroshock therapy was also used in many institutions."
   }
  ],
  "Deinstitutionalization": [
@@ -3144,6 +3828,44 @@
     [
      "The diathesis-stress model",
      "That explains disorders."
+    ]
+   ],
+   "exp": "Closing asylums and treating people outpatient."
+  },
+  {
+   "q": "What made it possible to close many asylums in the late 20th century?",
+   "right": "New medications for outpatient care",
+   "wrong": [
+    [
+     "Lobotomies that cured most patients' illnesses completely",
+     "Lobotomies didn't cure illness and reduced functioning."
+    ],
+    [
+     "Hypnosis",
+     "Not the reason given."
+    ],
+    [
+     "Eysenck's study",
+     "That questioned therapy."
+    ]
+   ],
+   "exp": "New medications let patients be treated with medication and therapy as outpatients."
+  },
+  {
+   "q": "Today, Rosa has schizophrenia but lives at home, takes medication and sees a therapist weekly. Which historical change made this kind of care common?",
+   "right": "Deinstitutionalization",
+   "wrong": [
+    [
+     "The eclectic approach of combining many therapy methods",
+     "That is a therapy style, not the closing of asylums."
+    ],
+    [
+     "Lobotomies",
+     "Those were psychosurgery."
+    ],
+    [
+     "Biofeedback",
+     "That is a behavioral technique."
     ]
    ],
    "exp": "Closing asylums and treating people outpatient."
@@ -3168,6 +3890,44 @@
     ]
    ],
    "exp": "The medical model uses drugs to treat symptoms."
+  },
+  {
+   "q": "Which list contains only biomedical treatments?",
+   "right": "Medication, ECT, TMS",
+   "wrong": [
+    [
+     "CBT, REBT and DBT, which all work on thoughts and behavior",
+     "Those are psychotherapies."
+    ],
+    [
+     "Free association, hypnosis",
+     "Those are psychodynamic techniques."
+    ],
+    [
+     "Token economy, biofeedback",
+     "Those are behavioral therapies."
+    ]
+   ],
+   "exp": "Biomedical: drugs plus ECT, psychosurgery, TMS and lobotomies."
+  },
+  {
+   "q": "A psychiatrist says, \"Your depression is partly a chemical imbalance, so we'll start with medication.\" Which approach is she using?",
+   "right": "The biomedical (medical) model",
+   "wrong": [
+    [
+     "The humanistic approach of acceptance and personal growth",
+     "That focuses on growth and acceptance."
+    ],
+    [
+     "Psychodynamic therapy",
+     "That explores the unconscious."
+    ],
+    [
+     "Behavioral therapy",
+     "That uses conditioning."
+    ]
+   ],
+   "exp": "The medical model uses drugs to counteract imbalances in the brain."
   }
  ],
  "Psychotherapy": [
@@ -3189,6 +3949,44 @@
     ]
    ],
    "exp": "Interactions between a therapist and a client."
+  },
+  {
+   "q": "What is usually the most effective plan, according to your slides?",
+   "right": "Psychotherapy plus biomedical treatment",
+   "wrong": [
+    [
+     "Medication alone, without any psychotherapy or follow-up at all",
+     "Treatment usually combines both."
+    ],
+    [
+     "Psychotherapy alone, never medication",
+     "Treatment usually combines both."
+    ],
+    [
+     "Hypnosis alone",
+     "Not on your slides."
+    ]
+   ],
+   "exp": "Usually treatment combines psychotherapy and biomedical treatment."
+  },
+  {
+   "q": "Which of these is psychotherapy rather than biomedical therapy?",
+   "right": "Weekly CBT sessions with a therapist",
+   "wrong": [
+    [
+     "A daily dose of lithium prescribed by a psychiatrist for bipolar",
+     "That is medication."
+    ],
+    [
+     "ECT",
+     "That is biomedical."
+    ],
+    [
+     "rTMS",
+     "That is biomedical."
+    ]
+   ],
+   "exp": "Psychotherapy is interaction with a trained therapist."
   }
  ],
  "Who can prescribe": [
@@ -3210,6 +4008,44 @@
     ]
    ],
    "exp": "Medications can only be prescribed by a doctor or psychiatrist."
+  },
+  {
+   "q": "Which professional can prescribe ECT?",
+   "right": "A psychiatrist or doctor",
+   "wrong": [
+    [
+     "A clinical psychologist with a doctorate degree in psychology",
+     "Only doctors and psychiatrists can prescribe biomedical therapies."
+    ],
+    [
+     "A group therapy leader",
+     "They can't prescribe."
+    ],
+    [
+     "A school counselor",
+     "They can't prescribe."
+    ]
+   ],
+   "exp": "Medications and biomedical therapies can only be prescribed by a doctor or psychiatrist."
+  },
+  {
+   "q": "Who does most of the psychotherapy?",
+   "right": "Clinical psychologists and psychotherapists",
+   "wrong": [
+    [
+     "Psychiatrists, who mostly prescribe medication and run ECT",
+     "Most psychotherapy is done by psychologists and psychotherapists."
+    ],
+    [
+     "Pharmacists",
+     "Not on your slides."
+    ],
+    [
+     "Surgeons",
+     "Not on your slides."
+    ]
+   ],
+   "exp": "Most psychotherapy is done by clinical psychologists and psychotherapists."
   }
  ],
  "Eclectic approach": [
@@ -3231,6 +4067,44 @@
     ]
    ],
    "exp": "Combining methods to fit the client's case."
+  },
+  {
+   "q": "Why do most therapists use the eclectic approach?",
+   "right": "To fit methods to each client's case",
+   "wrong": [
+    [
+     "Because only one approach to therapy has ever been proven to work",
+     "Eclectic means combining approaches."
+    ],
+    [
+     "Because it avoids all medication",
+     "It can include biological methods."
+    ],
+    [
+     "Because the law requires it",
+     "Not on your slides."
+    ]
+   ],
+   "exp": "Combining the methods that best fit the case."
+  },
+  {
+   "q": "Which therapist is using the eclectic approach?",
+   "right": "One who mixes CBT and humanistic methods",
+   "wrong": [
+    [
+     "One who uses only Freud's free association for every client",
+     "That is one approach only."
+    ],
+    [
+     "One who only prescribes",
+     "That is the medical model only."
+    ],
+    [
+     "One who uses only token economies",
+     "That is one approach only."
+    ]
+   ],
+   "exp": "Eclectic = a mix of approaches."
   }
  ],
  "Psychotropic medications": [
@@ -3252,6 +4126,44 @@
     ]
    ],
    "exp": "They interact with neurotransmitters to treat symptoms."
+  },
+  {
+   "q": "What do psychotropic medications actually do, according to your slides?",
+   "right": "Treat symptoms via neurotransmitters",
+   "wrong": [
+    [
+     "Cure the underlying cause of the disorder permanently and quickly",
+     "They don't cure the disorder or its cause."
+    ],
+    [
+     "Replace the need for any therapy",
+     "They're usually used with psychotherapy."
+    ],
+    [
+     "Change a person's genes",
+     "Not on your slides."
+    ]
+   ],
+   "exp": "They interact with neurotransmitters to treat symptoms."
+  },
+  {
+   "q": "Which three classes of psychotropic medication are on your slides?",
+   "right": "Anti-anxiety, antidepressants, antipsychotics",
+   "wrong": [
+    [
+     "Stimulants, depressants and hallucinogens, the drugs of abuse",
+     "Those are psychoactive drug categories."
+    ],
+    [
+     "Antabuse, lithium, caffeine",
+     "Not the three classes listed."
+    ],
+    [
+     "Agonists, antagonists, placebos",
+     "Those describe how drugs act."
+    ]
+   ],
+   "exp": "Classes: anti-anxiety, antidepressants, antipsychotics."
   }
  ],
  "Pharmacology": [
@@ -3273,6 +4185,44 @@
     ]
    ],
    "exp": "Pharmacology = the use of drugs."
+  },
+  {
+   "q": "A researcher studies how a new drug changes symptoms of depression. Which field of biomedical therapy is this?",
+   "right": "Pharmacology",
+   "wrong": [
+    [
+     "Psychotherapy, the talking cure between a therapist and client",
+     "That is talk therapy."
+    ],
+    [
+     "Biofeedback",
+     "That uses body sensors."
+    ],
+    [
+     "Psychosurgery",
+     "That is surgery."
+    ]
+   ],
+   "exp": "Pharmacology = the use of drugs."
+  },
+  {
+   "q": "Which treatment falls under pharmacology?",
+   "right": "Prescribing Zoloft",
+   "wrong": [
+    [
+     "Holding a session of free association with a client",
+     "That is psychodynamic."
+    ],
+    [
+     "ECT",
+     "That is electrical, not a drug."
+    ],
+    [
+     "A fear hierarchy",
+     "That is behavioral."
+    ]
+   ],
+   "exp": "Zoloft is a drug, so prescribing it is pharmacology."
   }
  ],
  "Antidepressants": [
@@ -3294,6 +4244,44 @@
     ]
    ],
    "exp": "Antidepressants are typically SSRIs."
+  },
+  {
+   "q": "A patient on Paxil complains of feeling tired, forgetful and unable to sleep. What explains this?",
+   "right": "Side effects of an SSRI antidepressant",
+   "wrong": [
+    [
+     "Tardive dyskinesia caused by long-term antipsychotic use",
+     "That is a movement disorder from antipsychotics."
+    ],
+    [
+     "Dependency on benzodiazepines",
+     "Paxil isn't a benzodiazepine."
+    ],
+    [
+     "Withdrawal from lithium",
+     "Not described."
+    ]
+   ],
+   "exp": "SSRI side effects: fatigue, forgetfulness, insomnia, weight gain."
+  },
+  {
+   "q": "How does an SSRI like Prozac work?",
+   "right": "It blocks serotonin reuptake",
+   "wrong": [
+    [
+     "It blocks dopamine receptors to reduce hallucinations and delusions",
+     "That is how antipsychotics work."
+    ],
+    [
+     "It increases the effects of GABA",
+     "That is anti-anxiety drugs."
+    ],
+    [
+     "It makes alcohol cause sickness",
+     "That is Antabuse."
+    ]
+   ],
+   "exp": "SSRIs keep serotonin in the synapse longer."
   }
  ],
  "Anti-anxiety medications": [
@@ -3315,6 +4303,44 @@
     ]
    ],
    "exp": "Anti-anxiety drugs (benzodiazepines) increase GABA."
+  },
+  {
+   "q": "D-cycloserine appears on your slides as an anti-anxiety drug used for which conditions?",
+   "right": "OCD and phobias",
+   "wrong": [
+    [
+     "Schizophrenia and the most severe forms of bipolar disorder",
+     "Those are treated with antipsychotics."
+    ],
+    [
+     "Bipolar disorder only",
+     "That is lithium."
+    ],
+    [
+     "Alcoholism",
+     "That is Antabuse."
+    ]
+   ],
+   "exp": "D-cycloserine is listed for OCD and phobias."
+  },
+  {
+   "q": "Why might a doctor be cautious about long-term Xanax use?",
+   "right": "It can cause dependency",
+   "wrong": [
+    [
+     "It causes tardive dyskinesia in almost everyone who uses it",
+     "That is an antipsychotic side effect."
+    ],
+    [
+     "It triggers seizures",
+     "That is ECT."
+    ],
+    [
+     "It blocks serotonin",
+     "That is SSRIs."
+    ]
+   ],
+   "exp": "Side effects: drowsiness and dependency."
   }
  ],
  "Antipsychotics": [
@@ -3336,6 +4362,44 @@
     ]
    ],
    "exp": "Antipsychotics (neuroleptics) block dopamine."
+  },
+  {
+   "q": "Which symptoms do antipsychotics mainly reduce?",
+   "right": "Hallucinations and delusions",
+   "wrong": [
+    [
+     "Panic attacks and the constant worry of generalized anxiety",
+     "Those are treated with anti-anxiety drugs or therapy."
+    ],
+    [
+     "Low serotonin mood",
+     "That is antidepressants."
+    ],
+    [
+     "Alcohol cravings",
+     "That is Antabuse."
+    ]
+   ],
+   "exp": "They block dopamine receptors, reducing positive symptoms."
+  },
+  {
+   "q": "Haldol and Thorazine belong to which class, and which side effects do they carry?",
+   "right": "Antipsychotics; tardive dyskinesia, weight gain",
+   "wrong": [
+    [
+     "Antidepressants; fatigue, forgetfulness and insomnia at night",
+     "Those are SSRI side effects."
+    ],
+    [
+     "Anti-anxiety drugs; drowsiness",
+     "Haldol and Thorazine are antipsychotics."
+    ],
+    [
+     "Mood stabilizers; none",
+     "Not correct."
+    ]
+   ],
+   "exp": "Antipsychotics (neuroleptics): Haldol, Thorazine."
   }
  ],
  "Tardive dyskinesia": [
@@ -3357,6 +4421,44 @@
     ]
    ],
    "exp": "A movement disorder caused by antipsychotics."
+  },
+  {
+   "q": "A man who has taken Thorazine for years now makes repetitive movements he can't control. What is this called?",
+   "right": "Tardive dyskinesia",
+   "wrong": [
+    [
+     "Disorganized motor movement from untreated schizophrenia",
+     "That is a symptom of schizophrenia; this is a drug side effect."
+    ],
+    [
+     "Catatonic stupor",
+     "That is no movement."
+    ],
+    [
+     "A compulsion",
+     "That is OCD."
+    ]
+   ],
+   "exp": "A medication-induced movement disorder from antipsychotics."
+  },
+  {
+   "q": "Which class of drug can cause tardive dyskinesia?",
+   "right": "Antipsychotics",
+   "wrong": [
+    [
+     "Antidepressants like Prozac, Paxil and Zoloft (SSRIs)",
+     "Their listed side effects are fatigue, forgetfulness, insomnia, weight gain."
+    ],
+    [
+     "Benzodiazepines",
+     "Their side effects are drowsiness and dependency."
+    ],
+    [
+     "Lithium",
+     "Not listed for tardive dyskinesia."
+    ]
+   ],
+   "exp": "Tardive dyskinesia is an antipsychotic side effect."
   }
  ],
  "Mood stabilizers": [
@@ -3378,6 +4480,44 @@
     ]
    ],
    "exp": "Lithium = bipolar."
+  },
+  {
+   "q": "Ana alternates between manic weeks and deep depressions. Her psychiatrist wants to even out both highs and lows. Which drug class fits?",
+   "right": "A mood stabilizer like lithium",
+   "wrong": [
+    [
+     "An antidepressant alone, to lift the depressive episodes only",
+     "Bipolar disorder is treated with mood stabilizers."
+    ],
+    [
+     "An anti-anxiety drug",
+     "Not for bipolar disorder."
+    ],
+    [
+     "Antabuse",
+     "That is for alcoholism."
+    ]
+   ],
+   "exp": "Lithium = bipolar."
+  },
+  {
+   "q": "Which pairing of drug and disorder is correct?",
+   "right": "Lithium and bipolar disorder",
+   "wrong": [
+    [
+     "Lithium and schizophrenia's positive symptoms like hallucinations",
+     "Those are treated with antipsychotics."
+    ],
+    [
+     "Haldol and depression",
+     "Haldol is an antipsychotic."
+    ],
+    [
+     "Xanax and bipolar",
+     "Xanax is anti-anxiety."
+    ]
+   ],
+   "exp": "Mood stabilizers like lithium treat bipolar disorder."
   }
  ],
  "Lobotomy": [
@@ -3399,6 +4539,44 @@
     ]
    ],
    "exp": "A lobotomy may calm behavior but reduces functioning and awareness."
+  },
+  {
+   "q": "What did a lobotomy physically do?",
+   "right": "Cut the main connections to the frontal lobe",
+   "wrong": [
+    [
+     "Sent magnetic pulses through a coil held near the patient's skull",
+     "That is rTMS."
+    ],
+    [
+     "Caused a 30–60 second seizure",
+     "That is ECT."
+    ],
+    [
+     "Blocked dopamine",
+     "That is antipsychotics."
+    ]
+   ],
+   "exp": "Psychosurgery that cuts the main neural connections to the frontal lobe."
+  },
+  {
+   "q": "Which outcome of lobotomies is on your slides?",
+   "right": "Possible vegetative state",
+   "wrong": [
+    [
+     "Improved memory and sharper awareness for most patients",
+     "It reduces functioning and awareness."
+    ],
+    [
+     "A complete cure",
+     "It doesn't cure."
+    ],
+    [
+     "No side effects",
+     "It has serious effects."
+    ]
+   ],
+   "exp": "It may calm behavior but reduces functioning and can lead to a vegetative state."
   }
  ],
  "Transcranial magnetic stimulation (rTMS)": [
@@ -3420,6 +4598,44 @@
     ]
    ],
    "exp": "Repeated magnetic pulses stimulate neurons."
+  },
+  {
+   "q": "What makes rTMS different from ECT for a patient?",
+   "right": "No seizure, no memory loss, awake",
+   "wrong": [
+    [
+     "It uses a stronger electric current of over 100 volts",
+     "rTMS uses magnetic pulses."
+    ],
+    [
+     "It requires surgery",
+     "It doesn't."
+    ],
+    [
+     "It is used for schizophrenia only",
+     "It's used for chronic depression."
+    ]
+   ],
+   "exp": "rTMS benefits: no seizures, no memory loss, the person is awake."
+  },
+  {
+   "q": "How does rTMS change brain activity?",
+   "right": "Magnetic pulses induce currents in neurons",
+   "wrong": [
+    [
+     "Electrodes pass a strong current through the head to cause a seizure",
+     "That is ECT."
+    ],
+    [
+     "Drugs block dopamine",
+     "That is antipsychotics."
+    ],
+    [
+     "Surgery cuts connections",
+     "That is a lobotomy."
+    ]
+   ],
+   "exp": "Pulses through a coil near the skull stimulate neurons."
   }
  ],
  "Electroconvulsive therapy (ECT)": [
@@ -3441,6 +4657,44 @@
     ]
    ],
    "exp": "ECT causes a 30–60 second seizure."
+  },
+  {
+   "q": "Which is listed as a benefit of ECT?",
+   "right": "It reduces the risk of suicide",
+   "wrong": [
+    [
+     "It causes no memory loss at all, unlike every other treatment",
+     "Memory loss is a drawback."
+    ],
+    [
+     "Everyone stays well afterward",
+     "About 40% relapse within 6 months."
+    ],
+    [
+     "We know exactly why it works",
+     "No one knows why it works."
+    ]
+   ],
+   "exp": "ECT is used for extreme depression and reduces suicide risk."
+  },
+  {
+   "q": "A doctor says, \"We don't fully understand why this treatment works, and memory loss is possible.\" Which treatment is she describing?",
+   "right": "ECT",
+   "wrong": [
+    [
+     "rTMS, which uses repeated magnetic pulses on the brain",
+     "rTMS has no memory loss."
+    ],
+    [
+     "SSRIs",
+     "Their side effects are different."
+    ],
+    [
+     "DBT",
+     "That is a psychotherapy."
+    ]
+   ],
+   "exp": "ECT drawbacks: memory loss, relapse, and no one knows why it works."
   }
  ],
  "Confidentiality (cardinal rule)": [
@@ -3462,6 +4716,44 @@
     ]
    ],
    "exp": "The cardinal rule, with an exception for danger."
+  },
+  {
+   "q": "A client tells her therapist she cheated on a test. Can the therapist tell the school?",
+   "right": "No; she's no danger to herself or others",
+   "wrong": [
+    [
+     "Yes, therapists must report any rule-breaking that clients mention",
+     "Confidentiality only breaks for danger to self or others."
+    ],
+    [
+     "Yes, if the school asks",
+     "Not without a danger exception."
+    ],
+    [
+     "Only in group therapy",
+     "Not a rule."
+    ]
+   ],
+   "exp": "Confidentiality holds unless the client is a danger to themselves or others."
+  },
+  {
+   "q": "Why is confidentiality called the \"cardinal rule\" of psychotherapy?",
+   "right": "It's the most important rule",
+   "wrong": [
+    [
+     "It is the only ethics principle that applies to every single therapist",
+     "The other principles also apply."
+    ],
+    [
+     "It can never be broken",
+     "It can be broken for danger."
+    ],
+    [
+     "It was invented by Rogers",
+     "Not on your slides."
+    ]
+   ],
+   "exp": "Cardinal rule = the most important rule."
   }
  ],
  "Cultural humility": [
@@ -3483,6 +4775,44 @@
     ]
    ],
    "exp": "A self-first approach to cultural differences."
+  },
+  {
+   "q": "A therapist reflects on her own biases and acknowledges power imbalances before working with clients from other cultures. What is she practicing?",
+   "right": "Cultural humility",
+   "wrong": [
+    [
+     "Unconditional positive regard toward everything the client does",
+     "That is accepting the client; this is examining herself."
+    ],
+    [
+     "Integrity",
+     "That is honesty."
+    ],
+    [
+     "Non-directive therapy",
+     "That is about listening."
+    ]
+   ],
+   "exp": "A self-first approach to cultural differences."
+  },
+  {
+   "q": "Where was cultural humility first developed, according to your slides?",
+   "right": "In physical healthcare",
+   "wrong": [
+    [
+     "In Freud's psychoanalysis sessions with patients in Vienna",
+     "Not on your slides."
+    ],
+    [
+     "In prisons",
+     "Not on your slides."
+    ],
+    [
+     "In schools",
+     "Not on your slides."
+    ]
+   ],
+   "exp": "First developed in physical healthcare."
   }
  ],
  "Therapeutic alliance": [
@@ -3504,6 +4834,44 @@
     ]
    ],
    "exp": "Goals, tasks, bond, trust, collaboration and agreement."
+  },
+  {
+   "q": "Two therapists use the same CBT techniques, but one's clients improve more. What factor might explain it?",
+   "right": "A stronger therapeutic alliance",
+   "wrong": [
+    [
+     "Using a larger dose of medication during each therapy session",
+     "Therapists don't prescribe; the factor here is the bond."
+    ],
+    [
+     "Less agreement on goals",
+     "Agreement helps."
+    ],
+    [
+     "Less trust",
+     "Trust helps."
+    ]
+   ],
+   "exp": "Therapy works best with a trusting bond between patient and therapist."
+  },
+  {
+   "q": "Which list names core elements of the therapeutic alliance on your slide?",
+   "right": "Goals, tasks, bond, trust",
+   "wrong": [
+    [
+     "Empathy, congruence and unconditional positive regard together",
+     "Those are the parts of person-centered therapy."
+    ],
+    [
+     "Identify, challenge, replace",
+     "Those are REBT steps."
+    ],
+    [
+     "Alarm, resistance, exhaustion",
+     "Those are GAS stages."
+    ]
+   ],
+   "exp": "Goals, tasks, bond, trust, collaboration, agreement."
   }
  ],
  "Hans Eysenck": [
@@ -3525,6 +4893,44 @@
     ]
    ],
    "exp": "Eysenck's 1950s study."
+  },
+  {
+   "q": "Which conclusion did Hans Eysenck reach in the 1950s?",
+   "right": "Therapy was no better than no treatment",
+   "wrong": [
+    [
+     "Psychoanalysis was the most effective treatment available",
+     "He found it especially ineffective."
+    ],
+    [
+     "Medication should replace therapy",
+     "Not his conclusion."
+    ],
+    [
+     "Group therapy cures everything",
+     "Not his conclusion."
+    ]
+   ],
+   "exp": "Eysenck: psychotherapies, especially psychoanalysis, were no more effective than no treatment."
+  },
+  {
+   "q": "Which type of therapy did Eysenck especially criticize?",
+   "right": "Psychoanalysis",
+   "wrong": [
+    [
+     "Systematic desensitization using fear hierarchies and relaxation",
+     "Not the therapy he singled out."
+    ],
+    [
+     "DBT",
+     "Not on his study."
+    ],
+    [
+     "Biofeedback",
+     "Not on his study."
+    ]
+   ],
+   "exp": "He found psychoanalysis especially no better than no treatment."
   }
  ],
  "Is psychotherapy effective?": [
@@ -3546,6 +4952,44 @@
     ]
    ],
    "exp": "It works, especially with medication and a strong therapeutic alliance."
+  },
+  {
+   "q": "According to your slides, which three things help therapy work best?",
+   "right": "Alliance, positive expectations, an action plan",
+   "wrong": [
+    [
+     "Hypnosis, dream interpretation and free association together",
+     "Those are techniques, not the factors listed."
+    ],
+    [
+     "Medication only",
+     "It works best with medication, but that isn't the list."
+    ],
+    [
+     "Longer sessions",
+     "Not on your slides."
+    ]
+   ],
+   "exp": "Therapeutic alliance, positive expectations, a specific action plan."
+  },
+  {
+   "q": "What kind of research shows psychotherapy is effective today?",
+   "right": "Meta-analyses of many studies",
+   "wrong": [
+    [
+     "A single case study of one patient over a few years of treatment",
+     "One case can't show effectiveness."
+    ],
+    [
+     "Eysenck's 1950s study",
+     "That concluded the opposite."
+    ],
+    [
+     "Hypnosis records",
+     "Not on your slides."
+    ]
+   ],
+   "exp": "Meta-analysis combines many studies."
   }
  ],
  "Fidelity and responsibility": [
@@ -3567,6 +5011,44 @@
     ]
    ],
    "exp": "Build trust and take responsibility."
+  },
+  {
+   "q": "A therapist double-booked a session, apologizes, and fixes the schedule so it won't happen again. Which principle is this?",
+   "right": "Fidelity and responsibility",
+   "wrong": [
+    [
+     "Justice, giving all clients fair and equal access to care",
+     "That is about equal access."
+    ],
+    [
+     "Integrity",
+     "That is honesty."
+    ],
+    [
+     "Respect for rights and dignity",
+     "That is privacy and choice."
+    ]
+   ],
+   "exp": "Build trust and take responsibility for your actions."
+  },
+  {
+   "q": "Which action best shows fidelity and responsibility?",
+   "right": "Owning a mistake and keeping trust",
+   "wrong": [
+    [
+     "Treating every single client equally regardless of their income",
+     "That is justice."
+    ],
+    [
+     "Keeping records private",
+     "That is respect for rights."
+    ],
+    [
+     "Weighing a treatment's risks",
+     "That is beneficence and nonmaleficence."
+    ]
+   ],
+   "exp": "Trust and responsibility."
   }
  ],
  "Beneficence and nonmaleficence": [
@@ -3588,6 +5070,44 @@
     ]
    ],
    "exp": "Do no harm."
+  },
+  {
+   "q": "A therapist considers a treatment that might help her client but could harm his family. Which principle tells her to weigh this?",
+   "right": "Beneficence and nonmaleficence",
+   "wrong": [
+    [
+     "Integrity, being honest and transparent with every client",
+     "That is honesty."
+    ],
+    [
+     "Justice",
+     "That is fairness."
+    ],
+    [
+     "Fidelity",
+     "That is trust."
+    ]
+   ],
+   "exp": "Do no harm: weigh benefits against risks, including to others."
+  },
+  {
+   "q": "What is the shortest summary of beneficence and nonmaleficence?",
+   "right": "Do no harm",
+   "wrong": [
+    [
+     "Tell the client the truth about everything, always",
+     "That is integrity."
+    ],
+    [
+     "Treat everyone equally",
+     "That is justice."
+    ],
+    [
+     "Keep everything private",
+     "That is respect for rights."
+    ]
+   ],
+   "exp": "Non-male-ficence = no harm."
   }
  ],
  "Respect for rights and dignity": [
@@ -3606,6 +5126,44 @@
     [
      "Beneficence",
      "That is doing no harm."
+    ]
+   ],
+   "exp": "Confidentiality, privacy and self-determination."
+  },
+  {
+   "q": "A client decides to stop therapy, and the therapist accepts her choice. Which principle is this?",
+   "right": "Respect for rights and dignity",
+   "wrong": [
+    [
+     "Beneficence and nonmaleficence, weighing harms and benefits",
+     "The point here is her self-determination."
+    ],
+    [
+     "Integrity",
+     "That is honesty."
+    ],
+    [
+     "Justice",
+     "That is fairness."
+    ]
+   ],
+   "exp": "Allow self-determination."
+  },
+  {
+   "q": "Which action shows respect for rights and dignity?",
+   "right": "Keeping a client's records private",
+   "wrong": [
+    [
+     "Charging all clients exactly the same fee for every type of session",
+     "That is about fairness (justice)."
+    ],
+    [
+     "Never lying",
+     "That is integrity."
+    ],
+    [
+     "Weighing risks",
+     "That is beneficence."
     ]
    ],
    "exp": "Confidentiality, privacy and self-determination."
@@ -3630,6 +5188,44 @@
     ]
    ],
    "exp": "Honesty, accuracy and transparency."
+  },
+  {
+   "q": "A therapist accurately explains to a client what a treatment can and can't do. Which principle is she following?",
+   "right": "Integrity",
+   "wrong": [
+    [
+     "Respect for rights and dignity, including the client's privacy",
+     "That is about privacy and choice."
+    ],
+    [
+     "Justice",
+     "That is fairness."
+    ],
+    [
+     "Fidelity",
+     "That is trust and responsibility."
+    ]
+   ],
+   "exp": "Honesty, accuracy and transparency."
+  },
+  {
+   "q": "Which action violates integrity?",
+   "right": "Lying about a treatment's results",
+   "wrong": [
+    [
+     "Breaking confidentiality because a client threatens to harm someone",
+     "That is the allowed exception."
+    ],
+    [
+     "Using group therapy",
+     "Not a violation."
+    ],
+    [
+     "Referring to a psychiatrist",
+     "Not a violation."
+    ]
+   ],
+   "exp": "No lying to the client."
   }
  ],
  "Justice": [
@@ -3651,6 +5247,44 @@
     ]
    ],
    "exp": "Fairness and equal access for all clients."
+  },
+  {
+   "q": "A clinic offers interpreters and sliding-scale fees so everyone can get care. Which principle is this?",
+   "right": "Justice",
+   "wrong": [
+    [
+     "Integrity, being honest and transparent with all of its clients",
+     "That is honesty."
+    ],
+    [
+     "Fidelity",
+     "That is trust."
+    ],
+    [
+     "Beneficence",
+     "That is doing no harm."
+    ]
+   ],
+   "exp": "Fairness and equal access for all clients."
+  },
+  {
+   "q": "A therapist gives better care to clients she likes. Which principle is violated?",
+   "right": "Justice",
+   "wrong": [
+    [
+     "Integrity, since she is not being honest with her clients",
+     "The issue is unequal treatment."
+    ],
+    [
+     "Respect for rights",
+     "That is privacy and choice."
+    ],
+    [
+     "Fidelity",
+     "That is trust and responsibility."
+    ]
+   ],
+   "exp": "Treat everyone equally."
   }
  ],
  "Psychodynamic therapies": [
@@ -3672,6 +5306,44 @@
     ]
    ],
    "exp": "Psychodynamic therapies uncover the unconscious."
+  },
+  {
+   "q": "A therapist believes a client's anxiety comes from hidden childhood conflicts and asks about his dreams. Which kind of therapy is this?",
+   "right": "Psychodynamic",
+   "wrong": [
+    [
+     "Cognitive, which challenges conscious negative thinking patterns",
+     "Cognitive works on conscious thoughts."
+    ],
+    [
+     "Behavioral",
+     "That uses conditioning."
+    ],
+    [
+     "Humanistic",
+     "That focuses on growth and acceptance."
+    ]
+   ],
+   "exp": "Psychodynamic therapies uncover the unconscious."
+  },
+  {
+   "q": "Which two techniques belong to psychodynamic therapies?",
+   "right": "Free association, dream interpretation",
+   "wrong": [
+    [
+     "Token economies and biofeedback from the behavioral therapies",
+     "Those are behavioral."
+    ],
+    [
+     "Socratic questioning, fear hierarchies",
+     "Those are cognitive."
+    ],
+    [
+     "Active listening, UPR",
+     "Those are humanistic."
+    ]
+   ],
+   "exp": "Both try to uncover the unconscious."
   }
  ],
  "Free association": [
@@ -3693,6 +5365,44 @@
     ]
    ],
    "exp": "A way to explore the unconscious."
+  },
+  {
+   "q": "Picture a free association session from your slides. Where does the psychologist sit, and what does the patient do?",
+   "right": "Out of view; patient says whatever comes to mind",
+   "wrong": [
+    [
+     "Face to face, asking the patient deep questions that challenge each belief",
+     "That is Socratic questioning."
+    ],
+    [
+     "Beside a screen showing the patient's heart rate",
+     "That is biofeedback."
+    ],
+    [
+     "Across a table, handing out tokens for answers",
+     "That is a token economy."
+    ]
+   ],
+   "exp": "The patient relaxes and says whatever comes to mind while the psychologist sits out of the patient's line of vision."
+  },
+  {
+   "q": "A patient says whatever comes to mind, even embarrassing things, and the therapist helps interpret the missing pieces. Which technique is this?",
+   "right": "Free association",
+   "wrong": [
+    [
+     "Active listening, echoing and restating what the client says",
+     "That is humanistic and doesn't interpret the unconscious."
+    ],
+    [
+     "Cognitive restructuring",
+     "That replaces thoughts."
+    ],
+    [
+     "Systematic desensitization",
+     "That is behavioral."
+    ]
+   ],
+   "exp": "Free association explores the unconscious."
   }
  ],
  "Resistance": [
@@ -3714,6 +5424,44 @@
     ]
    ],
    "exp": "A mental block during free association."
+  },
+  {
+   "q": "Which situation shows resistance?",
+   "right": "A patient suddenly can't recall details",
+   "wrong": [
+    [
+     "A client happily follows every one of the therapist's instructions",
+     "That isn't a mental block."
+    ],
+    [
+     "A therapist echoes feelings",
+     "That is active listening."
+    ],
+    [
+     "A patient earns tokens",
+     "That is a token economy."
+    ]
+   ],
+   "exp": "Resistance is a mental block during free association."
+  },
+  {
+   "q": "In which therapy is \"resistance\" a key idea?",
+   "right": "Psychodynamic therapy",
+   "wrong": [
+    [
+     "Behavioral therapy that relies on tokens and rewards for change",
+     "Resistance is a psychodynamic concept."
+    ],
+    [
+     "Biomedical therapy",
+     "Not a drug concept."
+    ],
+    [
+     "Person-centered therapy",
+     "Not on your slides for that therapy."
+    ]
+   ],
+   "exp": "Resistance appears during free association."
   }
  ],
  "Dream interpretation": [
@@ -3735,6 +5483,44 @@
     ]
    ],
    "exp": "Dreams as a window into the unconscious."
+  },
+  {
+   "q": "A therapist says a patient's dream of being chased reveals a hidden fear he hasn't faced. Which belief underlies this?",
+   "right": "Dreams are a window into the unconscious",
+   "wrong": [
+    [
+     "Dreams are just random brain activity with no meaning at all",
+     "Dream interpretation assumes they have hidden meaning."
+    ],
+    [
+     "Dreams predict the future",
+     "That would be precognition."
+    ],
+    [
+     "Dreams come from SSRIs",
+     "Not related."
+    ]
+   ],
+   "exp": "Dreams reveal hidden desires, fears and conflicts."
+  },
+  {
+   "q": "Which therapist would most likely use dream interpretation?",
+   "right": "A psychodynamic therapist",
+   "wrong": [
+    [
+     "A behavioral therapist building a fear hierarchy for exposure",
+     "That is behavioral."
+    ],
+    [
+     "A psychiatrist prescribing lithium",
+     "That is biomedical."
+    ],
+    [
+     "A CBT therapist",
+     "CBT works on conscious thoughts."
+    ]
+   ],
+   "exp": "Dream interpretation is psychodynamic."
   }
  ],
  "Hypnosis": [
@@ -3756,6 +5542,44 @@
     ]
    ],
    "exp": "Today hypnosis is used for pain and anxiety, not memory recovery."
+  },
+  {
+   "q": "What is hypnosis used for today, according to your slides?",
+   "right": "Treating pain and anxiety",
+   "wrong": [
+    [
+     "Recovering hidden memories from early childhood accurately",
+     "Research says it's NOT valid for that."
+    ],
+    [
+     "Curing schizophrenia",
+     "Not on your slides."
+    ],
+    [
+     "Age regression",
+     "Research says it's not valid."
+    ]
+   ],
+   "exp": "Today it's used for pain and anxiety by inducing relaxation."
+  },
+  {
+   "q": "Who used hypnosis to try to uncover the unconscious?",
+   "right": "Freud",
+   "wrong": [
+    [
+     "Rogers, who developed client-centered (person-centered) therapy",
+     "Rogers developed person-centered therapy."
+    ],
+    [
+     "Beck",
+     "Beck developed a cognitive theory."
+    ],
+    [
+     "Ellis",
+     "Ellis developed REBT."
+    ]
+   ],
+   "exp": "Freud used hypnosis."
   }
  ],
  "Person-centered (client-centered) therapy": [
@@ -3777,6 +5601,44 @@
     ]
    ],
    "exp": "Carl Rogers' non-directive humanistic therapy."
+  },
+  {
+   "q": "Who developed person-centered therapy?",
+   "right": "Carl Rogers",
+   "wrong": [
+    [
+     "Albert Ellis, who developed rational emotive behavior therapy",
+     "Ellis developed REBT."
+    ],
+    [
+     "Aaron Beck",
+     "Beck's theory is cognitive."
+    ],
+    [
+     "Hans Eysenck",
+     "Eysenck studied therapy outcomes."
+    ]
+   ],
+   "exp": "Rogers = client-centered."
+  },
+  {
+   "q": "Which is the most widely used humanistic therapy?",
+   "right": "Person-centered therapy",
+   "wrong": [
+    [
+     "Psychoanalysis, the therapy based on uncovering the unconscious",
+     "That is psychodynamic."
+    ],
+    [
+     "REBT",
+     "That is cognitive behavioral."
+    ],
+    [
+     "Aversion therapy",
+     "That is behavioral."
+    ]
+   ],
+   "exp": "The most widely used humanistic therapy, developed by Carl Rogers."
   }
  ],
  "Non-directive therapy": [
@@ -3798,6 +5660,44 @@
     ]
    ],
    "exp": "The therapist listens without directing."
+  },
+  {
+   "q": "A client asks, \"What should I do?\" The therapist answers, \"What do you feel is right?\" Which style is this?",
+   "right": "Non-directive",
+   "wrong": [
+    [
+     "Directive, with the therapist telling the client exactly what to do",
+     "The therapist doesn't direct."
+    ],
+    [
+     "Aversive",
+     "That is behavioral."
+    ],
+    [
+     "Biomedical",
+     "That uses drugs."
+    ]
+   ],
+   "exp": "The therapist listens without directing, judging or interpreting."
+  },
+  {
+   "q": "Which therapy is non-directive?",
+   "right": "Person-centered therapy",
+   "wrong": [
+    [
+     "REBT, where the therapist confronts the client's irrational beliefs",
+     "REBT is confrontational."
+    ],
+    [
+     "Token economy",
+     "That is structured rewards."
+    ],
+    [
+     "Systematic desensitization",
+     "That is structured exposure."
+    ]
+   ],
+   "exp": "Person-centered therapy is non-directive."
   }
  ],
  "Unconditional positive regard": [
@@ -3819,6 +5719,44 @@
     ]
    ],
    "exp": "Accepting and valuing the client as a person."
+  },
+  {
+   "q": "A client admits he relapsed into drinking. The therapist still treats him with warmth and acceptance as a person. What is this?",
+   "right": "Unconditional positive regard",
+   "wrong": [
+    [
+     "Aversion therapy that pairs drinking with feeling sick afterward",
+     "That is behavioral."
+    ],
+    [
+     "Resistance",
+     "That is a mental block."
+    ],
+    [
+     "Integrity",
+     "That is honesty."
+    ]
+   ],
+   "exp": "Accepting and valuing the client as a person."
+  },
+  {
+   "q": "Does unconditional positive regard mean the therapist approves of everything the client does?",
+   "right": "No; she values the person, not every act",
+   "wrong": [
+    [
+     "Yes; she must agree with every thought and action the client has",
+     "She accepts the person even if behaviors aren't approved of."
+    ],
+    [
+     "Yes, unless they're in a group",
+     "Not a rule."
+    ],
+    [
+     "No; she judges them harshly",
+     "It's nonjudgmental."
+    ]
+   ],
+   "exp": "Accepting the client as a person even if behaviors aren't always approved of."
   }
  ],
  "Empathy, congruence, UPR": [
@@ -3840,6 +5778,44 @@
     ]
    ],
    "exp": "Understanding, genuineness and acceptance."
+  },
+  {
+   "q": "A counselor is open and genuine with a client rather than putting on a professional act. Which part of person-centered therapy is this?",
+   "right": "Congruence",
+   "wrong": [
+    [
+     "Unconditional positive regard, accepting the client without judgment",
+     "That is acceptance."
+    ],
+    [
+     "Empathy",
+     "That is understanding the client's view."
+    ],
+    [
+     "Resistance",
+     "That is a psychodynamic block."
+    ]
+   ],
+   "exp": "Congruence: genuine, open, real."
+  },
+  {
+   "q": "A therapist tries to see the situation from the client's point of view. Which part of person-centered therapy is this?",
+   "right": "Empathy",
+   "wrong": [
+    [
+     "Congruence, being genuine and open with the client at all times",
+     "That is genuineness."
+    ],
+    [
+     "Unconditional positive regard",
+     "That is acceptance."
+    ],
+    [
+     "Integrity",
+     "That is an ethics principle."
+    ]
+   ],
+   "exp": "Empathy: understanding the client's perspective."
   }
  ],
  "Active listening": [
@@ -3861,6 +5837,44 @@
     ]
    ],
    "exp": "Echoing, restating and clarifying."
+  },
+  {
+   "q": "Which response is active listening?",
+   "right": "\"So you feel left out. Is that right?\"",
+   "wrong": [
+    [
+     "\"That belief is irrational, and here is why you should drop it.\"",
+     "That is REBT-style confrontation."
+    ],
+    [
+     "\"Tell me about your dreams.\"",
+     "That is psychodynamic."
+    ],
+    [
+     "\"You'll earn a token.\"",
+     "That is a token economy."
+    ]
+   ],
+   "exp": "Echo, restate, clarify."
+  },
+  {
+   "q": "Active listening is a central part of which therapy?",
+   "right": "Rogers' client-centered therapy",
+   "wrong": [
+    [
+     "Ellis's rational emotive behavior therapy for irrational beliefs",
+     "REBT confronts beliefs."
+    ],
+    [
+     "Antabuse treatment",
+     "That is aversion therapy."
+    ],
+    [
+     "ECT",
+     "That is biomedical."
+    ]
+   ],
+   "exp": "Active listening is central to Rogers' client-centered therapy."
   }
  ],
  "Cognitive therapy": [
@@ -3882,6 +5896,44 @@
     ]
    ],
    "exp": "Thoughts come between events and emotions."
+  },
+  {
+   "q": "What is the core idea of cognitive therapy?",
+   "right": "Thoughts come between events and emotions",
+   "wrong": [
+    [
+     "Emotions come only from hidden childhood memories we can't reach",
+     "That is psychodynamic."
+    ],
+    [
+     "Behavior comes only from rewards",
+     "That is behavioral."
+    ],
+    [
+     "Chemical imbalances cause everything",
+     "That is biomedical."
+    ]
+   ],
+   "exp": "Cognitive therapy: change thoughts to change emotional reactions."
+  },
+  {
+   "q": "Which two methods does cognitive therapy use, according to your slides?",
+   "right": "Cognitive restructuring and fear hierarchies",
+   "wrong": [
+    [
+     "Free association and dream interpretation in long weekly sessions",
+     "Those are psychodynamic."
+    ],
+    [
+     "Token economy, Antabuse",
+     "Those are behavioral."
+    ],
+    [
+     "ECT, rTMS",
+     "Those are biomedical."
+    ]
+   ],
+   "exp": "Methods: cognitive restructuring and fear hierarchies."
   }
  ],
  "Cognitive restructuring": [
@@ -3903,6 +5955,44 @@
     ]
    ],
    "exp": "Challenging and replacing pessimistic thoughts."
+  },
+  {
+   "q": "A student thinks, \"I bombed one test, so I'll fail out of school.\" Which response is cognitive restructuring?",
+   "right": "\"One test doesn't decide my grade; I can improve.\"",
+   "wrong": [
+    [
+     "\"Let's look at what your dreams about school might mean to you.\"",
+     "That is psychodynamic."
+    ],
+    [
+     "\"You'll earn a sticker for each study hour.\"",
+     "That is a token economy."
+    ],
+    [
+     "\"Let's practice relaxing first.\"",
+     "That is part of systematic desensitization."
+    ]
+   ],
+   "exp": "Challenge the pessimistic thought and replace it with a positive one."
+  },
+  {
+   "q": "Which pair shows the two steps of cognitive restructuring?",
+   "right": "Challenge a thought, then replace it",
+   "wrong": [
+    [
+     "Relax first, and then face each feared situation one step at a time",
+     "That is systematic desensitization."
+    ],
+    [
+     "Earn tokens, trade for rewards",
+     "That is a token economy."
+    ],
+    [
+     "Free associate, then interpret",
+     "That is psychodynamic."
+    ]
+   ],
+   "exp": "Recognize and challenge pessimistic thoughts, then replace them."
   }
  ],
  "Socratic questioning": [
@@ -3924,6 +6014,44 @@
     ]
    ],
    "exp": "Deep questions that challenge thoughts."
+  },
+  {
+   "q": "A therapist asks, \"How might your best friend see this situation differently?\" Which strategy is this?",
+   "right": "Socratic questioning",
+   "wrong": [
+    [
+     "Unconditional positive regard toward the client's every feeling",
+     "That is acceptance, not challenging thoughts."
+    ],
+    [
+     "Free association",
+     "That is saying whatever comes to mind."
+    ],
+    [
+     "Biofeedback",
+     "That uses body sensors."
+    ]
+   ],
+   "exp": "Deep questions that challenge your thoughts."
+  },
+  {
+   "q": "Socratic questioning is a strategy within which method?",
+   "right": "Cognitive restructuring",
+   "wrong": [
+    [
+     "Systematic desensitization with relaxation and a fear hierarchy",
+     "That is behavioral exposure."
+    ],
+    [
+     "Dream interpretation",
+     "That is psychodynamic."
+    ],
+    [
+     "Token economy",
+     "That is behavioral."
+    ]
+   ],
+   "exp": "It's a cognitive restructuring strategy."
   }
  ],
  "Fear hierarchy": [
@@ -3945,6 +6073,44 @@
     ]
    ],
    "exp": "Feared situations ranked from least to most anxiety-provoking."
+  },
+  {
+   "q": "A client afraid of dogs ranks situations from \"seeing a dog picture\" up to \"petting a dog.\" How is this list used?",
+   "right": "To face fears gradually, least to most",
+   "wrong": [
+    [
+     "To decide which dog-related dreams to interpret in the next session",
+     "That is psychodynamic."
+    ],
+    [
+     "To earn tokens",
+     "That is a token economy."
+    ],
+    [
+     "To set medication doses",
+     "Not related."
+    ]
+   ],
+   "exp": "Fear hierarchies let people face fears gradually in a safe way."
+  },
+  {
+   "q": "Which therapy builds a fear hierarchy and adds relaxation techniques?",
+   "right": "Systematic desensitization",
+   "wrong": [
+    [
+     "Aversion therapy, which pairs an unwanted behavior with discomfort",
+     "That is the opposite."
+    ],
+    [
+     "REBT",
+     "That confronts beliefs."
+    ],
+    [
+     "Person-centered therapy",
+     "That is non-directive."
+    ]
+   ],
+   "exp": "Systematic desensitization: fear hierarchy plus relaxation."
   }
  ],
  "Beck's cognitive theory of depression": [
@@ -3966,6 +6132,44 @@
     ]
    ],
    "exp": "Aaron Beck: faulty information processing and the negative triad."
+  },
+  {
+   "q": "According to Aaron Beck, what makes people vulnerable to depression?",
+   "right": "Faulty processing and irrational beliefs",
+   "wrong": [
+    [
+     "Low dopamine levels in the brain's reward pathway and nothing else",
+     "Beck's theory is cognitive."
+    ],
+    [
+     "Unconscious childhood conflicts",
+     "That is psychodynamic."
+    ],
+    [
+     "Lack of rewards",
+     "That is behavioral."
+    ]
+   ],
+   "exp": "Faulty information processing and core irrational beliefs."
+  },
+  {
+   "q": "Which pattern do depressed people develop, according to Beck?",
+   "right": "A negative cognitive triad",
+   "wrong": [
+    [
+     "A fear hierarchy ranked from least to most anxiety-provoking",
+     "That is used in exposure therapy."
+    ],
+    [
+     "A token economy",
+     "That is behavioral."
+    ],
+    [
+     "A therapeutic alliance",
+     "That is the bond with a therapist."
+    ]
+   ],
+   "exp": "Negative thoughts about self, world and future."
   }
  ],
  "Negative cognitive triad": [
@@ -3984,6 +6188,44 @@
     [
      "The OCD cycle",
      "Not related."
+    ]
+   ],
+   "exp": "Me, the world, the future."
+  },
+  {
+   "q": "\"Things will never get better\" is a negative thought about which part of the triad?",
+   "right": "The future",
+   "wrong": [
+    [
+     "Yourself, as in thinking you are worthless or a failure",
+     "That would be \"I'm worthless.\""
+    ],
+    [
+     "The world",
+     "That would be \"No one cares about me.\""
+    ],
+    [
+     "Your past",
+     "The triad is self, world, future."
+    ]
+   ],
+   "exp": "Me, the world, the future."
+  },
+  {
+   "q": "\"No one cares about me\" is a negative thought about which part of the triad?",
+   "right": "The world",
+   "wrong": [
+    [
+     "The future, as in thinking nothing will ever improve",
+     "That would be \"Things will never get better.\""
+    ],
+    [
+     "Yourself",
+     "That would be \"I'm worthless.\""
+    ],
+    [
+     "Your family only",
+     "The triad is self, world, future."
     ]
    ],
    "exp": "Me, the world, the future."
@@ -4008,6 +6250,44 @@
     ]
    ],
    "exp": "Behavioral therapies use conditioning."
+  },
+  {
+   "q": "Which list contains only behavioral therapies?",
+   "right": "Exposure, aversion, token economy, biofeedback",
+   "wrong": [
+    [
+     "Free association, dream interpretation, hypnosis and active listening",
+     "Those are psychodynamic and humanistic."
+    ],
+    [
+     "CBT, DBT, REBT",
+     "Those are cognitive behavioral."
+    ],
+    [
+     "ECT, rTMS, lithium",
+     "Those are biomedical."
+    ]
+   ],
+   "exp": "Behavioral therapies apply conditioning principles."
+  },
+  {
+   "q": "What principle do all behavioral therapies apply?",
+   "right": "Conditioning",
+   "wrong": [
+    [
+     "Uncovering the unconscious through dreams and free association",
+     "That is psychodynamic."
+    ],
+    [
+     "Changing chemical imbalances",
+     "That is biomedical."
+    ],
+    [
+     "Unconditional positive regard",
+     "That is humanistic."
+    ]
+   ],
+   "exp": "Behavioral therapies apply conditioning principles."
   }
  ],
  "Exposure therapy": [
@@ -4029,6 +6309,44 @@
     ]
    ],
    "exp": "Facing what you would normally avoid."
+  },
+  {
+   "q": "Your slide links exposure therapy to which classic example?",
+   "right": "Peter and the rabbit",
+   "wrong": [
+    [
+     "Phineas Gage and the iron rod through his prefrontal cortex",
+     "That is a brain-damage case."
+    ],
+    [
+     "Split-brain patients",
+     "Those are about the hemispheres."
+    ],
+    [
+     "The café example",
+     "That is about sampling."
+    ]
+   ],
+   "exp": "Peter and the rabbit."
+  },
+  {
+   "q": "A client who fears crowds is helped to spend more and more time in busy places until the fear fades. Which therapy is this?",
+   "right": "Exposure therapy",
+   "wrong": [
+    [
+     "Aversion therapy, making the feared thing feel even more unpleasant",
+     "Aversion makes an unwanted behavior unpleasant."
+    ],
+    [
+     "Dream interpretation",
+     "That is psychodynamic."
+    ],
+    [
+     "Token economy",
+     "That uses rewards."
+    ]
+   ],
+   "exp": "Exposing people to what they would normally avoid."
   }
  ],
  "Systematic desensitization": [
@@ -4050,6 +6368,44 @@
     ]
    ],
    "exp": "A fear hierarchy plus relaxation."
+  },
+  {
+   "q": "Which two ingredients define systematic desensitization?",
+   "right": "A fear hierarchy and relaxation",
+   "wrong": [
+    [
+     "Antabuse and a pleasant behavior that the client wants to stop doing",
+     "That is aversion therapy."
+    ],
+    [
+     "Tokens and privileges",
+     "That is a token economy."
+    ],
+    [
+     "Dreams and free association",
+     "That is psychodynamic."
+    ]
+   ],
+   "exp": "Least scary to most scary, while staying relaxed."
+  },
+  {
+   "q": "Why is aversion therapy called the opposite of systematic desensitization?",
+   "right": "One adds discomfort; the other removes fear",
+   "wrong": [
+    [
+     "One uses medication while the other uses only talk therapy sessions",
+     "Both are behavioral conditioning methods."
+    ],
+    [
+     "They treat the same disorder",
+     "They work in opposite directions."
+    ],
+    [
+     "One is humanistic",
+     "Both are behavioral."
+    ]
+   ],
+   "exp": "Desensitization pairs fears with calm; aversion pairs a behavior with discomfort."
   }
  ],
  "Aversion therapy": [
@@ -4071,6 +6427,44 @@
     ]
    ],
    "exp": "Pairing an unpleasant state with an unwanted behavior."
+  },
+  {
+   "q": "A smoker gets a mild unpleasant shock each time he reaches for a cigarette. Which therapy does this match?",
+   "right": "Aversion therapy",
+   "wrong": [
+    [
+     "Systematic desensitization through relaxation and a fear hierarchy",
+     "That reduces fear, not unwanted behavior."
+    ],
+    [
+     "Token economy",
+     "That gives rewards."
+    ],
+    [
+     "ECT",
+     "ECT causes a seizure to treat depression."
+    ]
+   ],
+   "exp": "Pairing an unpleasant state with an unwanted behavior."
+  },
+  {
+   "q": "What kind of conditioning is aversion therapy?",
+   "right": "Counterconditioning",
+   "wrong": [
+    [
+     "Operant conditioning with rewards like tokens and privileges",
+     "That is a token economy."
+    ],
+    [
+     "Biofeedback",
+     "That is control of body responses."
+    ],
+    [
+     "Free association",
+     "That is psychodynamic."
+    ]
+   ],
+   "exp": "Aversion therapy is a type of counterconditioning."
   }
  ],
  "Antabuse": [
@@ -4092,6 +6486,44 @@
     ]
    ],
    "exp": "Antabuse pairs drinking with feeling sick."
+  },
+  {
+   "q": "Why does Antabuse help some people stop drinking?",
+   "right": "Drinking now makes them feel sick",
+   "wrong": [
+    [
+     "It blocks dopamine so that alcohol no longer feels rewarding at all",
+     "Not how it's described on your slides."
+    ],
+    [
+     "It increases GABA",
+     "That is anti-anxiety drugs."
+    ],
+    [
+     "It replaces alcohol",
+     "Not how it works."
+    ]
+   ],
+   "exp": "Pairs a negative outcome with a previously pleasant stimulus."
+  },
+  {
+   "q": "Antabuse is the most common example of which therapy?",
+   "right": "Aversion therapy",
+   "wrong": [
+    [
+     "Systematic desensitization for phobias and other intense fears",
+     "That reduces fears."
+    ],
+    [
+     "Biomedical treatment for bipolar",
+     "That is lithium."
+    ],
+    [
+     "Token economy",
+     "That uses rewards."
+    ]
+   ],
+   "exp": "Antabuse for alcoholism = aversion therapy."
   }
  ],
  "Token economy": [
@@ -4113,6 +6545,44 @@
     ]
    ],
    "exp": "Operant conditioning with tokens for desired behavior."
+  },
+  {
+   "q": "A child earns a gold star for each completed chore and trades five for a toy. Which procedure is this?",
+   "right": "A token economy",
+   "wrong": [
+    [
+     "Aversion therapy that makes skipping chores very unpleasant",
+     "No unpleasant state is used."
+    ],
+    [
+     "Biofeedback",
+     "No sensors are used."
+    ],
+    [
+     "Free association",
+     "That is psychodynamic."
+    ]
+   ],
+   "exp": "5 gold stars = treasure box."
+  },
+  {
+   "q": "A token economy is based on which kind of conditioning?",
+   "right": "Operant conditioning",
+   "wrong": [
+    [
+     "Counterconditioning, like the aversion therapy of Antabuse",
+     "That is aversion therapy."
+    ],
+    [
+     "Biomedical conditioning",
+     "Not a type on your slides."
+    ],
+    [
+     "Unconditional positive regard",
+     "That is humanistic."
+    ]
+   ],
+   "exp": "It rewards desired behavior."
   }
  ],
  "Biofeedback": [
@@ -4134,6 +6604,44 @@
     ]
    ],
    "exp": "Learning to consciously control physiological responses."
+  },
+  {
+   "q": "Which part of biofeedback lets the person learn to control a body response?",
+   "right": "Seeing their own body data",
+   "wrong": [
+    [
+     "Taking a medication that slows the heart down automatically",
+     "Biofeedback uses practice, not drugs."
+    ],
+    [
+     "Being hypnotized",
+     "Not biofeedback."
+    ],
+    [
+     "Talking about dreams",
+     "Not biofeedback."
+    ]
+   ],
+   "exp": "Sensors feed data back; with practice they learn to influence it."
+  },
+  {
+   "q": "Which response could a person learn to control through biofeedback?",
+   "right": "Heart rate",
+   "wrong": [
+    [
+     "Their genetic predisposition to developing a disorder later on",
+     "Genes can't be controlled this way."
+    ],
+    [
+     "Their dreams",
+     "Not on your slides."
+    ],
+    [
+     "Other people's behavior",
+     "Not related."
+    ]
+   ],
+   "exp": "Physiological responses like heart rate and muscle tension."
   }
  ],
  "Cognitive behavioral therapy (CBT)": [
@@ -4155,6 +6663,44 @@
     ]
    ],
    "exp": "CBT applies both cognitive and behavioral principles."
+  },
+  {
+   "q": "A therapist helps a client notice anxious thoughts and also practice going to parties step by step. Which therapy combines these?",
+   "right": "CBT",
+   "wrong": [
+    [
+     "Psychoanalysis, exploring unconscious childhood conflicts and dreams",
+     "That doesn't target thoughts and behaviors directly."
+    ],
+    [
+     "Person-centered therapy",
+     "That is non-directive."
+    ],
+    [
+     "rTMS",
+     "That is biomedical."
+    ]
+   ],
+   "exp": "CBT applies both cognitive and behavioral principles."
+  },
+  {
+   "q": "What is the core idea behind CBT?",
+   "right": "Thinking shapes emotions and behavior",
+   "wrong": [
+    [
+     "Behavior comes only from rewards and has nothing to do with thinking",
+     "CBT says thinking matters."
+    ],
+    [
+     "The unconscious drives everything",
+     "That is psychodynamic."
+    ],
+    [
+     "Only drugs can help",
+     "Not CBT."
+    ]
+   ],
+   "exp": "People's thinking influences their emotions and behavior."
   }
  ],
  "Dialectical behavior therapy (DBT)": [
@@ -4176,6 +6722,44 @@
     ]
    ],
    "exp": "DBT was originally developed for borderline personality disorder."
+  },
+  {
+   "q": "DBT is a modified form of which therapy?",
+   "right": "CBT",
+   "wrong": [
+    [
+     "Psychoanalysis, the therapy of free association and dreams",
+     "DBT is based on CBT."
+    ],
+    [
+     "Person-centered therapy",
+     "DBT is based on CBT."
+    ],
+    [
+     "Aversion therapy",
+     "DBT is based on CBT."
+    ]
+   ],
+   "exp": "DBT is a modified form of CBT."
+  },
+  {
+   "q": "Which goals fit DBT?",
+   "right": "Manage emotions, improve relationships",
+   "wrong": [
+    [
+     "Uncover unconscious conflicts through dreams and free association",
+     "That is psychodynamic."
+    ],
+    [
+     "Stop drinking through Antabuse",
+     "That is aversion therapy."
+    ],
+    [
+     "Earn tokens",
+     "That is a token economy."
+    ]
+   ],
+   "exp": "Manage intense emotions, improve relationships, build a life worth living."
   }
  ],
  "The 4 DBT skills": [
@@ -4197,6 +6781,44 @@
     ]
    ],
    "exp": "Mindfulness, distress tolerance, emotion regulation, interpersonal effectiveness."
+  },
+  {
+   "q": "During a crisis, a client gets through without making things worse. Which DBT skill is she using?",
+   "right": "Distress tolerance",
+   "wrong": [
+    [
+     "Interpersonal effectiveness, keeping relationships while getting needs met",
+     "That is about relationships."
+    ],
+    [
+     "Mindfulness",
+     "That is present-moment awareness."
+    ],
+    [
+     "Emotion regulation",
+     "That is understanding and changing emotions."
+    ]
+   ],
+   "exp": "Distress tolerance: managing a crisis without making it worse."
+  },
+  {
+   "q": "A client asks a friend for help while keeping the friendship strong. Which DBT skill is this?",
+   "right": "Interpersonal effectiveness",
+   "wrong": [
+    [
+     "Distress tolerance, getting through a crisis without making it worse",
+     "That is about crises."
+    ],
+    [
+     "Mindfulness",
+     "That is awareness without judgment."
+    ],
+    [
+     "Emotion regulation",
+     "That is changing emotions."
+    ]
+   ],
+   "exp": "Getting needs met and keeping relationships."
   }
  ],
  "Rational emotive behavior therapy (REBT)": [
@@ -4218,6 +6840,44 @@
     ]
    ],
    "exp": "Ellis: changing beliefs changes emotions."
+  },
+  {
+   "q": "What are the three steps of REBT?",
+   "right": "Identify, challenge, replace",
+   "wrong": [
+    [
+     "Relax, rank fears from least to most, and then face each one in turn",
+     "That is systematic desensitization."
+    ],
+    [
+     "Echo, restate, clarify",
+     "That is active listening."
+    ],
+    [
+     "Alarm, resist, exhaust",
+     "Those are GAS stages."
+    ]
+   ],
+   "exp": "Identify, challenge and replace irrational beliefs."
+  },
+  {
+   "q": "REBT is mainly used for which problem?",
+   "right": "Anxiety",
+   "wrong": [
+    [
+     "Schizophrenia's positive symptoms like hallucinations and delusions",
+     "Those are treated with antipsychotics."
+    ],
+    [
+     "Alcoholism",
+     "That is often aversion therapy."
+    ],
+    [
+     "Bipolar disorder",
+     "That is lithium."
+    ]
+   ],
+   "exp": "Mainly used for anxiety."
   }
  ],
  "Modes of therapy": [
@@ -4239,6 +6899,44 @@
     ]
    ],
    "exp": "Modes: individual or group."
+  },
+  {
+   "q": "A client asks whether she'll get CBT or person-centered therapy. Is that a question about the \"mode\" of therapy?",
+   "right": "No; mode is individual or group",
+   "wrong": [
+    [
+     "Yes; mode means the type of therapy, like CBT or psychoanalysis",
+     "Mode is how therapy is delivered."
+    ],
+    [
+     "Yes, if it's biomedical",
+     "Mode isn't the type."
+    ],
+    [
+     "Mode means the medication",
+     "Mode is individual or group."
+    ]
+   ],
+   "exp": "Modes: how therapy is delivered (individual or group), not the type."
+  },
+  {
+   "q": "Which choice is about the mode of therapy?",
+   "right": "Individual vs. group",
+   "wrong": [
+    [
+     "CBT vs. REBT, two different cognitive behavioral approaches",
+     "That is the type of therapy."
+    ],
+    [
+     "SSRIs vs. lithium",
+     "Those are drugs."
+    ],
+    [
+     "ECT vs. rTMS",
+     "Those are biomedical treatments."
+    ]
+   ],
+   "exp": "Modes are individual or group."
   }
  ],
  "Group therapy": [
@@ -4260,6 +6958,44 @@
     ]
    ],
    "exp": "Cheaper, reduces isolation, shows you aren't the only one."
+  },
+  {
+   "q": "A teen with social anxiety joins a group of peers with the same problem. Which benefit of group therapy does this give him?",
+   "right": "He sees he isn't the only one",
+   "wrong": [
+    [
+     "He gets fully personalized one-on-one attention every week",
+     "That is individual therapy."
+    ],
+    [
+     "It's more private",
+     "Groups are less private."
+    ],
+    [
+     "He gets medication",
+     "That is biomedical."
+    ]
+   ],
+   "exp": "Group therapy shows people they aren't alone, is cheaper, and relieves isolation."
+  },
+  {
+   "q": "Why might a clinic recommend group therapy to a client on a tight budget?",
+   "right": "It's cheaper",
+   "wrong": [
+    [
+     "It is more personalized than any other kind of therapy",
+     "That is individual therapy."
+    ],
+    [
+     "It never needs a therapist",
+     "A therapist leads it."
+    ],
+    [
+     "It replaces medication",
+     "Not on your slides."
+    ]
+   ],
+   "exp": "Group therapy is cheaper."
   }
  ],
  "Individual therapy": [
@@ -4281,6 +7017,44 @@
     ]
    ],
    "exp": "One-on-one: personalized but expensive."
+  },
+  {
+   "q": "Which is a drawback of individual therapy on your slides?",
+   "right": "It's very expensive",
+   "wrong": [
+    [
+     "It is less personalized than group therapy for most clients",
+     "It's more personalized."
+    ],
+    [
+     "It's less flexible",
+     "It's more flexible."
+    ],
+    [
+     "It can't treat any disorder",
+     "It treats many."
+    ]
+   ],
+   "exp": "Personalized, intimate and flexible, but very expensive."
+  },
+  {
+   "q": "Why might a therapist choose individual over group therapy for a client?",
+   "right": "Some disorders don't treat well in groups",
+   "wrong": [
+    [
+     "Group therapy is always more expensive than individual therapy",
+     "Group therapy is cheaper."
+    ],
+    [
+     "Individual therapy relieves isolation better",
+     "Groups help with isolation."
+    ],
+    [
+     "It's required by law",
+     "Not on your slides."
+    ]
+   ],
+   "exp": "Some disorders can't be treated well in a group."
   }
  ]
 }

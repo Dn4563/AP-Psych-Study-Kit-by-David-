@@ -1,0 +1,519 @@
+{
+ "sections": [
+  {
+   "name": "Practice exam: Treatment & Personality",
+   "mode": "exam",
+   "exam": "Treatment & Personality exam",
+   "examTips": [
+    "Like your test: 25 multiple-choice questions, mostly applied. Turn the Timer on and don't look anything up.",
+    "About 1 minute per question. Flag hard ones and come back."
+   ],
+   "tips": [
+    "Every question gives a situation; name the treatment, drug, side effect, ethics principle or disorder that fits.",
+    "Wrong choices are close mix-ups (CBT vs. REBT, desensitization vs. aversion, schizoid vs. avoidant). Cross out what doesn't fit the details."
+   ],
+   "questions": [
+    {
+     "id": "TP1",
+     "type": "mcq",
+     "topic": "Treatment",
+     "stem": "A man with schizophrenia starts a drug that quiets his hallucinations. Months later he develops repetitive, involuntary lip-smacking. Which drug type and side effect fit?",
+     "options": [
+      "An antidepressant (SSRI); tardive dyskinesia",
+      "A mood stabilizer; catatonic stupor",
+      "An antipsychotic; tardive dyskinesia",
+      "An anti-anxiety drug; dependency and drowsiness"
+     ],
+     "ans": 2,
+     "exp": "Antipsychotics block dopamine to reduce positive symptoms; tardive dyskinesia is their movement side effect.",
+     "why": [
+      "Tardive dyskinesia comes from antipsychotics, and SSRIs don't treat hallucinations.",
+      "Catatonic stupor is a negative symptom of schizophrenia, not a drug side effect.",
+      "",
+      "Benzodiazepines can cause dependency, but they don't reduce hallucinations."
+     ]
+    },
+    {
+     "id": "TP2",
+     "type": "mcq",
+     "topic": "Treatment",
+     "stem": "A patient is diagnosed with bipolar disorder. Which medication is the classic treatment on your slides?",
+     "options": [
+      "Prozac, an SSRI that blocks serotonin reuptake",
+      "Xanax, a benzodiazepine that boosts GABA",
+      "Lithium, a mood stabilizer",
+      "Antabuse, which makes alcohol cause sickness"
+     ],
+     "ans": 2,
+     "exp": "Mood stabilizers like lithium treat bipolar disorder.",
+     "why": [
+      "SSRIs are antidepressants; the bipolar example is lithium.",
+      "That is an anti-anxiety drug.",
+      "",
+      "Antabuse is used in aversion therapy for alcoholism."
+     ]
+    },
+    {
+     "id": "TP3",
+     "type": "mcq",
+     "topic": "Treatment",
+     "stem": "A doctor prescribes a drug that depresses the central nervous system and increases the effects of GABA to calm a patient's constant tension. Which side effects should the patient watch for?",
+     "options": [
+      "Drowsiness and dependency",
+      "Tardive dyskinesia and weight gain",
+      "Memory loss and a 40% relapse rate",
+      "Fatigue, forgetfulness and insomnia"
+     ],
+     "ans": 0,
+     "exp": "Anti-anxiety medications (benzodiazepines) can cause drowsiness and dependency.",
+     "why": [
+      "",
+      "Those are antipsychotic side effects.",
+      "Those are ECT drawbacks.",
+      "Those are listed for antidepressants (SSRIs)."
+     ]
+    },
+    {
+     "id": "TP4",
+     "type": "mcq",
+     "topic": "Treatment",
+     "stem": "A patient with chronic depression wants a brain-stimulation treatment where she stays awake, has no seizure, and has no memory loss. Which fits?",
+     "options": [
+      "Electroconvulsive therapy (ECT)",
+      "A lobotomy",
+      "Biofeedback",
+      "rTMS"
+     ],
+     "ans": 3,
+     "exp": "rTMS uses magnetic pulses: no seizures, no memory loss, person awake.",
+     "why": [
+      "ECT causes a seizure and can cause memory loss.",
+      "That is psychosurgery and is rarely used today.",
+      "Biofeedback trains control of body responses; it doesn't stimulate the brain.",
+      ""
+     ]
+    },
+    {
+     "id": "TP5",
+     "type": "mcq",
+     "topic": "Treatment",
+     "stem": "A family is considering ECT for their son's severe depression. Which concern is supported by your slides?",
+     "options": [
+      "It cuts the main connections to the frontal lobe",
+      "It only reduces the positive symptoms of schizophrenia",
+      "About 40% relapse within 6 months",
+      "It is mainly used for mild, everyday anxiety"
+     ],
+     "ans": 2,
+     "exp": "ECT drawbacks: memory loss, about 40% relapse within 6 months, and no one knows why it works.",
+     "why": [
+      "That describes a lobotomy.",
+      "ECT is used for extreme depression.",
+      "",
+      "ECT is for extreme depression."
+     ]
+    },
+    {
+     "id": "TP6",
+     "type": "mcq",
+     "topic": "Treatment",
+     "stem": "During a session, a client says he plans to seriously hurt his roommate tonight. What should the therapist do?",
+     "options": [
+      "Keep it private, because confidentiality has no exceptions at all",
+      "Wait until the next session to discuss it further",
+      "Break confidentiality to protect the roommate",
+      "Switch the client to group therapy"
+     ],
+     "ans": 2,
+     "exp": "Confidentiality is the cardinal rule unless the client is a danger to themselves or others.",
+     "why": [
+      "The exception is danger to self or others.",
+      "The danger is immediate.",
+      "",
+      "That doesn't address the danger."
+     ]
+    },
+    {
+     "id": "TP7",
+     "type": "mcq",
+     "topic": "Treatment",
+     "stem": "A therapist tells a client a treatment is proven to work, even though she knows it isn't. Which ethics principle is she violating?",
+     "options": [
+      "Justice",
+      "Integrity",
+      "Beneficence and nonmaleficence",
+      "Respect for rights and dignity"
+     ],
+     "ans": 1,
+     "exp": "Integrity: honesty, accuracy and transparency. No lying to the client.",
+     "why": [
+      "Justice is about fairness and equal access.",
+      "",
+      "That is about weighing harm; the problem here is lying.",
+      "That is about privacy and self-determination."
+     ]
+    },
+    {
+     "id": "TP8",
+     "type": "mcq",
+     "topic": "Personality",
+     "stem": "A man cons elderly people out of their savings, lies constantly, and shows no guilt. Which disorder and cluster fit best?",
+     "options": [
+      "Narcissistic, Cluster A",
+      "Antisocial, Cluster B",
+      "Paranoid, Cluster A",
+      "Schizotypal, Cluster C"
+     ],
+     "ans": 1,
+     "exp": "Antisocial personality disorder: disregard for others' rights, no remorse. Cluster B.",
+     "why": [
+      "Narcissism is in Cluster B, and its core is self-importance, not violating others' rights.",
+      "",
+      "Paranoid personality disorder is distrust of others.",
+      "Schizotypal is Cluster A and involves odd thinking."
+     ]
+    },
+    {
+     "id": "TP9",
+     "type": "mcq",
+     "topic": "Treatment",
+     "stem": "A therapist mostly listens, restates the client's feelings (\"It sounds like you feel unseen\"), and never tells him what to do. Which therapy and technique are these?",
+     "options": [
+      "Psychodynamic therapy, using free association and dream interpretation",
+      "Person-centered therapy, active listening",
+      "CBT, using cognitive restructuring",
+      "REBT, confronting irrational beliefs"
+     ],
+     "ans": 1,
+     "exp": "Rogers' person-centered therapy uses active listening: echo, restate, clarify.",
+     "why": [
+      "The therapist isn't interpreting the unconscious.",
+      "",
+      "CBT actively challenges thoughts.",
+      "REBT is confrontational, not non-directive."
+     ]
+    },
+    {
+     "id": "TP10",
+     "type": "mcq",
+     "topic": "Treatment",
+     "stem": "A therapist bluntly tells an anxious client, \"It's irrational to believe everyone must like you,\" then has him replace that belief. Which therapy is this?",
+     "options": [
+      "Person-centered therapy",
+      "REBT",
+      "Systematic desensitization",
+      "Psychodynamic therapy"
+     ],
+     "ans": 1,
+     "exp": "REBT (Ellis) confronts irrational beliefs: identify, challenge, replace.",
+     "why": [
+      "That is non-directive and accepting, not confrontational.",
+      "",
+      "That uses relaxation and a fear hierarchy.",
+      "That explores the unconscious."
+     ]
+    },
+    {
+     "id": "TP11",
+     "type": "mcq",
+     "topic": "Treatment",
+     "stem": "A client afraid of flying learns deep breathing, then imagines each step from booking a ticket to takeoff while staying calm. Which therapy is this?",
+     "options": [
+      "Aversion therapy",
+      "A token economy",
+      "Rational emotive behavior therapy (REBT)",
+      "Systematic desensitization"
+     ],
+     "ans": 3,
+     "exp": "Systematic desensitization: a fear hierarchy plus relaxation.",
+     "why": [
+      "Aversion pairs an unwanted behavior with something unpleasant.",
+      "That rewards behavior with tokens.",
+      "REBT confronts beliefs; this uses relaxation and a fear hierarchy.",
+      ""
+     ]
+    },
+    {
+     "id": "TP12",
+     "type": "mcq",
+     "topic": "Treatment",
+     "stem": "To stop drinking, a man takes a pill that makes him sick whenever he drinks alcohol. Which therapy is this, and how does it work?",
+     "options": [
+      "Aversion therapy: drinking is paired with feeling ill",
+      "Systematic desensitization: drinking is paired with relaxation",
+      "Token economy: he earns rewards for staying sober",
+      "Biofeedback: sensors show his body's reaction"
+     ],
+     "ans": 0,
+     "exp": "Antabuse pairs a negative outcome with a previously pleasant stimulus.",
+     "why": [
+      "",
+      "That reduces fear; it doesn't make drinking unpleasant.",
+      "No rewards are involved.",
+      "No sensors or feedback are involved."
+     ]
+    },
+    {
+     "id": "TP13",
+     "type": "mcq",
+     "topic": "Treatment",
+     "stem": "On a psychiatric ward, patients earn points for showering and making their beds and trade them for TV time. Which principle is at work?",
+     "options": [
+      "Operant conditioning (a token economy)",
+      "Counterconditioning (aversion therapy)",
+      "Unconditional positive regard",
+      "Free association"
+     ],
+     "ans": 0,
+     "exp": "A token economy rewards desired behavior with tokens.",
+     "why": [
+      "",
+      "No unpleasant state is paired with a behavior.",
+      "That is a humanistic attitude, not a reward system.",
+      "That is a psychodynamic technique."
+     ]
+    },
+    {
+     "id": "TP14",
+     "type": "mcq",
+     "topic": "Treatment",
+     "stem": "A woman with tension headaches watches a screen that shows her muscle tension and gradually learns to lower it on purpose. Which therapy is this?",
+     "options": [
+      "rTMS",
+      "Hypnosis",
+      "Exposure therapy",
+      "Biofeedback"
+     ],
+     "ans": 3,
+     "exp": "Biofeedback: sensors feed body data back so you learn to control it.",
+     "why": [
+      "rTMS stimulates neurons with magnets.",
+      "Hypnosis induces relaxation but doesn't use sensor feedback.",
+      "Exposure is facing what you avoid.",
+      ""
+     ]
+    },
+    {
+     "id": "TP15",
+     "type": "mcq",
+     "topic": "Treatment",
+     "stem": "A client with borderline personality disorder learns mindfulness, distress tolerance, emotion regulation and interpersonal effectiveness. Which therapy is this?",
+     "options": [
+      "REBT",
+      "DBT",
+      "Psychoanalysis",
+      "Aversion therapy"
+     ],
+     "ans": 1,
+     "exp": "DBT, a modified CBT, was originally developed for borderline personality disorder.",
+     "why": [
+      "REBT confronts irrational beliefs.",
+      "",
+      "That explores the unconscious.",
+      "That pairs a behavior with discomfort."
+     ]
+    },
+    {
+     "id": "TP16",
+     "type": "mcq",
+     "topic": "Treatment",
+     "stem": "During free association, a patient goes blank every time her mother comes up. What would a psychodynamic therapist call this?",
+     "options": [
+      "Resistance",
+      "Flat affect",
+      "Unconditional positive regard",
+      "Catatonic stupor"
+     ],
+     "ans": 0,
+     "exp": "Resistance is a mental block during free association.",
+     "why": [
+      "",
+      "Flat affect is a lack of emotional expression in schizophrenia.",
+      "That is the therapist's accepting attitude.",
+      "That is a lack of movement."
+     ]
+    },
+    {
+     "id": "TP17",
+     "type": "mcq",
+     "topic": "Treatment",
+     "stem": "A client says, \"I'm a failure, nobody cares about me, and it will never get better.\" Which theory explains this pattern, and what is it called?",
+     "options": [
+      "Rogers' unconditional positive regard",
+      "Beck's negative cognitive triad",
+      "Eysenck's finding that therapy doesn't work",
+      "Freud's interpretation of dreams"
+     ],
+     "ans": 1,
+     "exp": "Beck: negative thoughts about me, the world and the future.",
+     "why": [
+      "That is a therapist's accepting attitude.",
+      "",
+      "Eysenck studied therapy outcomes, not thought patterns.",
+      "That is psychodynamic."
+     ]
+    },
+    {
+     "id": "TP18",
+     "type": "mcq",
+     "topic": "Treatment",
+     "stem": "A student cites a 1950s study claiming therapy is no better than no treatment. Which reply best fits current evidence?",
+     "options": [
+      "Meta-analyses show it works, especially with medication",
+      "The study proved that only psychoanalysis is effective for most people",
+      "Modern research shows therapy works only without medication",
+      "Therapy works best when there is no therapeutic alliance"
+     ],
+     "ans": 0,
+     "exp": "Eysenck's 1950s claim has been answered by meta-analyses showing therapy is effective.",
+     "why": [
+      "",
+      "Eysenck found psychoanalysis no better than nothing.",
+      "It works best with medication.",
+      "A strong alliance helps therapy work."
+     ]
+    },
+    {
+     "id": "TP19",
+     "type": "mcq",
+     "topic": "Treatment",
+     "stem": "A psychologist teaches a client relaxation, challenges his negative thoughts, and refers him for medication. Which approach is this?",
+     "options": [
+      "Non-directive therapy",
+      "Psychodynamic therapy",
+      "The eclectic approach",
+      "Deinstitutionalization"
+     ],
+     "ans": 2,
+     "exp": "Eclectic = combining methods that fit the client.",
+     "why": [
+      "She is actively directing treatment.",
+      "She isn't exploring the unconscious.",
+      "",
+      "That is the historical closing of asylums."
+     ]
+    },
+    {
+     "id": "TP20",
+     "type": "mcq",
+     "topic": "Treatment",
+     "stem": "A clinical psychologist believes her client needs an antidepressant. What should happen?",
+     "options": [
+      "The psychologist prescribes it herself after a full evaluation",
+      "The client buys it without a prescription",
+      "The psychologist uses hypnosis instead",
+      "A doctor or psychiatrist prescribes it"
+     ],
+     "ans": 3,
+     "exp": "Medications can only be prescribed by a doctor or psychiatrist.",
+     "why": [
+      "Only doctors and psychiatrists can prescribe.",
+      "It needs a doctor or psychiatrist.",
+      "Hypnosis doesn't replace medication.",
+      ""
+     ]
+    },
+    {
+     "id": "TP21",
+     "type": "mcq",
+     "topic": "Treatment",
+     "stem": "Which is an advantage of group therapy over individual therapy, according to your slides?",
+     "options": [
+      "It's more personalized and more private than individual sessions",
+      "It has more flexible scheduling",
+      "It works for every disorder",
+      "It's cheaper and eases isolation"
+     ],
+     "ans": 3,
+     "exp": "Group: cheaper, shows you aren't alone, coping skills together, relieves isolation.",
+     "why": [
+      "That describes individual therapy.",
+      "That is individual therapy.",
+      "Some disorders need individual therapy.",
+      ""
+     ]
+    },
+    {
+     "id": "TP22",
+     "type": "mcq",
+     "topic": "Personality",
+     "stem": "Ben has no friends and says he doesn't want any; praise and criticism leave him unmoved. Ana has no friends but badly wants them and fears rejection. Which disorders fit?",
+     "options": [
+      "Ben schizoid; Ana avoidant",
+      "Ben avoidant; Ana schizoid",
+      "Ben schizotypal; Ana dependent",
+      "Both have dependent personality disorder"
+     ],
+     "ans": 0,
+     "exp": "Schizoid = no interest in relationships; avoidant = wants them but fears rejection.",
+     "why": [
+      "",
+      "This swaps them: avoidant people want relationships but fear rejection.",
+      "Ben shows no magical thinking, and Ana isn't clingy for decisions.",
+      "Neither relies on others to make decisions."
+     ]
+    },
+    {
+     "id": "TP23",
+     "type": "mcq",
+     "topic": "Personality",
+     "stem": "In the order listed, which clusters do paranoid, histrionic and dependent personality disorders belong to?",
+     "options": [
+      "A, B, C",
+      "B, A, C",
+      "A, C, B",
+      "C, B, A"
+     ],
+     "ans": 0,
+     "exp": "A = odd (paranoid), B = dramatic (histrionic), C = anxious (dependent).",
+     "why": [
+      "",
+      "Paranoid is Cluster A, histrionic is Cluster B.",
+      "Histrionic is B and dependent is C.",
+      "Paranoid is A and dependent is C."
+     ]
+    },
+    {
+     "id": "TP24",
+     "type": "mcq",
+     "topic": "Personality",
+     "stem": "Kara has unstable moods, a shifting self-image, and intense, stormy relationships. Which disorder fits, and which therapy was first developed for it?",
+     "options": [
+      "Bipolar I; lithium",
+      "Histrionic; REBT",
+      "Borderline; DBT",
+      "Narcissistic; psychoanalysis"
+     ],
+     "ans": 2,
+     "exp": "Borderline: instability in mood, self-image and relationships. DBT was developed for it.",
+     "why": [
+      "Bipolar centers on mood episodes, not unstable relationships and self-image.",
+      "Histrionic is attention-seeking; REBT is mainly for anxiety.",
+      "",
+      "Narcissism is grandiosity and entitlement."
+     ]
+    },
+    {
+     "id": "TP25",
+     "type": "mcq",
+     "topic": "Personality",
+     "stem": "Mark redoes all group work himself because no one else will do it right and keeps strict rules for everything, but he has no intrusive thoughts or rituals. Which fits best?",
+     "options": [
+      "Obsessive-compulsive disorder (OCD) with obsessions and compulsions",
+      "Dependent personality disorder",
+      "Paranoid personality disorder",
+      "Obsessive-compulsive personality disorder"
+     ],
+     "ans": 3,
+     "exp": "OCPD: perfectionism, rigidity, need for control, can't delegate.",
+     "why": [
+      "He has no intrusive thoughts or rituals.",
+      "He takes control instead of relying on others.",
+      "His issue is perfectionism, not distrust.",
+      ""
+     ]
+    }
+   ]
+  }
+ ]
+}
