@@ -18,6 +18,25 @@
     ]
    ],
    "exp": "Stress activates the sympathetic system and cortisol, leading to hypertension, headaches and immunosuppression."
+  },
+  {
+   "q": "Which chain shows how stress affects the body, according to your slides?",
+   "right": "Sympathetic system, cortisol, then health effects",
+   "wrong": [
+    [
+     "Parasympathetic system, melatonin, then deep and restful sleep",
+     "Stress activates the sympathetic system, not rest-and-digest."
+    ],
+    [
+     "Leptin, then fullness, then weight loss",
+     "Not the stress chain."
+    ],
+    [
+     "Dopamine, then reward, then motivation",
+     "Not the stress chain."
+    ]
+   ],
+   "exp": "Stress activates the sympathetic system, which releases cortisol, which can cause hypertension, headaches and immunosuppression."
   }
  ],
  "Cortisol": [
@@ -36,6 +55,25 @@
     [
      "Oxytocin",
      "That is the bonding hormone."
+    ]
+   ],
+   "exp": "Cortisol is a stress hormone."
+  },
+  {
+   "q": "A researcher measures a hormone in students' saliva during exam week to see how stressed they are. Which hormone is she most likely measuring?",
+   "right": "Cortisol",
+   "wrong": [
+    [
+     "Oxytocin, the bonding hormone released by the pituitary",
+     "Oxytocin is about bonding."
+    ],
+    [
+     "Melatonin",
+     "That regulates sleep."
+    ],
+    [
+     "Ghrelin",
+     "That signals hunger."
     ]
    ],
    "exp": "Cortisol is a stress hormone."
@@ -60,6 +98,25 @@
     ]
    ],
    "exp": "Hypertension = high blood pressure."
+  },
+  {
+   "q": "Years of constant job stress leave a man with dangerously high blood pressure. Which stress effect is this?",
+   "right": "Hypertension",
+   "wrong": [
+    [
+     "Immunosuppression, which weakens the body's immune system",
+     "That is a weaker immune system."
+    ],
+    [
+     "Eustress",
+     "That is good stress."
+    ],
+    [
+     "Hypervigilance",
+     "That is a PTSD symptom."
+    ]
+   ],
+   "exp": "Hypertension (high blood pressure) is one result of stress."
   }
  ],
  "Immunosuppression": [
@@ -81,6 +138,25 @@
     ]
    ],
    "exp": "Stress pushes the immune system down."
+  },
+  {
+   "q": "Which pair are both results of stress on your slides?",
+   "right": "Immunosuppression and headaches",
+   "wrong": [
+    [
+     "Better immune function and fewer illnesses during exams",
+     "Stress weakens the immune system."
+    ],
+    [
+     "Lower blood pressure and better sleep",
+     "Stress raises blood pressure."
+    ],
+    [
+     "More leptin and less ghrelin",
+     "Not listed as stress results."
+    ]
+   ],
+   "exp": "Stress can cause hypertension, headaches and immunosuppression."
   }
  ],
  "Eustress": [
@@ -102,6 +178,25 @@
     ]
    ],
    "exp": "Eu = good: challenging but manageable stress."
+  },
+  {
+   "q": "Which of these is the best example of eustress?",
+   "right": "Training hard for a race you're excited about",
+   "wrong": [
+    [
+     "Losing your home and all of your belongings in a sudden flood",
+     "That is a catastrophe (distress)."
+    ],
+    [
+     "A daily traffic jam",
+     "That is a daily hassle."
+    ],
+    [
+     "A loved one's death",
+     "That is a significant life change (distress)."
+    ]
+   ],
+   "exp": "Eustress is challenging but manageable and leads to growth."
   }
  ],
  "Distress": [
@@ -123,6 +218,25 @@
     ]
    ],
    "exp": "Dis = bad stress."
+  },
+  {
+   "q": "Which list contains only types of distress on your slides?",
+   "right": "ACEs, catastrophes, life changes, hassles",
+   "wrong": [
+    [
+     "Moving, marriage and pregnancy, which can lead to personal growth",
+     "Your slide lists those under eustress."
+    ],
+    [
+     "Tending and befriending",
+     "That is a stress response."
+    ],
+    [
+     "Alarm, resistance, exhaustion",
+     "Those are GAS stages."
+    ]
+   ],
+   "exp": "Distress includes ACEs, catastrophes, significant life changes and daily hassles."
   }
  ],
  "Catastrophes": [
@@ -141,6 +255,25 @@
     [
      "Eustress",
      "This isn't good stress."
+    ]
+   ],
+   "exp": "Catastrophes are unpredictable, large-scale events."
+  },
+  {
+   "q": "What makes a wildfire a \"catastrophe\" rather than a daily hassle?",
+   "right": "It's unpredictable and large-scale",
+   "wrong": [
+    [
+     "It only affects a single person on a single afternoon",
+     "Catastrophes affect many people."
+    ],
+    [
+     "It is a good kind of stress",
+     "It is distress."
+    ],
+    [
+     "It happens every day",
+     "Daily hassles are everyday."
     ]
    ],
    "exp": "Catastrophes are unpredictable, large-scale events."
@@ -165,6 +298,25 @@
     ]
    ],
    "exp": "Divorce or the death of a loved one."
+  },
+  {
+   "q": "Jo's parents divorce and she moves between two homes. Which type of distress is this?",
+   "right": "A significant life change",
+   "wrong": [
+    [
+     "A catastrophe that affects the whole town at once",
+     "This is a personal life event."
+    ],
+    [
+     "A daily hassle",
+     "It's a major change, not an everyday annoyance."
+    ],
+    [
+     "Eustress",
+     "It's distress."
+    ]
+   ],
+   "exp": "Divorce or the death of a loved one."
   }
  ],
  "Daily hassles": [
@@ -186,6 +338,25 @@
     ]
    ],
    "exp": "Everyday distress."
+  },
+  {
+   "q": "A student says, \"Nothing huge went wrong, but my bus was late, my phone died and I have three deadlines.\" Which type of stress is this?",
+   "right": "Daily hassles",
+   "wrong": [
+    [
+     "A significant life change, like a divorce in the family",
+     "These are small, everyday problems."
+    ],
+    [
+     "A catastrophe",
+     "Nothing large-scale happened."
+    ],
+    [
+     "Eustress",
+     "This is distress."
+    ]
+   ],
+   "exp": "Everyday distress like a dead phone, no Wi-Fi and deadlines."
   }
  ],
  "Adverse Childhood Experiences (ACEs)": [
@@ -207,6 +378,25 @@
     ]
    ],
    "exp": "ACEs: stressful or traumatic events from ages 0 to 17."
+  },
+  {
+   "q": "A 30-year-old was neglected as a child. Why might her doctor ask about it, according to your slides?",
+   "right": "ACEs affect health into adulthood",
+   "wrong": [
+    [
+     "ACEs only matter while the person is still a young child",
+     "ACEs affect the brain and health as children grow into adults."
+    ],
+    [
+     "ACEs only affect teeth",
+     "Not on your slides."
+    ],
+    [
+     "ACEs are a type of eustress",
+     "They are distress."
+    ]
+   ],
+   "exp": "ACEs affect a child's brain and health as they grow into adults."
   }
  ],
  "Three types of ACEs": [
@@ -228,6 +418,25 @@
     ]
    ],
    "exp": "A-N-H: abuse, neglect, household."
+  },
+  {
+   "q": "A child lives with a parent who abuses alcohol. Which of the three ACE types is this?",
+   "right": "Household dysfunction",
+   "wrong": [
+    [
+     "Neglect of the child's physical or emotional needs",
+     "The issue described is the household situation."
+    ],
+    [
+     "Abuse",
+     "No one is said to harm the child directly."
+    ],
+    [
+     "Catastrophe",
+     "That isn't an ACE type."
+    ]
+   ],
+   "exp": "A parent who abuses substances counts as household dysfunction."
   }
  ],
  "ACE: Abuse": [
@@ -249,6 +458,25 @@
     ]
    ],
    "exp": "Physical, emotional or sexual abuse."
+  },
+  {
+   "q": "Which situation counts as the \"abuse\" type of ACE?",
+   "right": "A parent who constantly insults and belittles the child",
+   "wrong": [
+    [
+     "A parent who is in prison and can't be there for the child",
+     "That is household dysfunction."
+    ],
+    [
+     "A parent who forgets meals",
+     "That is neglect."
+    ],
+    [
+     "Domestic violence between parents",
+     "That is household dysfunction."
+    ]
+   ],
+   "exp": "Abuse can be physical, emotional or sexual."
   }
  ],
  "ACE: Neglect": [
@@ -270,6 +498,25 @@
     ]
    ],
    "exp": "Physical or emotional neglect."
+  },
+  {
+   "q": "What separates neglect from abuse as an ACE?",
+   "right": "Neglect is failing to meet needs",
+   "wrong": [
+    [
+     "Neglect only happens in households where a parent is in prison",
+     "That is household dysfunction."
+    ],
+    [
+     "Neglect is physical harm",
+     "That is abuse."
+    ],
+    [
+     "Neglect is good stress",
+     "It's distress."
+    ]
+   ],
+   "exp": "Neglect is physical or emotional neglect; abuse is harm done to the child."
   }
  ],
  "ACE: Household dysfunction": [
@@ -291,6 +538,25 @@
     ]
    ],
    "exp": "Includes substance abuse, domestic violence, mental illness or an incarcerated parent."
+  },
+  {
+   "q": "Which situation counts as household dysfunction?",
+   "right": "A parent with a serious mental illness",
+   "wrong": [
+    [
+     "A parent who hits the child whenever he gets bad grades at school",
+     "That is abuse."
+    ],
+    [
+     "A parent who ignores the child's needs",
+     "That is neglect."
+    ],
+    [
+     "Moving to a new city",
+     "That isn't listed as an ACE."
+    ]
+   ],
+   "exp": "Substance abuse, domestic violence, mental illness or incarceration."
   }
  ],
  "Health risks of ACEs": [
@@ -312,6 +578,25 @@
     ]
    ],
    "exp": "ACEs are linked to obesity, heart disease, depression and more."
+  },
+  {
+   "q": "Which behaviors are linked to ACEs on your slides?",
+   "right": "Smoking, alcoholism and drug use",
+   "wrong": [
+    [
+     "Extra exercise, better grades and stronger friendships overall",
+     "ACEs are linked to risks, not benefits."
+    ],
+    [
+     "Perfect sleep",
+     "Not listed."
+    ],
+    [
+     "Less risk of disease",
+     "ACEs raise disease risk."
+    ]
+   ],
+   "exp": "Behaviors: missed work, inactivity, smoking, alcoholism, drug use."
   }
  ],
  "General Adaptation Syndrome (GAS)": [
@@ -333,6 +618,25 @@
     ]
    ],
    "exp": "Alarm, resistance, exhaustion."
+  },
+  {
+   "q": "A nurse works months of double shifts. Which GAS sequence will her body most likely go through?",
+   "right": "Alarm, resistance, exhaustion",
+   "wrong": [
+    [
+     "Resistance, then alarm, then a full recovery after a short while",
+     "Alarm comes first, and recovery isn't a stage."
+    ],
+    [
+     "Exhaustion, alarm, resistance",
+     "Out of order."
+    ],
+    [
+     "Tend, befriend, cope",
+     "That isn't GAS."
+    ]
+   ],
+   "exp": "A-R-E: alarm, resistance, exhaustion."
   }
  ],
  "Alarm stage": [
@@ -354,6 +658,25 @@
     ]
    ],
    "exp": "Alarm: fight-or-flight activates."
+  },
+  {
+   "q": "Which stage of GAS is the same as the fight-or-flight response kicking in?",
+   "right": "Alarm",
+   "wrong": [
+    [
+     "Resistance, when the body keeps adapting to the stressor",
+     "That comes after the first reaction."
+    ],
+    [
+     "Exhaustion",
+     "That is when resources run out."
+    ],
+    [
+     "Tending",
+     "That is part of tend-and-befriend."
+    ]
+   ],
+   "exp": "Alarm: immediate stress, fight-or-flight activated."
   }
  ],
  "Resistance stage": [
@@ -372,6 +695,25 @@
     [
      "Eustress",
      "That is a type of stress, not a stage."
+    ]
+   ],
+   "exp": "Resistance: still high stress, using up reserves."
+  },
+  {
+   "q": "In which GAS stage are cortisol and epinephrine still flowing while the body uses up its reserves?",
+   "right": "Resistance",
+   "wrong": [
+    [
+     "Exhaustion, when the body's resources are already gone",
+     "In exhaustion the reserves are already depleted."
+    ],
+    [
+     "Alarm",
+     "That is the first reaction."
+    ],
+    [
+     "Recovery",
+     "Not a GAS stage."
     ]
    ],
    "exp": "Resistance: still high stress, using up reserves."
@@ -396,6 +738,25 @@
     ]
    ],
    "exp": "Exhaustion: resources depleted, health problems follow."
+  },
+  {
+   "q": "Why do people in the exhaustion stage of GAS get sick more often?",
+   "right": "Their resources are depleted",
+   "wrong": [
+    [
+     "Their bodies are full of fresh energy reserves for fighting illness",
+     "Reserves are used up."
+    ],
+    [
+     "They're in fight-or-flight",
+     "That is the alarm stage."
+    ],
+    [
+     "They have too much leptin",
+     "Not on your slides."
+    ]
+   ],
+   "exp": "Depleted resources weaken coping and lead to health issues."
   }
  ],
  "Tend-and-befriend theory": [
@@ -417,6 +778,25 @@
     ]
    ],
    "exp": "Seeking support and caring for others, observed mainly in women."
+  },
+  {
+   "q": "Why did tend-and-befriend evolve, according to your slides?",
+   "right": "To help females protect offspring and themselves",
+   "wrong": [
+    [
+     "To help males win fights against rivals over territory and mates",
+     "It's described as an evolved female response."
+    ],
+    [
+     "To lower blood pressure only",
+     "Not the reason given."
+    ],
+    [
+     "To avoid all social contact",
+     "It involves seeking social contact."
+    ]
+   ],
+   "exp": "Evolutionary psychology: so females could ensure the survival of offspring and themselves."
   }
  ],
  "Tending": [
@@ -438,6 +818,25 @@
     ]
    ],
    "exp": "Tending = caring for others."
+  },
+  {
+   "q": "During a blackout, a mother gathers her kids, comforts them and shares food. Which part of tend-and-befriend is this?",
+   "right": "Tending",
+   "wrong": [
+    [
+     "Befriending, building connections with friends and neighbors",
+     "She is caring for her children."
+    ],
+    [
+     "Fight-or-flight",
+     "She isn't fighting or fleeing."
+    ],
+    [
+     "Problem-focused coping",
+     "Not the tend-and-befriend term."
+    ]
+   ],
+   "exp": "Tending = protecting and nurturing offspring."
   }
  ],
  "Befriending": [
@@ -459,6 +858,25 @@
     ]
    ],
    "exp": "Befriending = strengthening social connections."
+  },
+  {
+   "q": "After a layoff, coworkers form a group chat to share job leads and support each other. Which part of tend-and-befriend is this?",
+   "right": "Befriending",
+   "wrong": [
+    [
+     "Tending, protecting and nurturing one's own children",
+     "This is about social connections."
+    ],
+    [
+     "Emotion-focused coping only",
+     "The tend-and-befriend term is befriending."
+    ],
+    [
+     "Alarm",
+     "That is a GAS stage."
+    ]
+   ],
+   "exp": "Befriending = strengthening social connections for mutual support."
   }
  ],
  "Problem-focused coping": [
@@ -480,6 +898,25 @@
     ]
    ],
    "exp": "Tackling the root cause of the stressor."
+  },
+  {
+   "q": "When does problem-focused coping work best, according to your slides?",
+   "right": "When the stressor can be changed",
+   "wrong": [
+    [
+     "When the stressor is completely out of the person's control",
+     "Then emotion-focused coping is used."
+    ],
+    [
+     "Only after a catastrophe",
+     "Not on your slides."
+    ],
+    [
+     "Only in children",
+     "Not on your slides."
+    ]
+   ],
+   "exp": "It works best when the stressor can be changed or controlled."
   }
  ],
  "Emotion-focused coping": [
@@ -501,6 +938,25 @@
     ]
    ],
    "exp": "Regulating your emotional response, not the stressor."
+  },
+  {
+   "q": "A student's grandmother is terminally ill, which he can't change. Which coping style fits best?",
+   "right": "Emotion-focused coping",
+   "wrong": [
+    [
+     "Problem-focused coping, fixing the cause of the stress directly",
+     "The stressor can't be changed."
+    ],
+    [
+     "Hypertension",
+     "That is a stress result."
+    ],
+    [
+     "Alarm",
+     "That is a GAS stage."
+    ]
+   ],
+   "exp": "Used when the stressor seems uncontrollable."
   }
  ],
  "When is it a disorder? (the 3 Ds)": [
@@ -522,6 +978,25 @@
     ]
    ],
    "exp": "Deviant, dysfunctional/maladaptive and distressing."
+  },
+  {
+   "q": "Aisha wears unusual clothes but is happy and functions well at school and work. Is this a disorder by the 3 Ds?",
+   "right": "No; only deviant, not dysfunctional or distressing",
+   "wrong": [
+    [
+     "Yes, because anything unusual or different counts as a disorder",
+     "All three Ds are needed."
+    ],
+    [
+     "Yes, because she's distressed",
+     "She is happy."
+    ],
+    [
+     "Yes, because she can't function",
+     "She functions well."
+    ]
+   ],
+   "exp": "A disorder must be deviant, dysfunctional and distressing."
   }
  ],
  "Deviant": [
@@ -543,6 +1018,25 @@
     ]
    ],
    "exp": "Deviant = different from social norms."
+  },
+  {
+   "q": "Why is \"deviant\" alone not enough to call something a disorder?",
+   "right": "Unusual isn't always harmful",
+   "wrong": [
+    [
+     "Deviant behavior is always dangerous to the person and others",
+     "Not all deviant behavior is harmful."
+    ],
+    [
+     "Deviant means distressing",
+     "Those are separate Ds."
+    ],
+    [
+     "The DSM-5 ignores deviance",
+     "It's one of the 3 Ds."
+    ]
+   ],
+   "exp": "A disorder must also be dysfunctional and distressing."
   }
  ],
  "Dysfunctional / maladaptive": [
@@ -564,6 +1058,25 @@
     ]
    ],
    "exp": "It interferes with daily functioning."
+  },
+  {
+   "q": "Which detail shows a behavior is dysfunctional?",
+   "right": "It keeps the person from working",
+   "wrong": [
+    [
+     "It is unusual compared with the person's culture and social norms",
+     "That is deviant."
+    ],
+    [
+     "It upsets the person",
+     "That is distressing."
+    ],
+    [
+     "It is common",
+     "Common behaviors can still be dysfunctional or not."
+    ]
+   ],
+   "exp": "Dysfunctional = interferes with daily functioning."
   }
  ],
  "Distressing": [
@@ -585,6 +1098,25 @@
     ]
    ],
    "exp": "It causes distress for the person or others."
+  },
+  {
+   "q": "A man's behavior doesn't bother him, but it deeply upsets his family. Can it still count as distressing?",
+   "right": "Yes, distress can be to others",
+   "wrong": [
+    [
+     "No, it only counts if the person himself is suffering from it",
+     "The card says distress for the person or for others."
+    ],
+    [
+     "No, families don't count",
+     "They do."
+    ],
+    [
+     "Only if it's deviant",
+     "Distressing is its own D."
+    ]
+   ],
+   "exp": "Distressing: causes distress for the person or for others."
   }
  ],
  "DSM-5": [
@@ -606,6 +1138,25 @@
     ]
    ],
    "exp": "Diagnostic and Statistical Manual of Mental Disorders, 5th edition."
+  },
+  {
+   "q": "A therapist checks whether a client's symptoms meet official criteria to label a disorder. Which book does she use?",
+   "right": "The DSM-5",
+   "wrong": [
+    [
+     "The MMPI personality test given to clients in many clinics",
+     "Not on your slides."
+    ],
+    [
+     "The APA ethics code",
+     "That is about research ethics."
+    ],
+    [
+     "A textbook on evolution",
+     "Not the manual."
+    ]
+   ],
+   "exp": "Used to classify (label) disorders in the U.S."
   }
  ],
  "Biological explanation": [
@@ -627,6 +1178,25 @@
     ]
    ],
    "exp": "Chemical imbalances, genetics and brain structure."
+  },
+  {
+   "q": "Which finding would a biological explanation of a disorder point to?",
+   "right": "A tumor pressing on the brain",
+   "wrong": [
+    [
+     "A child who learned to fear dogs after being bitten by one",
+     "That is behavioral."
+    ],
+    [
+     "Irrational beliefs",
+     "That is cognitive."
+    ],
+    [
+     "A lack of social support",
+     "That is humanistic."
+    ]
+   ],
+   "exp": "Medical or genetic issues, chemical imbalances, tumors, brain structure."
   }
  ],
  "Psychodynamic explanation": [
@@ -645,6 +1215,25 @@
     [
      "Evolutionary",
      "That would point to survival."
+    ]
+   ],
+   "exp": "Unconscious thoughts and childhood experiences."
+  },
+  {
+   "q": "Which explanation would point to a client's unresolved feelings about her childhood, outside her awareness?",
+   "right": "Psychodynamic",
+   "wrong": [
+    [
+     "Behavioral, about responses learned through conditioning",
+     "That is about learned responses."
+    ],
+    [
+     "Biological",
+     "That is about the body."
+    ],
+    [
+     "Sociocultural",
+     "That is about social dynamics."
     ]
    ],
    "exp": "Unconscious thoughts and childhood experiences."
@@ -669,6 +1258,25 @@
     ]
    ],
    "exp": "Responses learned through conditioning and reinforcement."
+  },
+  {
+   "q": "A teen is praised every time he acts helpless, so he acts more helpless. Which explanation of his behavior is this?",
+   "right": "Behavioral",
+   "wrong": [
+    [
+     "Cognitive, about his irrational thoughts and beliefs",
+     "The cause here is reinforcement."
+    ],
+    [
+     "Evolutionary",
+     "That is about survival."
+    ],
+    [
+     "Psychodynamic",
+     "That is about the unconscious."
+    ]
+   ],
+   "exp": "Responses learned through conditioning and reinforcement."
   }
  ],
  "Cognitive explanation": [
@@ -687,6 +1295,25 @@
     [
      "Evolutionary",
      "That focuses on survival."
+    ]
+   ],
+   "exp": "Maladaptive, irrational thoughts and beliefs."
+  },
+  {
+   "q": "A therapist links a client's anxiety to her belief that \"if I make one mistake, everyone will hate me.\" Which explanation is this?",
+   "right": "Cognitive",
+   "wrong": [
+    [
+     "Biological, from a chemical imbalance in her brain",
+     "The cause here is a belief."
+    ],
+    [
+     "Behavioral",
+     "That is learned through reinforcement."
+    ],
+    [
+     "Humanistic",
+     "That is about support and potential."
     ]
    ],
    "exp": "Maladaptive, irrational thoughts and beliefs."
@@ -711,6 +1338,25 @@
     ]
    ],
    "exp": "Social and cultural relationships and dynamics."
+  },
+  {
+   "q": "Which explanation would focus on how a person's family dynamics and culture shape her disorder?",
+   "right": "Sociocultural",
+   "wrong": [
+    [
+     "Biological, focused on genes and brain chemistry",
+     "That is about the body."
+    ],
+    [
+     "Psychodynamic",
+     "That is about the unconscious."
+    ],
+    [
+     "Evolutionary",
+     "That is about survival."
+    ]
+   ],
+   "exp": "Social and cultural relationships and dynamics."
   }
  ],
  "Humanistic explanation": [
@@ -732,6 +1378,25 @@
     ]
    ],
    "exp": "Lack of support and unmet potential."
+  },
+  {
+   "q": "A lonely young man feels stuck and unable to grow. Which explanation of his depression fits this description?",
+   "right": "Humanistic",
+   "wrong": [
+    [
+     "Behavioral, learned through conditioning and reinforcement",
+     "Not about reinforcement."
+    ],
+    [
+     "Biological",
+     "Not about the body."
+    ],
+    [
+     "Psychodynamic",
+     "Not about the unconscious."
+    ]
+   ],
+   "exp": "Lack of social support and inability to reach full potential."
   }
  ],
  "Evolutionary explanation": [
@@ -753,6 +1418,25 @@
     ]
    ],
    "exp": "Evolutionary: processes that reduce survival chances."
+  },
+  {
+   "q": "Which explanation asks how a disorder's behaviors reduce a person's chance of survival?",
+   "right": "Evolutionary",
+   "wrong": [
+    [
+     "Cognitive, which looks at a person's irrational thoughts",
+     "That is about thoughts."
+    ],
+    [
+     "Humanistic",
+     "That is about potential."
+    ],
+    [
+     "Behavioral",
+     "That is about learning."
+    ]
+   ],
+   "exp": "Behaviors and mental processes that reduce our chance of survival."
   }
  ],
  "Intern syndrome": [
@@ -774,6 +1458,25 @@
     ]
    ],
    "exp": "Students often believe they have the conditions they study."
+  },
+  {
+   "q": "What is your slide's rule for avoiding intern syndrome?",
+   "right": "Don't diagnose yourself or others",
+   "wrong": [
+    [
+     "Study only one disorder at a time so you don't get them confused",
+     "The rule is about diagnosing."
+    ],
+    [
+     "Always trust your first guess",
+     "Not the rule."
+    ],
+    [
+     "Diagnose friends to practice",
+     "That breaks the rule."
+    ]
+   ],
+   "exp": "You are not qualified to diagnose yourself or others."
   }
  ],
  "Anxiety disorders": [
@@ -795,6 +1498,25 @@
     ]
    ],
    "exp": "GAD, panic disorder, phobias and others."
+  },
+  {
+   "q": "Which three disorders does your slide list among anxiety disorders?",
+   "right": "GAD, panic disorder and phobias",
+   "wrong": [
+    [
+     "OCD, hoarding and PTSD, which all involve intense anxiety",
+     "Those are in their own DSM-5 categories."
+    ],
+    [
+     "Bipolar I and II",
+     "Those are mood disorders."
+    ],
+    [
+     "ADHD and ASD",
+     "Those are neurodevelopmental."
+    ]
+   ],
+   "exp": "Anxiety disorders include GAD, panic disorder and phobias."
   }
  ],
  "Specific phobia": [
@@ -816,6 +1538,25 @@
     ]
    ],
    "exp": "Intense fear out of proportion to the actual threat."
+  },
+  {
+   "q": "What makes a fear of heights a specific phobia rather than ordinary caution?",
+   "right": "It's out of proportion and disrupts daily life",
+   "wrong": [
+    [
+     "Any fear at all of high places counts as a specific phobia",
+     "Ordinary caution isn't a phobia."
+    ],
+    [
+     "It must involve animals",
+     "Phobias can be of many things."
+    ],
+    [
+     "It must last 2 years",
+     "Not the criterion on your slides."
+    ]
+   ],
+   "exp": "Intense or irrational fear out of proportion to the threat that interferes with daily living."
   }
  ],
  "Symptoms of specific phobias": [
@@ -837,6 +1578,25 @@
     ]
    ],
    "exp": "Intense fear, avoidance, panic attacks, feeling out of control."
+  },
+  {
+   "q": "A woman afraid of dentists skips appointments and won't drive past the office. Which kind of symptom is this?",
+   "right": "A behavioral symptom: avoidance",
+   "wrong": [
+    [
+     "A physical symptom such as sweating, tremors and a racing heart",
+     "Avoidance is behavioral."
+    ],
+    [
+     "A positive symptom",
+     "That is schizophrenia."
+    ],
+    [
+     "A cognitive symptom only",
+     "Avoiding places is behavioral."
+    ]
+   ],
+   "exp": "Behavioral: avoiding the object and places where contact is possible."
   }
  ],
  "Agoraphobia": [
@@ -858,6 +1618,25 @@
     ]
    ],
    "exp": "Anxiety about crowds, open or enclosed spaces, transport, being out alone."
+  },
+  {
+   "q": "What does the hook \"Agora = marketplace\" help you remember about agoraphobia?",
+   "right": "Fear of being out where escape is hard",
+   "wrong": [
+    [
+     "Fear of shopping only, and of nothing else in the outside world",
+     "It covers crowds, transport, open and enclosed places."
+    ],
+    [
+     "Fear of spiders",
+     "That is a specific phobia."
+    ],
+    [
+     "Fear of being judged",
+     "That is social anxiety."
+    ]
+   ],
+   "exp": "Agora = marketplace: fear of being out where escape is hard."
   }
  ],
  "Symptoms of agoraphobia": [
@@ -879,6 +1658,25 @@
     ]
    ],
    "exp": "Avoidance, staying home and isolation, with fear of a panic attack."
+  },
+  {
+   "q": "Which is a cognitive symptom of agoraphobia?",
+   "right": "Fear of being trapped and unable to escape",
+   "wrong": [
+    [
+     "Sweating, shaking and a pounding heart in a crowded place",
+     "Those are physical."
+    ],
+    [
+     "Staying home",
+     "That is behavioral."
+    ],
+    [
+     "Social isolation",
+     "That is behavioral."
+    ]
+   ],
+   "exp": "Cognitive: fear of a panic attack, of being trapped, or of losing control."
   }
  ],
  "Panic disorder": [
@@ -900,6 +1698,25 @@
     ]
    ],
    "exp": "Recurring sudden panic attacks."
+  },
+  {
+   "q": "What separates panic disorder from the panic everyone feels sometimes?",
+   "right": "It happens regularly, often for no reason",
+   "wrong": [
+    [
+     "It only ever happens once, during a single scary event",
+     "It's regular."
+    ],
+    [
+     "It never involves anxiety",
+     "It does."
+    ],
+    [
+     "It only happens at night",
+     "Not on your slides."
+    ]
+   ],
+   "exp": "Panic disorder: regular panic at any time, often for no apparent reason."
   }
  ],
  "Symptoms of panic disorder": [
@@ -921,6 +1738,25 @@
     ]
    ],
    "exp": "Panic attacks, plus anxiety about having panic attacks."
+  },
+  {
+   "q": "Marco has had three panic attacks and now spends every day worrying about when the next one will hit. Which part of panic disorder does that worry show?",
+   "right": "Anxiety about having more attacks",
+   "wrong": [
+    [
+     "A specific phobia of one object, like spiders or needles",
+     "His fear is of the attacks themselves."
+    ],
+    [
+     "Social anxiety",
+     "His fear isn't about being judged."
+    ],
+    [
+     "Hoarding",
+     "Not related."
+    ]
+   ],
+   "exp": "Panic disorder includes anxiety about having panic attacks."
   }
  ],
  "Social anxiety disorder (social phobia)": [
@@ -942,6 +1778,25 @@
     ]
    ],
    "exp": "Intense fear of social situations where one may be judged."
+  },
+  {
+   "q": "Which situation would most likely trigger social anxiety disorder?",
+   "right": "Giving a speech to classmates",
+   "wrong": [
+    [
+     "Riding a crowded bus without knowing where the nearest exit is",
+     "That fear of escape fits agoraphobia."
+    ],
+    [
+     "Seeing a spider",
+     "That is a specific phobia."
+    ],
+    [
+     "Leaving the stove on",
+     "That fits OCD."
+    ]
+   ],
+   "exp": "Fear of social situations where one may be judged."
   }
  ],
  "Symptoms of social anxiety disorder": [
@@ -963,6 +1818,25 @@
     ]
    ],
    "exp": "Fear of embarrassment or rejection, trouble with eye contact or speaking."
+  },
+  {
+   "q": "After every party, Leah replays each conversation for hours, sure she embarrassed herself. Which symptom is this?",
+   "right": "Overanalyzing social interactions",
+   "wrong": [
+    [
+     "A compulsion to repeat the same action over and over again",
+     "That is OCD."
+    ],
+    [
+     "A fugue state",
+     "That is dissociative."
+    ],
+    [
+     "A manic episode",
+     "That is bipolar."
+    ]
+   ],
+   "exp": "Overanalyzing social interactions is a symptom of social anxiety disorder."
   }
  ],
  "Generalized anxiety disorder (GAD)": [
@@ -984,6 +1858,25 @@
     ]
    ],
    "exp": "Nonspecific, uncontrollable worry for at least 6 months."
+  },
+  {
+   "q": "How long must the worry last for a GAD diagnosis?",
+   "right": "At least 6 months",
+   "wrong": [
+    [
+     "At least two full years without any break from the worrying",
+     "Two years is persistent depressive disorder."
+    ],
+    [
+     "Two weeks",
+     "That is MDD."
+    ],
+    [
+     "One day",
+     "Too short."
+    ]
+   ],
+   "exp": "GAD: at least 6 months and interfering with daily functioning."
   }
  ],
  "Symptoms of GAD": [
@@ -1005,6 +1898,25 @@
     ]
    ],
    "exp": "Worry plus muscle aches, poor concentration, fatigue, irritability, restlessness, sleep trouble."
+  },
+  {
+   "q": "Which physical symptom is listed for GAD?",
+   "right": "Muscle aches and soreness",
+   "wrong": [
+    [
+     "Hearing voices that tell the person what they should do",
+     "That is a hallucination."
+    ],
+    [
+     "Weight loss from restricting food",
+     "That fits anorexia."
+    ],
+    [
+     "Tremors only during social events",
+     "That fits social anxiety."
+    ]
+   ],
+   "exp": "GAD: muscle aches, poor concentration, fatigue, irritability, restlessness, sleep trouble."
   }
  ],
  "Behavioral cause of anxiety disorders": [
@@ -1026,6 +1938,25 @@
     ]
    ],
    "exp": "Anxiety can be learned by association or modeling."
+  },
+  {
+   "q": "A boy who was trapped in an elevator now panics in elevators. Which cause of anxiety does this show?",
+   "right": "Behavioral: linking a situation with danger",
+   "wrong": [
+    [
+     "Genetic: a predisposition to anxiety that runs in the family",
+     "The cause here is the bad experience."
+    ],
+    [
+     "Biological",
+     "Not about chemicals."
+    ],
+    [
+     "Cognitive only",
+     "The key is the learned association."
+    ]
+   ],
+   "exp": "Associating situations or objects with danger."
   }
  ],
  "Cognitive cause of anxiety disorders": [
@@ -1047,6 +1978,25 @@
     ]
    ],
    "exp": "Maladaptive thinking and emotional responses."
+  },
+  {
+   "q": "Which thought shows the cognitive cause of anxiety?",
+   "right": "\"If I fail this quiz, my life is ruined.\"",
+   "wrong": [
+    [
+     "\"My parents both have anxiety, so I probably inherited it from them.\"",
+     "That points to genetics."
+    ],
+    [
+     "\"My GABA must be low.\"",
+     "That is biological."
+    ],
+    [
+     "\"I learned to fear dogs after a bite.\"",
+     "That is behavioral."
+    ]
+   ],
+   "exp": "Maladaptive thinking."
   }
  ],
  "Biological cause of anxiety disorders": [
@@ -1068,6 +2018,25 @@
     ]
    ],
    "exp": "Neurotransmitter and hormonal imbalances."
+  },
+  {
+   "q": "Why might a doctor treat anxiety with a drug that boosts GABA?",
+   "right": "Low GABA is a biological cause",
+   "wrong": [
+    [
+     "Too much GABA causes anxiety, so the drug will remove extra GABA",
+     "Imbalances like low GABA are linked to anxiety."
+    ],
+    [
+     "GABA is a hormone",
+     "It's a neurotransmitter."
+    ],
+    [
+     "GABA causes phobias",
+     "Not on your slides."
+    ]
+   ],
+   "exp": "Imbalances in serotonin and GABA are a biological cause."
   }
  ],
  "Genetic cause of anxiety disorders": [
@@ -1086,6 +2055,25 @@
     [
      "Catastrophes",
      "That is a stressor type."
+    ]
+   ],
+   "exp": "A genetic predisposition."
+  },
+  {
+   "q": "Which evidence would best support a genetic cause of anxiety?",
+   "right": "Identical twins raised apart both develop it",
+   "wrong": [
+    [
+     "A child who copies her anxious mother's reactions to storms",
+     "That is modeling (behavioral)."
+    ],
+    [
+     "A person who thinks irrationally",
+     "That is cognitive."
+    ],
+    [
+     "A traumatic event",
+     "That is environmental."
     ]
    ],
    "exp": "A genetic predisposition."
@@ -1110,6 +2098,25 @@
     ]
    ],
    "exp": "Depressive disorders."
+  },
+  {
+   "q": "Why do your slides stress that depression is \"not just a temporary mood swing\"?",
+   "right": "It's a condition that affects functioning",
+   "wrong": [
+    [
+     "Because it always goes away by itself within a day or two",
+     "It's a mental health condition."
+    ],
+    [
+     "Because it only affects sleep",
+     "It affects many areas."
+    ],
+    [
+     "Because it's caused by mania",
+     "That is bipolar."
+    ]
+   ],
+   "exp": "A sad, empty or irritable mood with changes that affect functioning."
   }
  ],
  "Depression quick facts": [
@@ -1131,6 +2138,25 @@
     ]
    ],
    "exp": "Over 18 million U.S. adults; the leading cause of disability for ages 15–44."
+  },
+  {
+   "q": "Depression is the leading cause of disability for which age group, according to your slides?",
+   "right": "Ages 15–44",
+   "wrong": [
+    [
+     "Ages 65 and older, after people have retired from work",
+     "Your slides say 15–44."
+    ],
+    [
+     "Ages 5–10",
+     "Not on your slides."
+    ],
+    [
+     "Only newborns",
+     "Not on your slides."
+    ]
+   ],
+   "exp": "Leading cause of disability for ages 15–44 and worldwide."
   }
  ],
  "Major depressive disorder (MDD)": [
@@ -1152,6 +2178,25 @@
     ]
    ],
    "exp": "MDD: symptoms for 2 weeks or more, a change from before."
+  },
+  {
+   "q": "How long must symptoms last for major depressive disorder?",
+   "right": "2 weeks or more",
+   "wrong": [
+    [
+     "Two years or more without a break, most days of the week",
+     "That is persistent depressive disorder."
+    ],
+    [
+     "6 months",
+     "That is GAD."
+    ],
+    [
+     "One day",
+     "Too short."
+    ]
+   ],
+   "exp": "MDD = 2 weeks, a change from previous functioning."
   }
  ],
  "Symptoms of major depressive disorder": [
@@ -1173,6 +2218,25 @@
     ]
    ],
    "exp": "Sadness, loss of interest, weight and sleep changes and more."
+  },
+  {
+   "q": "Which symptom list fits major depressive disorder?",
+   "right": "Worthlessness, fatigue, sleep changes",
+   "wrong": [
+    [
+     "Racing thoughts, grandiosity and very little need for sleep",
+     "Those are manic symptoms."
+    ],
+    [
+     "Flashbacks and hypervigilance",
+     "Those are PTSD."
+    ],
+    [
+     "Fidgeting and blurting",
+     "Those are ADHD."
+    ]
+   ],
+   "exp": "MDD symptoms include worthlessness, fatigue and changes in sleep."
   }
  ],
  "Persistent depressive disorder": [
@@ -1194,6 +2258,25 @@
     ]
    ],
    "exp": "Depression most days for two years or more."
+  },
+  {
+   "q": "A man has felt low most days for three years and has had a manic episode. Why isn't persistent depressive disorder the right label?",
+   "right": "A manic episode points to bipolar disorder",
+   "wrong": [
+    [
+     "Three years is too short to count as persistent depressive disorder",
+     "Two years or more qualifies."
+    ],
+    [
+     "He must also have hallucinations",
+     "Not required."
+    ],
+    [
+     "It must start before age 12",
+     "That is ADHD."
+    ]
+   ],
+   "exp": "Persistent depressive disorder has no manic episodes; with mania it's most likely bipolar."
   }
  ],
  "Causes of depressive disorders": [
@@ -1215,6 +2298,25 @@
     ]
    ],
    "exp": "Genetic, biological and environmental causes."
+  },
+  {
+   "q": "A woman becomes depressed after losing her job and her home. Which category of cause fits best?",
+   "right": "Environmental",
+   "wrong": [
+    [
+     "Genetic, shown through her family history and twin studies",
+     "The trigger here is the life event."
+    ],
+    [
+     "Biological",
+     "Not about chemistry."
+    ],
+    [
+     "Teratogens",
+     "Those act before birth."
+    ]
+   ],
+   "exp": "Environmental: high stress from job loss, financial problems and more."
   }
  ],
  "Bipolar disorders": [
@@ -1236,6 +2338,25 @@
     ]
    ],
    "exp": "Bi = two poles: mania and depression."
+  },
+  {
+   "q": "What does the hook \"Bi = two poles\" refer to?",
+   "right": "Mania and depression",
+   "wrong": [
+    [
+     "Two separate personalities, each with its own name and memories",
+     "That is DID."
+    ],
+    [
+     "Two hemispheres",
+     "Not related."
+    ],
+    [
+     "Two weeks of symptoms",
+     "That is MDD."
+    ]
+   ],
+   "exp": "Extreme swings between mania and depression."
   }
  ],
  "Manic episode": [
@@ -1257,6 +2378,25 @@
     ]
    ],
    "exp": "Elevated mood, energy, little sleep, grandiosity, impulsivity."
+  },
+  {
+   "q": "Which detail points to a manic episode rather than just a very good week?",
+   "right": "Barely sleeping and risky spending",
+   "wrong": [
+    [
+     "Feeling content after getting a good grade on a big test",
+     "Normal happiness isn't mania."
+    ],
+    [
+     "Feeling tired",
+     "That fits depression."
+    ],
+    [
+     "Worrying about deadlines",
+     "That is everyday stress."
+    ]
+   ],
+   "exp": "Mania: decreased need for sleep, impulsivity, risk-taking, grandiosity."
   }
  ],
  "Depressive episode (bipolar)": [
@@ -1278,6 +2418,25 @@
     ]
    ],
    "exp": "Sadness, hopelessness, fatigue and poor concentration."
+  },
+  {
+   "q": "Which feature appears in a bipolar depressive episode on your slides?",
+   "right": "Feelings of worthlessness and guilt",
+   "wrong": [
+    [
+     "Grandiosity and an inflated sense of self-esteem and power",
+     "Those are manic."
+    ],
+    [
+     "Decreased need for sleep",
+     "That is manic."
+    ],
+    [
+     "Racing thoughts",
+     "That is manic."
+    ]
+   ],
+   "exp": "Sadness, hopelessness, fatigue, worthlessness, guilt."
   }
  ],
  "Bipolar I": [
@@ -1299,6 +2458,25 @@
     ]
    ],
    "exp": "Bipolar I: full-blown mania, possibly with psychosis."
+  },
+  {
+   "q": "Which detail best separates Bipolar I from Bipolar II?",
+   "right": "Full mania, possibly with psychosis",
+   "wrong": [
+    [
+     "Milder hypomanic episodes that never include any psychosis at all",
+     "That describes Bipolar II."
+    ],
+    [
+     "No depression",
+     "Both include depression."
+    ],
+    [
+     "It is more common",
+     "Bipolar II is more common."
+    ]
+   ],
+   "exp": "I = more Intense: full-blown mania, possible psychosis."
   }
  ],
  "Bipolar II": [
@@ -1320,6 +2498,25 @@
     ]
    ],
    "exp": "Bipolar II: hypomania, no psychosis."
+  },
+  {
+   "q": "Which is true of Bipolar II on your slides?",
+   "right": "It's more common than Bipolar I",
+   "wrong": [
+    [
+     "It includes psychosis and full-blown manic episodes as well",
+     "Those are Bipolar I."
+    ],
+    [
+     "It has no impact on daily life",
+     "It still has a significant impact."
+    ],
+    [
+     "It has no depression",
+     "It includes depression."
+    ]
+   ],
+   "exp": "Bipolar II: hypomania, no psychosis, more common."
   }
  ],
  "Hypomanic episode": [
@@ -1341,6 +2538,25 @@
     ]
    ],
    "exp": "Hypo = under mania."
+  },
+  {
+   "q": "What does \"hypo\" in hypomanic tell you?",
+   "right": "It is less than full mania",
+   "wrong": [
+    [
+     "It is more extreme than full mania, with psychosis",
+     "Hypo = under."
+    ],
+    [
+     "It is a depressive episode",
+     "It's a high, not a low."
+    ],
+    [
+     "It lasts 2 years",
+     "Not on your slides."
+    ]
+   ],
+   "exp": "Hypo = under (less than) mania; seen in Bipolar II."
   }
  ],
  "Causes of bipolar disorder": [
@@ -1362,6 +2578,25 @@
     ]
    ],
    "exp": "Genetics (family history) is a strong indicator, plus biological factors."
+  },
+  {
+   "q": "Which factor can increase bipolar symptoms, according to your slides?",
+   "right": "Sleep disturbances",
+   "wrong": [
+    [
+     "Getting enough regular sleep every night on a steady schedule",
+     "Disturbed sleep, not good sleep, increases symptoms."
+    ],
+    [
+     "A loving family",
+     "Not listed as a cause."
+    ],
+    [
+     "Low dopamine only",
+     "Imbalances of several neurotransmitters are listed."
+    ]
+   ],
+   "exp": "Biological: sleep disturbances can increase symptoms."
   }
  ],
  "Neurodevelopmental disorders": [
@@ -1383,6 +2618,44 @@
     ]
    ],
    "exp": "ADHD and ASD are neurodevelopmental disorders."
+  },
+  {
+   "q": "When do neurodevelopmental disorders usually begin to appear?",
+   "right": "In early childhood",
+   "wrong": [
+    [
+     "In late adulthood, after a person has turned sixty",
+     "They begin in early childhood."
+    ],
+    [
+     "Only after a trauma",
+     "That is trauma disorders."
+    ],
+    [
+     "In adolescence only",
+     "They appear in early childhood."
+    ]
+   ],
+   "exp": "CNS issues that begin to appear in early childhood."
+  },
+  {
+   "q": "Which is NOT an example of a neurodevelopmental disorder or delay on your slides?",
+   "right": "Panic disorder",
+   "wrong": [
+    [
+     "Autism spectrum disorder",
+     "ASD is neurodevelopmental."
+    ],
+    [
+     "ADHD",
+     "ADHD is neurodevelopmental."
+    ],
+    [
+     "A speech or language delay",
+     "Those are listed."
+    ]
+   ],
+   "exp": "They range from developmental, language and speech delays to autism and ADHD."
   }
  ],
  "Causes of neurodevelopmental disorders": [
@@ -1404,6 +2677,25 @@
     ]
    ],
    "exp": "A combination of genetic/biological and environmental factors."
+  },
+  {
+   "q": "Which is listed as an environmental factor for neurodevelopmental disorders?",
+   "right": "Low birth weight",
+   "wrong": [
+    [
+     "Too much screen time during the teenage years in high school",
+     "Not on your slides."
+    ],
+    [
+     "A high GABA level",
+     "Not on your slides."
+    ],
+    [
+     "A divorce in adulthood",
+     "Not on your slides."
+    ]
+   ],
+   "exp": "Teratogens, low birth weight, and maternal stress, trauma and illness."
   }
  ],
  "High heritability": [
@@ -1425,6 +2717,25 @@
     ]
    ],
    "exp": "High heritability."
+  },
+  {
+   "q": "If a parent has ADHD, what does \"high heritability\" suggest about the child?",
+   "right": "A higher chance of having it too",
+   "wrong": [
+    [
+     "The child is certain to develop ADHD before the age of eight",
+     "Heritability raises the chance; it doesn't guarantee it."
+    ],
+    [
+     "The child can't develop ASD",
+     "Not implied."
+    ],
+    [
+     "ADHD is caused only by teratogens",
+     "It suggests a genetic component."
+    ]
+   ],
+   "exp": "ADHD and ASD run in families, suggesting a strong genetic component."
   }
  ],
  "Teratogens": [
@@ -1446,6 +2757,25 @@
     ]
    ],
    "exp": "Harmful substances before birth."
+  },
+  {
+   "q": "Which of these is a teratogen?",
+   "right": "Tobacco smoke before birth",
+   "wrong": [
+    [
+     "A loud classroom during the child's first years of school",
+     "Teratogens act before birth."
+    ],
+    [
+     "Fast food in childhood",
+     "Not a teratogen."
+    ],
+    [
+     "A stressful job",
+     "Not a teratogen."
+    ]
+   ],
+   "exp": "Harmful substances a baby is exposed to before birth."
   }
  ],
  "ADHD": [
@@ -1467,6 +2797,25 @@
     ]
    ],
    "exp": "Inattention and/or hyperactivity-impulsivity that interferes with functioning."
+  },
+  {
+   "q": "Which two patterns define ADHD?",
+   "right": "Inattention and/or hyperactivity-impulsivity",
+   "wrong": [
+    [
+     "Mania alternating with long periods of serious depression",
+     "That is bipolar."
+    ],
+    [
+     "Obsessions and compulsions",
+     "That is OCD."
+    ],
+    [
+     "Hallucinations and delusions",
+     "That is schizophrenia."
+    ]
+   ],
+   "exp": "A persistent pattern of inattention and/or hyperactivity-impulsivity."
   }
  ],
  "ADHD symptom count": [
@@ -1488,6 +2837,25 @@
     ]
    ],
    "exp": "6 for kids, 5 for 17 and older."
+  },
+  {
+   "q": "A 20-year-old shows five ADHD symptoms. Does that meet the count for adults?",
+   "right": "Yes; 5 is enough at 17 and older",
+   "wrong": [
+    [
+     "No; everyone, at any age, needs at least six symptoms",
+     "Six is for children up to 16."
+    ],
+    [
+     "No; adults need ten",
+     "Not the rule."
+    ],
+    [
+     "Adults can't be diagnosed",
+     "They can."
+    ]
+   ],
+   "exp": "6 for kids, 5 for 17+."
   }
  ],
  "Inattention symptoms": [
@@ -1509,6 +2877,25 @@
     ]
    ],
    "exp": "Not listening, not following instructions, losing things, easily distracted."
+  },
+  {
+   "q": "A student keeps forgetting homework, loses her calculator and drifts off when spoken to. Which symptom group is this?",
+   "right": "Inattention",
+   "wrong": [
+    [
+     "Hyperactivity, which includes fidgeting and climbing around",
+     "These are attention problems."
+    ],
+    [
+     "Impulsivity",
+     "That is blurting and interrupting."
+    ],
+    [
+     "Compulsions",
+     "That is OCD."
+    ]
+   ],
+   "exp": "Forgetful, loses things, doesn't listen when spoken to directly."
   }
  ],
  "Hyperactivity symptoms": [
@@ -1530,6 +2917,25 @@
     ]
    ],
    "exp": "Fidgety, running and climbing, talking excessively."
+  },
+  {
+   "q": "A child can't stay seated, climbs on furniture and talks nonstop. Which symptom group is this?",
+   "right": "Hyperactivity",
+   "wrong": [
+    [
+     "Inattention, which includes losing things and forgetfulness",
+     "These are activity-level problems."
+    ],
+    [
+     "Impulsivity",
+     "That is blurting and interrupting."
+    ],
+    [
+     "Mania",
+     "That is bipolar."
+    ]
+   ],
+   "exp": "Fidgety, runs and climbs excessively, talks excessively."
   }
  ],
  "Impulsivity symptoms": [
@@ -1551,6 +2957,25 @@
     ]
    ],
    "exp": "Blurting, trouble waiting, interrupting."
+  },
+  {
+   "q": "In class, a boy shouts answers before the teacher finishes and cuts in line. Which symptom group is this?",
+   "right": "Impulsivity",
+   "wrong": [
+    [
+     "Hyperactivity, which includes fidgeting and running around",
+     "Blurting and cutting in line are impulsivity."
+    ],
+    [
+     "Inattention",
+     "That is losing focus."
+    ],
+    [
+     "Delusions",
+     "Not related."
+    ]
+   ],
+   "exp": "Blurting out answers, trouble waiting, interrupting."
   }
  ],
  "Other ADHD criteria": [
@@ -1572,6 +2997,25 @@
     ]
    ],
    "exp": "Several symptoms before age 12, in two or more settings."
+  },
+  {
+   "q": "A 9-year-old shows ADHD symptoms only at home, starting two months ago. Which criteria are not yet met?",
+   "right": "Two settings and six months",
+   "wrong": [
+    [
+     "The symptom count, which must reach at least twelve symptoms",
+     "Not the issue here; count isn't the problem described."
+    ],
+    [
+     "Onset before age 20",
+     "Before 12 is the rule, and he's 9."
+    ],
+    [
+     "A note from his teacher",
+     "No such rule; the criteria are settings and time."
+    ]
+   ],
+   "exp": "Symptoms must appear in 2+ settings and last at least 6 months."
   }
  ],
  "ADHD onset": [
@@ -1593,6 +3037,25 @@
     ]
    ],
    "exp": "Average onset around age eight."
+  },
+  {
+   "q": "Why is ADHD hard to diagnose very early in childhood?",
+   "right": "Many symptoms also occur in kids without ADHD",
+   "wrong": [
+    [
+     "Young children are never inattentive or energetic at all",
+     "They often are."
+    ],
+    [
+     "ADHD only starts in adulthood",
+     "Onset is usually around 8."
+    ],
+    [
+     "There are no symptoms",
+     "There are."
+    ]
+   ],
+   "exp": "Many symptoms also occur in children without ADHD."
   }
  ],
  "Autism spectrum disorder (ASD)": [
@@ -1614,6 +3077,25 @@
     ]
    ],
    "exp": "Less social contact, sensory sensitivity, repetitive behaviors."
+  },
+  {
+   "q": "A child struggles to read facial expressions and body language and avoids eye contact. Which disorder fits best?",
+   "right": "Autism spectrum disorder",
+   "wrong": [
+    [
+     "Social anxiety disorder, which is a fear of being judged",
+     "The key issue is reading social cues, not fear of judgment."
+    ],
+    [
+     "ADHD",
+     "ADHD centers on attention and activity."
+    ],
+    [
+     "Schizoid personality disorder",
+     "That is diagnosed later and isn't about reading cues."
+    ]
+   ],
+   "exp": "ASD: difficulty with eye contact and nonverbal cues."
   }
  ],
  "Why \"spectrum\"?": [
@@ -1635,6 +3117,25 @@
     ]
    ],
    "exp": "The symptoms range from mild to severe."
+  },
+  {
+   "q": "Two children both have ASD, but one needs little support and the other needs a lot. What explains this?",
+   "right": "ASD symptoms range from mild to severe",
+   "wrong": [
+    [
+     "One of the two children must have been misdiagnosed by a doctor",
+     "Both can have ASD."
+    ],
+    [
+     "One has ADHD instead",
+     "Not implied."
+    ],
+    [
+     "ASD only affects boys",
+     "It's more common in boys, not only boys."
+    ]
+   ],
+   "exp": "That is why it's called a spectrum."
   }
  ],
  "ASD statistics": [
@@ -1656,6 +3157,25 @@
     ]
    ],
    "exp": "About 1 in 31 eight-year-olds; over 3 times more common in boys."
+  },
+  {
+   "q": "About how many 8-year-olds have been identified with ASD, per your slides?",
+   "right": "About 1 in 31",
+   "wrong": [
+    [
+     "About 1 in 1,000 eight-year-olds across the country",
+     "Your slides say about 1 in 31."
+    ],
+    [
+     "About 1 in 2",
+     "Far too many."
+    ],
+    [
+     "None",
+     "Not true."
+    ]
+   ],
+   "exp": "About 1 in 31 (3.2%) children aged 8."
   }
  ],
  "Dissociative disorders": [
@@ -1677,6 +3197,25 @@
     ]
    ],
    "exp": "Dissociative disorders: disconnection from thoughts, memory and identity."
+  },
+  {
+   "q": "What does the hook \"dis-associate = disconnect\" describe?",
+   "right": "A loss of connection with memory and identity",
+   "wrong": [
+    [
+     "A fear of being disconnected from friends and family members",
+     "Not the meaning."
+    ],
+    [
+     "Disconnected neurons",
+     "Not the meaning."
+    ],
+    [
+     "Losing Wi-Fi",
+     "Not the meaning."
+    ]
+   ],
+   "exp": "Loss of connection between thoughts, memories, feelings, surroundings, behavior and identity."
   }
  ],
  "Cause of dissociative disorders": [
@@ -1698,6 +3237,25 @@
     ]
    ],
    "exp": "Severe trauma or major stress."
+  },
+  {
+   "q": "A soldier develops dissociative amnesia after a battle. What does this fit as the most common cause?",
+   "right": "Severe trauma",
+   "wrong": [
+    [
+     "A genetic predisposition passed down from both of his parents",
+     "Trauma is the most common cause."
+    ],
+    [
+     "Teratogens",
+     "Those act before birth."
+    ],
+    [
+     "Too much dopamine",
+     "That is linked to schizophrenia."
+    ]
+   ],
+   "exp": "The most common cause is severe trauma or major stress."
   }
  ],
  "Symptoms of dissociative disorders": [
@@ -1716,6 +3274,25 @@
     [
      "Fear of crowds",
      "That is agoraphobia."
+    ]
+   ],
+   "exp": "Memory loss, identity confusion, detachment, reasoning trouble, mood changes."
+  },
+  {
+   "q": "Which symptom fits dissociative disorders?",
+   "right": "Feeling detached from yourself",
+   "wrong": [
+    [
+     "Fidgeting, climbing and running around constantly",
+     "That is ADHD."
+    ],
+    [
+     "Fear of open spaces",
+     "That is agoraphobia."
+    ],
+    [
+     "Binge eating",
+     "That is bulimia."
     ]
    ],
    "exp": "Memory loss, identity confusion, detachment, reasoning trouble, mood changes."
@@ -1740,6 +3317,25 @@
     ]
    ],
    "exp": "Inability to recall important personal information, usually tied to trauma."
+  },
+  {
+   "q": "What separates dissociative amnesia from normal forgetfulness?",
+   "right": "It's major personal memory tied to trauma",
+   "wrong": [
+    [
+     "It only involves forgetting where you left your keys or phone",
+     "That is ordinary forgetfulness."
+    ],
+    [
+     "It always involves alters",
+     "That is DID."
+    ],
+    [
+     "It's caused by teratogens",
+     "Not on your slides."
+    ]
+   ],
+   "exp": "A significant inability to recall important personal information, typically trauma-related."
   }
  ],
  "Symptoms of dissociative amnesia": [
@@ -1761,6 +3357,25 @@
     ]
    ],
    "exp": "Inability to remember events or periods; loss of autobiographical information."
+  },
+  {
+   "q": "Which experience can come with dissociative amnesia?",
+   "right": "A fugue state",
+   "wrong": [
+    [
+     "A manic episode with racing thoughts and grandiose plans",
+     "That is bipolar."
+    ],
+    [
+     "Hallucinations",
+     "That is schizophrenia."
+    ],
+    [
+     "Tardive dyskinesia",
+     "That is a drug side effect."
+    ]
+   ],
+   "exp": "Dissociative amnesia may include a fugue state."
   }
  ],
  "Fugue state": [
@@ -1779,6 +3394,25 @@
     [
      "A panic attack",
      "That is a burst of fear."
+    ]
+   ],
+   "exp": "Wandering or traveling without awareness of identity."
+  },
+  {
+   "q": "What does the hook \"fugue = flee\" describe?",
+   "right": "Wandering away without knowing who you are",
+   "wrong": [
+    [
+     "Running from danger during the fight-or-flight response",
+     "That is the alarm response."
+    ],
+    [
+     "A fear of travel",
+     "Not the meaning."
+    ],
+    [
+     "Fleeing a crowd",
+     "That fits agoraphobia avoidance."
     ]
    ],
    "exp": "Wandering or traveling without awareness of identity."
@@ -1803,6 +3437,25 @@
     ]
    ],
    "exp": "Two or more distinct personality states."
+  },
+  {
+   "q": "A classmate says DID and schizophrenia are the same thing. What is the best correction?",
+   "right": "DID is separate identities, not psychosis",
+   "wrong": [
+    [
+     "They are the same disorder, just called by two different names",
+     "They are different disorders."
+    ],
+    [
+     "Schizophrenia involves alters",
+     "Alters are DID."
+    ],
+    [
+     "DID always includes hallucinations",
+     "Not on your slides."
+    ]
+   ],
+   "exp": "DID: two or more distinct personality states. Schizophrenia: psychosis."
   }
  ],
  "Alters": [
@@ -1824,6 +3477,25 @@
     ]
    ],
    "exp": "Alters each have their own identity, memories and behaviors."
+  },
+  {
+   "q": "In DID, each alter has its own what, according to your slides?",
+   "right": "Identity, memories and behaviors",
+   "wrong": [
+    [
+     "Body, brain and nervous system separate from the other alters",
+     "Alters share one body."
+    ],
+    [
+     "Medication",
+     "Not on your slides."
+    ],
+    [
+     "Hallucinations",
+     "Not on your slides."
+    ]
+   ],
+   "exp": "Each with its own identity, memories, behaviors and perspectives."
   }
  ],
  "Symptoms of DID": [
@@ -1845,6 +3517,25 @@
     ]
    ],
    "exp": "Distinct personality states, identity shifts, memory gaps."
+  },
+  {
+   "q": "A woman has gaps in her memory of important events and her identity shifts suddenly. Which disorder do these symptoms fit?",
+   "right": "Dissociative identity disorder",
+   "wrong": [
+    [
+     "Bipolar I disorder with extreme manic and depressive episodes",
+     "Mood swings aren't identity shifts."
+    ],
+    [
+     "GAD",
+     "That is worry."
+    ],
+    [
+     "ADHD",
+     "That is attention and activity."
+    ]
+   ],
+   "exp": "Identity shifts and memory gaps."
   }
  ],
  "Schizophrenia": [
@@ -1866,6 +3557,25 @@
     ]
    ],
    "exp": "Schizophrenia is a psychotic disorder."
+  },
+  {
+   "q": "What is needed to diagnose schizophrenia, according to your slides?",
+   "right": "At least 2 symptoms for at least 6 months",
+   "wrong": [
+    [
+     "One symptom that lasts for at least two weeks in a row",
+     "That isn't the criterion on your slides."
+    ],
+    [
+     "Only negative symptoms",
+     "At least 2 symptoms."
+    ],
+    [
+     "Symptoms before age 12",
+     "That is ADHD."
+    ]
+   ],
+   "exp": "At least 2 symptoms (positive and negative) for at least 6 months."
   }
  ],
  "Positive symptoms": [
@@ -1887,6 +3597,25 @@
     ]
    ],
    "exp": "Positive = added, not \"good.\""
+  },
+  {
+   "q": "Which list contains only positive symptoms of schizophrenia?",
+   "right": "Delusions, hallucinations, disorganized speech",
+   "wrong": [
+    [
+     "Flat affect, catatonic stupor and a lack of motivation or interest",
+     "Those are negative."
+    ],
+    [
+     "Mania and depression",
+     "Those are bipolar."
+    ],
+    [
+     "Obsessions and compulsions",
+     "Those are OCD."
+    ]
+   ],
+   "exp": "Positive = added."
   }
  ],
  "Delusions": [
@@ -1908,6 +3637,25 @@
     ]
    ],
    "exp": "Delusion = false belief."
+  },
+  {
+   "q": "Which pair are both delusions?",
+   "right": "Grandeur and persecution",
+   "wrong": [
+    [
+     "Hearing voices and seeing shadows that are not really there",
+     "Those are hallucinations."
+    ],
+    [
+     "Flat affect and catatonia",
+     "Those are negative symptoms."
+    ],
+    [
+     "Word salad and rhyming",
+     "That is disorganized speech."
+    ]
+   ],
+   "exp": "Delusions of grandeur and of persecution."
   }
  ],
  "Delusions of grandeur": [
@@ -1926,6 +3674,25 @@
     [
      "Hypervigilance",
      "That is a PTSD symptom."
+    ]
+   ],
+   "exp": "False beliefs about one's own importance."
+  },
+  {
+   "q": "Which belief is a delusion of grandeur?",
+   "right": "\"I'm a famous genius chosen by God\"",
+   "wrong": [
+    [
+     "\"My neighbors are secretly poisoning my food every night\"",
+     "That is persecution."
+    ],
+    [
+     "\"I hear voices\"",
+     "That is a hallucination."
+    ],
+    [
+     "\"I'm worthless\"",
+     "That fits depression."
     ]
    ],
    "exp": "False beliefs about one's own importance."
@@ -1950,6 +3717,25 @@
     ]
    ],
    "exp": "Paranoia: others are out to get you."
+  },
+  {
+   "q": "Which belief is a delusion of persecution?",
+   "right": "\"The government is tracking my thoughts\"",
+   "wrong": [
+    [
+     "\"I am the most important and powerful person on the planet\"",
+     "That is grandeur."
+    ],
+    [
+     "\"I see colors when I hear music\"",
+     "That is synesthesia."
+    ],
+    [
+     "\"I'm always tired\"",
+     "That isn't a delusion."
+    ]
+   ],
+   "exp": "False beliefs that others are out to get you."
   }
  ],
  "Hallucinations": [
@@ -1971,6 +3757,25 @@
     ]
    ],
    "exp": "Hallucination = false perception."
+  },
+  {
+   "q": "Which is a hallucination rather than a delusion?",
+   "right": "Smelling smoke when there's no fire",
+   "wrong": [
+    [
+     "Believing you have been chosen to save the world from danger",
+     "That is a delusion (a false belief)."
+    ],
+    [
+     "Believing you're being followed",
+     "That is a delusion."
+    ],
+    [
+     "Thinking you're famous",
+     "That is a delusion."
+    ]
+   ],
+   "exp": "Hallucination = false perception; delusion = false belief."
   }
  ],
  "Disorganized thinking/speech": [
@@ -1992,6 +3797,25 @@
     ]
    ],
    "exp": "Word salad, jumping topics or rhyming."
+  },
+  {
+   "q": "A patient answers a question by rhyming: \"Bed, red, said, dead, head.\" Which positive symptom is this?",
+   "right": "Disorganized speech",
+   "wrong": [
+    [
+     "Flat affect, a lack of emotional expression when speaking",
+     "His speech is disorganized, not flat."
+    ],
+    [
+     "A delusion",
+     "That is a false belief."
+    ],
+    [
+     "Catatonic stupor",
+     "That is no movement."
+    ]
+   ],
+   "exp": "Word salad, topic-jumping or rhyming."
   }
  ],
  "Word salad": [
@@ -2013,6 +3837,25 @@
     ]
    ],
    "exp": "Word salad is a sign of disorganized speech."
+  },
+  {
+   "q": "A doctor hears a patient say \"car window sing loudly purple jump.\" What is this called?",
+   "right": "Word salad",
+   "wrong": [
+    [
+     "Broca's aphasia, with slow and very effortful short phrases",
+     "Not the term on this card."
+    ],
+    [
+     "Hypomania",
+     "That is a mood state."
+    ],
+    [
+     "Flat affect",
+     "That is no emotion."
+    ]
+   ],
+   "exp": "Words strung together in a jumbled way: disorganized speech."
   }
  ],
  "Disorganized motor movement": [
@@ -2034,6 +3877,25 @@
     ]
    ],
    "exp": "Childlike, excessive, silly or purposeless movement."
+  },
+  {
+   "q": "Which is an example of disorganized motor movement?",
+   "right": "Silly, purposeless movements",
+   "wrong": [
+    [
+     "Sitting completely still for hours without responding to anyone",
+     "That is catatonic stupor, a negative symptom."
+    ],
+    [
+     "A normal walk",
+     "Not disorganized."
+    ],
+    [
+     "A knee-jerk reflex",
+     "That is normal."
+    ]
+   ],
+   "exp": "Childlike, excessive, excited, silly or purposeless movement."
   }
  ],
  "Negative symptoms": [
@@ -2055,6 +3917,25 @@
     ]
    ],
    "exp": "Negative = missing: flat affect, catatonia, lack of motivation."
+  },
+  {
+   "q": "Why is flat affect called a \"negative\" symptom?",
+   "right": "Something normal is missing",
+   "wrong": [
+    [
+     "It is a bad sign that the patient will never recover from it",
+     "Negative doesn't mean bad."
+    ],
+    [
+     "It's caused by negativity",
+     "Not the meaning."
+    ],
+    [
+     "It adds something",
+     "That would be positive."
+    ]
+   ],
+   "exp": "Negative = missing."
   }
  ],
  "Flat affect": [
@@ -2076,6 +3957,25 @@
     ]
    ],
    "exp": "A lack of emotional expression."
+  },
+  {
+   "q": "Which symptom group does flat affect belong to?",
+   "right": "Negative symptoms",
+   "wrong": [
+    [
+     "Positive symptoms like hallucinations, delusions and word salad",
+     "Flat affect is an absence."
+    ],
+    [
+     "Manic symptoms",
+     "Not mania."
+    ],
+    [
+     "PTSD symptoms",
+     "Not PTSD."
+    ]
+   ],
+   "exp": "Flat affect is a negative symptom."
   }
  ],
  "Catatonic stupor": [
@@ -2097,6 +3997,25 @@
     ]
    ],
    "exp": "No movement: a negative symptom."
+  },
+  {
+   "q": "What separates catatonic stupor from disorganized motor movement?",
+   "right": "No movement vs. purposeless movement",
+   "wrong": [
+    [
+     "Both are the same positive symptom of schizophrenia, just named twice",
+     "Catatonic stupor is negative."
+    ],
+    [
+     "Catatonia is a delusion",
+     "It's a movement symptom."
+    ],
+    [
+     "Disorganized movement is a drug side effect",
+     "That is tardive dyskinesia."
+    ]
+   ],
+   "exp": "Catatonic stupor = no movement (negative); disorganized movement = purposeless movement (positive)."
   }
  ],
  "Causes of schizophrenia": [
@@ -2118,6 +4037,25 @@
     ]
    ],
    "exp": "Genes, prenatal viruses (teratogens) and neurotransmitter imbalances."
+  },
+  {
+   "q": "Which neurotransmitters are linked to schizophrenia on your slides?",
+   "right": "Dopamine and glutamate",
+   "wrong": [
+    [
+     "Serotonin and GABA, which are linked to anxiety disorders",
+     "Not the pair listed for schizophrenia."
+    ],
+    [
+     "Endorphins only",
+     "Not listed."
+    ],
+    [
+     "Melatonin and leptin",
+     "Those are hormones."
+    ]
+   ],
+   "exp": "Imbalances in neurotransmitters like dopamine and glutamate."
   }
  ],
  "Dopamine hypothesis": [
@@ -2139,6 +4077,25 @@
     ]
    ],
    "exp": "Too much dopamine activity may cause positive symptoms."
+  },
+  {
+   "q": "If the dopamine hypothesis is right, which drug effect would you expect to reduce hallucinations?",
+   "right": "Blocking dopamine receptors",
+   "wrong": [
+    [
+     "Raising the amount of dopamine in the brain's synapses",
+     "Too much dopamine is the problem."
+    ],
+    [
+     "Boosting serotonin",
+     "That's for depression."
+    ],
+    [
+     "Increasing GABA",
+     "That's for anxiety."
+    ]
+   ],
+   "exp": "Overproduction of dopamine is linked to positive symptoms; antipsychotics block dopamine."
   }
  ],
  "Diathesis-stress model": [
@@ -2160,6 +4117,25 @@
     ]
    ],
    "exp": "Stress can trigger a genetic predisposition."
+  },
+  {
+   "q": "Which pair does the diathesis-stress model combine?",
+   "right": "A built-in risk plus a stress trigger",
+   "wrong": [
+    [
+     "A dopamine imbalance plus a separate glutamate imbalance",
+     "Not the model."
+    ],
+    [
+     "Two personalities",
+     "That is DID."
+    ],
+    [
+     "Mania plus depression",
+     "That is bipolar."
+    ]
+   ],
+   "exp": "Diathesis = the built-in risk; stress = the trigger."
   }
  ],
  "Diathesis": [
@@ -2181,6 +4157,25 @@
     ]
    ],
    "exp": "Diathesis = predisposition."
+  },
+  {
+   "q": "Two cousins both inherit a risk for depression. What is that shared risk called?",
+   "right": "A diathesis",
+   "wrong": [
+    [
+     "A delusion, a false belief held despite evidence",
+     "Not the term."
+    ],
+    [
+     "A teratogen",
+     "That is a harmful substance before birth."
+    ],
+    [
+     "An alter",
+     "That is DID."
+    ]
+   ],
+   "exp": "A genetic or biological predisposition."
   }
  ],
  "Obsessive-compulsive & related disorders": [
@@ -2202,6 +4197,25 @@
     ]
    ],
    "exp": "OCD and related disorders."
+  },
+  {
+   "q": "Which feature ties together OCD, hoarding, hair-pulling and skin-picking?",
+   "right": "Intrusive thoughts and/or repetitive behaviors",
+   "wrong": [
+    [
+     "Hallucinations and delusions, like those seen in psychosis",
+     "That is psychosis."
+    ],
+    [
+     "Mania",
+     "That is bipolar."
+    ],
+    [
+     "Trauma exposure only",
+     "That is trauma disorders."
+    ]
+   ],
+   "exp": "Characterized by intrusive thoughts and/or repetitive behaviors."
   }
  ],
  "Their own DSM-5 category": [
@@ -2223,6 +4237,25 @@
     ]
    ],
    "exp": "The DSM-5 gave them their own category."
+  },
+  {
+   "q": "Why did the DSM-5 move OCD and hoarding out of anxiety disorders?",
+   "right": "To show they are distinct",
+   "wrong": [
+    [
+     "Because they were found to be the very same disorder as PTSD",
+     "Not the reason."
+    ],
+    [
+     "Because they're no longer disorders",
+     "They still are."
+    ],
+    [
+     "Because they cause psychosis",
+     "Not the reason."
+    ]
+   ],
+   "exp": "Moved to their own category to show they are distinct from anxiety disorders."
   }
  ],
  "Trichotillomania": [
@@ -2244,6 +4277,25 @@
     ]
    ],
    "exp": "Hair-pulling disorder."
+  },
+  {
+   "q": "Which group does trichotillomania belong to?",
+   "right": "Obsessive-compulsive & related disorders",
+   "wrong": [
+    [
+     "Trauma- and stressor-related disorders like PTSD and acute stress",
+     "It's OCD-related."
+    ],
+    [
+     "Dissociative disorders",
+     "Not dissociative."
+    ],
+    [
+     "Neurodevelopmental disorders",
+     "Not neurodevelopmental."
+    ]
+   ],
+   "exp": "Hair-pulling disorder: an obsessive-compulsive related disorder."
   }
  ],
  "Excoriation disorder": [
@@ -2265,6 +4317,25 @@
     ]
    ],
    "exp": "Skin-picking disorder."
+  },
+  {
+   "q": "What is the everyday name for excoriation disorder?",
+   "right": "Skin-picking disorder",
+   "wrong": [
+    [
+     "Hair-pulling disorder, also called trichotillomania",
+     "That is trichotillomania."
+    ],
+    [
+     "Hoarding disorder",
+     "That is saving items."
+    ],
+    [
+     "Nail-biting disorder",
+     "Not the name."
+    ]
+   ],
+   "exp": "Excoriation = skin-picking."
   }
  ],
  "OCD": [
@@ -2286,6 +4357,25 @@
     ]
    ],
    "exp": "Obsessions plus compulsions."
+  },
+  {
+   "q": "Which two parts make up OCD?",
+   "right": "Obsessions and compulsions",
+   "wrong": [
+    [
+     "Delusions and hallucinations that come with psychosis",
+     "That is schizophrenia."
+    ],
+    [
+     "Mania and depression",
+     "That is bipolar."
+    ],
+    [
+     "Inattention and hyperactivity",
+     "That is ADHD."
+    ]
+   ],
+   "exp": "OCD: obsessions (thoughts) and compulsions (actions)."
   }
  ],
  "Obsessions": [
@@ -2304,6 +4394,25 @@
     [
      "Hallucinations",
      "Those are false perceptions."
+    ]
+   ],
+   "exp": "Obsessions = thoughts."
+  },
+  {
+   "q": "Which is an obsession rather than a compulsion?",
+   "right": "A constant fear that the house will burn",
+   "wrong": [
+    [
+     "Checking the stove twenty times before leaving the house",
+     "That is a compulsion (action)."
+    ],
+    [
+     "Counting steps",
+     "That is a compulsion."
+    ],
+    [
+     "Washing hands",
+     "That is a compulsion."
     ]
    ],
    "exp": "Obsessions = thoughts."
@@ -2328,6 +4437,25 @@
     ]
    ],
    "exp": "Compulsions = actions."
+  },
+  {
+   "q": "Which is a compulsion rather than an obsession?",
+   "right": "Silently counting to 100 again and again",
+   "wrong": [
+    [
+     "A recurring, intrusive thought that one's hands are dirty",
+     "That is an obsession (thought)."
+    ],
+    [
+     "Fear of germs",
+     "That is an obsession."
+    ],
+    [
+     "Worry about harm",
+     "That is an obsession."
+    ]
+   ],
+   "exp": "Compulsions are repetitive behaviors or mental acts."
   }
  ],
  "The OCD cycle": [
@@ -2346,6 +4474,25 @@
     [
      "Distress, relief, compulsion, obsession",
      "Out of order."
+    ]
+   ],
+   "exp": "Obsession → distress → compulsion → relief → back to obsession."
+  },
+  {
+   "q": "In the OCD cycle, what happens right after the compulsion?",
+   "right": "Relief",
+   "wrong": [
+    [
+     "A brand new obsession that is unrelated to the first one",
+     "Relief comes first, then the obsession returns."
+    ],
+    [
+     "Distress",
+     "Distress comes before the compulsion."
+    ],
+    [
+     "A panic attack",
+     "Not in the cycle."
     ]
    ],
    "exp": "Obsession → distress → compulsion → relief → back to obsession."
@@ -2370,6 +4517,25 @@
     ]
    ],
    "exp": "Operant conditioning: anxiety reduction is the reinforcement."
+  },
+  {
+   "q": "Why does checking the lock 15 times keep happening, according to operant conditioning?",
+   "right": "The relief from anxiety reinforces it",
+   "wrong": [
+    [
+     "The person was punished for checking the lock as a young child",
+     "Reinforcement, not punishment, maintains it."
+    ],
+    [
+     "Low dopamine",
+     "Not the behavioral explanation."
+    ],
+    [
+     "It's a delusion",
+     "Not psychosis."
+    ]
+   ],
+   "exp": "Anxiety reduction is the reinforcement."
   }
  ],
  "Other causes of OCD & related disorders": [
@@ -2391,6 +4557,25 @@
     ]
    ],
    "exp": "Cognitive, environmental and genetic causes."
+  },
+  {
+   "q": "Which neurotransmitter is OCD linked to being low, on your slides?",
+   "right": "Serotonin",
+   "wrong": [
+    [
+     "Dopamine, which is too high in schizophrenia",
+     "Not the one listed for OCD."
+    ],
+    [
+     "Melatonin",
+     "That is a hormone for sleep."
+    ],
+    [
+     "Endorphins",
+     "Not listed."
+    ]
+   ],
+   "exp": "OCD is related to low serotonin and imbalances in GABA and glutamate."
   }
  ],
  "Hoarding disorder": [
@@ -2412,6 +4597,25 @@
     ]
    ],
    "exp": "Persistent difficulty discarding possessions, with distress and clutter."
+  },
+  {
+   "q": "Which detail is part of the DSM-5 criteria for hoarding disorder?",
+   "right": "Clutter makes living areas hard to use",
+   "wrong": [
+    [
+     "Collecting only valuable items like coins and rare stamps",
+     "It's regardless of the items' value."
+    ],
+    [
+     "Hearing voices",
+     "Not a hoarding criterion."
+    ],
+    [
+     "Fear of crowds",
+     "That is agoraphobia."
+    ]
+   ],
+   "exp": "Possessions congest active living areas, substantially compromising their use."
   }
  ],
  "Trauma- and stressor-related disorders": [
@@ -2433,6 +4637,25 @@
     ]
    ],
    "exp": "Trauma- and stressor-related disorders follow a traumatic or stressful event."
+  },
+  {
+   "q": "PTSD, acute stress disorder and adjustment disorders cause similar symptoms. How do they differ, according to your slide?",
+   "right": "In how long they last",
+   "wrong": [
+    [
+     "In whether or not a traumatic event happened to the person",
+     "All follow a traumatic or stressful event."
+    ],
+    [
+     "In which hemisphere is affected",
+     "Not on your slides."
+    ],
+    [
+     "In whether they involve mania",
+     "Not on your slides."
+    ]
+   ],
+   "exp": "They cause similar symptoms but differ in how long they last."
   }
  ],
  "Cause of trauma disorders": [
@@ -2454,6 +4677,25 @@
     ]
    ],
    "exp": "Exposure to a traumatic or stressful event that results in distress."
+  },
+  {
+   "q": "Which situation could lead to a trauma- or stressor-related disorder?",
+   "right": "Surviving a violent attack",
+   "wrong": [
+    [
+     "Inheriting a gene for the disorder with no stressful events at all",
+     "These disorders require a traumatic or stressful event."
+    ],
+    [
+     "Eating too little",
+     "Not a trauma."
+    ],
+    [
+     "Studying the disorder",
+     "That is intern syndrome."
+    ]
+   ],
+   "exp": "Exposure to a traumatic or stressful event."
   }
  ],
  "Symptoms of PTSD": [
@@ -2475,6 +4717,25 @@
     ]
    ],
    "exp": "Intrusive thoughts, flashbacks, nightmares, hypervigilance."
+  },
+  {
+   "q": "Which set fits PTSD rather than GAD?",
+   "right": "Flashbacks and nightmares of an event",
+   "wrong": [
+    [
+     "Constant worry about many different everyday things for six months",
+     "That is GAD."
+    ],
+    [
+     "Fidgeting",
+     "That is ADHD."
+    ],
+    [
+     "Binge eating",
+     "That is bulimia."
+    ]
+   ],
+   "exp": "PTSD: intrusive thoughts, nightmares, flashbacks, hypervigilance."
   }
  ],
  "Hypervigilance": [
@@ -2496,6 +4757,25 @@
     ]
    ],
    "exp": "Always being on guard."
+  },
+  {
+   "q": "Hypervigilance is a symptom of which disorder on your slides?",
+   "right": "PTSD",
+   "wrong": [
+    [
+     "ADHD, which involves inattention and hyperactivity in children",
+     "Not listed for ADHD."
+    ],
+    [
+     "Anorexia",
+     "Not listed."
+    ],
+    [
+     "Bipolar II",
+     "Not listed."
+    ]
+   ],
+   "exp": "Hypervigilance (always on guard) is a PTSD symptom."
   }
  ],
  "Feeding & eating disorders": [
@@ -2517,6 +4797,25 @@
     ]
    ],
    "exp": "Eating disorders can cause permanent damage."
+  },
+  {
+   "q": "Which body parts can eating disorders permanently harm, according to your slides?",
+   "right": "Heart, bones, teeth and digestion",
+   "wrong": [
+    [
+     "Only the skin and hair, which grow back with time",
+     "Your slides list heart, digestive system, bones, teeth and mouth."
+    ],
+    [
+     "Only the eyes",
+     "Not listed."
+    ],
+    [
+     "None",
+     "They can cause permanent harm."
+    ]
+   ],
+   "exp": "Permanent harm to the heart, digestive system, bones, teeth and mouth."
   }
  ],
  "The two to know": [
@@ -2535,6 +4834,25 @@
     [
      "ADHD and ASD",
      "Those are neurodevelopmental."
+    ]
+   ],
+   "exp": "Anorexia nervosa and bulimia nervosa."
+  },
+  {
+   "q": "Your teacher says to focus on two eating disorders. Which pair is it?",
+   "right": "Anorexia and bulimia",
+   "wrong": [
+    [
+     "Bulimia and binge-eating disorder without any purging behavior",
+     "Not the pair on your slides."
+    ],
+    [
+     "Anorexia and OCD",
+     "OCD isn't an eating disorder."
+    ],
+    [
+     "Hoarding and bulimia",
+     "Hoarding isn't an eating disorder."
     ]
    ],
    "exp": "Anorexia nervosa and bulimia nervosa."
@@ -2559,6 +4877,25 @@
     ]
    ],
    "exp": "Refusal to maintain a minimally normal weight plus fear of gaining."
+  },
+  {
+   "q": "What separates anorexia from bulimia?",
+   "right": "Restricting to a very low weight",
+   "wrong": [
+    [
+     "Recurring binge eating followed by purging to avoid gaining weight",
+     "That is bulimia."
+    ],
+    [
+     "Fear of crowds",
+     "Not related."
+    ],
+    [
+     "Normal weight",
+     "People with bulimia are often at a normal weight."
+    ]
+   ],
+   "exp": "Anorexia = restricting to a significantly low body weight."
   }
  ],
  "Signs of anorexia": [
@@ -2580,6 +4917,25 @@
     ]
    ],
    "exp": "Distorted self-image, fear of gaining, restricted intake, excessive exercise."
+  },
+  {
+   "q": "A dancer exercises for hours, eats very little, faints at practice and avoids eating with friends. Which disorder do these signs fit?",
+   "right": "Anorexia nervosa",
+   "wrong": [
+    [
+     "Bulimia nervosa, with binge eating and then purging",
+     "No binge eating is described."
+    ],
+    [
+     "GAD",
+     "Not an eating disorder."
+    ],
+    [
+     "ADHD",
+     "Not related."
+    ]
+   ],
+   "exp": "Restricted intake, excessive exercise, fainting, withdrawing from socializing."
   }
  ],
  "Bulimia nervosa": [
@@ -2601,6 +4957,25 @@
     ]
    ],
    "exp": "Binge eating plus purging or other ways to prevent weight gain."
+  },
+  {
+   "q": "Which behavior is part of bulimia on your slides?",
+   "right": "Misusing laxatives after binge eating",
+   "wrong": [
+    [
+     "Restricting calories to reach a very low body weight",
+     "That is anorexia."
+    ],
+    [
+     "Hoarding food",
+     "Not listed."
+    ],
+    [
+     "Refusing all food for weeks",
+     "That fits restricting."
+    ]
+   ],
+   "exp": "Bulimia: binges plus purging, laxatives, fasting or excessive exercise."
   }
  ],
  "Binge eating episode": [
@@ -2622,6 +4997,25 @@
     ]
    ],
    "exp": "A definitely larger amount in 2 hours plus feeling you can't stop."
+  },
+  {
+   "q": "Which two things are BOTH needed for a binge eating episode?",
+   "right": "A very large amount and a loss of control",
+   "wrong": [
+    [
+     "Eating alone at night and then feeling some regret the next day",
+     "Not the definition."
+    ],
+    [
+     "Eating fast food",
+     "Not required."
+    ],
+    [
+     "Weight gain",
+     "Not required."
+    ]
+   ],
+   "exp": "A definitely larger amount in 2 hours, plus feeling you can't stop."
   }
  ],
  "Signs of bulimia": [
@@ -2643,6 +5037,25 @@
     ]
    ],
    "exp": "Frequent bathroom visits and private binging and purging."
+  },
+  {
+   "q": "A friend often goes to the bathroom right after meals and seems ashamed about eating. Which disorder do these signs fit?",
+   "right": "Bulimia nervosa",
+   "wrong": [
+    [
+     "Anorexia nervosa, restricting food to a very low weight",
+     "Frequent bathroom visits after meals point to purging."
+    ],
+    [
+     "Panic disorder",
+     "Not related."
+    ],
+    [
+     "OCD",
+     "Not the best fit."
+    ]
+   ],
+   "exp": "Frequent bathroom visits, guilt or shame about eating."
   }
  ],
  "Biological & genetic causes": [
@@ -2664,6 +5077,25 @@
     ]
    ],
    "exp": "Brain chemistry and family history."
+  },
+  {
+   "q": "Which is a biological cause of eating disorders?",
+   "right": "Imbalances in brain chemistry",
+   "wrong": [
+    [
+     "Being teased about weight in middle school and high school",
+     "That is social."
+    ],
+    [
+     "Thin ideals in the media",
+     "That is cultural."
+    ],
+    [
+     "Perfectionistic thinking",
+     "That is cognitive."
+    ]
+   ],
+   "exp": "Biological: brain chemistry imbalances; genetic: family history."
   }
  ],
  "Social cause": [
@@ -2685,6 +5117,25 @@
     ]
    ],
    "exp": "Weight-related bullying and family focus on fitness or perfection."
+  },
+  {
+   "q": "Which is a social cause of eating disorders?",
+   "right": "A family focused on perfection and achievement",
+   "wrong": [
+    [
+     "Living in a culture that values thinness and extreme dieting",
+     "That is cultural."
+    ],
+    [
+     "Brain chemistry",
+     "That is biological."
+    ],
+    [
+     "Moving to college",
+     "That is stress."
+    ]
+   ],
+   "exp": "Weight-related bullying, family focus on fitness, perfectionism or achievement."
   }
  ],
  "Cultural cause": [
@@ -2706,6 +5157,25 @@
     ]
    ],
    "exp": "Emphasis on thinness and extreme diet information."
+  },
+  {
+   "q": "Which setting fits the cultural cause of eating disorders?",
+   "right": "A culture full of extreme diet advice",
+   "wrong": [
+    [
+     "A family that teases a child about weight at every dinner",
+     "That is social."
+    ],
+    [
+     "A genetic predisposition",
+     "That is genetic."
+    ],
+    [
+     "Starting a new job",
+     "That is stress."
+    ]
+   ],
+   "exp": "Industrialized cultures emphasizing thinness, with extreme diet and exercise information."
   }
  ],
  "Cognitive cause": [
@@ -2724,6 +5194,25 @@
     [
      "Genetic",
      "That is inherited."
+    ]
+   ],
+   "exp": "Dysfunctional attitudes about appearance, perfectionism, obsessive thoughts."
+  },
+  {
+   "q": "Which thought fits the cognitive cause of eating disorders?",
+   "right": "\"I must look perfect or I'm worthless.\"",
+   "wrong": [
+    [
+     "\"My mom and grandmother both had an eating disorder too.\"",
+     "That points to genetics."
+    ],
+    [
+     "\"I just moved to college.\"",
+     "That is stress."
+    ],
+    [
+     "\"Everyone on TV is thin.\"",
+     "That is cultural."
     ]
    ],
    "exp": "Dysfunctional attitudes about appearance, perfectionism, obsessive thoughts."
@@ -2748,6 +5237,25 @@
     ]
    ],
    "exp": "Stress like heading to college, family or relationship problems."
+  },
+  {
+   "q": "Which event is listed as a stress that can trigger an eating disorder?",
+   "right": "Starting a new job",
+   "wrong": [
+    [
+     "Inheriting a predisposition to eating disorders from a parent",
+     "That is genetic."
+    ],
+    [
+     "Seeing diet ads",
+     "That is cultural."
+    ],
+    [
+     "Being bullied",
+     "That is social."
+    ]
+   ],
+   "exp": "Stress like college, family or relationship issues and new jobs."
   }
  ],
  "Personality disorders": [
