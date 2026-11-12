@@ -1,0 +1,807 @@
+{
+ "A neuron gets stimulation that is just below threshold. What happens?": {
+  "It fires weakly": "A neuron never fires weakly: all-or-none.",
+  "It fires more slowly": "Below threshold it doesn't fire at all.",
+  "It enters the refractory period": "The refractory period comes after firing, and it didn't fire."
+ },
+ "Right after firing, a neuron is flooded with neurotransmitters but still won't fire. Why?": {
+  "It's at resting potential": "At resting potential a neuron can fire if stimulated enough.",
+  "Its myelin is damaged": "Myelin damage slows signals; it doesn't explain this.",
+  "Reuptake is blocked": "\"Reuptake\" means: Leftover neurotransmitters in the synapse get reabsorbed by the neuron that released them."
+ },
+ "A patient's signals travel slowly down the axon and they have trouble walking. Which part is most likely damaged?": {
+  "Dendrites": "\"Dendrites\" means: Branch-like structures extending from the cell body. Their receptors receive chemical signals from other neurons.",
+  "Vesicles": "\"Vesicles\" means: Tiny sacs in the terminal buttons that store neurotransmitters.",
+  "Soma": "\"Soma\" means: The cell body. Holds the nucleus, keeps the cell alive, and decides when the neuron will fire."
+ },
+ "A drug blocks the reuptake of serotonin. What is it most likely used for?": {
+  "Parkinson's": "Parkinson's is linked to low dopamine.",
+  "Schizophrenia": "Schizophrenia is linked to too much dopamine.",
+  "Paralysis": "Paralysis is linked to blocked acetylcholine."
+ },
+ "Patients with Parkinson's disease have a shortage of which neurotransmitter?": {
+  "GABA": "\"GABA\" means: Gamma-aminobutyric acid: the primary inhibitory neurotransmitter. A natural tranquilizer that calms the nervous system. Too little is linked to anxiety disorders; too much causes sleepiness.",
+  "Glutamate": "\"Glutamate\" means: The major excitatory neurotransmitter. Involved in thinking, memory, and learning. Too much is linked to high anxiety, OCD, and migraines.",
+  "Endorphins": "\"Endorphins\" means: The brain's natural painkillers, released by the pituitary gland. Relieve pain and stress; example: runner's high."
+ },
+ "Someone has an anxiety disorder linked to a neurotransmitter that normally calms the nervous system. Which one is probably too low?": {
+  "Glutamate": "\"Glutamate\" means: The major excitatory neurotransmitter. Involved in thinking, memory, and learning. Too much is linked to high anxiety, OCD, and migraines.",
+  "Norepinephrine": "\"Norepinephrine\" means: Acts as both a neurotransmitter and a hormone (noradrenaline). Drives the sympathetic fight-or-flight response, plus focus, attention, and quick decisions. High levels are linked to developing fears; low levels to depression and ADHD.",
+  "Substance P": "\"Substance P\" means: Involved in pain regulation (sending pain signals). Levels rise with stress, heat, and painful stimuli."
+ },
+ "A runner feels euphoric and pain-free at mile 10. Which chemical is responsible?": {
+  "Acetylcholine": "\"Acetylcholine (ACh)\" means: Mainly controls movement (muscle action) and also plays a role in memory. Found in both the central and peripheral nervous systems. Too little is linked to Alzheimer's; too much causes muscle spasms; blocked receptors cause paralysis.",
+  "Melatonin": "\"Melatonin\" means: Hormone from the pineal gland, released in response to darkness. Regulates circadian rhythm (sleep-wake cycle) and helps you sleep.",
+  "Substance P": "\"Substance P\" means: Involved in pain regulation (sending pain signals). Levels rise with stress, heat, and painful stimuli."
+ },
+ "A poison blocks acetylcholine receptors. What is the most likely result?": {
+  "Insomnia": "\"Insomnia\" means: Can't sleep.",
+  "Hallucinations": "Hallucinations are linked to dopamine, not blocked ACh.",
+  "Overeating": "Overeating is linked to the hypothalamus, not ACh."
+ },
+ "You touch a hot stove and pull your hand back before you even feel the pain. What controlled this?": {
+  "The cerebellum": "\"Cerebellum\" means: \"Little brain\" at the back. Handles fine motor control, coordination, posture, and balance, plus learned motor skills like riding a bike. Alcohol strongly affects it.",
+  "The amygdala": "\"Amygdala\" means: Processes emotion, especially fear and aggression. Triggers fight-or-flight, helps read others' emotions, and helps store emotional memories.",
+  "The somatosensory cortex": "\"Somatosensory cortex\" means: Strip in the parietal lobe, directly behind the motor cortex, that registers touch and body movement sensations."
+ },
+ "After a scare, your heart rate slows back to normal. Which division is at work?": {
+  "Sympathetic": "\"Sympathetic nervous system\" means: Arouses the body: the fight, flight, or freeze response.",
+  "Somatic": "\"Somatic nervous system\" means: Part of the peripheral system that controls voluntary movements, like walking or picking up a pencil.",
+  "Central": "\"Central nervous system (CNS)\" means: The brain and the spinal cord."
+ },
+ "Which neurons carry the message \"this is hot\" from your fingertip to your spinal cord?": {
+  "Motor (efferent)": "\"Motor (efferent) neurons\" means: Carry signals from the brain and spinal cord out to muscles and organs.",
+  "Interneurons": "\"Interneurons\" means: Relay neurons in the brain and spinal cord that connect sensory and motor neurons and pass information between them.",
+  "Glial cells": "\"Glial cells (glia)\" means: Support cells in the brain that nourish and protect neurons. Your slides say there are about 50x more of them than neurons."
+ },
+ "Why does the effect of a hormone last longer than a neurotransmitter's?": {
+  "Hormones are made in the brain only": "Most hormones are made by glands around the body.",
+  "Hormones are always excitatory": "That isn't why they last longer; it's the bloodstream.",
+  "Hormones skip the synapse by using myelin": "Myelin coats axons; hormones travel in the blood."
+ },
+ "You haven't eaten in hours and your stomach is releasing a hormone telling you to eat. Which one?": {
+  "Leptin": "\"Leptin\" means: Hormone that tells the body you are full (satiety). Your slides say it is made in the small intestine.",
+  "Oxytocin": "\"Oxytocin\" means: The \"love\" or social-bonding hormone. Made by the hypothalamus and released by the pituitary. Important in labor, mother–baby bonding, and bonding with friends and partners. Low levels are linked to postpartum depression.",
+  "Melatonin": "\"Melatonin\" means: Hormone from the pineal gland, released in response to darkness. Regulates circadian rhythm (sleep-wake cycle) and helps you sleep."
+ },
+ "Which gland is called the \"master gland\"?": {
+  "Adrenal": "The adrenal glands release stress hormones like adrenaline.",
+  "Pineal": "The pineal gland releases melatonin.",
+  "Thyroid": "The thyroid regulates metabolism."
+ },
+ "A patient speaks fluently, but their sentences make no sense and they can't understand what others say. Which area is damaged?": {
+  "Broca's area": "\"Broca's area\" means: Left frontal lobe, next to the motor cortex; controls speech production.",
+  "Motor cortex": "\"Motor cortex\" means: Strip at the rear of the frontal lobe that controls voluntary movement.",
+  "Cerebellum": "\"Cerebellum\" means: \"Little brain\" at the back. Handles fine motor control, coordination, posture, and balance, plus learned motor skills like riding a bike. Alcohol strongly affects it."
+ },
+ "A stroke patient understands everything but can only say short phrases like \"want... water.\" Where is the damage?": {
+  "Wernicke's area": "\"Wernicke's area\" means: Temporal lobe area for comprehending written and spoken language.",
+  "Occipital lobe": "\"Occipital lobe\" means: Back of the brain; processes visual information. Has neurons that recognize lines, angles, shapes, and movement. Damage can cause blindness.",
+  "Hippocampus": "\"Hippocampus\" means: Helps store information into long-term memory. One of the first areas damaged by Alzheimer's."
+ },
+ "A rat with a damaged lateral hypothalamus will most likely:": {
+  "Overeat": "Overeating follows damage to the ventromedial hypothalamus.",
+  "Lose its balance": "Balance is the cerebellum.",
+  "Stop forming memories": "Memory formation is the hippocampus."
+ },
+ "Someone who drank too much alcohol can't walk a straight line. Which structure is most affected?": {
+  "Medulla": "\"Medulla\" means: Base of the brainstem; controls life-sustaining functions like breathing and heartbeat.",
+  "Thalamus": "\"Thalamus\" means: Sits on top of the brainstem; the brain's sensory relay station. All senses except smell get routed through it.",
+  "Amygdala": "\"Amygdala\" means: Processes emotion, especially fear and aggression. Triggers fight-or-flight, helps read others' emotions, and helps store emotional memories."
+ },
+ "A patient can't form new long-term memories after surgery. Which structure was most likely removed?": {
+  "Pons": "\"Pons\" means: Connects the spinal cord to the brain; involved in automatic processes, especially the sleep-wake cycle.",
+  "Corpus callosum": "\"Corpus callosum\" means: Large band of neural fibers connecting the left and right hemispheres so they can communicate.",
+  "Occipital lobe": "\"Occipital lobe\" means: Back of the brain; processes visual information. Has neurons that recognize lines, angles, shapes, and movement. Damage can cause blindness."
+ },
+ "After brain damage, a person becomes impulsive, rude, and makes poor decisions, like Phineas Gage. Which area?": {
+  "Parietal lobe": "\"Parietal lobe\" means: Top of the brain; processes body sensations (touch, pressure, temperature, pain) and spatial orientation.",
+  "Temporal lobe": "\"Temporal lobe\" means: Side of the brain, above the ears; hearing, language processing, and long-term memory storage.",
+  "Medulla": "\"Medulla\" means: Base of the brainstem; controls life-sustaining functions like breathing and heartbeat."
+ },
+ "A researcher wants to see which brain areas are active while someone solves math problems, with the best precision. Which scan?": {
+  "CT": "\"CT scan\" means: X-rays that show brain structure — the shape and position of structures. Helps find tumors.",
+  "MRI": "\"MRI\" means: Magnetic resonance imaging: strong magnetic pulses build a detailed picture of brain structure (tissue, tumors, clots).",
+  "X-ray": "An X-ray shows bone and structure, not brain activity."
+ },
+ "A stroke damages the left hemisphere's motor cortex. Which body part is most likely affected?": {
+  "Left arm": "Each hemisphere controls the opposite side of the body.",
+  "Both legs": "One hemisphere controls one side.",
+  "Neither — only speech": "The motor cortex controls movement, so the body is affected."
+ },
+ "Damage to which structure could put someone into a coma?": {
+  "Cerebellum": "\"Cerebellum\" means: \"Little brain\" at the back. Handles fine motor control, coordination, posture, and balance, plus learned motor skills like riding a bike. Alcohol strongly affects it.",
+  "Amygdala": "\"Amygdala\" means: Processes emotion, especially fear and aggression. Triggers fight-or-flight, helps read others' emotions, and helps store emotional memories.",
+  "Corpus callosum": "\"Corpus callosum\" means: Large band of neural fibers connecting the left and right hemispheres so they can communicate."
+ },
+ "A blind person reads Braille and the brain area for their reading finger expands into the visual cortex. This shows:": {
+  "Neurogenesis": "\"Neurogenesis\" means: The formation of new neurons. Only happens in two areas (one for memory, one for smell); usually a destroyed neuron cannot be replaced.",
+  "Lateralization": "Lateralization is each hemisphere specializing, not reorganizing.",
+  "Accommodation": "\"Accommodation\" means: The lens changing shape to focus on near or far objects."
+ },
+ "You walk into a dark movie theater and can't see; after a while you can make out shapes but not colors. Which receptors are working?": {
+  "Cones": "\"Cones\" means: Retina receptors for color and fine detail; work poorly in dim light.",
+  "Bipolar cells": "\"Bipolar cells\" means: Connect the rods and cones to the ganglion cells.",
+  "Feature detectors": "\"Feature detectors\" means: Neurons in the visual cortex that respond to specific features like shape, angle, or movement."
+ },
+ "Stare at a green flag, then look at a white wall, and you see a red flag. Which theory explains this?": {
+  "Trichromatic": "\"Trichromatic theory\" means: The retina has three types of color receptors — red, green, and blue — that combine to produce any color. Explains color at the retina level.",
+  "Gate control": "\"Gate control theory\" means: The spinal cord has a neurological \"gate\" that either blocks pain signals or lets them through to the brain. Distraction can close the gate.",
+  "Gestalt": "\"Gestalt\" means: An organized whole. Gestalt psychologists said we combine pieces of information into meaningful wholes (you see a face, not a set of lines)."
+ },
+ "Railroad tracks look like they meet at the horizon. Which depth cue is this?": {
+  "Retinal disparity": "\"Retinal disparity\" means: A binocular cue: because your eyes are about 2.5 inches apart, each retina gets a slightly different image; the bigger the difference, the closer the object.",
+  "Interposition": "\"Interposition\" means: Monocular cue: an object that blocks part of another is seen as closer.",
+  "Relative clarity": "\"Relative clarity\" means: Monocular cue: sharp, clear objects seem closer; hazy ones seem farther away."
+ },
+ "One car partly blocks your view of another, so you see the first car as closer. Which cue?": {
+  "Relative size": "\"Relative size\" means: Monocular cue: if two objects are assumed to be the same size, the one that looks smaller seems farther away.",
+  "Closure": "\"Closure\" means: Filling in gaps to see a complete, closed shape.",
+  "Proximity": "\"Proximity\" means: Grouping objects that are close together (how you see separate words on a page)."
+ },
+ "You see a circle even though the drawing has small gaps in its outline. Which Gestalt principle?": {
+  "Similarity": "\"Similarity\" means: Grouping objects that look alike.",
+  "Proximity": "\"Proximity\" means: Grouping objects that are close together (how you see separate words on a page).",
+  "Figure-ground": "\"Figure-ground\" means: Organizing what you see into objects (figures) that stand out from their surroundings (ground)."
+ },
+ "Where does transduction happen in vision?": {
+  "Cornea": "\"Cornea\" means: Clear, protective outer layer where light first enters the eye.",
+  "Lens": "\"Lens\" means: Transparent structure behind the pupil that changes shape to focus images on the retina.",
+  "Optic nerve": "\"Optic nerve\" means: Carries neural impulses from the eye to the brain."
+ },
+ "Your eyes are about 2.5 inches apart, so each sees a slightly different image of a nearby object. This depth cue is:": {
+  "Relative size": "\"Relative size\" means: Monocular cue: if two objects are assumed to be the same size, the one that looks smaller seems farther away.",
+  "Linear perspective": "\"Linear perspective\" means: Monocular cue: parallel lines seem to converge in the distance (train tracks).",
+  "Accommodation": "\"Accommodation\" means: The lens changing shape to focus on near or far objects."
+ },
+ "A concert leaves a fan with permanent damage to the cochlea's hair cells. What type of hearing loss is this?": {
+  "Conduction — fixable with surgery": "Conduction loss is damage to the outer or middle ear, not the cochlea.",
+  "Conduction — irreversible": "Cochlea damage is sensorineural, not conduction.",
+  "Vestibular": "\"Vestibular sense\" means: Senses the head's position and movement (balance) using fluid in the semicircular canals and vestibular sacs. Signals go to the cerebellum. The fluid keeps moving after you stop, which causes dizziness."
+ },
+ "You spin in circles, stop, and still feel like the room is moving. This involves your:": {
+  "Kinesthetic sense": "Kinesthesis tracks body part positions, not balance.",
+  "Sense of smell": "Smell isn't involved in balance.",
+  "Sense of hearing": "The semicircular canals are for balance, not hearing."
+ },
+ "Which sense does NOT get routed through the thalamus?": {
+  "Vision": "Vision is routed through the thalamus.",
+  "Hearing": "Hearing is routed through the thalamus.",
+  "Touch": "\"Touch\" means: A mix of four skin senses: pressure, warmth, cold, and pain."
+ },
+ "You rub your stubbed toe and it hurts less. Which theory explains this?": {
+  "Opponent-process theory": "\"Opponent-process theory\" means: Color is processed by opposing pairs — red/green, yellow/blue, white/black — and a cell can signal only one of each pair at a time. Explains color in the brain and afterimages.",
+  "Trichromatic theory": "\"Trichromatic theory\" means: The retina has three types of color receptors — red, green, and blue — that combine to produce any color. Explains color at the retina level.",
+  "All-or-none principle": "\"All-or-none principle\" means: A neuron either fires completely or not at all. It never partially fires, and a stronger stimulus does not make a stronger firing."
+ },
+ "Food tastes bland when you have a stuffy nose. This is an example of:": {
+  "Synesthesia": "\"Synesthesia\" means: When one sense triggers another — like hearing music or seeing a number and experiencing a color.",
+  "Supertasting": "Supertasters have more taste buds; that isn't about a stuffy nose.",
+  "Transduction": "\"Transduction\" means: Converting one form of energy (like light) into neural impulses the brain can understand."
+ },
+ "A sound wave with a very high amplitude will be heard as:": {
+  "High-pitched": "Pitch comes from frequency, not amplitude.",
+  "Low-pitched": "Pitch comes from frequency.",
+  "Soft": "High amplitude means loud."
+ },
+ "With your eyes closed, you can still touch your nose with your finger. Which sense makes that possible?": {
+  "Vestibular sense": "\"Vestibular sense\" means: Senses the head's position and movement (balance) using fluid in the semicircular canals and vestibular sacs. Signals go to the cerebellum. The fluid keeps moving after you stop, which causes dizziness.",
+  "Gustation": "\"Gustation\" means: The sense of taste. The tongue has about 200 taste buds, each with 50–100 receptors; taste buds regenerate about every two weeks.",
+  "Audition": "\"Audition\" means: The sense of hearing."
+ },
+ "A picture of a cat is flashed to a split-brain patient's left visual field and a mouse to her right visual field. She will be able to use her:": {
+  "Right hand to indicate she saw a cat": "The cat went to the right hemisphere, which controls the left hand.",
+  "Left hand to indicate she saw a mouse": "The mouse went to the left hemisphere, which controls the right hand.",
+  "Either hand to indicate she saw a cat": "The hemispheres can't share; only the left hand knows about the cat."
+ },
+ "The word KEY is flashed to a split-brain patient's left visual field. Asked what he saw, he will most likely:": {
+  "Say \"key\"": "The right hemisphere saw it, and it can't speak.",
+  "Say \"nothing,\" but pick out a key with his right hand": "The right hand is run by the left hemisphere, which didn't see it.",
+  "Say \"key\" and draw it with his right hand": "The left hemisphere, which speaks and runs the right hand, didn't see it."
+ },
+ "The word FACE is flashed to a split-brain patient's right visual field. What does he say he saw?": {
+  "\"Nothing\"": "The left hemisphere saw it, and it can speak.",
+  "He can only draw it with his left hand": "The left hand is run by the right hemisphere, which didn't see it.",
+  "He sees it in both hemispheres": "With the corpus callosum cut, only the left hemisphere gets it."
+ },
+ "Why would a surgeon cut a patient's corpus callosum?": {
+  "To treat Broca's aphasia": "Broca's aphasia is a speech problem, not treated this way.",
+  "To improve memory": "The surgery isn't for memory.",
+  "To restore vision": "The surgery isn't for vision."
+ },
+ "In a split-brain patient, information from the right visual field goes only to the:": {
+  "Right hemisphere": "\"Right hemisphere\" means: Spatial ability; recognizing faces, places, and objects; perceiving and expressing emotion; tone and emphasis in speech; controls the left side of the body.",
+  "Cerebellum": "\"Cerebellum\" means: \"Little brain\" at the back. Handles fine motor control, coordination, posture, and balance, plus learned motor skills like riding a bike. Alcohol strongly affects it.",
+  "Both hemispheres equally": "With the corpus callosum cut, the hemispheres can't share it."
+ },
+ "A friend understands every word of your sarcastic \"Oh, great\" but misses that you meant it sarcastically. Which hemisphere handles that part of language?": {
+  "Left — words and definitions": "Your friend got the words; what's missing is tone, a right-hemisphere job.",
+  "Left — calculation": "Calculation isn't the issue here.",
+  "Neither; it's the cerebellum": "The cerebellum handles balance and coordination."
+ },
+ "Jake scrolls on his phone in bed every night, and now he can't fall asleep at his usual time. What is most likely interfering?": {
+  "Sleep apnea": "\"Sleep apnea\" means: You stop breathing in your sleep.",
+  "Narcolepsy": "\"Narcolepsy\" means: You fall asleep spontaneously.",
+  "Night terrors": "\"Night terrors\" means: Not nightmares: intense fear or terror where you wake up screaming or crying, with no recollection the following morning. Happen in Stage 3."
+ },
+ "A child wakes up screaming and crying in intense fear, but the next morning remembers nothing. This is most likely:": {
+  "A nightmare": "Nightmares are remembered; night terrors usually aren't.",
+  "Narcolepsy": "\"Narcolepsy\" means: You fall asleep spontaneously.",
+  "Insomnia": "\"Insomnia\" means: Can't sleep."
+ },
+ "A drug fits into endorphin receptors and mimics endorphins, increasing their effects. The drug is acting as:": {
+  "An antagonist": "\"Antagonist\" means: A drug that blocks the effects of a neurotransmitter. Example from your slides: cocaine blocks the reuptake of dopamine.",
+  "A depressant": "\"Depressants\" means: Drugs that slow you down by reducing neural activity. Examples: alcohol, barbiturates, sedatives, benzodiazepines.",
+  "A hallucinogen": "\"Hallucinogens\" means: Substances that distort visual and auditory perception. Examples: LSD, marijuana."
+ },
+ "Ava used to need one cup of coffee to feel alert. Now she needs three to get the same effect. This is:": {
+  "Withdrawal": "\"Withdrawal\" means: The discomfort and distress that follow discontinuing an addictive drug. Can be physiological and/or psychological.",
+  "Substance abuse": "\"Substance abuse\" means: A pattern of use that inhibits the ability to function, often puts the user in danger, and results in legal difficulties.",
+  "Insomnia": "\"Insomnia\" means: Can't sleep."
+ },
+ "When Leo quits smoking, he becomes irritable, gets headaches, and feels nervous. He is experiencing:": {
+  "Tolerance": "\"Tolerance\" means: A need for larger amounts of the drug to experience the same effects.",
+  "Narcolepsy": "\"Narcolepsy\" means: You fall asleep spontaneously.",
+  "A hallucination": "He isn't seeing or hearing things that aren't there."
+ },
+ "Which category do benzodiazepines like Valium and Xanax belong to?": {
+  "Stimulants": "\"Stimulants\" means: Drugs that excite the central nervous system. Examples: caffeine, nicotine, cocaine, amphetamines, meth.",
+  "Hallucinogens": "\"Hallucinogens\" means: Substances that distort visual and auditory perception. Examples: LSD, marijuana.",
+  "Opioids": "\"Opioids\" means: Drugs derived from the opium poppy that lessen pain and anxiety. Examples: heroin, codeine, morphine, methadone, OxyContin, oxycodone."
+ },
+ "A drug intensifies the effects of GABA and reduces glutamate, causing slurred speech and poor judgment. Which drug is it?": {
+  "Cocaine": "\"Cocaine\" means: Blocks reabsorption of dopamine to produce increased alertness, euphoria, and motivation. Followed by a huge crash with anxiety, depression, and strong cravings.",
+  "LSD": "\"LSD\" means: Produces hallucinations and delusions, like a psychotic state. Can result in psychosis, memory loss, paranoia, panic attacks, nightmares, and aggression.",
+  "Caffeine": "\"Caffeine\" means: Naturally occurring (coffee, tea, chocolate); increases alertness. In high doses it can cause anxiety, heart palpitations, and insomnia."
+ },
+ "After pulling an all-nighter, Sam feels unusually hungry all day. Which change best explains this?": {
+  "More leptin and less ghrelin": "That would reduce hunger; it's the reverse.",
+  "More endorphins": "Endorphins relieve pain; they don't explain hunger.",
+  "Less GABA": "GABA is inhibitory; it isn't linked to sleep-loss hunger."
+ },
+ "Maria's neurologist explains that the fatty coating around her axons is breaking down, slowing her neural signals and making walking difficult. Maria most likely has:": {
+  "Myasthenia gravis": "\"Myasthenia gravis\" means: Autoimmune disorder where antibodies block or destroy the muscles' receptor sites for acetylcholine, causing muscle weakness.",
+  "Parkinson's disease": "Parkinson's is linked to low dopamine, not myelin.",
+  "Alzheimer's disease": "Alzheimer's is linked to low acetylcholine and memory loss."
+ },
+ "Which of the following best describes the all-or-none principle?": {
+  "A stronger stimulus causes a neuron to fire with greater intensity.": "Firing strength never changes; it fires fully or not at all.",
+  "A neuron must receive signals from all of its dendrites before it can fire.": "\"Neuron\" means: A nerve cell; the basic building block of the brain and nervous system. Hundreds of billions form networks throughout the body.",
+  "A neuron releases either all of its neurotransmitters or none during reuptake.": "\"Neuron\" means: A nerve cell; the basic building block of the brain and nervous system. Hundreds of billions form networks throughout the body."
+ },
+ "A new drug stops the sending neuron from reabsorbing leftover neurotransmitters in the synapse. Which process is the drug blocking?": {
+  "The action potential": "\"Action potential\" means: The electrical signal that the soma starts once threshold is reached; it travels down the axon.",
+  "The refractory period": "\"Refractory period\" means: The recovery time after firing when the neuron cannot fire again, no matter how many neurotransmitters it receives.",
+  "Threshold": "\"Threshold\" means: The level of stimulation the dendrites must receive before the neuron will fire."
+ },
+ "Which sequence correctly describes the path of a signal through a single neuron?": {
+  "Axon → soma → dendrites → terminal buttons": "Signals start at the dendrites, not the axon.",
+  "Soma → dendrites → terminal buttons → axon": "The dendrites come first and the terminal buttons last.",
+  "Terminal buttons → axon → soma → dendrites": "\"Terminal buttons\" means: Knobs at the ends of the terminal branches that hold the vesicles."
+ },
+ "Which of the following best describes the function of glial cells?": {
+  "They carry electrical impulses down the axon.": "That's the neuron's job.",
+  "They store neurotransmitters in vesicles.": "Vesicles in the terminal buttons store them.",
+  "They form the gap between two neurons.": "That gap is the synapse."
+ },
+ "Antibodies in Jordan's body are blocking his muscles' receptor sites for acetylcholine, and his muscles are growing weak. Jordan most likely has:": {
+  "Multiple sclerosis": "\"Multiple sclerosis (MS)\" means: Disease caused by deterioration of the myelin sheath (demyelination). Causes trouble with movement and walking.",
+  "Parkinson's disease": "Parkinson's is linked to low dopamine.",
+  "Schizophrenia": "Schizophrenia isn't a muscle disorder."
+ },
+ "Which of the following best explains why neurons use chemical messengers to communicate with each other?": {
+  "Neurons are physically connected, so chemicals flow directly between them.": "Neurons never touch; a gap separates them.",
+  "The myelin sheath blocks electrical signals from reaching the dendrites.": "\"Myelin sheath\" means: Fatty coating that protects the axon and speeds up the electrical signal.",
+  "Dendrites can only detect electrical signals, not chemical ones.": "\"Dendrites\" means: Branch-like structures extending from the cell body. Their receptors receive chemical signals from other neurons."
+ },
+ "Immediately after firing, a neuron will not fire again no matter how much it is stimulated. Which of the following best describes this?": {
+  "It is at resting potential and waiting for stimulation.": "At rest it could fire if stimulated enough.",
+  "Its threshold has permanently increased.": "The recovery is temporary.",
+  "Its myelin sheath has been damaged.": "Myelin damage slows signals; it isn't this."
+ },
+ "Where are neurotransmitters stored before they are released into the synapse?": {
+  "In the dendrites": "Dendrites receive signals.",
+  "In the soma": "The soma is the cell body that decides to fire.",
+  "In the myelin sheath": "Myelin insulates the axon."
+ },
+ "Ella has been diagnosed with depression. Her doctor prescribes a medication that keeps serotonin in the synapse longer. Which type of drug is this?": {
+  "A GABA blocker": "Blocking GABA would increase anxiety; it doesn't keep serotonin in the synapse.",
+  "An acetylcholine blocker": "\"Acetylcholine (ACh)\" means: Mainly controls movement (muscle action) and also plays a role in memory. Found in both the central and peripheral nervous systems. Too little is linked to Alzheimer's; too much causes muscle spasms; blocked receptors cause paralysis.",
+  "An endorphin inhibitor": "\"Endorphins\" means: The brain's natural painkillers, released by the pituitary gland. Relieve pain and stress; example: runner's high."
+ },
+ "A patient with Parkinson's disease has tremors and trouble starting movements. A shortage of which neurotransmitter is most responsible?": {
+  "Serotonin": "\"Serotonin\" means: Affects mood, emotion, appetite, and sleep. High levels mean more happiness; low levels are linked to depression, anger-control problems, and OCD.",
+  "GABA": "\"GABA\" means: Gamma-aminobutyric acid: the primary inhibitory neurotransmitter. A natural tranquilizer that calms the nervous system. Too little is linked to anxiety disorders; too much causes sleepiness.",
+  "Glutamate": "\"Glutamate\" means: The major excitatory neurotransmitter. Involved in thinking, memory, and learning. Too much is linked to high anxiety, OCD, and migraines."
+ },
+ "Excess activity of which neurotransmitter has been linked to schizophrenia?": {
+  "GABA": "\"GABA\" means: Gamma-aminobutyric acid: the primary inhibitory neurotransmitter. A natural tranquilizer that calms the nervous system. Too little is linked to anxiety disorders; too much causes sleepiness.",
+  "Endorphins": "\"Endorphins\" means: The brain's natural painkillers, released by the pituitary gland. Relieve pain and stress; example: runner's high.",
+  "Acetylcholine": "\"Acetylcholine (ACh)\" means: Mainly controls movement (muscle action) and also plays a role in memory. Found in both the central and peripheral nervous systems. Too little is linked to Alzheimer's; too much causes muscle spasms; blocked receptors cause paralysis."
+ },
+ "Which of the following best describes the role of GABA?": {
+  "It is the main excitatory neurotransmitter and is involved in memory.": "That's glutamate.",
+  "It sends hunger signals to the brain.": "That's ghrelin, a hormone.",
+  "It is the body's natural painkiller.": "That's endorphins."
+ },
+ "Low levels of acetylcholine are most closely associated with which disorder?": {
+  "Parkinson's disease": "Parkinson's is low dopamine.",
+  "Schizophrenia": "Schizophrenia is linked to too much dopamine.",
+  "Anxiety disorders": "Anxiety is linked to low GABA."
+ },
+ "After finishing a marathon, Kai feels euphoric and barely notices the blisters on his feet. Which neurotransmitter best explains this?": {
+  "Substance P": "\"Substance P\" means: Involved in pain regulation (sending pain signals). Levels rise with stress, heat, and painful stimuli.",
+  "Glutamate": "\"Glutamate\" means: The major excitatory neurotransmitter. Involved in thinking, memory, and learning. Too much is linked to high anxiety, OCD, and migraines.",
+  "Norepinephrine": "\"Norepinephrine\" means: Acts as both a neurotransmitter and a hormone (noradrenaline). Drives the sympathetic fight-or-flight response, plus focus, attention, and quick decisions. High levels are linked to developing fears; low levels to depression and ADHD."
+ },
+ "Which neurotransmitter is the brain's major excitatory neurotransmitter and, in excess, is linked to migraines?": {
+  "GABA": "\"GABA\" means: Gamma-aminobutyric acid: the primary inhibitory neurotransmitter. A natural tranquilizer that calms the nervous system. Too little is linked to anxiety disorders; too much causes sleepiness.",
+  "Serotonin": "\"Serotonin\" means: Affects mood, emotion, appetite, and sleep. High levels mean more happiness; low levels are linked to depression, anger-control problems, and OCD.",
+  "Dopamine": "\"Dopamine\" means: The \"pleasure chemical\": reward pathway, anticipating something good, movement, alertness, and motor coordination. Low levels are linked to Parkinson's and addictive behaviors; high levels are linked to schizophrenia."
+ },
+ "Sam's doctor suspects his trouble focusing is related to low levels of a chemical that also drives the fight-or-flight response. Which one?": {
+  "GABA": "\"GABA\" means: Gamma-aminobutyric acid: the primary inhibitory neurotransmitter. A natural tranquilizer that calms the nervous system. Too little is linked to anxiety disorders; too much causes sleepiness.",
+  "Endorphins": "\"Endorphins\" means: The brain's natural painkillers, released by the pituitary gland. Relieve pain and stress; example: runner's high.",
+  "Acetylcholine": "\"Acetylcholine (ACh)\" means: Mainly controls movement (muscle action) and also plays a role in memory. Found in both the central and peripheral nervous systems. Too little is linked to Alzheimer's; too much causes muscle spasms; blocked receptors cause paralysis."
+ },
+ "Which of the following correctly pairs a neurotransmitter with its function?": {
+  "Serotonin — muscle movement": "\"Serotonin\" means: Affects mood, emotion, appetite, and sleep. High levels mean more happiness; low levels are linked to depression, anger-control problems, and OCD.",
+  "Endorphins — sending pain signals": "\"Endorphins\" means: The brain's natural painkillers, released by the pituitary gland. Relieve pain and stress; example: runner's high.",
+  "GABA — the major excitatory neurotransmitter": "GABA is inhibitory; glutamate is excitatory."
+ },
+ "Which of the following best explains the difference between excitatory and inhibitory neurotransmitters?": {
+  "Excitatory ones work only in the brain; inhibitory ones work only in the spinal cord.": "Both kinds work throughout the nervous system.",
+  "Excitatory ones are hormones; inhibitory ones are neurotransmitters.": "Both are neurotransmitters.",
+  "Excitatory ones speed up reuptake; inhibitory ones slow it down.": "The difference is the next neuron's chance of firing, not reuptake."
+ },
+ "While hiking, Leah spots a rattlesnake. Her heart races, her pupils dilate, and her digestion slows. Which division of the nervous system is responsible?": {
+  "Parasympathetic": "\"Parasympathetic nervous system\" means: Calms the body back down: rest and digest.",
+  "Somatic": "\"Somatic nervous system\" means: Part of the peripheral system that controls voluntary movements, like walking or picking up a pencil.",
+  "Central": "\"Central nervous system (CNS)\" means: The brain and the spinal cord."
+ },
+ "After the snake slithers away, Leah's heart rate and breathing gradually return to normal. Which division is now most active?": {
+  "Sympathetic": "\"Sympathetic nervous system\" means: Arouses the body: the fight, flight, or freeze response.",
+  "Somatic": "\"Somatic nervous system\" means: Part of the peripheral system that controls voluntary movements, like walking or picking up a pencil.",
+  "Central": "\"Central nervous system (CNS)\" means: The brain and the spinal cord."
+ },
+ "Which of the following is an example of the somatic nervous system at work?": {
+  "Your heart speeding up before a test": "That's automatic: autonomic (sympathetic).",
+  "Your stomach digesting lunch": "That's automatic: autonomic (parasympathetic).",
+  "Your pupils shrinking in bright light": "That's automatic: autonomic."
+ },
+ "When the doctor taps Luis's knee, his leg kicks before his brain even registers the tap. Which of the following best explains why the response is so fast?": {
+  "Motor neurons are always faster than sensory neurons.": "\"Motor (efferent) neurons\" means: Carry signals from the brain and spinal cord out to muscles and organs.",
+  "The cerebellum processes all reflexes instantly.": "\"Cerebellum\" means: \"Little brain\" at the back. Handles fine motor control, coordination, posture, and balance, plus learned motor skills like riding a bike. Alcohol strongly affects it.",
+  "Hormones carry the signal directly to the leg.": "Hormones are slow; reflexes run through the spinal cord."
+ },
+ "Which type of neuron carries messages from the brain and spinal cord out to the muscles?": {
+  "Sensory (afferent) neurons": "\"Sensory (afferent) neurons\" means: Carry messages from sensory receptors in to the brain and spinal cord.",
+  "Interneurons": "\"Interneurons\" means: Relay neurons in the brain and spinal cord that connect sensory and motor neurons and pass information between them.",
+  "Glial cells": "\"Glial cells (glia)\" means: Support cells in the brain that nourish and protect neurons. Your slides say there are about 50x more of them than neurons."
+ },
+ "Which of the following best describes the role of interneurons?": {
+  "They carry messages from the senses to the brain.": "That's sensory (afferent) neurons.",
+  "They carry messages from the brain to the muscles.": "That's motor (efferent) neurons.",
+  "They insulate axons to speed up signals.": "That's the myelin sheath."
+ },
+ "Which of the following best explains how the endocrine system differs from the nervous system?": {
+  "Hormones travel along axons, so they act faster than neurotransmitters.": "Hormones travel in the blood and act more slowly.",
+  "The endocrine system controls only voluntary movement.": "\"Endocrine system\" means: The system of glands that releases and regulates hormones.",
+  "Hormones act only inside the brain.": "Hormones act throughout the body."
+ },
+ "Which gland is called the \"master gland\" because it signals other glands to release their hormones?": {
+  "Pineal gland": "The pineal gland releases melatonin.",
+  "Adrenal gland": "The adrenal glands release stress hormones.",
+  "Thyroid gland": "The thyroid regulates metabolism."
+ },
+ "After a big Thanksgiving dinner, Aiden feels full and stops eating. Which hormone is most responsible for this signal?": {
+  "Ghrelin": "\"Ghrelin\" means: Hunger hormone made in the stomach; tells the body you are hungry.",
+  "Oxytocin": "\"Oxytocin\" means: The \"love\" or social-bonding hormone. Made by the hypothalamus and released by the pituitary. Important in labor, mother–baby bonding, and bonding with friends and partners. Low levels are linked to postpartum depression.",
+  "Melatonin": "\"Melatonin\" means: Hormone from the pineal gland, released in response to darkness. Regulates circadian rhythm (sleep-wake cycle) and helps you sleep."
+ },
+ "A new mother feels a strong bond with her baby soon after giving birth. Which hormone plays the biggest role in this bonding?": {
+  "Testosterone": "\"Testosterone\" means: Sex hormone made in the testes and ovaries; the hormone most responsible for sex drive. Men have more. Too much is linked to aggression.",
+  "Adrenaline": "\"Adrenaline\" means: Hormone from the adrenal glands (on top of the kidneys). Raises heart rate, blood pressure, and blood sugar for the fight-or-flight energy surge.",
+  "Ghrelin": "\"Ghrelin\" means: Hunger hormone made in the stomach; tells the body you are hungry."
+ },
+ "Jet lag throws off Mia's sleep-wake cycle. Which hormone, released by the pineal gland in response to darkness, regulates this cycle?": {
+  "Leptin": "\"Leptin\" means: Hormone that tells the body you are full (satiety). Your slides say it is made in the small intestine.",
+  "Estrogen": "\"Estrogen\" means: Sex hormone important for reproduction; women have more of it.",
+  "Adrenaline": "\"Adrenaline\" means: Hormone from the adrenal glands (on top of the kidneys). Raises heart rate, blood pressure, and blood sugar for the fight-or-flight energy surge."
+ },
+ "During a scary movie, Ben's adrenal glands release a hormone that raises his heart rate and blood sugar. Which hormone is it?": {
+  "Melatonin": "\"Melatonin\" means: Hormone from the pineal gland, released in response to darkness. Regulates circadian rhythm (sleep-wake cycle) and helps you sleep.",
+  "Oxytocin": "\"Oxytocin\" means: The \"love\" or social-bonding hormone. Made by the hypothalamus and released by the pituitary. Important in labor, mother–baby bonding, and bonding with friends and partners. Low levels are linked to postpartum depression.",
+  "Leptin": "\"Leptin\" means: Hormone that tells the body you are full (satiety). Your slides say it is made in the small intestine."
+ },
+ "Which of the following best describes what Phineas Gage's injury taught psychologists?": {
+  "The occipital lobe is responsible for processing vision.": "\"Occipital lobe\" means: Back of the brain; processes visual information. Has neurons that recognize lines, angles, shapes, and movement. Damage can cause blindness.",
+  "The cerebellum controls balance and coordination.": "\"Cerebellum\" means: \"Little brain\" at the back. Handles fine motor control, coordination, posture, and balance, plus learned motor skills like riding a bike. Alcohol strongly affects it.",
+  "The temporal lobe is needed to understand speech.": "\"Temporal lobe\" means: Side of the brain, above the ears; hearing, language processing, and long-term memory storage."
+ },
+ "Which of the following scenarios best illustrates neuroplasticity?": {
+  "A student drinks coffee to stay alert while studying.": "That's a drug effect, not the brain reorganizing.",
+  "A runner's heart rate speeds up during a race.": "That's the sympathetic nervous system.",
+  "A person blinks when dust blows toward their eyes.": "That's a reflex."
+ },
+ "Which of the following functions is most closely associated with the limbic system?": {
+  "Coordinating balance and fine motor movement": "That's the cerebellum.",
+  "Controlling breathing and heartbeat": "That's the medulla.",
+  "Processing visual information": "That's the occipital lobe."
+ },
+ "Which of the following best describes the primary function of the cerebellum?": {
+  "Regulating emotions and forming memories": "That's the limbic system.",
+  "Controlling hunger, thirst, and body temperature": "That's the hypothalamus.",
+  "Producing speech": "That's Broca's area."
+ },
+ "Which part of the brain plays a crucial role in controlling arousal and attention, and if damaged could leave a person in a coma?": {
+  "Hippocampus": "\"Hippocampus\" means: Helps store information into long-term memory. One of the first areas damaged by Alzheimer's.",
+  "Thalamus": "\"Thalamus\" means: Sits on top of the brainstem; the brain's sensory relay station. All senses except smell get routed through it.",
+  "Hypothalamus": "\"Hypothalamus\" means: Regulates the autonomic nervous system and monitors body temperature, thirst, hunger, and sexual responses."
+ },
+ "Which part of the brainstem is most involved in regulating the sleep-wake cycle?": {
+  "Medulla": "\"Medulla\" means: Base of the brainstem; controls life-sustaining functions like breathing and heartbeat.",
+  "Cerebellum": "\"Cerebellum\" means: \"Little brain\" at the back. Handles fine motor control, coordination, posture, and balance, plus learned motor skills like riding a bike. Alcohol strongly affects it.",
+  "Amygdala": "\"Amygdala\" means: Processes emotion, especially fear and aggression. Triggers fight-or-flight, helps read others' emotions, and helps store emotional memories."
+ },
+ "A gymnast's fall damages her medulla. Which function is most at risk?": {
+  "Recognizing faces": "Face recognition isn't a medulla job.",
+  "Forming new memories": "That's the hippocampus.",
+  "Producing speech": "That's Broca's area."
+ },
+ "After a stroke, Mr. Lee understands everything his family says, but he speaks slowly in short, broken phrases like \"want... coffee.\" Which area was most likely damaged?": {
+  "Wernicke's area": "\"Wernicke's area\" means: Temporal lobe area for comprehending written and spoken language.",
+  "Occipital lobe": "\"Occipital lobe\" means: Back of the brain; processes visual information. Has neurons that recognize lines, angles, shapes, and movement. Damage can cause blindness.",
+  "Cerebellum": "\"Cerebellum\" means: \"Little brain\" at the back. Handles fine motor control, coordination, posture, and balance, plus learned motor skills like riding a bike. Alcohol strongly affects it."
+ },
+ "After a head injury, Ana speaks fluently, but her sentences make little sense and she can't follow what others say. Which area was most likely damaged?": {
+  "Broca's area": "\"Broca's area\" means: Left frontal lobe, next to the motor cortex; controls speech production.",
+  "Motor cortex": "\"Motor cortex\" means: Strip at the rear of the frontal lobe that controls voluntary movement.",
+  "Amygdala": "\"Amygdala\" means: Processes emotion, especially fear and aggression. Triggers fight-or-flight, helps read others' emotions, and helps store emotional memories."
+ },
+ "Which lobe contains the somatosensory cortex, which processes touch, temperature, and pain?": {
+  "Frontal lobe": "\"Frontal lobe\" means: Front of the brain; home of the prefrontal cortex, motor cortex, and Broca's area.",
+  "Occipital lobe": "\"Occipital lobe\" means: Back of the brain; processes visual information. Has neurons that recognize lines, angles, shapes, and movement. Damage can cause blindness.",
+  "Temporal lobe": "\"Temporal lobe\" means: Side of the brain, above the ears; hearing, language processing, and long-term memory storage."
+ },
+ "A tumor in the temporal lobe would most likely affect a person's:": {
+  "Vision": "Vision is the occipital lobe.",
+  "Balance": "Balance is the cerebellum.",
+  "Breathing": "Breathing is the medulla."
+ },
+ "A stroke damages the motor cortex in Tom's left hemisphere. Which of the following is most likely?": {
+  "Weakness or paralysis on the left side of his body": "Each hemisphere controls the opposite side.",
+  "Blindness in both eyes": "The motor cortex controls movement, not vision.",
+  "Loss of hearing in his left ear": "The motor cortex doesn't control hearing."
+ },
+ "Which of the following best describes the role of the thalamus?": {
+  "It stores long-term memories.": "The hippocampus helps form memories.",
+  "It controls hunger and thirst.": "That's the hypothalamus.",
+  "It coordinates balance.": "That's the cerebellum."
+ },
+ "Which brain structure is most involved in fear and aggression?": {
+  "Hippocampus": "\"Hippocampus\" means: Helps store information into long-term memory. One of the first areas damaged by Alzheimer's.",
+  "Pons": "\"Pons\" means: Connects the spinal cord to the brain; involved in automatic processes, especially the sleep-wake cycle.",
+  "Cerebellum": "\"Cerebellum\" means: \"Little brain\" at the back. Handles fine motor control, coordination, posture, and balance, plus learned motor skills like riding a bike. Alcohol strongly affects it."
+ },
+ "After surgery, a patient remembers his childhood clearly but cannot form any new long-term memories. Which structure was most likely removed?": {
+  "Amygdala": "\"Amygdala\" means: Processes emotion, especially fear and aggression. Triggers fight-or-flight, helps read others' emotions, and helps store emotional memories.",
+  "Cerebellum": "\"Cerebellum\" means: \"Little brain\" at the back. Handles fine motor control, coordination, posture, and balance, plus learned motor skills like riding a bike. Alcohol strongly affects it.",
+  "Thalamus": "\"Thalamus\" means: Sits on top of the brainstem; the brain's sensory relay station. All senses except smell get routed through it."
+ },
+ "A rat stops eating after damage to part of its hypothalamus. Which part was most likely damaged?": {
+  "Ventromedial hypothalamus": "\"Ventromedial hypothalamus (VMH)\" means: Part of the hypothalamus that signals fullness. Damage → overeating.",
+  "Amygdala": "\"Amygdala\" means: Processes emotion, especially fear and aggression. Triggers fight-or-flight, helps read others' emotions, and helps store emotional memories.",
+  "Hippocampus": "\"Hippocampus\" means: Helps store information into long-term memory. One of the first areas damaged by Alzheimer's."
+ },
+ "Which part of the brain regulates body temperature, hunger, and thirst?": {
+  "Thalamus": "\"Thalamus\" means: Sits on top of the brainstem; the brain's sensory relay station. All senses except smell get routed through it.",
+  "Medulla": "\"Medulla\" means: Base of the brainstem; controls life-sustaining functions like breathing and heartbeat.",
+  "Cerebellum": "\"Cerebellum\" means: \"Little brain\" at the back. Handles fine motor control, coordination, posture, and balance, plus learned motor skills like riding a bike. Alcohol strongly affects it."
+ },
+ "Which of the following best describes the role of the prefrontal cortex?": {
+  "Processing visual information": "That's the occipital lobe.",
+  "Coordinating balance": "That's the cerebellum.",
+  "Relaying sensory information": "That's the thalamus."
+ },
+ "A doctor wants to check for a tumor quickly by looking at the shape of a patient's brain structures, not their activity. Which scan fits best?": {
+  "fMRI": "\"fMRI\" means: Functional MRI: shows brain function by measuring blood flow and oxygen use. More precise than PET.",
+  "PET scan": "\"PET scan\" means: Positron emission tomography: radioactive glucose is injected and the scan shows where it is being used — which regions are active.",
+  "EEG": "\"EEG\" means: Electroencephalogram: electrodes on the scalp record the brain's electrical activity (brain waves). Used to find seizures."
+ },
+ "A researcher wants to see which brain areas become more active when people look at photos of their friends, as precisely as possible. Which technique is best?": {
+  "CT scan": "\"CT scan\" means: X-rays that show brain structure — the shape and position of structures. Helps find tumors.",
+  "MRI": "\"MRI\" means: Magnetic resonance imaging: strong magnetic pulses build a detailed picture of brain structure (tissue, tumors, clots).",
+  "X-ray": "An X-ray shows structure, not activity."
+ },
+ "Which technique records brain waves through electrodes placed on the scalp and is often used to detect seizures?": {
+  "PET scan": "\"PET scan\" means: Positron emission tomography: radioactive glucose is injected and the scan shows where it is being used — which regions are active.",
+  "MRI": "\"MRI\" means: Magnetic resonance imaging: strong magnetic pulses build a detailed picture of brain structure (tissue, tumors, clots).",
+  "CT scan": "\"CT scan\" means: X-rays that show brain structure — the shape and position of structures. Helps find tumors."
+ },
+ "Doctors sometimes cut the corpus callosum in patients with severe epilepsy. Which of the following best describes the purpose of this surgery?": {
+  "To speed up communication between the hemispheres": "Cutting it stops communication between them.",
+  "To improve memory and learning": "The surgery is for seizures, not memory.",
+  "To reduce activity in the frontal lobe": "It cuts the link between hemispheres; it doesn't target the frontal lobe."
+ },
+ "Which statement about the two hemispheres is most accurate?": {
+  "The right hemisphere controls the right side of the body.": "\"Right hemisphere\" means: Spatial ability; recognizing faces, places, and objects; perceiving and expressing emotion; tone and emphasis in speech; controls the left side of the body.",
+  "Language is processed equally by both hemispheres.": "The left hemisphere is usually dominant for language.",
+  "The corpus callosum controls movement on both sides of the body.": "\"Corpus callosum\" means: Large band of neural fibers connecting the left and right hemispheres so they can communicate."
+ },
+ "Which of the following best explains why young children often recover better from brain injuries than adults do?": {
+  "Children can grow new neurons anywhere in the brain.": "New neurons grow in only a couple of areas.",
+  "Children do not use their cerebral cortex yet.": "Children use their cortex from birth.",
+  "Children's neurons do not have myelin.": "That isn't why they recover; plasticity is."
+ },
+ "Which of the following correctly matches a brain structure with its function?": {
+  "Hippocampus — balance": "\"Hippocampus\" means: Helps store information into long-term memory. One of the first areas damaged by Alzheimer's.",
+  "Cerebellum — fear": "\"Cerebellum\" means: \"Little brain\" at the back. Handles fine motor control, coordination, posture, and balance, plus learned motor skills like riding a bike. Alcohol strongly affects it.",
+  "Amygdala — vision": "\"Amygdala\" means: Processes emotion, especially fear and aggression. Triggers fight-or-flight, helps read others' emotions, and helps store emotional memories."
+ },
+ "Which part of the brain is primarily responsible for processing visual information?": {
+  "Frontal lobe": "\"Frontal lobe\" means: Front of the brain; home of the prefrontal cortex, motor cortex, and Broca's area.",
+  "Parietal lobe": "\"Parietal lobe\" means: Top of the brain; processes body sensations (touch, pressure, temperature, pain) and spatial orientation.",
+  "Temporal lobe": "\"Temporal lobe\" means: Side of the brain, above the ears; hearing, language processing, and long-term memory storage."
+ },
+ "Which of the following best explains why it is hard to see colors in a dimly lit room?": {
+  "Rods detect color only in bright light.": "Rods don't detect color at all; cones do.",
+  "The lens can't focus in dim light.": "The problem is the receptors, not focus.",
+  "The optic nerve shuts off in darkness.": "\"Optic nerve\" means: Carries neural impulses from the eye to the brain."
+ },
+ "Which of the following correctly describes the path of light through the eye?": {
+  "Lens → cornea → retina → pupil": "Light enters through the cornea first.",
+  "Retina → lens → pupil → cornea": "\"Retina\" means: Light-sensitive inner surface at the back of the eye containing rods and cones. Where transduction happens.",
+  "Pupil → retina → cornea → lens": "The retina is the last stop, not the second."
+ },
+ "Which theory best explains why a person with red-green color blindness has trouble telling red from green?": {
+  "Opponent-process theory": "\"Opponent-process theory\" means: Color is processed by opposing pairs — red/green, yellow/blue, white/black — and a cell can signal only one of each pair at a time. Explains color in the brain and afterimages.",
+  "Gate control theory": "\"Gate control theory\" means: The spinal cord has a neurological \"gate\" that either blocks pain signals or lets them through to the brain. Distraction can close the gate.",
+  "Feature detection": "Feature detectors respond to edges and movement, not color types."
+ },
+ "Which of the following is a monocular depth cue?": {
+  "Retinal disparity": "\"Retinal disparity\" means: A binocular cue: because your eyes are about 2.5 inches apart, each retina gets a slightly different image; the bigger the difference, the closer the object.",
+  "Comparing the slightly different images from each eye": "That needs two eyes: binocular (retinal disparity).",
+  "Using both eyes to judge how close something is": "That needs two eyes: binocular."
+ },
+ "Which Gestalt principle explains why you see the letters on a page as separate words rather than one long string?": {
+  "Similarity": "\"Similarity\" means: Grouping objects that look alike.",
+  "Closure": "\"Closure\" means: Filling in gaps to see a complete, closed shape.",
+  "Figure-ground": "\"Figure-ground\" means: Organizing what you see into objects (figures) that stand out from their surroundings (ground)."
+ },
+ "Every player on one team wears red, so you see them as one group separate from the team in blue. Which Gestalt principle is this?": {
+  "Proximity": "\"Proximity\" means: Grouping objects that are close together (how you see separate words on a page).",
+  "Closure": "\"Closure\" means: Filling in gaps to see a complete, closed shape.",
+  "Figure-ground": "\"Figure-ground\" means: Organizing what you see into objects (figures) that stand out from their surroundings (ground)."
+ },
+ "Which part of the eye changes shape to focus images on near or far objects?": {
+  "Iris": "\"Iris\" means: Colored muscle that surrounds the pupil and controls its size. Unique enough to identify you (iris scanners).",
+  "Cornea": "\"Cornea\" means: Clear, protective outer layer where light first enters the eye.",
+  "Retina": "\"Retina\" means: Light-sensitive inner surface at the back of the eye containing rods and cones. Where transduction happens."
+ },
+ "Which of the following best describes feature detectors?": {
+  "Cells in the retina that detect color": "Those are cones; feature detectors are in the visual cortex.",
+  "The muscle that controls pupil size": "That's the iris.",
+  "Neurons that carry signals from the eye to the brain": "That's the optic nerve."
+ },
+ "In a painting, a distant mountain looks hazy and blurry, so viewers see it as far away. Which depth cue is the artist using?": {
+  "Interposition": "\"Interposition\" means: Monocular cue: an object that blocks part of another is seen as closer.",
+  "Retinal disparity": "\"Retinal disparity\" means: A binocular cue: because your eyes are about 2.5 inches apart, each retina gets a slightly different image; the bigger the difference, the closer the object.",
+  "Linear perspective": "\"Linear perspective\" means: Monocular cue: parallel lines seem to converge in the distance (train tracks)."
+ },
+ "Which of the following best describes transduction in vision?": {
+  "The lens bends light so it focuses on the retina.": "That's focusing (accommodation), not transduction.",
+  "The optic nerve carries signals to the occipital lobe.": "\"Optic nerve\" means: Carries neural impulses from the eye to the brain.",
+  "The iris controls how much light enters the eye.": "That's the iris adjusting the pupil."
+ },
+ "An older adult's eardrum and middle-ear bones are damaged, but the cochlea is healthy. What type of hearing loss is this, and can it be treated?": {
+  "Sensorineural hearing loss; it cannot be reversed": "\"Sensorineural hearing loss\" means: Nerve deafness: damage to the cochlea's hair cells or the auditory nerve (inner ear). Cannot be reversed.",
+  "Conduction hearing loss; it can never be treated": "Conduction loss can often be fixed with surgery.",
+  "Sensorineural hearing loss; it can be fixed with surgery": "\"Sensorineural hearing loss\" means: Nerve deafness: damage to the cochlea's hair cells or the auditory nerve (inner ear). Cannot be reversed."
+ },
+ "Which treatment would most likely help someone whose hearing loss comes from damaged hair cells in the cochlea?": {
+  "Surgery to repair the ossicles": "That fixes conduction loss, not hair-cell damage.",
+  "Glasses with stronger lenses": "Glasses help vision.",
+  "Medication that raises serotonin": "That treats depression."
+ },
+ "Two sounds are equally loud, but one is a high whistle and the other a low drum. What property of the sound waves is different?": {
+  "Amplitude": "\"Amplitude\" means: The height of a sound wave; determines loudness. High amplitude = loud.",
+  "Loudness": "The question says they're equally loud.",
+  "Localization": "Localization is locating where a sound comes from."
+ },
+ "A gymnast can do a backflip with her eyes closed because she senses where her arms and legs are. Which sense makes this possible?": {
+  "Vestibular sense": "\"Vestibular sense\" means: Senses the head's position and movement (balance) using fluid in the semicircular canals and vestibular sacs. Signals go to the cerebellum. The fluid keeps moving after you stop, which causes dizziness.",
+  "Olfaction": "\"Olfaction\" means: The sense of smell. Receptors at the top of the nasal cavity detect inhaled particles. Smell skips the thalamus and goes to areas connected to the limbic system.",
+  "Gustation": "\"Gustation\" means: The sense of taste. The tongue has about 200 taste buds, each with 50–100 receptors; taste buds regenerate about every two weeks."
+ },
+ "The smell of fresh cookies instantly brings back a vivid childhood memory. Which of the following best explains why?": {
+  "Smell is processed in the occipital lobe.": "The occipital lobe processes vision.",
+  "The thalamus amplifies smell signals before they reach the cortex.": "\"Thalamus\" means: Sits on top of the brainstem; the brain's sensory relay station. All senses except smell get routed through it.",
+  "Taste buds store memories of familiar foods.": "Taste buds don't store memories."
+ },
+ "Which of the following best describes gate control theory?": {
+  "Pain is felt only when all four skin senses are activated at once.": "Not part of the theory.",
+  "The thalamus decides which pains are real.": "\"Thalamus\" means: Sits on top of the brainstem; the brain's sensory relay station. All senses except smell get routed through it.",
+  "Pain receptors stop firing after a few seconds.": "The theory is about a gate in the spinal cord."
+ },
+ "Years after losing his arm, Marcus still feels an itch in his missing hand. This is called:": {
+  "Synesthesia": "\"Synesthesia\" means: When one sense triggers another — like hearing music or seeing a number and experiencing a color.",
+  "Prosopagnosia": "\"Prosopagnosia\" means: Face blindness: the inability to recognize faces.",
+  "Sensory interaction": "\"Sensory interaction\" means: One sense influencing another — like smell affecting taste (holding your nose to take bad medicine)."
+ },
+ "Whenever Priya hears a trumpet, she also sees the color orange. This is an example of:": {
+  "Sensory interaction": "\"Sensory interaction\" means: One sense influencing another — like smell affecting taste (holding your nose to take bad medicine).",
+  "Prosopagnosia": "\"Prosopagnosia\" means: Face blindness: the inability to recognize faces.",
+  "Kinesthesis": "\"Kinesthesis\" means: Senses the position and movement of individual body parts using sensors in muscles, tendons, and joints; feeds the cerebellum."
+ },
+ "A person with prosopagnosia would have the most trouble:": {
+  "Tasting bitter foods": "Prosopagnosia is face blindness, not a taste problem.",
+  "Keeping their balance": "That's the vestibular sense.",
+  "Hearing high-pitched sounds": "That's hearing loss."
+ },
+ "Jamal finds jalapeños unbearably hot, while his friend barely notices them. Jamal is most likely:": {
+  "Experiencing synesthesia": "Synesthesia is one sense triggering another, like seeing colors for sounds.",
+  "Experiencing sensory interaction": "That's one sense affecting another, like smell and taste.",
+  "Experiencing phantom limb sensation": "That's feeling a missing limb."
+ },
+ "Which of the following is one of the five basic tastes?": {
+  "Spicy": "Spicy is actually pain, not a taste.",
+  "Cold": "Cold is a skin sense.",
+  "Minty": "Not one of the five."
+ },
+ "Which statement about sleep is most accurate?": {
+  "During sleep, the body and brain shut off until morning.": "The brain stays active during sleep.",
+  "Only some people dream, and only on some nights.": "Everyone dreams every night.",
+  "Sleep is a period of dormancy for both the body and the brain.": "Sleep is not dormancy."
+ },
+ "Which of the following best describes the circadian rhythm?": {
+  "The order of the four sleep stages": "That's the sleep cycle.",
+  "A disorder in which people fall asleep suddenly": "That's narcolepsy.",
+  "A drug's effect on dopamine": "Unrelated."
+ },
+ "Tia, 16, struggles in her first-period class but feels sharp by evening. Her grandfather is up at dawn and fades by dinner. Which of the following best explains this?": {
+  "Tia has narcolepsy and her grandfather has insomnia.": "This is a normal age difference, not a disorder.",
+  "Older adults don't have circadian rhythms.": "\"Older adults\" means: Most are morning people, with energy declining as the day goes on.",
+  "Teens' body temperature is highest in the morning.": "Body temperature rises through the day."
+ },
+ "Which of the following correctly describes body temperature across the day?": {
+  "It is highest at night and lowest in the morning.": "It's lowest at night.",
+  "It stays the same all day.": "It changes across the day.",
+  "It is lowest in the afternoon and highest at night.": "It dips in the afternoon but is lowest at night."
+ },
+ "Which of the following is an effect of sleep loss?": {
+  "Lower risk of high blood pressure": "Sleep loss raises that risk.",
+  "Better memory consolidation": "Sleep loss hurts memory.",
+  "Faster reaction time": "Sleep loss slows reactions."
+ },
+ "Which of the following best explains why ongoing sleep loss is linked to obesity?": {
+  "It raises leptin, which makes people hungrier.": "Leptin suppresses hunger, and sleep loss lowers it.",
+  "It increases GABA, which slows metabolism.": "Not on your slides.",
+  "It blocks the reuptake of dopamine.": "That's cocaine."
+ },
+ "A student who has been sleeping only four hours a night has trouble focusing in class and remembering what she studied. Which effect of sleep loss is this?": {
+  "Increased inflammation in the joints": "Her problem is focus and memory, a brain effect.",
+  "Increased leptin": "Sleep loss lowers leptin.",
+  "Narcolepsy": "\"Narcolepsy\" means: You fall asleep spontaneously."
+ },
+ "Darnell's wife notices that he stops breathing several times every night. Darnell most likely has:": {
+  "Narcolepsy": "\"Narcolepsy\" means: You fall asleep spontaneously.",
+  "Insomnia": "\"Insomnia\" means: Can't sleep.",
+  "Night terrors": "\"Night terrors\" means: Not nightmares: intense fear or terror where you wake up screaming or crying, with no recollection the following morning. Happen in Stage 3."
+ },
+ "In the middle of a conversation, Rosa suddenly falls asleep without warning. She most likely has:": {
+  "Insomnia": "\"Insomnia\" means: Can't sleep.",
+  "Sleep apnea": "\"Sleep apnea\" means: You stop breathing in your sleep.",
+  "Sleepwalking": "\"Sleepwalking\" means: A sleep disorder: walking while asleep."
+ },
+ "Which of the following correctly describes night terrors?": {
+  "Bad dreams that are remembered in detail the next morning": "Those are nightmares.",
+  "Suddenly falling asleep during the day": "That's narcolepsy.",
+  "Stopping breathing during sleep": "That's sleep apnea."
+ },
+ "Which of the following best describes an agonist?": {
+  "A drug that blocks the effects of a neurotransmitter": "That's an antagonist.",
+  "A drug that only affects the body, not the brain": "Agonists act at brain receptors.",
+  "The discomfort after stopping a drug": "That's withdrawal."
+ },
+ "Which of the following best describes an antagonist?": {
+  "A drug that mimics a neurotransmitter and increases its effects": "That's an agonist.",
+  "A drug made from the opium poppy": "That's an opioid.",
+  "A drug that only works on hormones": "Antagonists block neurotransmitters."
+ },
+ "Cocaine produces alertness, euphoria, and motivation by:": {
+  "Mimicking endorphins": "That's opioids.",
+  "Increasing GABA": "That's depressants like alcohol.",
+  "Damaging serotonin-producing neurons": "That's heavy ecstasy use."
+ },
+ "People at a party get loud and do wild things after drinking, so some assume alcohol is a stimulant. Which of the following best explains why it is actually a depressant?": {
+  "It blocks the reuptake of dopamine.": "That's cocaine.",
+  "It mimics adrenaline.": "That's amphetamines.",
+  "It distorts visual and auditory perception.": "That's hallucinogens."
+ },
+ "A doctor prescribes a \"downer\" to treat a patient's insomnia. It increases GABA and has effects similar to alcohol. Which type of drug is it most likely?": {
+  "A stimulant": "\"Stimulants\" means: Drugs that excite the central nervous system. Examples: caffeine, nicotine, cocaine, amphetamines, meth.",
+  "A hallucinogen": "\"Hallucinogens\" means: Substances that distort visual and auditory perception. Examples: LSD, marijuana.",
+  "An amphetamine": "\"Amphetamines\" means: Mimic epinephrine/adrenaline. Increase alertness and feelings of well-being and give a sense of euphoria, followed by a huge crash. Leads to a cycle of addiction. Meth and ecstasy/MDMA are forms."
+ },
+ "Which drug mimics adrenaline, gives a sense of euphoria followed by a huge crash, and leads to a cycle of addiction?": {
+  "Benzodiazepines": "\"Benzodiazepines\" means: Valium and Xanax. Anti-anxiety drugs that calm the nervous system. They depress heartbeat and breathing.",
+  "LSD": "\"LSD\" means: Produces hallucinations and delusions, like a psychotic state. Can result in psychosis, memory loss, paranoia, panic attacks, nightmares, and aggression.",
+  "Codeine": "Codeine is an opioid, not a stimulant."
+ },
+ "Which substance is considered both a stimulant and a hallucinogen?": {
+  "Caffeine": "\"Caffeine\" means: Naturally occurring (coffee, tea, chocolate); increases alertness. In high doses it can cause anxiety, heart palpitations, and insomnia.",
+  "Alcohol": "\"Alcohol\" means: A depressant that calms the nervous system. It's perceived as a stimulant because people do crazy things, but it intensifies the effects of GABA (sluggish movements, slurred speech) and reduces glutamate (slower reactions, impaired judgment).",
+  "Morphine": "Morphine is an opioid."
+ },
+ "Heavy ecstasy use can permanently lower a person's mood and impair memory. Which of the following best explains why?": {
+  "It increases GABA and slows neural activity.": "That's depressants.",
+  "It acts as an agonist for endorphins.": "That's opioids.",
+  "It blocks the reuptake of dopamine.": "That's cocaine."
+ },
+ "Which drug produces hallucinations and delusions like a psychotic state and can lead to paranoia and panic attacks?": {
+  "THC": "\"THC\" means: The active ingredient in marijuana. Can produce mild hallucinations, euphoria, relaxation, a sense of wellbeing, and a distortion of time.",
+  "Caffeine": "\"Caffeine\" means: Naturally occurring (coffee, tea, chocolate); increases alertness. In high doses it can cause anxiety, heart palpitations, and insomnia.",
+  "Codeine": "Codeine is an opioid."
+ },
+ "THC, the active ingredient in marijuana, is most likely to produce:": {
+  "Severe insomnia and heart palpitations": "Those are stimulant effects.",
+  "Depressed heartbeat and breathing": "Those are depressant or opioid effects.",
+  "A huge crash with strong cravings": "That's cocaine or amphetamines."
+ },
+ "Which of the following best explains why opioids such as heroin relieve pain?": {
+  "They block the reuptake of dopamine.": "That's cocaine.",
+  "They increase glutamate.": "Not on your slides.",
+  "They distort visual and auditory perception.": "That's hallucinogens."
+ },
+ "With continued opioid use, the brain stops producing its own dopamine and endorphins. This most directly leads to:": {
+  "Better natural pain control": "The brain makes less of its own painkillers.",
+  "Narcolepsy": "\"Narcolepsy\" means: You fall asleep spontaneously.",
+  "Improved memory": "Not an effect of opioids."
+ },
+ "Which of the following correctly matches a drug with its category?": {
+  "Benzodiazepines — stimulant": "\"Benzodiazepines\" means: Valium and Xanax. Anti-anxiety drugs that calm the nervous system. They depress heartbeat and breathing.",
+  "LSD — opioid": "LSD is a hallucinogen.",
+  "Codeine — depressant": "Codeine is an opioid."
+ },
+ "Which of the following best describes the difference between substance use and substance abuse?": {
+  "Use involves illegal drugs; abuse involves legal drugs.": "The difference is effect on daily life, not legality.",
+  "Use happens daily; abuse happens only occasionally.": "Frequency isn't the line; harm to functioning is.",
+  "There is no difference between them.": "There is: abuse hurts functioning."
+ },
+ "Nina says, \"I don't even enjoy it anymore, but I can't stop wanting it.\" This best describes:": {
+  "Tolerance": "\"Tolerance\" means: A need for larger amounts of the drug to experience the same effects.",
+  "Substance use": "\"Substance use\" means: Using a substance, but it doesn't interfere with daily functioning.",
+  "Withdrawal": "\"Withdrawal\" means: The discomfort and distress that follow discontinuing an addictive drug. Can be physiological and/or psychological."
+ },
+ "Withdrawal is best described as:": {
+  "Needing more of a drug to get the same effect": "That's tolerance.",
+  "Using a drug without it affecting daily life": "That's substance use.",
+  "The euphoria right after taking a drug": "That's the high."
+ },
+ "A person meets 7 of the DSM-5 criteria for substance use disorder. The disorder would be classified as:": {
+  "Mild": "Your slide puts mild at 3 criteria.",
+  "Moderate": "Moderate is 4 or 5.",
+  "Not a disorder": "7 criteria is well above the minimum."
+ },
+ "Which of the following is one of the DSM-5 criteria for substance use disorder?": {
+  "Using a substance once at a party": "One use isn't a pattern.",
+  "Drinking coffee in the morning": "Ordinary use isn't a criterion.",
+  "Taking medicine exactly as prescribed": "Prescribed use isn't a criterion."
+ },
+ "A split-brain patient holds a hidden key in her left hand and can't see it. Asked what she is holding, which of the following is most likely?": {
+  "She names it right away.": "The right hemisphere feels it, and it can't speak.",
+  "She can point to the key only with her right hand.": "The right hand is run by the left hemisphere, which didn't feel it.",
+  "She can't identify it in any way.": "Her left hand can pick it out."
+ },
+ "Which of the following best describes what research on split-brain patients revealed?": {
+  "Both hemispheres have identical abilities.": "They specialize.",
+  "Cutting the corpus callosum causes paralysis.": "It doesn't; it stops the hemispheres from sharing.",
+  "The right hemisphere controls language.": "\"Right hemisphere\" means: Spatial ability; recognizing faces, places, and objects; perceiving and expressing emotion; tone and emphasis in speech; controls the left side of the body."
+ },
+ "A split-brain patient looks at the center of the word HEART, so \"HE\" is in his left visual field and \"ART\" is in his right. Asked what word he saw, he will most likely say:": {
+  "\"He\"": "\"HE\" reaches only the right hemisphere, which can't speak.",
+  "\"Heart\"": "The hemispheres can't combine the two halves.",
+  "Nothing at all": "The left hemisphere saw \"ART\" and can say it."
+ }
+}

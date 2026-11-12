@@ -10,7 +10,13 @@
    "The Stroop effect"
   ],
   "ans": 0,
-  "exp": "She failed to see something visible because her attention was on her phone."
+  "exp": "She failed to see something visible because her attention was on her phone.",
+  "why": [
+   "",
+   "\"Change blindness\" means: Failing to notice changes in the environment because your attention is directed elsewhere.",
+   "\"Cocktail party effect\" means: The ability to focus auditory attention on a particular voice or sound while filtering out others. In a crowded room, you can focus on the voice of the one person you're talking with.",
+   "\"Stroop effect\" means: Delayed reaction time when you must say the color of a word but not the name of the word. Example from your slides: the word GREEN printed in purple, where you have to say \"purple.\""
+  ]
  },
  {
   "id": "SQ2",
@@ -23,7 +29,13 @@
    "The absolute threshold"
   ],
   "ans": 0,
-  "exp": "Missing a change because attention is directed elsewhere is change blindness."
+  "exp": "Missing a change because attention is directed elsewhere is change blindness.",
+  "why": [
+   "",
+   "\"Inattentional blindness\" means: Failing to see visible objects when your attention is directed elsewhere.",
+   "\"Pop-out phenomenon\" means: Something different popping out to get our attention, like the one laughing face in the cartoon of a crying movie audience on your slides.",
+   "\"Absolute threshold\" means: The weakest amount of a stimulus that a person can detect 50% of the time: the moment when you notice something."
+  ]
  },
  {
   "id": "SQ3",
@@ -36,7 +48,13 @@
    "Weber's law"
   ],
   "ans": 0,
-  "exp": "Your brain can register your name even amongst background noise."
+  "exp": "Your brain can register your name even amongst background noise.",
+  "why": [
+   "",
+   "\"Change blindness\" means: Failing to notice changes in the environment because your attention is directed elsewhere.",
+   "\"Pop-out phenomenon\" means: Something different popping out to get our attention, like the one laughing face in the cartoon of a crying movie audience on your slides.",
+   "\"Weber's law\" means: For an average person to perceive a difference, two stimuli must differ by a constant percentage, not a constant amount."
+  ]
  },
  {
   "id": "SQ4",
@@ -49,7 +67,13 @@
    "The difference threshold"
   ],
   "ans": 0,
-  "exp": "Stroop effect: delayed reaction time when you must say the color of a word, not the word."
+  "exp": "Stroop effect: delayed reaction time when you must say the color of a word, not the word.",
+  "why": [
+   "",
+   "\"Change blindness\" means: Failing to notice changes in the environment because your attention is directed elsewhere.",
+   "\"Bottom-up processing\" means: Sensory receptors throughout the body register information about the external environment and send it up to the brain for processing. This is sensation.",
+   "\"Difference threshold (just noticeable difference)\" means: The minimum amount something needs to change before a person notices the change 50% of the time."
+  ]
  },
  {
   "id": "SQ5",
@@ -62,7 +86,13 @@
    "Top-down processing"
   ],
   "ans": 0,
-  "exp": "The weakest stimulus detected 50% of the time is the absolute threshold."
+  "exp": "The weakest stimulus detected 50% of the time is the absolute threshold.",
+  "why": [
+   "",
+   "\"Difference threshold (just noticeable difference)\" means: The minimum amount something needs to change before a person notices the change 50% of the time.",
+   "\"Selective attention\" means: Focusing your conscious awareness on a particular stimulus and NOT something else.",
+   "\"Top-down processing\" means: Using your knowledge, experience, or context to understand and interpret sensory perceptions. This is perception."
+  ]
  },
  {
   "id": "SQ6",
@@ -75,7 +105,13 @@
    "Precognition"
   ],
   "ans": 0,
-  "exp": "The smallest change you notice 50% of the time is the difference threshold."
+  "exp": "The smallest change you notice 50% of the time is the difference threshold.",
+  "why": [
+   "",
+   "\"Absolute threshold\" means: The weakest amount of a stimulus that a person can detect 50% of the time: the moment when you notice something.",
+   "\"Inattentional blindness\" means: Failing to see visible objects when your attention is directed elsewhere.",
+   "\"Precognition\" means: Perceiving future events."
+  ]
  },
  {
   "id": "SQ7",
@@ -88,7 +124,13 @@
    "Change blindness"
   ],
   "ans": 0,
-  "exp": "You read each word as a whole using what you already know. That's top-down."
+  "exp": "You read each word as a whole using what you already know. That's top-down.",
+  "why": [
+   "",
+   "\"Bottom-up processing\" means: Sensory receptors throughout the body register information about the external environment and send it up to the brain for processing. This is sensation.",
+   "\"Absolute threshold\" means: The weakest amount of a stimulus that a person can detect 50% of the time: the moment when you notice something.",
+   "\"Change blindness\" means: Failing to notice changes in the environment because your attention is directed elsewhere."
+  ]
  },
  {
   "id": "SQ8",
@@ -101,6 +143,12 @@
    "Selective attention"
   ],
   "ans": 0,
-  "exp": "Clairvoyance = perceiving events you didn't witness. There's no scientific basis for it."
+  "exp": "Clairvoyance = perceiving events you didn't witness. There's no scientific basis for it.",
+  "why": [
+   "",
+   "\"Telepathy\" means: Mind-to-mind communication.",
+   "\"Precognition\" means: Perceiving future events.",
+   "\"Selective attention\" means: Focusing your conscious awareness on a particular stimulus and NOT something else."
+  ]
  }
 ]

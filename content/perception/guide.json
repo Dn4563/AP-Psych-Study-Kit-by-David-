@@ -49,5 +49,40 @@
     ]
    ]
   }
+ ],
+ "cheat": [
+  {
+   "title": "Attention",
+   "kind": "list",
+   "items": [
+    "Change blindness = missing a change. Inattentional blindness = missing an object entirely. Both: attention is elsewhere.",
+    "Cocktail party effect: hearing your name in a noisy room. Pop-out: the one odd item jumps out."
+   ]
+  },
+  {
+   "title": "Processing",
+   "kind": "list",
+   "items": [
+    "Bottom-up = senses up to the brain (sensation).",
+    "Top-down = knowledge and context (perception)."
+   ]
+  },
+  {
+   "title": "Thresholds",
+   "kind": "list",
+   "items": [
+    "Absolute threshold = weakest stimulus detected 50% of the time.",
+    "Difference threshold (JND) = smallest change noticed 50% of the time.",
+    "Weber's law: a constant percentage, not a constant amount (weight: about 2%)."
+   ]
+  },
+  {
+   "title": "ESP",
+   "kind": "list",
+   "items": [
+    "Telepathy, clairvoyance, precognition: no scientific basis.",
+    "Psychics seem accurate because people remember hits and forget misses."
+   ]
+  }
  ]
 }

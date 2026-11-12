@@ -10,7 +10,13 @@
    "A catastrophe"
   ],
   "ans": 0,
-  "exp": "Eustress is motivating \"good\" stress that can lead to growth."
+  "exp": "Eustress is motivating \"good\" stress that can lead to growth.",
+  "why": [
+   "",
+   "\"Distress\" means: Debilitating stress, or \"bad\" stress, which has a negative impact. Includes ACEs, catastrophes, significant life changes, and daily hassles.",
+   "\"Daily hassles\" means: Everyday distress like traffic, a dead cell phone, no Wi-Fi, strained budgets, and deadlines.",
+   "\"Catastrophes\" means: Unpredictable, large-scale events, such as natural disasters. A type of distress."
+  ]
  },
  {
   "id": "SQ2",
@@ -23,7 +29,13 @@
    "Tend-and-befriend"
   ],
   "ans": 0,
-  "exp": "Exhaustion: the body's resources are depleted and health problems appear."
+  "exp": "Exhaustion: the body's resources are depleted and health problems appear.",
+  "why": [
+   "",
+   "\"Alarm stage\" means: Immediate stress; the fight-or-flight response is activated.",
+   "\"Resistance\" means: When the patient is unable to remember details or goes blank during free association: a mental block.",
+   "\"Tend-and-befriend theory\" means: A stress response, primarily observed in women, that involves seeking support, caring for others, and forming or strengthening social connections instead of fight-or-flight. Part of evolutionary psychology: believed to have evolved so females could ensure the survival of their offspring and themselves."
+  ]
  },
  {
   "id": "SQ3",
@@ -36,7 +48,13 @@
    "Eustress"
   ],
   "ans": 0,
-  "exp": "Problem-focused coping deals with the stressor itself."
+  "exp": "Problem-focused coping deals with the stressor itself.",
+  "why": [
+   "",
+   "\"Emotion-focused coping\" means: Focusing on your emotional response: how you feel about the stressor, not changing the stressor itself. The goal is to regulate negative emotions or tolerate the stressor's impact. Used when the stressor seems uncontrollable or problem-focused coping isn't working.",
+   "\"Tend-and-befriend theory\" means: A stress response, primarily observed in women, that involves seeking support, caring for others, and forming or strengthening social connections instead of fight-or-flight. Part of evolutionary psychology: believed to have evolved so females could ensure the survival of their offspring and themselves.",
+   "\"Eustress\" means: Motivating stress, or \"good\" stress: situations that are challenging but manageable and can lead to growth. Your slide lists changes like moving, marriage, and pregnancy."
+  ]
  },
  {
   "id": "SQ4",
@@ -49,7 +67,13 @@
    "General Adaptation Syndrome"
   ],
   "ans": 0,
-  "exp": "Befriending = strengthening social connections for mutual support and protection."
+  "exp": "Befriending = strengthening social connections for mutual support and protection.",
+  "why": [
+   "",
+   "\"Alarm stage\" means: Immediate stress; the fight-or-flight response is activated.",
+   "\"Exhaustion stage\" means: The body's resources are depleted and the ability to cope is weakened, which leads to physical and mental health issues.",
+   "\"General Adaptation Syndrome (GAS)\" means: How the body responds to ongoing stress, in three stages: alarm, resistance, and exhaustion."
+  ]
  },
  {
   "id": "SQ5",
@@ -62,7 +86,13 @@
    "Diathesis"
   ],
   "ans": 0,
-  "exp": "Dysfunctional/maladaptive = it interferes with functioning."
+  "exp": "Dysfunctional/maladaptive = it interferes with functioning.",
+  "why": [
+   "",
+   "\"Deviant\" means: Different from social norms. One of the 3 Ds.",
+   "\"Distressing\" means: Causes distress for the person or for others. One of the 3 Ds.",
+   "\"Diathesis\" means: A genetic or biological predisposition to develop a mental illness."
+  ]
  },
  {
   "id": "SQ6",
@@ -75,7 +105,13 @@
    "The Hawthorne effect"
   ],
   "ans": 0,
-  "exp": "Intern syndrome: believing you have the symptoms of what you're studying. Don't diagnose yourself."
+  "exp": "Intern syndrome: believing you have the symptoms of what you're studying. Don't diagnose yourself.",
+  "why": [
+   "",
+   "\"Agoraphobia\" means: Marked anxiety about using public transportation, being in open spaces, being in enclosed places, being in a crowd, and/or being outside of the home alone.",
+   "Hindsight bias is believing you knew an outcome all along.",
+   "That's changing behavior because you're being observed."
+  ]
  },
  {
   "id": "SQ7",
@@ -88,7 +124,13 @@
    "Biological"
   ],
   "ans": 0,
-  "exp": "Cognitive = maladaptive, irrational thoughts and beliefs."
+  "exp": "Cognitive = maladaptive, irrational thoughts and beliefs.",
+  "why": [
+   "",
+   "Behavioral explains disorders as learned through conditioning.",
+   "Psychodynamic points to unconscious conflicts.",
+   "Biological points to brain chemistry or genes."
+  ]
  },
  {
   "id": "SQ8",
@@ -101,7 +143,13 @@
    "The ICD-1"
   ],
   "ans": 0,
-  "exp": "The Diagnostic and Statistical Manual of Mental Disorders, 5th edition."
+  "exp": "The Diagnostic and Statistical Manual of Mental Disorders, 5th edition.",
+  "why": [
+   "",
+   "That's about research and practice ethics, not diagnosis.",
+   "The MMPI is a personality test.",
+   "The ICD is a different system, and the U.S. manual is the DSM-5."
+  ]
  },
  {
   "id": "SQ9",
@@ -114,7 +162,13 @@
    "Agoraphobia"
   ],
   "ans": 0,
-  "exp": "GAD = excessive worry about many everyday things for at least 6 months."
+  "exp": "GAD = excessive worry about many everyday things for at least 6 months.",
+  "why": [
+   "",
+   "\"Panic disorder\" means: An anxiety disorder where you regularly have sudden attacks of panic or fear. Everyone feels anxiety and panic sometimes, but someone with panic disorder feels anxiety, stress, and panic regularly and at any time, often for no apparent reason.",
+   "\"Specific phobia\" means: Intense or irrational fear or anxiety that is out of proportion to the actual threat and may result in a panic attack. It interferes with activities of daily living.",
+   "\"Agoraphobia\" means: Marked anxiety about using public transportation, being in open spaces, being in enclosed places, being in a crowd, and/or being outside of the home alone."
+  ]
  },
  {
   "id": "SQ10",
@@ -127,7 +181,13 @@
    "GAD"
   ],
   "ans": 0,
-  "exp": "Agoraphobia: fear of public transportation, crowds, and places where escape seems hard."
+  "exp": "Agoraphobia: fear of public transportation, crowds, and places where escape seems hard.",
+  "why": [
+   "",
+   "\"Social anxiety disorder (social phobia)\" means: An intense and persistent fear of social situations where one may be scrutinized or judged by others.",
+   "\"Specific phobia\" means: Intense or irrational fear or anxiety that is out of proportion to the actual threat and may result in a panic attack. It interferes with activities of daily living.",
+   "\"Generalized anxiety disorder (GAD)\" means: Excessive, persistent, and uncontrollable worry about a wide range of everyday situations. It's nonspecific anxiety and fear. For a diagnosis, it must last at least 6 months and interfere with daily functioning."
+  ]
  },
  {
   "id": "SQ11",
@@ -140,7 +200,13 @@
    "GAD"
   ],
   "ans": 0,
-  "exp": "Social anxiety disorder = fear of being scrutinized or judged."
+  "exp": "Social anxiety disorder = fear of being scrutinized or judged.",
+  "why": [
+   "",
+   "\"Panic disorder\" means: An anxiety disorder where you regularly have sudden attacks of panic or fear. Everyone feels anxiety and panic sometimes, but someone with panic disorder feels anxiety, stress, and panic regularly and at any time, often for no apparent reason.",
+   "\"Agoraphobia\" means: Marked anxiety about using public transportation, being in open spaces, being in enclosed places, being in a crowd, and/or being outside of the home alone.",
+   "\"Generalized anxiety disorder (GAD)\" means: Excessive, persistent, and uncontrollable worry about a wide range of everyday situations. It's nonspecific anxiety and fear. For a diagnosis, it must last at least 6 months and interfere with daily functioning."
+  ]
  },
  {
   "id": "SQ12",
@@ -153,7 +219,13 @@
    "GAD"
   ],
   "ans": 0,
-  "exp": "MDD = symptoms for 2+ weeks. Persistent depressive disorder needs 2+ years."
+  "exp": "MDD = symptoms for 2+ weeks. Persistent depressive disorder needs 2+ years.",
+  "why": [
+   "",
+   "\"Persistent depressive disorder\" means: Symptoms of depression present for most of the day on most days for two years or more. No manic episodes (then it would most likely be bipolar disorder), and not due to drug use.",
+   "\"Bipolar II\" means: The less severe form. Hypomanic episodes instead of full mania, less severe symptoms, and no psychosis. More common, but still has a significant impact on daily functioning.",
+   "\"Generalized anxiety disorder (GAD)\" means: Excessive, persistent, and uncontrollable worry about a wide range of everyday situations. It's nonspecific anxiety and fear. For a diagnosis, it must last at least 6 months and interfere with daily functioning."
+  ]
  },
  {
   "id": "SQ13",
@@ -166,7 +238,13 @@
    "GAD"
   ],
   "ans": 0,
-  "exp": "Mania plus depression = bipolar disorder."
+  "exp": "Mania plus depression = bipolar disorder.",
+  "why": [
+   "",
+   "\"Persistent depressive disorder\" means: Symptoms of depression present for most of the day on most days for two years or more. No manic episodes (then it would most likely be bipolar disorder), and not due to drug use.",
+   "\"ADHD\" means: Attention deficit hyperactivity disorder: a neurodevelopmental disorder with a persistent pattern of inattention and/or hyperactivity-impulsivity that interferes with functioning or development.",
+   "\"Generalized anxiety disorder (GAD)\" means: Excessive, persistent, and uncontrollable worry about a wide range of everyday situations. It's nonspecific anxiety and fear. For a diagnosis, it must last at least 6 months and interfere with daily functioning."
+  ]
  },
  {
   "id": "SQ14",
@@ -179,7 +257,13 @@
    "Major depressive disorder"
   ],
   "ans": 0,
-  "exp": "Bipolar II: hypomania, no psychosis."
+  "exp": "Bipolar II: hypomania, no psychosis.",
+  "why": [
+   "",
+   "\"Bipolar I\" means: The more severe form. Full-blown manic episodes with extreme euphoria, inflated self-esteem, impulsivity, and psychosis (hallucinations or delusions). Severe effect on daily functioning; usually an earlier onset than Bipolar II; may have longer periods of depression.",
+   "\"Schizophrenia\" means: A type of psychosis. The DSM-5 placed it on a spectrum of psychotic disorders because people experience its symptoms in a variety of ways. To be diagnosed, the patient must have at least 2 symptoms (positive and negative) for at least 6 months.",
+   "\"Major depressive disorder (MDD)\" means: Symptoms that last 2 weeks or more and are a change from previous functioning."
+  ]
  },
  {
   "id": "SQ15",
@@ -192,7 +276,13 @@
    "Dysthymic mania"
   ],
   "ans": 0,
-  "exp": "Persistent depressive disorder = 2+ years."
+  "exp": "Persistent depressive disorder = 2+ years.",
+  "why": [
+   "",
+   "\"Major depressive disorder (MDD)\" means: Symptoms that last 2 weeks or more and are a change from previous functioning.",
+   "\"Bipolar I\" means: The more severe form. Full-blown manic episodes with extreme euphoria, inflated self-esteem, impulsivity, and psychosis (hallucinations or delusions). Severe effect on daily functioning; usually an earlier onset than Bipolar II; may have longer periods of depression.",
+   "There's no mania here, and it isn't a disorder name on your slides."
+  ]
  },
  {
   "id": "SQ16",
@@ -205,7 +295,13 @@
    "Bipolar disorder"
   ],
   "ans": 0,
-  "exp": "Hyperactivity and impulsivity in 2+ settings point to ADHD."
+  "exp": "Hyperactivity and impulsivity in 2+ settings point to ADHD.",
+  "why": [
+   "",
+   "\"Autism spectrum disorder (ASD)\" means: Children with ASD seek out less emotional and social contact, tend to be hypersensitive to sensory stimuli, and may engage in simple, repetitive behaviors. Often they have difficulty with social interaction, maintaining eye contact, and picking up nonverbal cues like facial expressions or body language.",
+   "\"Social anxiety disorder (social phobia)\" means: An intense and persistent fear of social situations where one may be scrutinized or judged by others.",
+   "\"Bipolar disorders\" means: Characterized by extreme mood swings between periods of mania (elevated mood) and depression (low mood)."
+  ]
  },
  {
   "id": "SQ17",
@@ -218,7 +314,13 @@
    "Dissociative amnesia"
   ],
   "ans": 0,
-  "exp": "ASD: less social contact, sensory hypersensitivity, repetitive behaviors."
+  "exp": "ASD: less social contact, sensory hypersensitivity, repetitive behaviors.",
+  "why": [
+   "",
+   "\"ADHD\" means: Attention deficit hyperactivity disorder: a neurodevelopmental disorder with a persistent pattern of inattention and/or hyperactivity-impulsivity that interferes with functioning or development.",
+   "\"Generalized anxiety disorder (GAD)\" means: Excessive, persistent, and uncontrollable worry about a wide range of everyday situations. It's nonspecific anxiety and fear. For a diagnosis, it must last at least 6 months and interfere with daily functioning.",
+   "\"Dissociative amnesia\" means: A significant inability to recall important personal information, typically related to traumatic or stressful events."
+  ]
  },
  {
   "id": "SQ18",
@@ -231,7 +333,13 @@
    "10 or more"
   ],
   "ans": 0,
-  "exp": "6+ up to age 16; 5+ for ages 17 and older."
+  "exp": "6+ up to age 16; 5+ for ages 17 and older.",
+  "why": [
+   "",
+   "6 or more is for ages 16 and younger.",
+   "Too few for any age.",
+   "Too many; the cutoff is 5 for adults."
+  ]
  },
  {
   "id": "SQ19",
@@ -244,7 +352,13 @@
    "Diathesis"
   ],
   "ans": 0,
-  "exp": "Teratogens like alcohol and tobacco are environmental causes of neurodevelopmental disorders."
+  "exp": "Teratogens like alcohol and tobacco are environmental causes of neurodevelopmental disorders.",
+  "why": [
+   "",
+   "Neurotransmitters are the body's own chemical messengers.",
+   "Hormones are made by the body's glands.",
+   "\"Diathesis\" means: A genetic or biological predisposition to develop a mental illness."
+  ]
  },
  {
   "id": "SQ20",
@@ -257,7 +371,13 @@
    "GAD"
   ],
   "ans": 0,
-  "exp": "Dissociative amnesia: unable to recall important personal information tied to trauma."
+  "exp": "Dissociative amnesia: unable to recall important personal information tied to trauma.",
+  "why": [
+   "",
+   "\"Dissociative identity disorder (DID)\" means: A severe condition with two or more distinct personality states (called \"alters\"), each with its own identity, memories, behaviors, and perspectives.",
+   "\"Schizophrenia\" means: A type of psychosis. The DSM-5 placed it on a spectrum of psychotic disorders because people experience its symptoms in a variety of ways. To be diagnosed, the patient must have at least 2 symptoms (positive and negative) for at least 6 months.",
+   "\"Generalized anxiety disorder (GAD)\" means: Excessive, persistent, and uncontrollable worry about a wide range of everyday situations. It's nonspecific anxiety and fear. For a diagnosis, it must last at least 6 months and interfere with daily functioning."
+  ]
  },
  {
   "id": "SQ21",
@@ -270,7 +390,13 @@
    "Panic attack"
   ],
   "ans": 0,
-  "exp": "Fugue: wandering or traveling without awareness of identity."
+  "exp": "Fugue: wandering or traveling without awareness of identity.",
+  "why": [
+   "",
+   "\"Catatonic stupor\" means: No movement. A negative symptom.",
+   "\"Manic episode\" means: Elevated mood, feeling euphoric or overly happy; increased energy and activity; decreased need for sleep; racing thoughts and rapid speech; grandiosity and inflated self-esteem; impulsivity and risk-taking; irritability and aggression.",
+   "A panic attack is sudden intense fear, not loss of identity."
+  ]
  },
  {
   "id": "SQ22",
@@ -283,7 +409,13 @@
    "Bipolar I"
   ],
   "ans": 0,
-  "exp": "DID: two or more distinct personality states (alters)."
+  "exp": "DID: two or more distinct personality states (alters).",
+  "why": [
+   "",
+   "\"Schizophrenia\" means: A type of psychosis. The DSM-5 placed it on a spectrum of psychotic disorders because people experience its symptoms in a variety of ways. To be diagnosed, the patient must have at least 2 symptoms (positive and negative) for at least 6 months.",
+   "\"Borderline personality disorder\" means: Instability in mood, self-image, and relationships, often leading to intense emotions, impulsivity, and difficulty maintaining stable relationships.",
+   "\"Bipolar I\" means: The more severe form. Full-blown manic episodes with extreme euphoria, inflated self-esteem, impulsivity, and psychosis (hallucinations or delusions). Severe effect on daily functioning; usually an earlier onset than Bipolar II; may have longer periods of depression."
+  ]
  },
  {
   "id": "SQ23",
@@ -296,7 +428,13 @@
    "Low serotonin"
   ],
   "ans": 0,
-  "exp": "Your slide: the most common cause is severe trauma or major stress."
+  "exp": "Your slide: the most common cause is severe trauma or major stress.",
+  "why": [
+   "",
+   "Excess dopamine is linked to schizophrenia.",
+   "\"Teratogens\" means: Harmful substances a baby is exposed to before birth, like alcohol, tobacco, and other toxins.",
+   "Low serotonin is linked to depression and anxiety."
+  ]
  },
  {
   "id": "SQ24",
@@ -309,7 +447,13 @@
    "Negative symptom"
   ],
   "ans": 0,
-  "exp": "A false belief that others are out to get you = delusion of persecution (paranoia)."
+  "exp": "A false belief that others are out to get you = delusion of persecution (paranoia).",
+  "why": [
+   "",
+   "\"Hallucinations\" means: False perceptions: seeing, hearing, smelling, tasting, or feeling things that are not real.",
+   "That's believing you're famous or powerful.",
+   "\"Negative symptoms\" means: Symptoms that indicate something absent: lack of emotional expression (flat affect), no movement (catatonic stupor), and lack of interest and motivation."
+  ]
  },
  {
   "id": "SQ25",
@@ -322,7 +466,13 @@
    "Word salad"
   ],
   "ans": 0,
-  "exp": "Hallucination = false perception."
+  "exp": "Hallucination = false perception.",
+  "why": [
+   "",
+   "\"Delusions\" means: False beliefs. Can be delusions of grandeur (importance) or delusions of persecution (paranoia).",
+   "\"Flat affect\" means: A lack of emotional expression. A negative symptom.",
+   "\"Word salad\" means: Words strung together in a jumbled, unusual way. A sign of disorganized speech."
+  ]
  },
  {
   "id": "SQ26",
@@ -335,7 +485,13 @@
    "A delusion"
   ],
   "ans": 0,
-  "exp": "Flat affect = lack of emotional expression (a negative symptom)."
+  "exp": "Flat affect = lack of emotional expression (a negative symptom).",
+  "why": [
+   "",
+   "\"Catatonic stupor\" means: No movement. A negative symptom.",
+   "\"Word salad\" means: Words strung together in a jumbled, unusual way. A sign of disorganized speech.",
+   "\"Delusions\" means: False beliefs. Can be delusions of grandeur (importance) or delusions of persecution (paranoia)."
+  ]
  },
  {
   "id": "SQ27",
@@ -348,7 +504,13 @@
    "General Adaptation Syndrome"
   ],
   "ans": 0,
-  "exp": "Stress triggered a genetic predisposition (diathesis)."
+  "exp": "Stress triggered a genetic predisposition (diathesis).",
+  "why": [
+   "",
+   "\"Dopamine hypothesis\" means: The theory that an imbalance of dopamine in the brain can contribute to schizophrenia. It suggests the positive symptoms (delusions, hallucinations) are caused by an overproduction of dopamine.",
+   "\"Tend-and-befriend theory\" means: A stress response, primarily observed in women, that involves seeking support, caring for others, and forming or strengthening social connections instead of fight-or-flight. Part of evolutionary psychology: believed to have evolved so females could ensure the survival of their offspring and themselves.",
+   "\"General Adaptation Syndrome (GAS)\" means: How the body responds to ongoing stress, in three stages: alarm, resistance, and exhaustion."
+  ]
  },
  {
   "id": "SQ28",
@@ -361,7 +523,13 @@
    "Hallucination"
   ],
   "ans": 0,
-  "exp": "Compulsions are the repetitive behaviors; the contamination thoughts are the obsessions."
+  "exp": "Compulsions are the repetitive behaviors; the contamination thoughts are the obsessions.",
+  "why": [
+   "",
+   "\"Obsessions\" means: Recurrent and persistent thoughts that are intrusive.",
+   "\"Delusions\" means: False beliefs. Can be delusions of grandeur (importance) or delusions of persecution (paranoia).",
+   "\"Hallucinations\" means: False perceptions: seeing, hearing, smelling, tasting, or feeling things that are not real."
+  ]
  },
  {
   "id": "SQ29",
@@ -374,7 +542,13 @@
    "GAD"
   ],
   "ans": 0,
-  "exp": "Hoarding: difficulty discarding, distress at discarding, cluttered living areas."
+  "exp": "Hoarding: difficulty discarding, distress at discarding, cluttered living areas.",
+  "why": [
+   "",
+   "\"OCD\" means: Obsessive-compulsive disorder: characterized by obsessions and compulsions.",
+   "\"Agoraphobia\" means: Marked anxiety about using public transportation, being in open spaces, being in enclosed places, being in a crowd, and/or being outside of the home alone.",
+   "\"Generalized anxiety disorder (GAD)\" means: Excessive, persistent, and uncontrollable worry about a wide range of everyday situations. It's nonspecific anxiety and fear. For a diagnosis, it must last at least 6 months and interfere with daily functioning."
+  ]
  },
  {
   "id": "SQ30",
@@ -387,7 +561,13 @@
    "DID"
   ],
   "ans": 0,
-  "exp": "Flashbacks, nightmares, and hypervigilance are PTSD symptoms."
+  "exp": "Flashbacks, nightmares, and hypervigilance are PTSD symptoms.",
+  "why": [
+   "",
+   "\"Generalized anxiety disorder (GAD)\" means: Excessive, persistent, and uncontrollable worry about a wide range of everyday situations. It's nonspecific anxiety and fear. For a diagnosis, it must last at least 6 months and interfere with daily functioning.",
+   "\"Bipolar disorders\" means: Characterized by extreme mood swings between periods of mania (elevated mood) and depression (low mood).",
+   "\"Dissociative identity disorder (DID)\" means: A severe condition with two or more distinct personality states (called \"alters\"), each with its own identity, memories, behaviors, and perspectives."
+  ]
  },
  {
   "id": "SQ31",
@@ -400,7 +580,13 @@
    "They are learned only from parents"
   ],
   "ans": 0,
-  "exp": "Operant conditioning: anxiety reduction = reinforcement."
+  "exp": "Operant conditioning: anxiety reduction = reinforcement.",
+  "why": [
+   "",
+   "That's a biological explanation.",
+   "That's a psychodynamic explanation.",
+   "The behavioral answer is reinforcement, not only parents."
+  ]
  },
  {
   "id": "SQ32",
@@ -413,7 +599,13 @@
    "Binge eating disorder"
   ],
   "ans": 0,
-  "exp": "Anorexia: refusal to maintain normal weight and intense fear of gaining weight."
+  "exp": "Anorexia: refusal to maintain normal weight and intense fear of gaining weight.",
+  "why": [
+   "",
+   "\"Bulimia nervosa\" means: Recurrent episodes of binge eating, plus acting to prevent weight gain with self-induced vomiting; misuse of laxatives, diuretics, or other medications; fasting; or excessive exercise.",
+   "\"Hoarding disorder\" means: DSM-5 criteria: (a) persistent difficulty discarding or parting with possessions, regardless of their actual value; (b) this is due to a perceived need to save the items and distress about discarding them; (c) it results in possessions that congest and clutter active living areas, substantially compromising their use.",
+   "Binge eating involves eating large amounts, not restricting."
+  ]
  },
  {
   "id": "SQ33",
@@ -426,7 +618,13 @@
    "OCD"
   ],
   "ans": 0,
-  "exp": "Bulimia: binge eating plus behaviors to prevent weight gain."
+  "exp": "Bulimia: binge eating plus behaviors to prevent weight gain.",
+  "why": [
+   "",
+   "\"Anorexia nervosa\" means: Refusal to maintain body weight at or above a minimally normal weight (restricting calories to reach a significantly low body weight), plus an intense fear of gaining weight or becoming overweight even though underweight.",
+   "\"Generalized anxiety disorder (GAD)\" means: Excessive, persistent, and uncontrollable worry about a wide range of everyday situations. It's nonspecific anxiety and fear. For a diagnosis, it must last at least 6 months and interfere with daily functioning.",
+   "\"OCD\" means: Obsessive-compulsive disorder: characterized by obsessions and compulsions."
+  ]
  },
  {
   "id": "SQ34",
@@ -439,7 +637,13 @@
    "Rural farming cultures"
   ],
   "ans": 0,
-  "exp": "Cultural cause: industrialized cultures emphasizing thinness."
+  "exp": "Cultural cause: industrialized cultures emphasizing thinness.",
+  "why": [
+   "",
+   "Your slides point to cultures that emphasize thinness.",
+   "Media images of thinness are part of the cause.",
+   "Your slides name industrialized cultures."
+  ]
  },
  {
   "id": "SQ35",
@@ -452,7 +656,13 @@
    "Cultural"
   ],
   "ans": 0,
-  "exp": "Your slide lists a family focus on perfectionism/high achievement as a social cause."
+  "exp": "Your slide lists a family focus on perfectionism/high achievement as a social cause.",
+  "why": [
+   "",
+   "Biological causes are genes and brain chemistry.",
+   "\"Genetic cause of anxiety disorders\" means: A genetic predisposition.",
+   "Cultural causes are society-wide ideals of thinness."
+  ]
  },
  {
   "id": "SQ36",
@@ -465,7 +675,13 @@
    "Dependent"
   ],
   "ans": 0,
-  "exp": "Antisocial: disregard for others' rights, no empathy or remorse."
+  "exp": "Antisocial: disregard for others' rights, no empathy or remorse.",
+  "why": [
+   "",
+   "\"Avoidant personality disorder\" means: Extreme shyness and social anxiety; fear of rejection and criticism; feelings of inadequacy and inferiority; avoiding social situations, relationships, and activities; difficulty expressing emotions and forming intimate relationships; low self-esteem.",
+   "\"Schizoid personality disorder\" means: Lack of interest in social relationships and very little emotion; indifferent to criticism or praise; lacks social skills and understanding of social norms.",
+   "\"Dependent personality disorder\" means: Difficulty making everyday decisions without reassurance; excessive need for advice and guidance; fear of separation and abandonment; submissive and clingy; difficulty disagreeing or asserting oneself; feeling helpless and incompetent."
+  ]
  },
  {
   "id": "SQ37",
@@ -478,7 +694,13 @@
    "Paranoid"
   ],
   "ans": 0,
-  "exp": "Dependent: needs reassurance, fears abandonment, clingy."
+  "exp": "Dependent: needs reassurance, fears abandonment, clingy.",
+  "why": [
+   "",
+   "\"Narcissistic personality disorder\" means: Exaggerated sense of self-importance; need for excessive admiration; preoccupation with power, success, or beauty; sense of entitlement; exploits others; lack of empathy, arrogant; doesn't recognize others' feelings; sensitive to criticism.",
+   "\"Histrionic personality disorder\" means: A pervasive pattern of excessive emotionality and attention-seeking; dramatic and theatrical displays to gain attention and validation; need for reassurance and approval.",
+   "\"Paranoid personality disorder\" means: Irrational fear and distrust of others; interprets others' motives as malevolent (bad intent). No psychosis and no loss of touch with reality."
+  ]
  },
  {
   "id": "SQ38",
@@ -491,7 +713,13 @@
    "Cluster D"
   ],
   "ans": 0,
-  "exp": "A = odd/eccentric, B = dramatic, C = anxious."
+  "exp": "A = odd/eccentric, B = dramatic, C = anxious.",
+  "why": [
+   "",
+   "\"Cluster B\" means: Dramatic, emotional, erratic: antisocial, histrionic, narcissistic, and borderline personality disorders.",
+   "\"Cluster C\" means: Anxious or fearful: avoidant, dependent, and obsessive-compulsive personality disorders.",
+   "There are only three clusters: A, B and C."
+  ]
  },
  {
   "id": "SQ39",
@@ -504,7 +732,13 @@
    "Schizotypal"
   ],
   "ans": 0,
-  "exp": "Narcissistic: exaggerated self-importance, need for admiration, sensitive to criticism."
+  "exp": "Narcissistic: exaggerated self-importance, need for admiration, sensitive to criticism.",
+  "why": [
+   "",
+   "\"Borderline personality disorder\" means: Instability in mood, self-image, and relationships, often leading to intense emotions, impulsivity, and difficulty maintaining stable relationships.",
+   "\"Avoidant personality disorder\" means: Extreme shyness and social anxiety; fear of rejection and criticism; feelings of inadequacy and inferiority; avoiding social situations, relationships, and activities; difficulty expressing emotions and forming intimate relationships; low self-esteem.",
+   "\"Schizotypal personality disorder\" means: Odd and eccentric behavior, thinking, and appearance; magical thinking (superstitious, paranormal experiences); social anxiety, suspicion, paranoia."
+  ]
  },
  {
   "id": "SQ40",
@@ -517,7 +751,13 @@
    "Cognitive restructuring"
   ],
   "ans": 0,
-  "exp": "Free association is a psychodynamic technique for exploring the unconscious."
+  "exp": "Free association is a psychodynamic technique for exploring the unconscious.",
+  "why": [
+   "",
+   "\"Systematic desensitization\" means: Creating a fear hierarchy (from least scary to most scary) and learning relaxation techniques.",
+   "\"Active listening\" means: Empathetic listening in which the listener echoes, restates, and clarifies. A central part of Rogers' client-centered therapy.",
+   "\"Cognitive restructuring\" means: A method for changing how people think: recognizing and challenging pessimistic thoughts (\"I'm never going to make it\") and replacing them with positive ones (\"I can succeed if I try\")."
+  ]
  },
  {
   "id": "SQ41",
@@ -530,7 +770,13 @@
    "REBT"
   ],
   "ans": 0,
-  "exp": "Carl Rogers' person-centered therapy is non-directive, with active listening."
+  "exp": "Carl Rogers' person-centered therapy is non-directive, with active listening.",
+  "why": [
+   "",
+   "\"Aversion therapy\" means: A type of counterconditioning that pairs an unpleasant state with an unwanted behavior. The opposite of systematic desensitization. Most common example: Antabuse for alcoholism.",
+   "Psychoanalysis interprets unconscious conflicts; the analyst does interpret.",
+   "\"Rational emotive behavior therapy (REBT)\" means: Developed by Ellis: people engage in false self-talk, and changing their beliefs changes their emotions. The therapist confronts the client's irrational beliefs. Mainly used for anxiety. Steps: identify, challenge, and replace irrational beliefs."
+  ]
  },
  {
   "id": "SQ42",
@@ -543,7 +789,13 @@
    "Biofeedback"
   ],
   "ans": 0,
-  "exp": "Aversion therapy pairs an unpleasant state with the unwanted behavior."
+  "exp": "Aversion therapy pairs an unpleasant state with the unwanted behavior.",
+  "why": [
+   "",
+   "\"Systematic desensitization\" means: Creating a fear hierarchy (from least scary to most scary) and learning relaxation techniques.",
+   "\"Token economy\" means: An operant conditioning procedure that rewards a desired behavior: the patient earns tokens for the desired behavior and exchanges them for privileges or treats (5 gold stars = treasure box).",
+   "\"Biofeedback\" means: Based on conditioning principles: people learn to consciously control physiological responses like heart rate and muscle tension. Sensors monitor the body, the data is fed back to the person, and through practice they learn to influence those responses."
+  ]
  },
  {
   "id": "SQ43",
@@ -556,7 +808,13 @@
    "Mood stabilizer"
   ],
   "ans": 0,
-  "exp": "Antipsychotics block dopamine receptors and reduce positive symptoms."
+  "exp": "Antipsychotics block dopamine receptors and reduce positive symptoms.",
+  "why": [
+   "",
+   "\"Antidepressants\" means: Typically SSRIs (selective serotonin reuptake inhibitors), which block the reuptake of serotonin. Examples: Prozac, Paxil, Zoloft. Side effects: fatigue, forgetfulness, insomnia, weight gain.",
+   "Benzodiazepines boost GABA to treat anxiety.",
+   "\"Mood stabilizers\" means: Used to treat bipolar disorder. Example: lithium."
+  ]
  },
  {
   "id": "SQ44",
@@ -569,7 +827,13 @@
    "A token economy"
   ],
   "ans": 0,
-  "exp": "REBT: the therapist confronts irrational beliefs."
+  "exp": "REBT: the therapist confronts irrational beliefs.",
+  "why": [
+   "",
+   "\"Person-centered (client-centered) therapy\" means: The most widely used humanistic therapy, developed by Carl Rogers. Non-directive: the therapist offers acceptance, genuineness, and empathy and shows unconditional positive regard so the client can express their true feelings.",
+   "\"Free association\" means: A way to explore the unconscious: the person relaxes and says whatever comes to mind, no matter how trivial or embarrassing, while the psychologist sits out of the patient's line of vision. The therapist interprets, or helps the patient interpret, the missing pieces.",
+   "\"Token economy\" means: An operant conditioning procedure that rewards a desired behavior: the patient earns tokens for the desired behavior and exchanges them for privileges or treats (5 gold stars = treasure box)."
+  ]
  },
  {
   "id": "SQ45",
@@ -582,6 +846,12 @@
    "Biofeedback"
   ],
   "ans": 0,
-  "exp": "Token economy: operant conditioning with exchangeable rewards."
+  "exp": "Token economy: operant conditioning with exchangeable rewards.",
+  "why": [
+   "",
+   "\"Aversion therapy\" means: A type of counterconditioning that pairs an unpleasant state with an unwanted behavior. The opposite of systematic desensitization. Most common example: Antabuse for alcoholism.",
+   "\"Exposure therapy\" means: Exposing people to what they would normally avoid. Your slide links it to Peter and the rabbit.",
+   "\"Biofeedback\" means: Based on conditioning principles: people learn to consciously control physiological responses like heart rate and muscle tension. Sensors monitor the body, the data is fed back to the person, and through practice they learn to influence those responses."
+  ]
  }
 ]

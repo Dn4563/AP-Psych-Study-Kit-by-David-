@@ -173,5 +173,165 @@
     ]
    ]
   }
+ ],
+ "cheat": [
+  {
+   "title": "Stress",
+   "kind": "list",
+   "items": [
+    "Stress → sympathetic system → cortisol → hypertension, headaches, immunosuppression.",
+    "GAS: alarm → resistance → exhaustion.",
+    "Problem-focused coping changes the stressor; emotion-focused changes the feeling."
+   ]
+  },
+  {
+   "title": "The 3 Ds of a disorder",
+   "kind": "list",
+   "items": [
+    "Deviant, dysfunctional (maladaptive), distressing. All three, not just unusual.",
+    "U.S. manual: DSM-5."
+   ]
+  },
+  {
+   "title": "Disorders at a glance",
+   "kind": "table",
+   "rows": [
+    [
+     "Disorder",
+     "Key sign"
+    ],
+    [
+     "Specific phobia",
+     "Irrational fear of one thing"
+    ],
+    [
+     "Panic disorder",
+     "Attacks + fear of more attacks"
+    ],
+    [
+     "GAD",
+     "Constant worry about many things"
+    ],
+    [
+     "MDD / persistent",
+     "2+ weeks / 2+ years, no mania"
+    ],
+    [
+     "Bipolar I / II",
+     "Full mania (can be psychotic) / hypomania"
+    ],
+    [
+     "ADHD",
+     "Inattention and/or hyperactivity-impulsivity"
+    ],
+    [
+     "DID",
+     "Alters (distinct identities)"
+    ],
+    [
+     "Schizophrenia",
+     "Delusions, hallucinations; 2+ symptoms, 6+ months"
+    ],
+    [
+     "OCD",
+     "Obsession → distress → compulsion → relief"
+    ],
+    [
+     "PTSD",
+     "After trauma; hypervigilance, flashbacks"
+    ],
+    [
+     "Anorexia / bulimia",
+     "Restricting / binge + purge"
+    ]
+   ]
+  },
+  {
+   "title": "Personality disorder clusters",
+   "kind": "table",
+   "rows": [
+    [
+     "Cluster",
+     "Style",
+     "Disorders"
+    ],
+    [
+     "A",
+     "Odd, eccentric",
+     "Paranoid, schizoid, schizotypal"
+    ],
+    [
+     "B",
+     "Dramatic, erratic",
+     "Antisocial, histrionic, narcissistic, borderline"
+    ],
+    [
+     "C",
+     "Anxious, fearful",
+     "Avoidant, dependent, OCPD"
+    ]
+   ]
+  },
+  {
+   "title": "Medications",
+   "kind": "table",
+   "rows": [
+    [
+     "Type",
+     "How",
+     "For"
+    ],
+    [
+     "Antidepressants (SSRIs)",
+     "Keep serotonin in the synapse",
+     "Depression"
+    ],
+    [
+     "Anti-anxiety (benzodiazepines)",
+     "Boost GABA",
+     "Anxiety"
+    ],
+    [
+     "Antipsychotics",
+     "Block dopamine",
+     "Schizophrenia (risk: tardive dyskinesia)"
+    ],
+    [
+     "Mood stabilizers (lithium)",
+     "Stabilize mood",
+     "Bipolar disorder"
+    ]
+   ]
+  },
+  {
+   "title": "Therapies",
+   "kind": "table",
+   "rows": [
+    [
+     "Approach",
+     "Key tools"
+    ],
+    [
+     "Psychodynamic",
+     "Free association, dream interpretation, resistance"
+    ],
+    [
+     "Humanistic",
+     "Person-centered, active listening, unconditional positive regard"
+    ],
+    [
+     "Cognitive",
+     "Cognitive restructuring, Beck's negative triad"
+    ],
+    [
+     "Behavioral",
+     "Exposure, systematic desensitization, aversion, token economy"
+    ],
+    [
+     "CBT family",
+     "CBT, DBT, REBT"
+    ]
+   ]
+  }
  ]
 }

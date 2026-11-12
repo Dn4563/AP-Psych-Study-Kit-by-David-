@@ -4,6 +4,8 @@
 
 ## Stress
 
+> Stress triggers the sympathetic nervous system and the release of cortisol. Over time that can lead to hypertension, headaches and a weaker immune system (immunosuppression).
+
 | Term | Definition | Hook |
 |---|---|---|
 | Stress | Stress activates your sympathetic nervous system (the fight/flight/freeze response), which activates hormones like cortisol. This can result in hypertension, headaches, and immunosuppression. |  |
@@ -12,6 +14,8 @@
 | Immunosuppression | A weakened immune system. One of the results of stress (along with hypertension and headaches). | Immuno-suppression = immune system pushed down. |
 
 ## Stressors
+
+> Not all stress is bad: eustress is challenging but manageable, while distress is harmful. Stressors range from catastrophes to significant life changes to daily hassles.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -22,6 +26,8 @@
 | Daily hassles | Everyday distress like traffic, a dead cell phone, no Wi-Fi, strained budgets, and deadlines. |  |
 
 ## Adverse Childhood Experiences
+
+> ACEs are stressful experiences during childhood (ages 0–17), in three types: abuse, neglect and household dysfunction. Childhood stress affects how the brain and body develop, raising health risks later in life.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -34,6 +40,8 @@
 
 ## General Adaptation Syndrome
 
+> The GAS describes the body under long stress in three stages: alarm (immediate fight or flight), resistance (still in high stress, using up reserves) and exhaustion (reserves depleted).
+
 | Term | Definition | Hook |
 |---|---|---|
 | General Adaptation Syndrome (GAS) | How the body responds to ongoing stress, in three stages: alarm, resistance, and exhaustion. | A-R-E: Alarm, Resistance, Exhaustion. |
@@ -42,6 +50,8 @@
 | Exhaustion stage | The body's resources are depleted and the ability to cope is weakened, which leads to physical and mental health issues. |  |
 
 ## Responding to stress
+
+> Some people, mainly women, respond to stress by caring for others and building connections (tend-and-befriend). Coping comes in two kinds: problem-focused (change the stressor) and emotion-focused (change how you feel, used when the stressor seems uncontrollable).
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -57,6 +67,8 @@
 
 ## When is it a disorder?
 
+> Something counts as a disorder when it meets the 3 Ds: deviant, dysfunctional (maladaptive) and distressing. Being unusual alone isn't enough. In the U.S., disorders are classified with the DSM-5.
+
 | Term | Definition | Hook |
 |---|---|---|
 | When is it a disorder? (the 3 Ds) | Professionals label thoughts, feelings, and behaviors as a disorder when they are deviant, dysfunctional/maladaptive, and distressing. | The 3 Ds. |
@@ -66,6 +78,8 @@
 | DSM-5 | The Diagnostic and Statistical Manual of Mental Disorders, 5th edition. Used to classify (label) disorders in the United States. |  |
 
 ## Explanations by approach
+
+> Each perspective explains disorders its own way: biological (genes, brain chemistry), psychodynamic (unconscious childhood conflicts), behavioral (learned through conditioning), cognitive (irrational thoughts), sociocultural (culture), humanistic (lack of support and potential), and evolutionary.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -79,6 +93,8 @@
 
 ## A warning
 
+> Studying disorders can make you think you have them all: intern syndrome. Don't diagnose yourself or your friends.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Intern syndrome | A condition often reported by medical students, who believe they are experiencing the symptoms of the disease they are studying. Your slide's rule: don't diagnose yourself or others; you are not qualified. |  |
@@ -89,11 +105,15 @@
 
 ## Anxiety disorders
 
+> Anxiety disorders are persistent, excessive worry and fear that interfere with daily life. The rest of this deck covers the main types and their causes.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Anxiety disorders | Disorders characterized by persistent, excessive worry and fear that can significantly interfere with daily life. They include generalized anxiety disorder, panic disorder, and phobias. |  |
 
 ## Phobias
+
+> A specific phobia is an intense, irrational fear of one object or situation, out of proportion to the real threat.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -102,12 +122,16 @@
 
 ## Agoraphobia
 
+> Agoraphobia is fear of places where escape might be hard. Its symptoms can be cognitive (fear of being trapped), physical (sweating, racing heart) or behavioral (staying home).
+
 | Term | Definition | Hook |
 |---|---|---|
 | Agoraphobia | Marked anxiety about using public transportation, being in open spaces, being in enclosed places, being in a crowd, and/or being outside of the home alone. | Agora = marketplace: fear of being out where escape is hard. |
 | Symptoms of agoraphobia | Physical: sweating, tremors, rapid heartbeat. Behavioral: avoiding situations that cause anxiety, staying home, social isolation. Cognitive: intense fear of a panic attack, of being trapped or unable to escape, or of losing control; feeling overwhelmed or helpless; difficulty concentrating or making decisions. |  |
 
 ## Panic & social anxiety
+
+> Panic disorder is repeated panic attacks plus worry about having more. Social anxiety disorder is intense fear of being judged in social situations.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -118,12 +142,16 @@
 
 ## Generalized anxiety disorder
 
+> GAD is constant worry about many everyday things, not one specific object or situation.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Generalized anxiety disorder (GAD) | Excessive, persistent, and uncontrollable worry about a wide range of everyday situations. It's nonspecific anxiety and fear. For a diagnosis, it must last at least 6 months and interfere with daily functioning. | Generalized = worried about everything, not one thing. |
 | Symptoms of GAD | Excessive anxiety and worry, increased muscle aches or soreness, impaired concentration, fatigue, irritability, restlessness, and difficulty sleeping. |  |
 
 ## Causes
+
+> Anxiety disorders have causes from several perspectives: behavioral (learning fear, including by modeling others), cognitive (distorted, catastrophic thinking), biological (serotonin and GABA imbalances, plus hormones) and genetic (running in families).
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -138,6 +166,8 @@
 
 ## Depressive disorders
 
+> Depression is more than a bad mood: a sad, empty or irritable mood with physical and cognitive changes that affect functioning. Major depressive disorder lasts at least 2 weeks; persistent depressive disorder lasts at least 2 years with no manic episodes.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Depressive disorders | Characterized by a sad, empty, or irritable mood along with physical and cognitive changes that affect a person's ability to function. Depression is a mental health condition, not just a temporary mood swing. |  |
@@ -148,6 +178,8 @@
 | Causes of depressive disorders | Genetic: family histories and twin studies show a genetic component. Biological: imbalances in serotonin, dopamine, and norepinephrine; hormonal imbalances; medical conditions like chronic pain. Environmental: high stress from job loss, death of a loved one, financial or relationship problems; childhood trauma, social isolation, poverty. |  |
 
 ## Bipolar disorders
+
+> Bipolar disorders swing between depressive and manic episodes. Bipolar I has full mania and can include psychosis; Bipolar II has milder hypomania and is less severe but more common.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -165,6 +197,8 @@
 
 ## Neurodevelopmental disorders
 
+> Neurodevelopmental disorders begin to appear in early childhood. They have high heritability, and teratogens such as alcohol during pregnancy are an environmental cause.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Neurodevelopmental disorders | Disorders associated with issues in central nervous system functioning that begin to appear in early childhood. They usually involve issues with social, intellectual, academic, or interpersonal functioning, and range from developmental, language, and speech delays to autism and ADHD. |  |
@@ -173,6 +207,8 @@
 | Teratogens | Harmful substances a baby is exposed to before birth, like alcohol, tobacco, and other toxins. |  |
 
 ## ADHD
+
+> ADHD is a persistent pattern of inattention and/or hyperactivity-impulsivity. Know the diagnosis rules on your slides: how many symptoms by age, symptoms before age 12, in two or more settings, for at least 6 months.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -186,6 +222,8 @@
 
 ## Autism spectrum disorder
 
+> ASD is called a spectrum because its symptoms range from mild to severe. Your slides give its statistics, including that it is more common in boys.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Autism spectrum disorder (ASD) | Children with ASD seek out less emotional and social contact, tend to be hypersensitive to sensory stimuli, and may engage in simple, repetitive behaviors. Often they have difficulty with social interaction, maintaining eye contact, and picking up nonverbal cues like facial expressions or body language. |  |
@@ -198,6 +236,8 @@
 
 ## Dissociative disorders
 
+> Dissociative disorders are a loss of connection between thoughts, memories, feelings, surroundings and identity. The most common cause is severe trauma or major stress.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Dissociative disorders | Disorders involving a loss of connection between thoughts, memories, feelings, surroundings, behavior, and identity. They include escaping from reality in ways that are not wanted and not healthy, and cause problems managing everyday life. | Dis-associate = disconnect. |
@@ -206,6 +246,8 @@
 
 ## Dissociative amnesia
 
+> Dissociative amnesia is being unable to recall important personal information. A fugue state goes further: traveling or wandering without awareness of who you are.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Dissociative amnesia | A significant inability to recall important personal information, typically related to traumatic or stressful events. |  |
@@ -213,6 +255,8 @@
 | Fugue state | When the individual wanders or travels without any awareness of their identity or situation. Can happen with dissociative amnesia. | Fugue = flee (Latin). |
 
 ## Dissociative identity disorder
+
+> DID involves two or more distinct identities, called alters, each with its own memories and behaviors. It's what people mean by 'split personality,' not schizophrenia.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -226,11 +270,15 @@
 
 ## Schizophrenia
 
+> Schizophrenia is a psychotic disorder that the DSM-5 places on a spectrum, because people experience it in different ways.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Schizophrenia | A type of psychosis. The DSM-5 placed it on a spectrum of psychotic disorders because people experience its symptoms in a variety of ways. To be diagnosed, the patient must have at least 2 symptoms (positive and negative) for at least 6 months. |  |
 
 ## Symptoms
+
+> Positive symptoms are added experiences: delusions (of grandeur or persecution), hallucinations, disorganized speech (word salad) and movement. Negative symptoms are things missing, like flat affect or catatonic stupor.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -248,6 +296,8 @@
 
 ## Causes
 
+> Schizophrenia has several causes: genetics, prenatal exposure to viruses, and imbalances in dopamine and glutamate. The dopamine hypothesis links positive symptoms to too much dopamine. The diathesis-stress model says stress can trigger an existing predisposition.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Causes of schizophrenia | Genetic or biological link (tends to run in families); prenatal exposure to certain viruses (teratogens like flu, herpes, rubella); imbalances in neurotransmitters like dopamine and glutamate. |  |
@@ -261,6 +311,8 @@
 
 ## Obsessive-compulsive & related
 
+> The DSM-5 moved OCD and related disorders (including hoarding, trichotillomania and excoriation) out of the anxiety disorders into their own category.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Obsessive-compulsive & related disorders | A group including OCD, body dysmorphic disorder (BDD), hoarding disorder, trichotillomania (hair-pulling), and excoriation (skin-picking), characterized by intrusive thoughts and/or repetitive behaviors. Your slide: know the symptoms of OCD and hoarding. |  |
@@ -269,6 +321,8 @@
 | Excoriation disorder | Skin-picking disorder. An obsessive-compulsive related disorder. |  |
 
 ## OCD
+
+> In OCD, obsessions are intrusive thoughts and compulsions are repeated actions. The cycle is obsession, distress, compulsion, relief, and the relief reinforces the compulsion, which is the behavioral explanation.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -281,11 +335,15 @@
 
 ## Hoarding
 
+> Hoarding disorder is persistent difficulty throwing things away, whatever their value, with clutter that compromises living spaces.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Hoarding disorder | DSM-5 criteria: (a) persistent difficulty discarding or parting with possessions, regardless of their actual value; (b) this is due to a perceived need to save the items and distress about discarding them; (c) it results in possessions that congest and clutter active living areas, substantially compromising their use. |  |
 
 ## Trauma & stressor-related
+
+> PTSD, acute stress disorder and adjustment disorders all follow a traumatic or stressful event and differ mainly in how long they last. PTSD symptoms include hypervigilance, flashbacks and nightmares.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -300,12 +358,16 @@
 
 ## Eating disorders
 
+> Feeding and eating disorders are serious and can do lasting harm to the body. The two to know are anorexia nervosa and bulimia nervosa.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Feeding & eating disorders | Most involve an intense focus on weight, body shape, and food, leading to dangerous eating behaviors that can seriously affect nutrition. They can cause permanent harm to the heart, digestive system, bones, teeth, and mouth, can lead to other diseases, and are linked with depression, anxiety, self-harm, and suicidal thoughts and behaviors. |  |
 | The two to know | Anorexia nervosa and bulimia nervosa. |  |
 
 ## Anorexia nervosa
+
+> Anorexia is refusing to keep a minimally normal weight and an intense fear of gaining weight, even when underweight.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -314,6 +376,8 @@
 
 ## Bulimia nervosa
 
+> Bulimia is repeated binge eating plus behaviors to prevent weight gain, such as vomiting. It can be hard to spot because it often happens in private.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Bulimia nervosa | Recurrent episodes of binge eating, plus acting to prevent weight gain with self-induced vomiting; misuse of laxatives, diuretics, or other medications; fasting; or excessive exercise. | Bulimia = binge + undo it. |
@@ -321,6 +385,8 @@
 | Signs of bulimia | Hard to spot: people often binge and purge privately. Frequent bathroom visits, excessive exercising, preoccupation with body image, intense fear of gaining weight, feeling out of control, depression/anxiety/substance abuse, guilt or shame about eating, withdrawing from friends and family. |  |
 
 ## Causes
+
+> Eating disorders have causes at every level: biological and genetic, social (like a family focus on perfection or weight-related bullying), cultural (industrialized cultures that prize thinness), cognitive (distorted attitudes about appearance and perfectionism) and stress.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -336,12 +402,16 @@
 
 ## Personality disorders
 
+> Personality disorders are enduring, inflexible patterns that differ from a person's culture, begin in adolescence or early adulthood, and interfere with daily life. They're grouped into three clusters.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Personality disorders | Enduring patterns of internal experience and behavior that are deviant from one's culture; pervasive and inflexible; begin in adolescence or early adulthood; stable over time; and lead to personal distress. To be a disorder, they have to interfere with daily living and normal functioning. |  |
 | Three clusters | There are 10 personality disorders in three clusters. Cluster A: odd or eccentric. Cluster B: dramatic, emotional, erratic. Cluster C: anxious or fearful. | A = Awkward/odd, B = Bold/dramatic, C = Cowardly/fearful. |
 
 ## Cluster A: odd or eccentric
+
+> Cluster A is odd or eccentric: paranoid (distrust), schizoid (detached from relationships) and schizotypal (odd beliefs and behavior).
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -351,6 +421,8 @@
 | Schizotypal personality disorder | Odd and eccentric behavior, thinking, and appearance; magical thinking (superstitious, paranormal experiences); social anxiety, suspicion, paranoia. |  |
 
 ## Cluster B: dramatic, emotional, erratic
+
+> Cluster B is dramatic, emotional and erratic: antisocial, histrionic (attention-seeking), narcissistic and borderline.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -362,6 +434,8 @@
 
 ## Cluster C: anxious or fearful
 
+> Cluster C is anxious or fearful: avoidant, dependent, and obsessive-compulsive personality disorder (different from OCD).
+
 | Term | Definition | Hook |
 |---|---|---|
 | Cluster C | Anxious or fearful: avoidant, dependent, and obsessive-compulsive personality disorders. |  |
@@ -370,6 +444,8 @@
 | Obsessive-compulsive personality disorder | Perfectionism; rigid and stubborn; need for orderliness and control; stingy; strict moral codes; can't delegate because others won't do it right. |  |
 
 ## Causes
+
+> Personality disorders come from a mix of causes: genetic predisposition, brain differences, environment (early abuse, neglect, trauma or poor attachment) and culture.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -381,6 +457,8 @@
 
 ## History
 
+> Treatment has changed a lot: from asylums and lobotomies to deinstitutionalization in the late 20th century, when new medications let patients be treated outside hospitals.
+
 | Term | Definition | Hook |
 |---|---|---|
 | History of treatment | Very dark. People with mental illness were usually locked away in their homes or sent to psychiatric hospitals called lunatic or insane asylums, where conditions were horrible and treatments were often worse than the illness. |  |
@@ -388,6 +466,8 @@
 | Deinstitutionalization | The late 20th-century movement to close asylums. With new medications, patients could be treated with a combination of medication and therapy on an outpatient basis. |  |
 
 ## Treatment today
+
+> Today's treatment is biomedical (medication and brain treatments) or psychotherapy, often combined in an eclectic approach. Only a doctor or psychiatrist can prescribe medication.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -397,6 +477,8 @@
 | Eclectic approach | Combining therapy methods from the approaches that best fit the client's case. Most psychologists and therapists use it, choosing from biological, psychoanalytic, humanistic, behavioral, cognitive, group, sociocultural, and evolutionary approaches. | Eclectic = a mix. |
 
 ## Medications
+
+> Psychotropic medications treat symptoms, not causes, by acting on neurotransmitters. Antidepressants (like SSRIs), anti-anxiety drugs (boost GABA), antipsychotics (block dopamine; can cause tardive dyskinesia) and mood stabilizers (for bipolar) each target different disorders.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -410,6 +492,8 @@
 
 ## Brain treatments
 
+> Three treatments act on the brain directly: the lobotomy (now historical), rTMS (magnetic pulses, no seizure) and ECT (a controlled seizure for extreme depression, with memory-loss risk).
+
 | Term | Definition | Hook |
 |---|---|---|
 | Lobotomy | A psychosurgery that cuts the main neural connections leading to the frontal lobe. Rarely used today. It may calm behavior but reduces functioning and awareness and can lead to a vegetative state. |  |
@@ -417,6 +501,8 @@
 | Electroconvulsive therapy (ECT) | Electrodes on one or both sides of the head pass an electric current (up to 100 volts), causing a seizure for 30–60 seconds. Used for extreme depression; reduces the risk of suicide. Drawbacks: memory loss, 40% relapse into depression within 6 months, and no one knows why it works. |  |
 
 ## Psychotherapy basics
+
+> Confidentiality is the cardinal rule, broken only when a client is a danger to self or others. Good therapy depends on cultural humility and a strong therapeutic alliance. Eysenck once found therapy no better than none, but later research shows it works.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -428,6 +514,8 @@
 
 ## Ethics
 
+> Therapists follow five ethical principles: fidelity and responsibility, beneficence and nonmaleficence, respect for rights and dignity, integrity, and justice.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Fidelity and responsibility | Build trust with the client, take responsibility for your actions, and maintain professional responsibility. |  |
@@ -437,6 +525,8 @@
 | Justice | Treat everyone equally; ensure fairness and equal access for all clients. |  |
 
 ## Psychodynamic therapies
+
+> Psychodynamic therapy tries to bring unconscious conflicts to light through free association, dream interpretation and noticing resistance. Hypnosis was once used, but it isn't a valid way to recover memories.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -448,6 +538,8 @@
 
 ## Humanistic therapies
 
+> Carl Rogers' person-centered therapy is non-directive: the therapist listens actively and offers empathy, congruence and unconditional positive regard instead of advice.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Person-centered (client-centered) therapy | The most widely used humanistic therapy, developed by Carl Rogers. Non-directive: the therapist offers acceptance, genuineness, and empathy and shows unconditional positive regard so the client can express their true feelings. | Rogers = client-centered. |
@@ -457,6 +549,8 @@
 | Active listening | Empathetic listening in which the listener echoes, restates, and clarifies. A central part of Rogers' client-centered therapy. |  |
 
 ## Cognitive therapies
+
+> Cognitive therapy changes irrational thoughts through cognitive restructuring and Socratic questioning. Beck's theory explains depression with the negative cognitive triad: negative thoughts about yourself, the world and the future.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -468,6 +562,8 @@
 | Negative cognitive triad | Negative thoughts about yourself ("I'm worthless"), the world ("No one cares about me"), and the future ("Things will never get better"). | Me, the world, the future. |
 
 ## Behavioral therapies
+
+> Behavioral therapies change behavior through learning. Exposure therapy and systematic desensitization reduce fears, aversion therapy pairs a behavior with something unpleasant (as Antabuse does with alcohol), token economies reward good behavior, and biofeedback teaches control of body signals.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -481,6 +577,8 @@
 
 ## Cognitive behavioral therapies
 
+> These combine thoughts and behavior. CBT changes both; DBT adds skills for managing emotions and relationships; REBT directly challenges irrational beliefs.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Cognitive behavioral therapy (CBT) | Applies both behavioral and cognitive principles. The idea: people's thinking influences their emotions and behavior. |  |
@@ -489,6 +587,8 @@
 | Rational emotive behavior therapy (REBT) | Developed by Ellis: people engage in false self-talk, and changing their beliefs changes their emotions. The therapist confronts the client's irrational beliefs. Mainly used for anxiety. Steps: identify, challenge, and replace irrational beliefs. | REBT = confront. |
 
 ## Modes of therapy
+
+> Therapy can be individual (more personal and flexible, but expensive) or group (cheaper, and it shows people they aren't alone).
 
 | Term | Definition | Hook |
 |---|---|---|

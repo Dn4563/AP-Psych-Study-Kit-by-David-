@@ -4,12 +4,16 @@
 
 ## What perspectives are
 
+> A perspective is a lens for explaining behavior. Psychology uses seven of them, and the same behavior can be explained through several at once. This section names the idea; the next one goes through each lens.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Psychological perspectives | The different approaches psychologists use to explain human behavior and thought processes, like viewing a situation through a different set of lenses. There are 7. | Perspective = a pair of glasses. |
 | The 7 perspectives | Psychodynamic, cognitive, behavioral, humanistic, biological, evolutionary, and sociocultural. | Your slide's hand: thumb = psychodynamic; fingers = cognitive, behavioral, humanism, biological; palm = sociocultural; wrist = evolutionary. |
 
 ## The seven perspectives
+
+> Learn each perspective by its key word. Psychodynamic: the unconscious and childhood. Cognitive: thoughts. Behavioral: learning and rewards. Humanistic: potential and free will. Biological: genes, brain chemistry and hormones. Evolutionary: survival and reproduction. Sociocultural: culture.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -23,6 +27,8 @@
 
 ## Applying perspectives
 
+> Test questions describe a behavior and ask which perspective explains it. Look for the key word in each explanation (unconscious, thoughts, rewards, potential, chemistry, ancestors, culture) and match it to its perspective, as in the Suzanne example.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Applying a perspective | To analyze a behavior from a perspective, explain it using what that perspective focuses on. The same behavior can be explained by more than one perspective. |  |
@@ -35,6 +41,8 @@
 
 ## Why psychology needs research
 
+> Psychology relies on research because intuition is unreliable. Three biases distort it: hindsight bias (I knew it all along), overconfidence (thinking you know more than you do), and misunderstanding probability (seeing patterns in random events).
+
 | Term | Definition | Hook |
 |---|---|---|
 | Intuition | Understanding without conscious reasoning. Your slides ask whether we can rely on it. We can't, which is why psychology uses research. |  |
@@ -44,6 +52,8 @@
 | Misunderstanding of probability | People are bad at judging chance and very large numbers. Your class showed this with a coin toss and by guessing what could hold a million, a billion, and a trillion dollars. |  |
 
 ## The scientific method
+
+> Research follows seven steps, starting with observation and ending with replication. A theory explains observations; a hypothesis is a testable prediction. Operational definitions say exactly how each variable is measured, which is what lets other researchers replicate a study.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -56,6 +66,8 @@
 
 ## Types of research
 
+> There are three kinds of research. Descriptive research describes behavior, correlational research finds relationships, and experimental research tests cause and effect. Only experiments can show cause.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Three types of research | Descriptive, correlational, and experimental. |  |
@@ -64,6 +76,8 @@
 | Experimental research | Manipulates variables to establish cause-and-effect relationships. Of the three types, only experiments can show cause and effect. |  |
 
 ## Descriptive methods
+
+> The three descriptive methods each trade something off. A case study goes deep on one person but may not apply to others. Naturalistic observation sees real behavior but people may notice the observer. A survey collects a lot of data fast but depends on honest self-reports.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -76,6 +90,8 @@
 
 ## Correlation
 
+> A correlation shows how two variables move together: positive (same direction), negative (opposite directions) or zero. The coefficient's closeness to +1 or −1 shows strength; the sign only shows direction. Two rules to remember: positive doesn't mean good, and correlation doesn't prove causation.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Correlation | Research that tells us about the relationship between two variables (a "co-relation"). |  |
@@ -87,6 +103,8 @@
 | Correlation does not equal causation | Two things being related doesn't mean one causes the other. Your slides' example: ice cream sales and violent crime are correlated, but ice cream doesn't turn people into criminals. Ice cream and sunburn are correlated because hot, sunny summer weather causes both. | A third factor (like summer weather) can cause both. |
 
 ## Experiments
+
+> An experiment studies a sample drawn from a population, ideally a random, representative one. The experimental group gets the independent variable (what the researcher changes), the control group doesn't, and the dependent variable is what gets measured. A confounding variable is anything else that could explain the result.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -101,6 +119,8 @@
 
 ## Problems with research
 
+> Many things can distort results: expectations (placebo effect), being watched (Hawthorne effect), wanting to look good (social desirability bias), unrepresentative samples (sampling bias), and how questions are worded. Learn to name each problem from a short scenario.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Problems with research (all 11) | Placebo effect, Hawthorne effect, Barnum effect, confounding variables, hindsight bias, overconfidence, gambler's fallacy, social desirability bias, self-report bias, sampling bias, and wording effects (framing). |  |
@@ -114,6 +134,8 @@
 | Wording effects (framing) | How questions are worded can skew responses. |  |
 
 ## Ethics
+
+> APA guidelines protect participants: participation is voluntary, people give informed consent before and are debriefed after, information stays confidential, there's no long-term harm, animals are treated humanely, and an institution must approve the study first.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -133,6 +155,8 @@
 
 ## Descriptive statistics
 
+> Descriptive statistics organize and summarize data. A frequency distribution shows how often each score appears, and a histogram is the bar graph that displays it.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Descriptive statistics | Statistics that help researchers organize data meaningfully. |  |
@@ -140,6 +164,8 @@
 | Histogram | A bar graph that shows a frequency distribution. Useful because it displays data visually and makes patterns in a distribution quicker to spot. |  |
 
 ## Central tendency
+
+> Three ways to find the center: the mean (average), the median (middle score in order) and the mode (most common score). Percentile rank tells what percentage of scores fall below yours.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -150,6 +176,8 @@
 
 ## Variation
 
+> Variation is how spread out the scores are. The range is highest minus lowest; standard deviation shows how much scores vary around the mean. On a normal curve about 68% of scores fall within 1 standard deviation and about 95% within 2.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Measures of variation | Tell us how similar or different scores are. |  |
@@ -159,6 +187,8 @@
 | The 68% and 95% rule | In a normal curve, about 68% of scores fall within 1 standard deviation of the mean, and about 95% within 2. Your slide's IQ example: mean 100, SD 15, so about 68% score 85–115 and about 95% score 70–130. |  |
 
 ## Skewed data
+
+> An outlier can pull a distribution out of shape. In positive skew the tail points right; in negative skew it points left. The mean always follows the tail, while a symmetrical distribution has mean = median = mode.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -171,6 +201,8 @@
 | Bimodal curve | A graph with two peaks ("bi" means two). Each peak is a local maximum: the highest values compared with the data points right around them. |  |
 
 ## Inferential statistics
+
+> Inferential statistics ask whether results apply beyond the sample. Representative samples, bigger samples and more estimates are better; a meta-analysis combines many studies. A result is statistically significant when p ≤ .05, and effect size tells how strong the effect is.
 
 | Term | Definition | Hook |
 |---|---|---|

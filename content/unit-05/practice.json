@@ -21,9 +21,9 @@
      "ans": 3,
      "exp": "Stress → sympathetic nervous system → cortisol → hypertension, headaches, immunosuppression.",
      "why": [
-      "",
-      "",
-      "",
+      "Nothing shuts down permanently.",
+      "Not the stress response on your slides.",
+      "That's what the parasympathetic system does after stress.",
       ""
      ]
     },
@@ -41,10 +41,10 @@
      "ans": 1,
      "exp": "Eustress = challenging but manageable \"good\" stress. The others are distress.",
      "why": [
+      "That's a daily hassle: distress.",
       "",
-      "",
-      "",
-      ""
+      "That's distress.",
+      "That's a catastrophe: distress."
      ]
     },
     {
@@ -61,9 +61,9 @@
      "ans": 3,
      "exp": "Daily hassles are everyday distress.",
      "why": [
-      "",
-      "",
-      "",
+      "\"Catastrophes\" means: Unpredictable, large-scale events, such as natural disasters. A type of distress.",
+      "\"Significant life changes\" means: Distress like divorce or the death of a loved one.",
+      "\"Eustress\" means: Motivating stress, or \"good\" stress: situations that are challenging but manageable and can lead to growth. Your slide lists changes like moving, marriage, and pregnancy.",
       ""
      ]
     },
@@ -81,10 +81,10 @@
      "ans": 1,
      "exp": "Household dysfunction: substance abuse, domestic violence, parent with mental illness, or an incarcerated parent.",
      "why": [
+      "Stressful, but not on the ACE list.",
       "",
-      "",
-      "",
-      ""
+      "Not an ACE.",
+      "Not an ACE."
      ]
     },
     {
@@ -102,9 +102,9 @@
      "exp": "Your slide: ACEs affect a child's brain and health as they grow up, raising risks like heart disease and depression.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "Their effects last into adulthood.",
+      "ACEs are experiences, not genes.",
+      "ACEs raise health risks."
      ]
     },
     {
@@ -122,9 +122,9 @@
      "exp": "Alarm = immediate fight-or-flight; resistance = sustained stress; exhaustion = depleted.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "\"Alarm stage\" means: Immediate stress; the fight-or-flight response is activated.",
+      "\"Exhaustion stage\" means: The body's resources are depleted and the ability to cope is weakened, which leads to physical and mental health issues.",
+      "Recovery isn't one of the three GAS stages."
      ]
     },
     {
@@ -141,10 +141,10 @@
      "ans": 2,
      "exp": "It's part of evolutionary psychology: protecting offspring and building support.",
      "why": [
+      "\"Stress\" means: Stress activates your sympathetic nervous system (the fight/flight/freeze response), which activates hormones like cortisol. This can result in hypertension, headaches, and immunosuppression.",
+      "Tend-and-befriend is about building social connections.",
       "",
-      "",
-      "",
-      ""
+      "\"Stress\" means: Stress activates your sympathetic nervous system (the fight/flight/freeze response), which activates hormones like cortisol. This can result in hypertension, headaches, and immunosuppression."
      ]
     },
     {
@@ -162,9 +162,9 @@
      "exp": "Problem-focused = fix the problem. Emotion-focused = regulate the feeling.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "It works best when a stressor can be changed.",
+      "\"Emotion-focused coping\" means: Focusing on your emotional response: how you feel about the stressor, not changing the stressor itself. The goal is to regulate negative emotions or tolerate the stressor's impact. Used when the stressor seems uncontrollable or problem-focused coping isn't working.",
+      "One changes the stressor, the other the feeling."
      ]
     },
     {
@@ -181,10 +181,10 @@
      "ans": 2,
      "exp": "Problem-focused coping works best when the stressor can be changed or controlled.",
      "why": [
+      "Then problem-focused coping fits better.",
+      "Coping isn't limited to one GAS stage.",
       "",
-      "",
-      "",
-      ""
+      "Anyone can use it."
      ]
     }
    ]
@@ -210,9 +210,9 @@
      "ans": 3,
      "exp": "The 3 Ds.",
      "why": [
-      "",
-      "",
-      "",
+      "Disorders are dysfunctional and distressing, not harmless.",
+      "Not the 3 Ds.",
+      "Not the 3 Ds.",
       ""
      ]
     },
@@ -231,9 +231,9 @@
      "exp": "A disorder needs all 3 Ds, not just being unusual.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "He really believes it; it just isn't harmful.",
+      "Anyone can have a disorder.",
+      "The reason is the missing Ds."
      ]
     },
     {
@@ -250,10 +250,10 @@
      "ans": 2,
      "exp": "Biological = medical/genetic issues and neurotransmitters/hormones.",
      "why": [
+      "Psychodynamic is about unconscious conflicts.",
+      "\"Humanistic explanation\" means: A lack of social support and being unable to reach our full potential.",
       "",
-      "",
-      "",
-      ""
+      "\"Sociocultural explanation\" means: Social and cultural relationships and dynamics."
      ]
     },
     {
@@ -270,10 +270,10 @@
      "ans": 1,
      "exp": "Behavioral = learned through the environment.",
      "why": [
+      "Cognitive is about irrational thoughts.",
       "",
-      "",
-      "",
-      ""
+      "\"Evolutionary explanation\" means: Behaviors and mental processes that reduce our chance of survival.",
+      "Psychodynamic is about unconscious conflicts."
      ]
     },
     {
@@ -291,9 +291,9 @@
      "exp": "Psychodynamic = unconscious thoughts and childhood experiences.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "\"Humanistic explanation\" means: A lack of social support and being unable to reach our full potential.",
+      "Behavioral is about learning and reinforcement.",
+      "Biological is about brain chemistry and genes."
      ]
     },
     {
@@ -310,10 +310,10 @@
      "ans": 1,
      "exp": "Humanistic = potential and support.",
      "why": [
+      "Cognitive is about irrational thoughts.",
       "",
-      "",
-      "",
-      ""
+      "\"Sociocultural explanation\" means: Social and cultural relationships and dynamics.",
+      "\"Evolutionary explanation\" means: Behaviors and mental processes that reduce our chance of survival."
      ]
     }
    ]
@@ -339,10 +339,10 @@
      "ans": 2,
      "exp": "That's the slide's definition; GAD, panic disorder, and phobias are examples.",
      "why": [
+      "Brief, normal nervousness isn't a disorder.",
+      "That's bipolar disorder.",
       "",
-      "",
-      "",
-      ""
+      "That's dissociation."
      ]
     },
     {
@@ -359,10 +359,10 @@
      "ans": 1,
      "exp": "Specific phobias are tied to a particular object or situation.",
      "why": [
+      "That's generalized anxiety disorder.",
       "",
-      "",
-      "",
-      ""
+      "That's panic disorder.",
+      "That's social anxiety disorder."
      ]
     },
     {
@@ -379,10 +379,10 @@
      "ans": 1,
      "exp": "GAD worry isn't tied to one specific thing.",
      "why": [
+      "\"Specific phobia\" means: Intense or irrational fear or anxiety that is out of proportion to the actual threat and may result in a panic attack. It interferes with activities of daily living.",
       "",
-      "",
-      "",
-      ""
+      "\"Panic disorder\" means: An anxiety disorder where you regularly have sudden attacks of panic or fear. Everyone feels anxiety and panic sometimes, but someone with panic disorder feels anxiety, stress, and panic regularly and at any time, often for no apparent reason.",
+      "\"Agoraphobia\" means: Marked anxiety about using public transportation, being in open spaces, being in enclosed places, being in a crowd, and/or being outside of the home alone."
      ]
     },
     {
@@ -399,10 +399,10 @@
      "ans": 2,
      "exp": "Panic disorder: panic attacks plus anxiety about having panic attacks.",
      "why": [
+      "That's a specific phobia.",
+      "That's generalized anxiety.",
       "",
-      "",
-      "",
-      ""
+      "That fits social anxiety."
      ]
     },
     {
@@ -420,9 +420,9 @@
      "exp": "Sweating, tremors, and rapid heartbeat are physical; staying home is behavioral.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "Those are physical symptoms.",
+      "That's a behavioral symptom.",
+      "That's a physical symptom."
      ]
     },
     {
@@ -440,9 +440,9 @@
      "exp": "Behavioral causes include modeling anxiety responses from others.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "Biological causes are genes and brain chemistry.",
+      "\"Genetic cause of anxiety disorders\" means: A genetic predisposition.",
+      "Cognitive causes are distorted thoughts."
      ]
     },
     {
@@ -459,9 +459,9 @@
      "ans": 3,
      "exp": "Biological cause: imbalances in serotonin and GABA, plus hormonal imbalances.",
      "why": [
-      "",
-      "",
-      "",
+      "Not the pair your slides link to anxiety.",
+      "Not linked to anxiety on your slides.",
+      "Those are hormones for sleep and hunger.",
       ""
      ]
     }
@@ -488,10 +488,10 @@
      "ans": 2,
      "exp": "Depression is a mental health condition, not just a temporary mood swing.",
      "why": [
+      "Depression isn't just a temporary mood.",
+      "That's bipolar disorder.",
       "",
-      "",
-      "",
-      ""
+      "That's social anxiety disorder."
      ]
     },
     {
@@ -508,9 +508,9 @@
      "ans": 3,
      "exp": "MDD = 2 weeks. Persistent = 2 years.",
      "why": [
-      "",
-      "",
-      "",
+      "Reversed.",
+      "Neither is 6 months.",
+      "Both have one.",
       ""
      ]
     },
@@ -528,10 +528,10 @@
      "ans": 1,
      "exp": "Your slide: changes in sleep (insomnia or hypersomnia).",
      "why": [
+      "Sleepwalking isn't the symptom listed.",
       "",
-      "",
-      "",
-      ""
+      "Narcolepsy is a separate sleep disorder.",
+      "Sleep changes are a symptom."
      ]
     },
     {
@@ -548,10 +548,10 @@
      "ans": 2,
      "exp": "Persistent depressive disorder requires no manic episodes.",
      "why": [
+      "That isn't the reason.",
+      "Mania happens at any age.",
       "",
-      "",
-      "",
-      ""
+      "\"Persistent depressive disorder\" means: Symptoms of depression present for most of the day on most days for two years or more. No manic episodes (then it would most likely be bipolar disorder), and not due to drug use."
      ]
     },
     {
@@ -569,9 +569,9 @@
      "exp": "The other three are depressive-episode symptoms.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "That's a depressive symptom.",
+      "That's a depressive symptom.",
+      "That's a depressive symptom."
      ]
     },
     {
@@ -589,9 +589,9 @@
      "exp": "Bipolar II is less severe but more common.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "Bipolar II is less severe.",
+      "Bipolar I can include depressive episodes.",
+      "Psychosis goes with Bipolar I."
      ]
     },
     {
@@ -608,9 +608,9 @@
      "ans": 3,
      "exp": "Both slides list imbalances in serotonin, dopamine, and norepinephrine.",
      "why": [
-      "",
-      "",
-      "",
+      "Not the list on your slides.",
+      "Not the list on your slides.",
+      "Those are hormones.",
       ""
      ]
     },
@@ -628,10 +628,10 @@
      "ans": 1,
      "exp": "Your slide: family histories and twin studies indicate a genetic component.",
      "why": [
+      "The studies point to genes too.",
       "",
-      "",
-      "",
-      ""
+      "They show it does.",
+      "Twin studies show shared risk."
      ]
     }
    ]
@@ -657,10 +657,10 @@
      "ans": 1,
      "exp": "They involve social, intellectual, academic, or interpersonal functioning.",
      "why": [
+      "They appear in early childhood.",
       "",
-      "",
-      "",
-      ""
+      "That's closer to dissociative or trauma disorders.",
+      "That's schizophrenia."
      ]
     },
     {
@@ -677,9 +677,9 @@
      "ans": 3,
      "exp": "That pattern must interfere with functioning or development.",
      "why": [
-      "",
-      "",
-      "",
+      "That's bipolar disorder.",
+      "\"Obsessions\" means: Recurrent and persistent thoughts that are intrusive.",
+      "\"Delusions\" means: False beliefs. Can be delusions of grandeur (importance) or delusions of persecution (paranoia).",
       ""
      ]
     },
@@ -697,10 +697,10 @@
      "ans": 2,
      "exp": "Talking excessively and running are hyperactivity; blurting out is impulsivity.",
      "why": [
+      "That's hyperactivity.",
+      "That's impulsivity.",
       "",
-      "",
-      "",
-      ""
+      "That's hyperactivity."
      ]
     },
     {
@@ -717,10 +717,10 @@
      "ans": 2,
      "exp": "Before 12, in 2+ settings, for 6+ months.",
      "why": [
+      "It must be in two or more settings.",
+      "Symptoms must appear before age 12.",
       "",
-      "",
-      "",
-      ""
+      "It's at least 6 months."
      ]
     },
     {
@@ -738,9 +738,9 @@
      "exp": "Average onset is around age 8; earlier, normal kid behavior looks similar.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "Symptoms must appear before 12, so it can.",
+      "They often do, which is the problem.",
+      "Not the reason on your slides."
      ]
     },
     {
@@ -758,9 +758,9 @@
      "exp": "Your slide: symptoms range from mild to severe.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "Spectrum refers to range of severity.",
+      "Not true, and not the meaning.",
+      "Unrelated."
      ]
     },
     {
@@ -777,9 +777,9 @@
      "ans": 3,
      "exp": "Heritability = tends to run in families.",
      "why": [
-      "",
-      "",
-      "",
+      "Teratogens are one environmental cause, not 'always.'",
+      "Heritability says nothing about a cure.",
+      "Heritability is about genes, not trauma.",
       ""
      ]
     },
@@ -797,10 +797,10 @@
      "ans": 1,
      "exp": "About 1 in 31 children aged 8; over 3 times more common in boys.",
      "why": [
+      "It's over 3 times more common in boys.",
       "",
-      "",
-      "",
-      ""
+      "It's more common in boys.",
+      "It appears in childhood."
      ]
     }
    ]
@@ -827,9 +827,9 @@
      "exp": "They involve escaping from reality in unhealthy ways.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "That's a hallucination (schizophrenia).",
+      "That's bipolar disorder.",
+      "That's agoraphobia."
      ]
     },
     {
@@ -847,9 +847,9 @@
      "exp": "Dissociative amnesia = inability to recall important personal information.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "That's schizophrenia.",
+      "That fits mania or narcissism.",
+      "That's a compulsion (OCD)."
      ]
     },
     {
@@ -866,9 +866,9 @@
      "ans": 3,
      "exp": "Each alter has its own identity, memories, behaviors, and perspectives.",
      "why": [
-      "",
-      "",
-      "",
+      "\"Obsessions\" means: Recurrent and persistent thoughts that are intrusive.",
+      "\"Delusions\" means: False beliefs. Can be delusions of grandeur (importance) or delusions of persecution (paranoia).",
+      "A diathesis is a predisposition (diathesis-stress model).",
       ""
      ]
     },
@@ -886,10 +886,10 @@
      "ans": 1,
      "exp": "Fugue: wandering or traveling without awareness of identity or situation.",
      "why": [
+      "That points to depression.",
       "",
-      "",
-      "",
-      ""
+      "That's a specific phobia.",
+      "That points to inattention."
      ]
     },
     {
@@ -906,10 +906,10 @@
      "ans": 2,
      "exp": "\"Split personality\" is DID, not schizophrenia.",
      "why": [
+      "\"Split personality\" is DID, not schizophrenia.",
+      "\"Schizophrenia\" means: A type of psychosis. The DSM-5 placed it on a spectrum of psychotic disorders because people experience its symptoms in a variety of ways. To be diagnosed, the patient must have at least 2 symptoms (positive and negative) for at least 6 months.",
       "",
-      "",
-      "",
-      ""
+      "Excess dopamine is linked to schizophrenia; DID is linked to trauma."
      ]
     }
    ]
@@ -936,9 +936,9 @@
      "exp": "Your slide: at least 2 symptoms (positive and negative) for at least 6 months.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "It takes at least 2 symptoms for 6 months.",
+      "It takes at least 2 symptoms for 6 months.",
+      "That's an ADHD rule."
      ]
     },
     {
@@ -955,10 +955,10 @@
      "ans": 1,
      "exp": "It's a spectrum of psychotic disorders.",
      "why": [
+      "It has many symptoms.",
       "",
-      "",
-      "",
-      ""
+      "They're different disorders.",
+      "A spectrum means it varies."
      ]
     },
     {
@@ -975,9 +975,9 @@
      "ans": 3,
      "exp": "Positive = added. The others are negative (absent).",
      "why": [
-      "",
-      "",
-      "",
+      "\"Flat affect\" means: A lack of emotional expression. A negative symptom.",
+      "\"Catatonic stupor\" means: No movement. A negative symptom.",
+      "That's a negative symptom (something missing).",
       ""
      ]
     },
@@ -996,9 +996,9 @@
      "exp": "Stringing words together in an unusual way = word salad.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "\"Delusions\" means: False beliefs. Can be delusions of grandeur (importance) or delusions of persecution (paranoia).",
+      "\"Flat affect\" means: A lack of emotional expression. A negative symptom.",
+      "\"Hallucinations\" means: False perceptions: seeing, hearing, smelling, tasting, or feeling things that are not real."
      ]
     },
     {
@@ -1015,10 +1015,10 @@
      "ans": 1,
      "exp": "Grandeur = false belief of importance.",
      "why": [
+      "Persecution is believing others are out to get you.",
       "",
-      "",
-      "",
-      ""
+      "\"Hallucinations\" means: False perceptions: seeing, hearing, smelling, tasting, or feeling things that are not real.",
+      "\"Negative symptoms\" means: Symptoms that indicate something absent: lack of emotional expression (flat affect), no movement (catatonic stupor), and lack of interest and motivation."
      ]
     },
     {
@@ -1035,10 +1035,10 @@
      "ans": 2,
      "exp": "This is also why antipsychotics block dopamine receptors.",
      "why": [
+      "It's too much dopamine.",
+      "Not the dopamine hypothesis.",
       "",
-      "",
-      "",
-      ""
+      "Not the dopamine hypothesis."
      ]
     },
     {
@@ -1055,10 +1055,10 @@
      "ans": 2,
      "exp": "Also genetics and imbalances in dopamine and glutamate.",
      "why": [
+      "Not on your slides.",
+      "That's a phobia.",
       "",
-      "",
-      "",
-      ""
+      "Not on your slides."
      ]
     },
     {
@@ -1075,9 +1075,9 @@
      "ans": 3,
      "exp": "Diathesis = predisposition; stress = the trigger.",
      "why": [
-      "",
-      "",
-      "",
+      "The model needs both a predisposition and stress.",
+      "The model needs a predisposition too.",
+      "Not the model's claim.",
       ""
      ]
     }
@@ -1104,9 +1104,9 @@
      "ans": 3,
      "exp": "Obsessions = thoughts; compulsions = actions.",
      "why": [
-      "",
-      "",
-      "",
+      "Those are compulsions.",
+      "Those are hallucinations.",
+      "That's bipolar disorder.",
       ""
      ]
     },
@@ -1124,10 +1124,10 @@
      "ans": 2,
      "exp": "The relief reinforces the compulsion, and the cycle repeats.",
      "why": [
+      "\"Compulsions\" means: Repetitive behaviors or mental acts the individual feels driven to perform.",
+      "The obsession comes first and the relief comes last.",
       "",
-      "",
-      "",
-      ""
+      "\"Distress\" means: Debilitating stress, or \"bad\" stress, which has a negative impact. Includes ACEs, catastrophes, significant life changes, and daily hassles."
      ]
     },
     {
@@ -1145,9 +1145,9 @@
      "exp": "This showed they are distinct from anxiety disorders.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "OCD is still in the DSM.",
+      "OCPD is a separate personality disorder.",
+      "No."
      ]
     },
     {
@@ -1164,10 +1164,10 @@
      "ans": 2,
      "exp": "Your slide: low serotonin plus imbalances in GABA and glutamate.",
      "why": [
+      "\"Dopamine hypothesis\" means: The theory that an imbalance of dopamine in the brain can contribute to schizophrenia. It suggests the positive symptoms (delusions, hallucinations) are caused by an overproduction of dopamine.",
+      "Endorphins relieve pain.",
       "",
-      "",
-      "",
-      ""
+      "Melatonin is a sleep hormone."
      ]
     },
     {
@@ -1184,10 +1184,10 @@
      "ans": 1,
      "exp": "Plus distress at discarding and clutter that compromises living areas.",
      "why": [
+      "That fits OCD contamination obsessions.",
       "",
-      "",
-      "",
-      ""
+      "That's a hallucination.",
+      "\"Binge eating episode\" means: Both: eating, within any 2-hour period, an amount of food definitely larger than most people would eat in a similar time and situation, and feeling you can't stop eating or control what or how much you eat."
      ]
     },
     {
@@ -1205,9 +1205,9 @@
      "exp": "All three result from exposure to a traumatic or stressful event.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "All three follow a traumatic or stressful event.",
+      "Your slides separate them by duration.",
+      "All can affect adults."
      ]
     },
     {
@@ -1224,10 +1224,10 @@
      "ans": 1,
      "exp": "Also intrusive thoughts, nightmares, flashbacks, anxiety, depression, and sleep problems.",
      "why": [
+      "That fits mania or narcissism.",
       "",
-      "",
-      "",
-      ""
+      "\"Word salad\" means: Words strung together in a jumbled, unusual way. A sign of disorganized speech.",
+      "That's dissociative amnesia."
      ]
     }
    ]
@@ -1253,9 +1253,9 @@
      "ans": 3,
      "exp": "Anorexia also includes refusing to maintain a minimally normal weight.",
      "why": [
-      "",
-      "",
-      "",
+      "That's bingeing (bulimia or binge eating disorder).",
+      "That's schizophrenia.",
+      "That's agoraphobia.",
       ""
      ]
     },
@@ -1273,10 +1273,10 @@
      "ans": 1,
      "exp": "Binge + trying to prevent weight gain.",
      "why": [
+      "That's anorexia.",
       "",
-      "",
-      "",
-      ""
+      "That's pica.",
+      "That's ARFID."
      ]
     },
     {
@@ -1294,9 +1294,9 @@
      "exp": "Your slide: bulimia can be hard to spot because of private bingeing and purging.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "People with bulimia are often a normal weight.",
+      "It has symptoms; they're hidden.",
+      "It isn't limited to children."
      ]
     },
     {
@@ -1313,10 +1313,10 @@
      "ans": 2,
      "exp": "Family history is genetic; brain chemistry is biological; bullying is social.",
      "why": [
+      "That's a genetic cause.",
+      "That's a biological cause.",
       "",
-      "",
-      "",
-      ""
+      "That's a social cause."
      ]
     },
     {
@@ -1334,9 +1334,9 @@
      "exp": "They're also linked with depression, anxiety, self-harm, and suicidal thoughts.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "Eating disorders harm health.",
+      "They're linked with more depression.",
+      "They damage nutrition."
      ]
     }
    ]
@@ -1362,10 +1362,10 @@
      "ans": 1,
      "exp": "They're stable over time and must interfere with daily living.",
      "why": [
+      "Personality disorders are enduring.",
       "",
-      "",
-      "",
-      ""
+      "They begin in adolescence or early adulthood.",
+      "They have several causes."
      ]
     },
     {
@@ -1382,9 +1382,9 @@
      "ans": 3,
      "exp": "Cluster B: antisocial, histrionic, narcissistic, borderline.",
      "why": [
-      "",
-      "",
-      "",
+      "\"Cluster A\" means: Odd or eccentric: paranoid, schizoid, and schizotypal personality disorders.",
+      "\"Cluster C\" means: Anxious or fearful: avoidant, dependent, and obsessive-compulsive personality disorders.",
+      "There are only clusters A, B and C.",
       ""
      ]
     },
@@ -1402,10 +1402,10 @@
      "ans": 1,
      "exp": "Cluster C: avoidant, dependent, obsessive-compulsive.",
      "why": [
+      "\"Schizoid personality disorder\" means: Lack of interest in social relationships and very little emotion; indifferent to criticism or praise; lacks social skills and understanding of social norms.",
       "",
-      "",
-      "",
-      ""
+      "\"Narcissistic personality disorder\" means: Exaggerated sense of self-importance; need for excessive admiration; preoccupation with power, success, or beauty; sense of entitlement; exploits others; lack of empathy, arrogant; doesn't recognize others' feelings; sensitive to criticism.",
+      "\"Antisocial personality disorder\" means: A persistent pattern of disregard for and violation of the rights and well-being of others; lack of empathy, remorse, and responsibility. Your chart: may account for half of the prison population in some countries."
      ]
     },
     {
@@ -1422,10 +1422,10 @@
      "ans": 2,
      "exp": "Histrionic = excessive emotionality and attention-seeking.",
      "why": [
+      "\"Avoidant personality disorder\" means: Extreme shyness and social anxiety; fear of rejection and criticism; feelings of inadequacy and inferiority; avoiding social situations, relationships, and activities; difficulty expressing emotions and forming intimate relationships; low self-esteem.",
+      "\"Schizoid personality disorder\" means: Lack of interest in social relationships and very little emotion; indifferent to criticism or praise; lacks social skills and understanding of social norms.",
       "",
-      "",
-      "",
-      ""
+      "OCPD is about perfectionism and control, not attention."
      ]
     },
     {
@@ -1443,9 +1443,9 @@
      "exp": "Schizoid people lack interest in relationships; avoidant people fear rejection.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "\"Schizoid personality disorder\" means: Lack of interest in social relationships and very little emotion; indifferent to criticism or praise; lacks social skills and understanding of social norms.",
+      "\"Narcissistic personality disorder\" means: Exaggerated sense of self-importance; need for excessive admiration; preoccupation with power, success, or beauty; sense of entitlement; exploits others; lack of empathy, arrogant; doesn't recognize others' feelings; sensitive to criticism.",
+      "\"Paranoid personality disorder\" means: Irrational fear and distrust of others; interprets others' motives as malevolent (bad intent). No psychosis and no loss of touch with reality."
      ]
     },
     {
@@ -1463,9 +1463,9 @@
      "exp": "DBT was originally developed to treat borderline personality disorder.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "\"Histrionic personality disorder\" means: A pervasive pattern of excessive emotionality and attention-seeking; dramatic and theatrical displays to gain attention and validation; need for reassurance and approval.",
+      "\"Dependent personality disorder\" means: Difficulty making everyday decisions without reassurance; excessive need for advice and guidance; fear of separation and abandonment; submissive and clingy; difficulty disagreeing or asserting oneself; feeling helpless and incompetent.",
+      "\"Schizotypal personality disorder\" means: Odd and eccentric behavior, thinking, and appearance; magical thinking (superstitious, paranormal experiences); social anxiety, suspicion, paranoia."
      ]
     },
     {
@@ -1482,9 +1482,9 @@
      "ans": 3,
      "exp": "Schizotypal: odd behavior and appearance, magical thinking.",
      "why": [
-      "",
-      "",
-      "",
+      "\"Schizoid personality disorder\" means: Lack of interest in social relationships and very little emotion; indifferent to criticism or praise; lacks social skills and understanding of social norms.",
+      "\"Dependent personality disorder\" means: Difficulty making everyday decisions without reassurance; excessive need for advice and guidance; fear of separation and abandonment; submissive and clingy; difficulty disagreeing or asserting oneself; feeling helpless and incompetent.",
+      "\"Antisocial personality disorder\" means: A persistent pattern of disregard for and violation of the rights and well-being of others; lack of empathy, remorse, and responsibility. Your chart: may account for half of the prison population in some countries.",
       ""
      ]
     },
@@ -1502,10 +1502,10 @@
      "ans": 2,
      "exp": "OCPD: perfectionism, rigidity, control, can't delegate.",
      "why": [
+      "\"Paranoid personality disorder\" means: Irrational fear and distrust of others; interprets others' motives as malevolent (bad intent). No psychosis and no loss of touch with reality.",
+      "\"Histrionic personality disorder\" means: A pervasive pattern of excessive emotionality and attention-seeking; dramatic and theatrical displays to gain attention and validation; need for reassurance and approval.",
       "",
-      "",
-      "",
-      ""
+      "\"Avoidant personality disorder\" means: Extreme shyness and social anxiety; fear of rejection and criticism; feelings of inadequacy and inferiority; avoiding social situations, relationships, and activities; difficulty expressing emotions and forming intimate relationships; low self-esteem."
      ]
     },
     {
@@ -1523,9 +1523,9 @@
      "exp": "Brain differences are biological; parenting styles are cultural; predisposition is genetic.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "That's a biological cause.",
+      "That's a cultural cause.",
+      "That's a genetic cause."
      ]
     }
    ]
@@ -1551,9 +1551,9 @@
      "ans": 3,
      "exp": "New medications made outpatient treatment possible.",
      "why": [
-      "",
-      "",
-      "",
+      "That's an earlier treatment, not deinstitutionalization.",
+      "It's the reverse: closing asylums.",
+      "New medications made it possible.",
       ""
      ]
     },
@@ -1572,9 +1572,9 @@
      "exp": "Most psychotherapy is done by clinical psychologists and psychotherapists, who can't prescribe.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "Most therapists can't prescribe.",
+      "Clinical psychologists generally can't prescribe.",
+      "Counselors can't prescribe."
      ]
     },
     {
@@ -1591,10 +1591,10 @@
      "ans": 1,
      "exp": "Eclectic = combining methods from different approaches.",
      "why": [
+      "\"Free association\" means: A way to explore the unconscious: the person relaxes and says whatever comes to mind, no matter how trivial or embarrassing, while the psychologist sits out of the patient's line of vision. The therapist interprets, or helps the patient interpret, the missing pieces.",
       "",
-      "",
-      "",
-      ""
+      "\"Deinstitutionalization\" means: The late 20th-century movement to close asylums. With new medications, patients could be treated with a combination of medication and therapy on an outpatient basis.",
+      "\"Token economy\" means: An operant conditioning procedure that rewards a desired behavior: the patient earns tokens for the desired behavior and exchanges them for privileges or treats (5 gold stars = treasure box)."
      ]
     },
     {
@@ -1611,10 +1611,10 @@
      "ans": 1,
      "exp": "Your slide: they treat symptoms by interacting with neurotransmitters.",
      "why": [
+      "They treat symptoms, not causes.",
       "",
-      "",
-      "",
-      ""
+      "They're often combined with therapy.",
+      "They act on neurotransmitters."
      ]
     },
     {
@@ -1631,10 +1631,10 @@
      "ans": 2,
      "exp": "They're benzodiazepines that depress the CNS.",
      "why": [
+      "That's antipsychotics.",
+      "That's SSRIs.",
       "",
-      "",
-      "",
-      ""
+      "That's a mood stabilizer for bipolar disorder."
      ]
     },
     {
@@ -1651,9 +1651,9 @@
      "ans": 3,
      "exp": "Tardive dyskinesia is a medication-induced movement disorder.",
      "why": [
-      "",
-      "",
-      "",
+      "\"Catatonic stupor\" means: No movement. A negative symptom.",
+      "Tolerance is needing more of a drug for the same effect.",
+      "Hypomania is a milder manic state.",
       ""
      ]
     },
@@ -1671,10 +1671,10 @@
      "ans": 2,
      "exp": "ECT causes a seizure and can cause memory loss.",
      "why": [
+      "\"Electroconvulsive therapy (ECT)\" means: Electrodes on one or both sides of the head pass an electric current (up to 100 volts), causing a seizure for 30–60 seconds. Used for extreme depression; reduces the risk of suicide. Drawbacks: memory loss, 40% relapse into depression within 6 months, and no one knows why it works.",
+      "\"Lobotomy\" means: A psychosurgery that cuts the main neural connections leading to the frontal lobe. Rarely used today. It may calm behavior but reduces functioning and awareness and can lead to a vegetative state.",
       "",
-      "",
-      "",
-      ""
+      "Lithium is a medication for bipolar disorder."
      ]
     },
     {
@@ -1691,10 +1691,10 @@
      "ans": 2,
      "exp": "ECT is used for extreme depression and reduces suicide risk, but no one knows why it works.",
      "why": [
+      "That's a lobotomy; ECT isn't surgery.",
+      "It reduces suicide risk.",
       "",
-      "",
-      "",
-      ""
+      "It's used for extreme depression."
      ]
     },
     {
@@ -1712,9 +1712,9 @@
      "exp": "Confidentiality is broken only for danger to self or others.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "Family requests don't override confidentiality.",
+      "That doesn't break confidentiality.",
+      "Curiosity never justifies it."
      ]
     },
     {
@@ -1731,10 +1731,10 @@
      "ans": 1,
      "exp": "Today, meta-analysis shows psychotherapy is effective, especially with medication.",
      "why": [
+      "He concluded the opposite.",
       "",
-      "",
-      "",
-      ""
+      "His study was about psychotherapy.",
+      "\"Group therapy\" means: A therapist works with a small group with similar problems. People see they aren't the only ones, it's cheaper, they can work on coping skills together, and it relieves isolation."
      ]
     },
     {
@@ -1752,9 +1752,9 @@
      "exp": "Justice = equal treatment; integrity = honesty; fidelity = trust and responsibility.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "\"Justice\" means: Treat everyone equally; ensure fairness and equal access for all clients.",
+      "\"Integrity\" means: Honesty, accuracy, and transparency. No lying to the client.",
+      "\"Fidelity and responsibility\" means: Build trust with the client, take responsibility for your actions, and maintain professional responsibility."
      ]
     },
     {
@@ -1772,9 +1772,9 @@
      "exp": "Resistance is a mental block.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "Transference is redirecting feelings about someone else onto the therapist.",
+      "\"Flat affect\" means: A lack of emotional expression. A negative symptom.",
+      "\"Unconditional positive regard\" means: A caring, accepting, nonjudgmental attitude: accepting and valuing the client as a person even if their thoughts, feelings, or behaviors aren't always approved of."
      ]
     },
     {
@@ -1791,9 +1791,9 @@
      "ans": 3,
      "exp": "Freud used it; research shows it doesn't retrieve memories accurately.",
      "why": [
-      "",
-      "",
-      "",
+      "Research shows it doesn't.",
+      "Antipsychotics are.",
+      "Rogers developed person-centered therapy.",
       ""
      ]
     },
@@ -1811,10 +1811,10 @@
      "ans": 1,
      "exp": "A key part of Carl Rogers' person-centered therapy.",
      "why": [
+      "\"Cognitive restructuring\" means: A method for changing how people think: recognizing and challenging pessimistic thoughts (\"I'm never going to make it\") and replacing them with positive ones (\"I can succeed if I try\").",
       "",
-      "",
-      "",
-      ""
+      "\"Aversion therapy\" means: A type of counterconditioning that pairs an unpleasant state with an unwanted behavior. The opposite of systematic desensitization. Most common example: Antabuse for alcoholism.",
+      "\"Socratic questioning\" means: A cognitive restructuring strategy: asking deep questions to challenge your thoughts, like \"What evidence supports my belief?\" or \"How might another person view this differently?\""
      ]
     },
     {
@@ -1831,9 +1831,9 @@
      "ans": 3,
      "exp": "\"I'm worthless,\" \"No one cares,\" \"Things will never get better.\"",
      "why": [
-      "",
-      "",
-      "",
+      "The triad is self, world and future.",
+      "The triad is self, world and future.",
+      "The triad is self, world and future.",
       ""
      ]
     },
@@ -1852,9 +1852,9 @@
      "exp": "Fear hierarchy + relaxation = systematic desensitization.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "\"Aversion therapy\" means: A type of counterconditioning that pairs an unpleasant state with an unwanted behavior. The opposite of systematic desensitization. Most common example: Antabuse for alcoholism.",
+      "\"Token economy\" means: An operant conditioning procedure that rewards a desired behavior: the patient earns tokens for the desired behavior and exchanges them for privileges or treats (5 gold stars = treasure box).",
+      "\"Free association\" means: A way to explore the unconscious: the person relaxes and says whatever comes to mind, no matter how trivial or embarrassing, while the psychologist sits out of the patient's line of vision. The therapist interprets, or helps the patient interpret, the missing pieces."
      ]
     },
     {
@@ -1871,10 +1871,10 @@
      "ans": 2,
      "exp": "Aversion therapy pairs an unpleasant state with an unwanted behavior.",
      "why": [
+      "\"Exposure therapy\" means: Exposing people to what they would normally avoid. Your slide links it to Peter and the rabbit.",
+      "\"Biofeedback\" means: Based on conditioning principles: people learn to consciously control physiological responses like heart rate and muscle tension. Sensors monitor the body, the data is fed back to the person, and through practice they learn to influence those responses.",
       "",
-      "",
-      "",
-      ""
+      "\"Person-centered (client-centered) therapy\" means: The most widely used humanistic therapy, developed by Carl Rogers. Non-directive: the therapist offers acceptance, genuineness, and empathy and shows unconditional positive regard so the client can express their true feelings."
      ]
     },
     {
@@ -1891,10 +1891,10 @@
      "ans": 1,
      "exp": "Biofeedback: monitoring, feedback, learning.",
      "why": [
+      "\"Token economy\" means: An operant conditioning procedure that rewards a desired behavior: the patient earns tokens for the desired behavior and exchanges them for privileges or treats (5 gold stars = treasure box).",
       "",
-      "",
-      "",
-      ""
+      "\"Free association\" means: A way to explore the unconscious: the person relaxes and says whatever comes to mind, no matter how trivial or embarrassing, while the psychologist sits out of the patient's line of vision. The therapist interprets, or helps the patient interpret, the missing pieces.",
+      "\"Dream interpretation\" means: Exploring the symbolic meaning of dreams to uncover unconscious material. Dreams are seen as a window into the unconscious, revealing hidden desires, fears, and unresolved conflicts."
      ]
     },
     {
@@ -1911,10 +1911,10 @@
      "ans": 2,
      "exp": "Its skills: mindfulness, distress tolerance, emotion regulation, interpersonal effectiveness.",
      "why": [
+      "\"Schizophrenia\" means: A type of psychosis. The DSM-5 placed it on a spectrum of psychotic disorders because people experience its symptoms in a variety of ways. To be diagnosed, the patient must have at least 2 symptoms (positive and negative) for at least 6 months.",
+      "\"ADHD\" means: Attention deficit hyperactivity disorder: a neurodevelopmental disorder with a persistent pattern of inattention and/or hyperactivity-impulsivity that interferes with functioning or development.",
       "",
-      "",
-      "",
-      ""
+      "\"Hoarding disorder\" means: DSM-5 criteria: (a) persistent difficulty discarding or parting with possessions, regardless of their actual value; (b) this is due to a perceived need to save the items and distress about discarding them; (c) it results in possessions that congest and clutter active living areas, substantially compromising their use."
      ]
     },
     {
@@ -1931,9 +1931,9 @@
      "ans": 3,
      "exp": "Individual therapy is more personalized and flexible but expensive.",
      "why": [
-      "",
-      "",
-      "",
+      "Individual therapy is more personalized.",
+      "Individual therapy is more flexible.",
+      "Too extreme.",
       ""
      ]
     }
@@ -1965,10 +1965,10 @@
      "ans": 1,
      "exp": "Stress → sympathetic nervous system → cortisol → hypertension, headaches, immunosuppression.",
      "why": [
+      "Nothing shuts down permanently.",
       "",
-      "",
-      "",
-      ""
+      "Not the stress response on your slides.",
+      "That's what the parasympathetic system does after stress."
      ]
     },
     {
@@ -1985,10 +1985,10 @@
      "ans": 1,
      "exp": "Eustress = challenging but manageable \"good\" stress. The others are distress.",
      "why": [
+      "That's a daily hassle: distress.",
       "",
-      "",
-      "",
-      ""
+      "That's distress.",
+      "That's a catastrophe: distress."
      ]
     },
     {
@@ -2005,9 +2005,9 @@
      "ans": 3,
      "exp": "Daily hassles are everyday distress.",
      "why": [
-      "",
-      "",
-      "",
+      "\"Catastrophes\" means: Unpredictable, large-scale events, such as natural disasters. A type of distress.",
+      "\"Significant life changes\" means: Distress like divorce or the death of a loved one.",
+      "\"Eustress\" means: Motivating stress, or \"good\" stress: situations that are challenging but manageable and can lead to growth. Your slide lists changes like moving, marriage, and pregnancy.",
       ""
      ]
     },
@@ -2026,9 +2026,9 @@
      "exp": "The 3 Ds.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "Disorders are dysfunctional and distressing, not harmless.",
+      "Not the 3 Ds.",
+      "Not the 3 Ds."
      ]
     },
     {
@@ -2045,9 +2045,9 @@
      "ans": 3,
      "exp": "A disorder needs all 3 Ds, not just being unusual.",
      "why": [
-      "",
-      "",
-      "",
+      "He really believes it; it just isn't harmful.",
+      "Anyone can have a disorder.",
+      "The reason is the missing Ds.",
       ""
      ]
     },
@@ -2065,10 +2065,10 @@
      "ans": 2,
      "exp": "Biological = medical/genetic issues and neurotransmitters/hormones.",
      "why": [
+      "Psychodynamic is about unconscious conflicts.",
+      "\"Humanistic explanation\" means: A lack of social support and being unable to reach our full potential.",
       "",
-      "",
-      "",
-      ""
+      "\"Sociocultural explanation\" means: Social and cultural relationships and dynamics."
      ]
     },
     {
@@ -2085,10 +2085,10 @@
      "ans": 1,
      "exp": "That's the slide's definition; GAD, panic disorder, and phobias are examples.",
      "why": [
+      "Brief, normal nervousness isn't a disorder.",
       "",
-      "",
-      "",
-      ""
+      "That's bipolar disorder.",
+      "That's dissociation."
      ]
     },
     {
@@ -2106,9 +2106,9 @@
      "exp": "Specific phobias are tied to a particular object or situation.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "That's generalized anxiety disorder.",
+      "That's panic disorder.",
+      "That's social anxiety disorder."
      ]
     },
     {
@@ -2125,10 +2125,10 @@
      "ans": 2,
      "exp": "GAD worry isn't tied to one specific thing.",
      "why": [
+      "\"Specific phobia\" means: Intense or irrational fear or anxiety that is out of proportion to the actual threat and may result in a panic attack. It interferes with activities of daily living.",
+      "\"Panic disorder\" means: An anxiety disorder where you regularly have sudden attacks of panic or fear. Everyone feels anxiety and panic sometimes, but someone with panic disorder feels anxiety, stress, and panic regularly and at any time, often for no apparent reason.",
       "",
-      "",
-      "",
-      ""
+      "\"Agoraphobia\" means: Marked anxiety about using public transportation, being in open spaces, being in enclosed places, being in a crowd, and/or being outside of the home alone."
      ]
     },
     {
@@ -2146,9 +2146,9 @@
      "exp": "Depression is a mental health condition, not just a temporary mood swing.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "Depression isn't just a temporary mood.",
+      "That's bipolar disorder.",
+      "That's social anxiety disorder."
      ]
     },
     {
@@ -2166,9 +2166,9 @@
      "exp": "MDD = 2 weeks. Persistent = 2 years.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "Reversed.",
+      "Neither is 6 months.",
+      "Both have one."
      ]
     },
     {
@@ -2185,10 +2185,10 @@
      "ans": 1,
      "exp": "Your slide: changes in sleep (insomnia or hypersomnia).",
      "why": [
+      "Sleepwalking isn't the symptom listed.",
       "",
-      "",
-      "",
-      ""
+      "Narcolepsy is a separate sleep disorder.",
+      "Sleep changes are a symptom."
      ]
     },
     {
@@ -2205,10 +2205,10 @@
      "ans": 2,
      "exp": "They involve social, intellectual, academic, or interpersonal functioning.",
      "why": [
+      "They appear in early childhood.",
+      "That's closer to dissociative or trauma disorders.",
       "",
-      "",
-      "",
-      ""
+      "That's schizophrenia."
      ]
     },
     {
@@ -2225,10 +2225,10 @@
      "ans": 2,
      "exp": "That pattern must interfere with functioning or development.",
      "why": [
+      "That's bipolar disorder.",
+      "\"Obsessions\" means: Recurrent and persistent thoughts that are intrusive.",
       "",
-      "",
-      "",
-      ""
+      "\"Delusions\" means: False beliefs. Can be delusions of grandeur (importance) or delusions of persecution (paranoia)."
      ]
     },
     {
@@ -2245,10 +2245,10 @@
      "ans": 2,
      "exp": "Talking excessively and running are hyperactivity; blurting out is impulsivity.",
      "why": [
+      "That's hyperactivity.",
+      "That's impulsivity.",
       "",
-      "",
-      "",
-      ""
+      "That's hyperactivity."
      ]
     },
     {
@@ -2265,10 +2265,10 @@
      "ans": 1,
      "exp": "They involve escaping from reality in unhealthy ways.",
      "why": [
+      "That's a hallucination (schizophrenia).",
       "",
-      "",
-      "",
-      ""
+      "That's bipolar disorder.",
+      "That's agoraphobia."
      ]
     },
     {
@@ -2286,9 +2286,9 @@
      "exp": "Dissociative amnesia = inability to recall important personal information.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "That's schizophrenia.",
+      "That fits mania or narcissism.",
+      "That's a compulsion (OCD)."
      ]
     },
     {
@@ -2305,10 +2305,10 @@
      "ans": 1,
      "exp": "Each alter has its own identity, memories, behaviors, and perspectives.",
      "why": [
+      "\"Obsessions\" means: Recurrent and persistent thoughts that are intrusive.",
       "",
-      "",
-      "",
-      ""
+      "\"Delusions\" means: False beliefs. Can be delusions of grandeur (importance) or delusions of persecution (paranoia).",
+      "A diathesis is a predisposition (diathesis-stress model)."
      ]
     },
     {
@@ -2325,10 +2325,10 @@
      "ans": 1,
      "exp": "Your slide: at least 2 symptoms (positive and negative) for at least 6 months.",
      "why": [
+      "It takes at least 2 symptoms for 6 months.",
       "",
-      "",
-      "",
-      ""
+      "It takes at least 2 symptoms for 6 months.",
+      "That's an ADHD rule."
      ]
     },
     {
@@ -2345,9 +2345,9 @@
      "ans": 3,
      "exp": "It's a spectrum of psychotic disorders.",
      "why": [
-      "",
-      "",
-      "",
+      "It has many symptoms.",
+      "They're different disorders.",
+      "A spectrum means it varies.",
       ""
      ]
     },
@@ -2366,9 +2366,9 @@
      "exp": "Positive = added. The others are negative (absent).",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "\"Flat affect\" means: A lack of emotional expression. A negative symptom.",
+      "\"Catatonic stupor\" means: No movement. A negative symptom.",
+      "That's a negative symptom (something missing)."
      ]
     },
     {
@@ -2385,9 +2385,9 @@
      "ans": 3,
      "exp": "Obsessions = thoughts; compulsions = actions.",
      "why": [
-      "",
-      "",
-      "",
+      "Those are compulsions.",
+      "Those are hallucinations.",
+      "That's bipolar disorder.",
       ""
      ]
     },
@@ -2405,10 +2405,10 @@
      "ans": 1,
      "exp": "The relief reinforces the compulsion, and the cycle repeats.",
      "why": [
+      "\"Compulsions\" means: Repetitive behaviors or mental acts the individual feels driven to perform.",
       "",
-      "",
-      "",
-      ""
+      "The obsession comes first and the relief comes last.",
+      "\"Distress\" means: Debilitating stress, or \"bad\" stress, which has a negative impact. Includes ACEs, catastrophes, significant life changes, and daily hassles."
      ]
     },
     {
@@ -2425,10 +2425,10 @@
      "ans": 2,
      "exp": "This showed they are distinct from anxiety disorders.",
      "why": [
+      "OCD is still in the DSM.",
+      "OCPD is a separate personality disorder.",
       "",
-      "",
-      "",
-      ""
+      "No."
      ]
     },
     {
@@ -2445,9 +2445,9 @@
      "ans": 3,
      "exp": "Anorexia also includes refusing to maintain a minimally normal weight.",
      "why": [
-      "",
-      "",
-      "",
+      "That's bingeing (bulimia or binge eating disorder).",
+      "That's schizophrenia.",
+      "That's agoraphobia.",
       ""
      ]
     },
@@ -2465,9 +2465,9 @@
      "ans": 3,
      "exp": "Binge + trying to prevent weight gain.",
      "why": [
-      "",
-      "",
-      "",
+      "That's anorexia.",
+      "That's pica.",
+      "That's ARFID.",
       ""
      ]
     },
@@ -2486,9 +2486,9 @@
      "exp": "Your slide: bulimia can be hard to spot because of private bingeing and purging.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "People with bulimia are often a normal weight.",
+      "It has symptoms; they're hidden.",
+      "It isn't limited to children."
      ]
     },
     {
@@ -2505,10 +2505,10 @@
      "ans": 2,
      "exp": "They're stable over time and must interfere with daily living.",
      "why": [
+      "Personality disorders are enduring.",
+      "They begin in adolescence or early adulthood.",
       "",
-      "",
-      "",
-      ""
+      "They have several causes."
      ]
     },
     {
@@ -2525,9 +2525,9 @@
      "ans": 3,
      "exp": "Cluster B: antisocial, histrionic, narcissistic, borderline.",
      "why": [
-      "",
-      "",
-      "",
+      "\"Cluster A\" means: Odd or eccentric: paranoid, schizoid, and schizotypal personality disorders.",
+      "\"Cluster C\" means: Anxious or fearful: avoidant, dependent, and obsessive-compulsive personality disorders.",
+      "There are only clusters A, B and C.",
       ""
      ]
     },
@@ -2546,9 +2546,9 @@
      "exp": "Cluster C: avoidant, dependent, obsessive-compulsive.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "\"Schizoid personality disorder\" means: Lack of interest in social relationships and very little emotion; indifferent to criticism or praise; lacks social skills and understanding of social norms.",
+      "\"Narcissistic personality disorder\" means: Exaggerated sense of self-importance; need for excessive admiration; preoccupation with power, success, or beauty; sense of entitlement; exploits others; lack of empathy, arrogant; doesn't recognize others' feelings; sensitive to criticism.",
+      "\"Antisocial personality disorder\" means: A persistent pattern of disregard for and violation of the rights and well-being of others; lack of empathy, remorse, and responsibility. Your chart: may account for half of the prison population in some countries."
      ]
     }
    ]

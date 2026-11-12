@@ -4,6 +4,8 @@
 //   npm run import -- path/to/page.html
 //
 // Writes, for each unit: cards.md, scenarios.json, practice.json, guide.json, watch.md.
+// Merges our own files if present: whys.json (why each wrong choice is wrong, keyed by question text and choice),
+// intros.json ("Read this first" text per section), cheat.json (cheat sheet). It never writes those or asks.json.
 // Never touches asks.json (our applied questions). At the end it lists cards that have no applied question
 // yet, and applied questions whose card no longer exists, so they can be written or removed.
 // Phineas's content is copied as is. Cards he hides (the named-phobia cards) stay out.
@@ -78,6 +80,12 @@ UNITS.forEach((U, ui) => {
   if (!ours) throw new Error("New unit in Phineas's kit: " + U.id + " (" + U.name + "). Add it to OURS.");
   const dir = root + "content/" + ours.dir + "/";
   mkdirSync(dir, { recursive: true });
+  // Our own overlays (never written by this importer): whys for his wrong choices, section intros, a cheat sheet.
+  const ownJSON = (f, empty) => (existsSync(dir + f) ? JSON.parse(readFileSync(dir + f, "utf8")) : empty);
+  const WHYS = ownJSON("whys.json", {}),
+    INTROS = ownJSON("intros.json", {}),
+    CHEAT = ownJSON("cheat.json", []);
+  const whyFor = (stem, options, ans) => options.map((o, k) => (k === ans ? "" : (WHYS[stem] || {})[o] || ""));
   // Optional decks go last, as in his deck view.
   const decks = U.decks.map((id) => DECKS.find((d) => d.id === id)).sort((a, b) => !!a.opt - !!b.opt);
   const num = {};
@@ -94,7 +102,7 @@ UNITS.forEach((U, ui) => {
     const secs = [];
     rows.forEach((r) => secs.indexOf(r[1]) < 0 && secs.push(r[1]));
     secs.forEach((s) => {
-      md += "## " + s + "\n\n| Term | Definition | Hook |\n|---|---|---|\n";
+      md += "## " + s + "\n\n" + (INTROS[name + "|" + s] || INTROS[s] ? "> " + cell(INTROS[name + "|" + s] || INTROS[s]) + "\n\n" : "") + "| Term | Definition | Hook |\n|---|---|---|\n";
       rows.filter((r) => r[1] === s).forEach((r) => {
         md += "| " + cell(r[2]) + " | " + cell(r[3]) + " | " + cell(r[4]) + " |\n";
         terms.push(r[2]);
@@ -105,13 +113,25 @@ UNITS.forEach((U, ui) => {
   writeFileSync(dir + "cards.md", md);
 
   // scenarios.json (Learn checkpoints and Quiz scenarios)
-  const sq = SCEN.filter((s) => num[s[0]]).map((s, i) => ({ id: "SQ" + (i + 1), deck: num[s[0]], q: s[1], opts: s[2], ans: s[3], exp: s[4] }));
+  const sq = SCEN.filter((s) => num[s[0]]).map((s, i) => {
+    const o = { id: "SQ" + (i + 1), deck: num[s[0]], q: s[1], opts: s[2], ans: s[3], exp: s[4] };
+    const w = whyFor(s[1], s[2], s[3]);
+    if (w.some((x) => x)) o.why = w;
+    return o;
+  });
   writeFileSync(dir + "scenarios.json", JSON.stringify(sq, null, 1) + "\n");
 
   // practice.json: his exam-style questions, one practice set per deck, plus a mock exam drawn evenly across decks.
   const exam = EXAM.filter((e) => num[e[0]]);
   // Phineas lists the right answer first almost every time. Each set gets its right answers spread evenly across
   // the letters, in a fixed random order (same seed every import), with the wrong choices kept in his order.
+  // We reorder his choices, so an explanation that points to a choice by letter or position ("so B is a trap",
+  // "the second option") would point to the wrong one. Those references are replaced with the choice's own text.
+  const ORD = { first: 0, second: 1, third: 2, fourth: 3 };
+  const fixRefs = (exp, opts) =>
+    String(exp || "")
+      .replace(/\b([A-D]) is (a|the) trap\b/g, (m, l, a) => (opts["ABCD".indexOf(l)] ? '"' + opts["ABCD".indexOf(l)] + '" is ' + a + " trap" : m))
+      .replace(/\b[Tt]he (first|second|third|fourth) option\b/g, (m, w) => (opts[ORD[w]] ? '"' + opts[ORD[w]] + '"' : m));
   const toSet = (list, idOf, seed) => {
     const rnd = rng(seed);
     const slots = list.map((_, i) => i % 4);
@@ -124,7 +144,7 @@ UNITS.forEach((U, ui) => {
         wrong = e[2].filter((_, k) => k !== e[3]);
       const at = slots[i] % e[2].length;
       const options = wrong.slice(0, at).concat([right], wrong.slice(at));
-      return { id: idOf(i), type: "mcq", topic: decks.find((d) => d.id === e[0]).name.replace(/^Optional:\s*/, ""), stem: e[1], options, ans: at, exp: e[4], why: options.map(() => "") };
+      return { id: idOf(i), type: "mcq", topic: decks.find((d) => d.id === e[0]).name.replace(/^Optional:\s*/, ""), stem: e[1], options, ans: at, exp: fixRefs(e[4], e[2]), why: whyFor(e[1], options, at) };
     });
   };
   const sections = [];
@@ -166,7 +186,7 @@ UNITS.forEach((U, ui) => {
     const rows = typeof t.rows === "function" ? t.rows() : t.rows;
     tables.push({ title, rows: [t.head].concat(rows) });
   });
-  writeFileSync(dir + "guide.json", JSON.stringify({ flows, tables }, null, 1) + "\n");
+  writeFileSync(dir + "guide.json", JSON.stringify(CHEAT.length ? { flows, tables, cheat: CHEAT } : { flows, tables }, null, 1) + "\n");
 
   // watch.md
   let w = "# Watch out\n\nNotes from Phineas's kit on things that are easy to mix up or where the slides need care. Each starts with the deck it belongs to.\n\n";

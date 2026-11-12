@@ -189,5 +189,157 @@
     ]
    ]
   }
+ ],
+ "cheat": [
+  {
+   "title": "Path of a neural signal",
+   "kind": "list",
+   "items": [
+    "Dendrites → soma → axon (myelin speeds it) → terminal buttons → vesicles release neurotransmitters → synapse.",
+    "All-or-none: reach threshold and fire fully, or don't fire. Then the refractory period."
+   ]
+  },
+  {
+   "title": "Neurotransmitters",
+   "kind": "table",
+   "rows": [
+    [
+     "Chemical",
+     "Job",
+     "Linked problem"
+    ],
+    [
+     "Acetylcholine",
+     "Movement, memory",
+     "Low: Alzheimer's"
+    ],
+    [
+     "Dopamine",
+     "Reward, movement",
+     "Low: Parkinson's; high: schizophrenia"
+    ],
+    [
+     "Serotonin",
+     "Mood",
+     "Low: depression (SSRIs help)"
+    ],
+    [
+     "GABA",
+     "Main inhibitor (brake)",
+     "Low: anxiety"
+    ],
+    [
+     "Glutamate",
+     "Main excitatory",
+     "Too much: anxiety, OCD, migraines"
+    ],
+    [
+     "Endorphins",
+     "Natural painkiller",
+     "Opioids mimic them"
+    ]
+   ]
+  },
+  {
+   "title": "Nervous system map",
+   "kind": "list",
+   "items": [
+    "CNS = brain + spinal cord. PNS = everything else.",
+    "PNS → somatic (voluntary) and autonomic (automatic).",
+    "Autonomic → sympathetic (fight or flight) and parasympathetic (rest and digest).",
+    "Afferent = arrive (sensory). Efferent = exit (motor). Interneurons connect them."
+   ]
+  },
+  {
+   "title": "Brain parts",
+   "kind": "table",
+   "rows": [
+    [
+     "Part",
+     "Job"
+    ],
+    [
+     "Medulla",
+     "Breathing, heartbeat"
+    ],
+    [
+     "Thalamus",
+     "Relays senses (not smell)"
+    ],
+    [
+     "Cerebellum",
+     "Balance, coordination"
+    ],
+    [
+     "Amygdala",
+     "Fear, emotion"
+    ],
+    [
+     "Hippocampus",
+     "Forming memories"
+    ],
+    [
+     "Hypothalamus",
+     "Hunger, thirst (LH on, VMH off)"
+    ],
+    [
+     "Frontal lobe",
+     "Planning, movement, Broca's (speech)"
+    ],
+    [
+     "Parietal lobe",
+     "Touch"
+    ],
+    [
+     "Temporal lobe",
+     "Hearing, Wernicke's (understanding)"
+    ],
+    [
+     "Occipital lobe",
+     "Vision"
+    ]
+   ]
+  },
+  {
+   "title": "Senses quick rules",
+   "kind": "list",
+   "items": [
+    "Rods = dim light, no color. Cones = color.",
+    "Trichromatic → color blindness. Opponent-process → afterimages.",
+    "Amplitude = loudness. Frequency = pitch.",
+    "Conduction loss (eardrum, ossicles) is often fixable; sensorineural (cochlea) → cochlear implant."
+   ]
+  },
+  {
+   "title": "Drug categories",
+   "kind": "table",
+   "rows": [
+    [
+     "Category",
+     "Examples",
+     "How"
+    ],
+    [
+     "Depressants",
+     "Alcohol, benzodiazepines",
+     "Slow neural activity (boost GABA)"
+    ],
+    [
+     "Stimulants",
+     "Caffeine, nicotine, cocaine, amphetamines",
+     "Speed up; cocaine blocks dopamine reuptake"
+    ],
+    [
+     "Hallucinogens",
+     "LSD, THC, ecstasy",
+     "Distort perception"
+    ],
+    [
+     "Opioids",
+     "Heroin, morphine, codeine",
+     "Endorphin agonists"
+    ]
+   ]
+  }
  ]
 }

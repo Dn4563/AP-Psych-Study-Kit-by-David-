@@ -10,7 +10,13 @@
    "Experiment"
   ],
   "ans": 0,
-  "exp": "Observing behavior in a natural setting without controlling it is naturalistic observation."
+  "exp": "Observing behavior in a natural setting without controlling it is naturalistic observation.",
+  "why": [
+   "",
+   "\"Case study\" means: A descriptive method that examines one individual or group in depth.",
+   "\"Survey\" means: A descriptive technique used to get the self-reported attitudes and behaviors of a particular group, usually by questioning a representative random sample of the group.",
+   "An experiment manipulates a variable; here nothing is changed."
+  ]
  },
  {
   "id": "SQ2",
@@ -23,7 +29,13 @@
    "Proven cause-and-effect relationship"
   ],
   "ans": 0,
-  "exp": "One goes up while the other goes down: negative. It still doesn't prove absences cause the lower grades."
+  "exp": "One goes up while the other goes down: negative. It still doesn't prove absences cause the lower grades.",
+  "why": [
+   "",
+   "\"Positive correlation\" means: Two variables increase or decrease together. Examples from your slides: as sleep increases, memory increases; as salary decreases, spending also decreases; as hourly pay increases, employee morale increases.",
+   "\"Zero (no) correlation\" means: No relationship between the two variables. On a scatterplot, the dots are scattered with no pattern.",
+   "A correlation can't prove cause and effect."
+  ]
  },
  {
   "id": "SQ3",
@@ -36,7 +48,13 @@
    "The number of participants"
   ],
   "ans": 0,
-  "exp": "The DV is what's measured. Caffeine is the IV (what the researcher changes)."
+  "exp": "The DV is what's measured. Caffeine is the IV (what the researcher changes).",
+  "why": [
+   "",
+   "Caffeine is what the researcher changes: the independent variable.",
+   "That's the control group, not a variable that's measured.",
+   "That's the sample size, not the outcome being measured."
+  ]
  },
  {
   "id": "SQ4",
@@ -49,7 +67,13 @@
    "Confounding variable"
   ],
   "ans": 0,
-  "exp": "The control group doesn't receive the manipulated variable, so it can be compared with the experimental group."
+  "exp": "The control group doesn't receive the manipulated variable, so it can be compared with the experimental group.",
+  "why": [
+   "",
+   "\"Experimental group\" means: Participants who receive the manipulated variable. Example from your slides: the group that takes the antidepressant.",
+   "\"Population\" means: The group that the research is meant to apply to.",
+   "\"Confounding variable\" means: An outside influence that affects the results of the study. Example from your slides: when studying how exercise (IV) affects weight loss (DV), possible confounding variables are diet, amount of sleep, and genetic issues."
+  ]
  },
  {
   "id": "SQ5",
@@ -62,7 +86,13 @@
    "Gambler's fallacy"
   ],
   "ans": 0,
-  "exp": "Changing behavior because you know you're being observed is the Hawthorne effect."
+  "exp": "Changing behavior because you know you're being observed is the Hawthorne effect.",
+  "why": [
+   "",
+   "\"Placebo effect\" means: Experimental results caused by expectations alone. Example: participants act or claim to feel a certain way because they think they received a drug that would cause that reaction.",
+   "\"Barnum effect\" means: Believing that personality descriptions apply specifically to you (more than to other people), even though the description is filled with information that applies to everyone. Example: your horoscope.",
+   "\"Gambler's fallacy\" means: The tendency to overestimate the occurrence of patterns in random data."
+  ]
  },
  {
   "id": "SQ6",
@@ -75,7 +105,13 @@
    "Social desirability bias"
   ],
   "ans": 0,
-  "exp": "Believing after the outcome that you would have foreseen it is hindsight bias."
+  "exp": "Believing after the outcome that you would have foreseen it is hindsight bias.",
+  "why": [
+   "",
+   "\"Overconfidence\" means: The tendency to overestimate your knowledge and/or ability.",
+   "\"Gambler's fallacy\" means: The tendency to overestimate the occurrence of patterns in random data.",
+   "\"Social desirability bias\" means: People giving answers that may be dishonest because they are seeking approval and/or want to highlight their character strengths."
+  ]
  },
  {
   "id": "SQ7",
@@ -88,7 +124,13 @@
    "Replication"
   ],
   "ans": 0,
-  "exp": "Debriefing happens after the study. Informed consent happens before."
+  "exp": "Debriefing happens after the study. Informed consent happens before.",
+  "why": [
+   "",
+   "\"Informed consent\" means: Giving potential participants enough information about the study to let them choose whether or not to participate.",
+   "\"Confidentiality\" means: Participants' information is kept private.",
+   "Replication means repeating a study to see if the results hold."
+  ]
  },
  {
   "id": "SQ8",
@@ -101,7 +143,13 @@
    "Gambler's fallacy"
   ],
   "ans": 0,
-  "exp": "People give dishonest answers to seek approval or look good."
+  "exp": "People give dishonest answers to seek approval or look good.",
+  "why": [
+   "",
+   "\"Hawthorne effect\" means: Participants changing their behavior because they know they are being observed.",
+   "\"Placebo effect\" means: Experimental results caused by expectations alone. Example: participants act or claim to feel a certain way because they think they received a drug that would cause that reaction.",
+   "\"Gambler's fallacy\" means: The tendency to overestimate the occurrence of patterns in random data."
+  ]
  },
  {
   "id": "SQ9",
@@ -114,7 +162,13 @@
    "Psychodynamic"
   ],
   "ans": 0,
-  "exp": "Rewarding a behavior so it gets repeated is the behavioral perspective."
+  "exp": "Rewarding a behavior so it gets repeated is the behavioral perspective.",
+  "why": [
+   "",
+   "\"Cognitive perspective\" means: How our internal thought processes shape our behavior. Emphasizes memory, problem solving, intelligence, and perception.",
+   "\"Humanistic perspective\" means: How humans can achieve their full potential, emphasizing free will, self-efficacy, and self-actualization. Also emphasizes relationships, positivity, and maximizing well-being.",
+   "\"Psychodynamic perspective\" means: Behavior is influenced by your unconscious mind and past experiences, especially those from childhood. Based heavily on the ideas of Freud."
+  ]
  },
  {
   "id": "SQ10",
@@ -127,7 +181,13 @@
    "Evolutionary"
   ],
   "ans": 0,
-  "exp": "Neurotransmitters like dopamine belong to the biological perspective."
+  "exp": "Neurotransmitters like dopamine belong to the biological perspective.",
+  "why": [
+   "",
+   "\"Psychodynamic perspective\" means: Behavior is influenced by your unconscious mind and past experiences, especially those from childhood. Based heavily on the ideas of Freud.",
+   "\"Sociocultural perspective\" means: Humans behave and act differently based on the influences of their culture or way of life.",
+   "\"Evolutionary perspective\" means: Human behavior is a result of evolutionary processes that protect us, give us adaptive behaviors, and help us be more successful at reproducing."
+  ]
  },
  {
   "id": "SQ11",
@@ -140,7 +200,13 @@
    "Biological"
   ],
   "ans": 0,
-  "exp": "Potential, positivity, and relationships are humanistic. Focusing on the past would be psychodynamic."
+  "exp": "Potential, positivity, and relationships are humanistic. Focusing on the past would be psychodynamic.",
+  "why": [
+   "",
+   "\"Psychodynamic perspective\" means: Behavior is influenced by your unconscious mind and past experiences, especially those from childhood. Based heavily on the ideas of Freud.",
+   "\"Behavioral perspective\" means: How our behaviors have been influenced by our learned experiences. We often repeat behaviors that are reinforced by positive rewards.",
+   "\"Biological perspective\" means: The importance of genetics, brain chemistry, hormones, and neurotransmitters (like dopamine and serotonin) in influencing behavior and thinking."
+  ]
  },
  {
   "id": "SQ12",
@@ -153,7 +219,13 @@
    "Evolutionary"
   ],
   "ans": 0,
-  "exp": "Childhood experiences shaping behavior is the psychodynamic perspective."
+  "exp": "Childhood experiences shaping behavior is the psychodynamic perspective.",
+  "why": [
+   "",
+   "\"Humanistic perspective\" means: How humans can achieve their full potential, emphasizing free will, self-efficacy, and self-actualization. Also emphasizes relationships, positivity, and maximizing well-being.",
+   "\"Cognitive perspective\" means: How our internal thought processes shape our behavior. Emphasizes memory, problem solving, intelligence, and perception.",
+   "\"Evolutionary perspective\" means: Human behavior is a result of evolutionary processes that protect us, give us adaptive behaviors, and help us be more successful at reproducing."
+  ]
  },
  {
   "id": "SQ13",
@@ -166,7 +238,13 @@
    "Sociocultural"
   ],
   "ans": 0,
-  "exp": "Survival instincts passed down from ancestors are evolutionary."
+  "exp": "Survival instincts passed down from ancestors are evolutionary.",
+  "why": [
+   "",
+   "\"Behavioral perspective\" means: How our behaviors have been influenced by our learned experiences. We often repeat behaviors that are reinforced by positive rewards.",
+   "\"Biological perspective\" means: The importance of genetics, brain chemistry, hormones, and neurotransmitters (like dopamine and serotonin) in influencing behavior and thinking.",
+   "\"Sociocultural perspective\" means: Humans behave and act differently based on the influences of their culture or way of life."
+  ]
  },
  {
   "id": "SQ14",
@@ -179,7 +257,13 @@
    "Cognitive"
   ],
   "ans": 0,
-  "exp": "Behavior shaped by culture or way of life is sociocultural."
+  "exp": "Behavior shaped by culture or way of life is sociocultural.",
+  "why": [
+   "",
+   "\"Evolutionary perspective\" means: Human behavior is a result of evolutionary processes that protect us, give us adaptive behaviors, and help us be more successful at reproducing.",
+   "\"Humanistic perspective\" means: How humans can achieve their full potential, emphasizing free will, self-efficacy, and self-actualization. Also emphasizes relationships, positivity, and maximizing well-being.",
+   "\"Cognitive perspective\" means: How our internal thought processes shape our behavior. Emphasizes memory, problem solving, intelligence, and perception."
+  ]
  },
  {
   "id": "SQ15",
@@ -192,7 +276,13 @@
    "Psychodynamic"
   ],
   "ans": 0,
-  "exp": "Medication changes brain chemistry, which is the biological perspective."
+  "exp": "Medication changes brain chemistry, which is the biological perspective.",
+  "why": [
+   "",
+   "\"Cognitive perspective\" means: How our internal thought processes shape our behavior. Emphasizes memory, problem solving, intelligence, and perception.",
+   "\"Humanistic perspective\" means: How humans can achieve their full potential, emphasizing free will, self-efficacy, and self-actualization. Also emphasizes relationships, positivity, and maximizing well-being.",
+   "\"Psychodynamic perspective\" means: Behavior is influenced by your unconscious mind and past experiences, especially those from childhood. Based heavily on the ideas of Freud."
+  ]
  },
  {
   "id": "SQ16",
@@ -205,7 +295,13 @@
    "Evolutionary"
   ],
   "ans": 0,
-  "exp": "Changing thought processes is the cognitive perspective."
+  "exp": "Changing thought processes is the cognitive perspective.",
+  "why": [
+   "",
+   "\"Behavioral perspective\" means: How our behaviors have been influenced by our learned experiences. We often repeat behaviors that are reinforced by positive rewards.",
+   "\"Biological perspective\" means: The importance of genetics, brain chemistry, hormones, and neurotransmitters (like dopamine and serotonin) in influencing behavior and thinking.",
+   "\"Evolutionary perspective\" means: Human behavior is a result of evolutionary processes that protect us, give us adaptive behaviors, and help us be more successful at reproducing."
+  ]
  },
  {
   "id": "SQ17",
@@ -218,7 +314,13 @@
    "4"
   ],
   "ans": 0,
-  "exp": "2 + 4 + 6 + 8 + 10 = 30, and 30 ÷ 5 = 6."
+  "exp": "2 + 4 + 6 + 8 + 10 = 30, and 30 ÷ 5 = 6.",
+  "why": [
+   "",
+   "5 is the number of scores, not their average.",
+   "8 is one of the scores; the sum (30) ÷ 5 is 6.",
+   "4 is one of the scores; the sum (30) ÷ 5 is 6."
+  ]
  },
  {
   "id": "SQ18",
@@ -231,7 +333,13 @@
    "3"
   ],
   "ans": 0,
-  "exp": "In order: 1, 3, 5, 7, 9. The middle number is 5."
+  "exp": "In order: 1, 3, 5, 7, 9. The middle number is 5.",
+  "why": [
+   "",
+   "\"The scientific method (7 steps)\" means: 1. Observe some aspect of the universe. 2. Develop a theory. 3. Use the theory to make a hypothesis. 4. Test the predictions with experiments, using operational definitions. 5. Evaluate the results. 6. Modify the theory in light of your findings. 7. Replicate.",
+   "9 is the highest score; put them in order and take the middle one.",
+   "\"3 key principles\" means: 1. Representative samples are better than unrepresentative samples. 2. Bigger samples are better than small ones. 3. More estimates are better than fewer estimates."
+  ]
  },
  {
   "id": "SQ19",
@@ -244,7 +352,13 @@
    "2"
   ],
   "ans": 0,
-  "exp": "7 appears three times, more than any other number."
+  "exp": "7 appears three times, more than any other number.",
+  "why": [
+   "",
+   "4 appears twice; 7 appears three times.",
+   "9 appears only once.",
+   "2 appears only once."
+  ]
  },
  {
   "id": "SQ20",
@@ -257,7 +371,13 @@
    "25"
   ],
   "ans": 0,
-  "exp": "95 − 60 = 35. (80.4 is the mean, a trap.)"
+  "exp": "95 − 60 = 35. (80.4 is the mean, a trap.)",
+  "why": [
+   "",
+   "80.4 is the mean, not the range.",
+   "85 is the median, not the range.",
+   "Range is highest minus lowest: 95 − 60, not 85 − 60."
+  ]
  },
  {
   "id": "SQ21",
@@ -270,7 +390,13 @@
    "Bimodal"
   ],
   "ans": 0,
-  "exp": "The few high scores make a tail to the right: positive skew."
+  "exp": "The few high scores make a tail to the right: positive skew.",
+  "why": [
+   "",
+   "Negative skew has its tail on the left, from a few very low scores.",
+   "\"Symmetrical distribution\" means: No skew: mean = median = mode.",
+   "\"Bimodal curve\" means: A graph with two peaks (\"bi\" means two). Each peak is a local maximum: the highest values compared with the data points right around them."
+  ]
  },
  {
   "id": "SQ22",
@@ -283,7 +409,13 @@
    "There is no mean"
   ],
   "ans": 0,
-  "exp": "The tail goes left (negative skew), and the mean follows the tail."
+  "exp": "The tail goes left (negative skew), and the mean follows the tail.",
+  "why": [
+   "",
+   "The few low scores pull the mean down, not up.",
+   "They're equal only in a symmetrical distribution.",
+   "Every set of numbers has a mean."
+  ]
  },
  {
   "id": "SQ23",
@@ -296,7 +428,13 @@
    "3% of participants improved"
   ],
   "ans": 0,
-  "exp": "p ≤ .05 is statistically significant. A p-value says nothing about how strong the effect is; that's effect size."
+  "exp": "p ≤ .05 is statistically significant. A p-value says nothing about how strong the effect is; that's effect size.",
+  "why": [
+   "",
+   "p ≤ .05 counts as significant, and .03 is below .05.",
+   "A p-value doesn't measure strength; effect size does.",
+   "A p-value isn't a percentage of participants."
+  ]
  },
  {
   "id": "SQ24",
@@ -309,6 +447,12 @@
    "She scored 90 points above the mean"
   ],
   "ans": 0,
-  "exp": "Percentile rank is the percentage of scores below yours."
+  "exp": "Percentile rank is the percentage of scores below yours.",
+  "why": [
+   "",
+   "Percentile compares you with other test takers, not with the number of questions.",
+   "Percentile isn't a count of test takers.",
+   "Percentile isn't a point score."
+  ]
  }
 ]

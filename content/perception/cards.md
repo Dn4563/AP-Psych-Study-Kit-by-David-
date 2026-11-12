@@ -4,6 +4,8 @@
 
 ## Attention
 
+> You can't notice everything, so attention is selective. That's why you can miss a change (change blindness) or an object right in front of you (inattentional blindness), yet still hear your name across a noisy room (cocktail party effect) or spot the one odd item (pop-out).
+
 | Term | Definition | Hook |
 |---|---|---|
 | Selective attention | Focusing your conscious awareness on a particular stimulus and NOT something else. |  |
@@ -17,6 +19,8 @@
 
 ## Top-down vs. bottom-up
 
+> Bottom-up processing starts with the senses sending information up to the brain (sensation). Top-down processing uses knowledge, experience and context to interpret it (perception), as when you read messy handwriting or scrambled words.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Bottom-up processing | Sensory receptors throughout the body register information about the external environment and send it up to the brain for processing. This is sensation. | Bottom-up = from the body up = sensation. |
@@ -25,6 +29,8 @@
 | The handwriting example | Being aware of squiggles like "15" in a messy note is bottom-up (sensation). Knowing what the squiggles mean is top-down (perception). |  |
 
 ## Thresholds
+
+> The absolute threshold is the weakest stimulus you can detect half the time. The difference threshold is the smallest change you notice half the time. Weber's law says that change is a constant percentage, not a constant amount.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -36,6 +42,8 @@
 | Weber's law examples | Add 1 ounce to a 10-ounce weight and you will detect the difference; add 1 ounce to a 100-ounce weight and you likely won't. Weight must change by 2% to notice a difference. |  |
 
 ## Extrasensory perception
+
+> ESP claims include telepathy, clairvoyance and precognition. There is no scientific basis for it; psychics do no better than guesses, and they seem accurate because people remember the hits and forget the misses.
 
 | Term | Definition | Hook |
 |---|---|---|

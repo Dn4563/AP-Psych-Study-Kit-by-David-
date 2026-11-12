@@ -13,7 +13,7 @@ Built with the study kit engine by David Noskow (https://github.com/Dn4563/Study
 | Path | What it is |
 |---|---|
 | `content/course.json` | Course name, colors, Study Hub link, and the list of units |
-| `content/unit-00/`, `unit-01/`, `unit-05/`, `perception/` | One folder per unit: `cards.md`, `scenarios.json`, `practice.json`, `guide.json`, `watch.md` (imported) and `asks.json` (our applied questions) |
+| `content/unit-00/`, `unit-01/`, `unit-05/`, `perception/` | One folder per unit: `cards.md`, `scenarios.json`, `practice.json`, `guide.json`, `watch.md` (imported); `asks.json` (our applied questions), `whys.json` (why each wrong choice is wrong), `intros.json` (section intros) and `cheat.json` (cheat sheet) are ours and survive re-imports |
 | `source/phineas-psych-kit.html` | The copy of Phineas's page the content was imported from |
 | `scripts/import-phineas.mjs` | The importer (`npm run import`) |
 | `scripts/asks-src/` | The applied questions, one file per unit, and `make_asks.py` that checks them and writes `asks.json` |
@@ -22,7 +22,7 @@ Built with the study kit engine by David Noskow (https://github.com/Dn4563/Study
 ## When Phineas updates his kit
 
 1. Save his page as `source/phineas-psych-kit.html`.
-2. `npm run import`. It rewrites the imported files and lists cards that still need an applied question. `asks.json` is never touched.
+2. `npm run import`. It rewrites the imported files and lists cards that still need an applied question. `asks.json`, `whys.json`, `intros.json` and `cheat.json` are never touched. Then run `python3 scripts/asks-src/check_whys.py` to find any wrong choices that lost their why.
 3. Add the missing applied questions to `scripts/asks-src/<unit>.py` and run `python3 scripts/asks-src/make_asks.py <unit>`.
 4. `npm test`.
 

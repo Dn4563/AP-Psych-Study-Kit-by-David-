@@ -4,6 +4,8 @@
 
 ## Parts of a neuron
 
+> A neuron is the nervous system's building block, supported by glial cells. A signal comes in through the dendrites, the soma decides whether to fire, the impulse travels down the axon (sped up by the myelin sheath), and vesicles in the terminal buttons release chemicals across the synapse.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Neuron | A nerve cell; the basic building block of the brain and nervous system. Hundreds of billions form networks throughout the body. |  |
@@ -19,6 +21,8 @@
 
 ## Firing a neuron
 
+> A neuron at resting potential fires only if stimulation reaches threshold, and then the action potential is all-or-none: it fires fully or not at all. Afterward it can't fire during the refractory period, and leftover neurotransmitters are taken back up (reuptake).
+
 | Term | Definition | Hook |
 |---|---|---|
 | Resting potential | The neuron is not firing; its dendrites are waiting to receive neurotransmitters. |  |
@@ -29,6 +33,8 @@
 | Refractory period | The recovery time after firing when the neuron cannot fire again, no matter how many neurotransmitters it receives. | Like a toilet: you have to wait to flush again. |
 
 ## Diseases
+
+> Two diseases disrupt neurons in different ways. Multiple sclerosis breaks down the myelin sheath; myasthenia gravis blocks the muscles' receptors for acetylcholine. Both cause weakness, so the cause is what tells them apart.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -41,6 +47,8 @@
 
 ## Basics
 
+> Neurotransmitters are chemical messengers that cross the synapse. Excitatory ones make the next neuron more likely to fire; inhibitory ones make it less likely.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Neurotransmitter | A chemical messenger released into the synapse that carries a signal from one neuron to the next. |  |
@@ -48,6 +56,8 @@
 | Inhibitory | Describes a neurotransmitter that keeps the next neuron from firing. | Inhibit = Stop. |
 
 ## The chemicals
+
+> Learn each neurotransmitter with its job and what goes wrong. Acetylcholine: movement and memory. Dopamine: reward and movement. Serotonin: mood (SSRIs keep it in the synapse). Norepinephrine: alertness. GABA: the main brake. Glutamate: the main accelerator. Endorphins: natural painkillers. Substance P: pain signals.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -67,6 +77,8 @@
 
 ## Functions & neurons
 
+> The nervous system takes in information, processes it and responds. Sensory (afferent) neurons carry messages in, motor (efferent) neurons carry commands out, and interneurons connect them inside the brain and spinal cord.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Three functions of the nervous system | Sensory input (gather info from the senses), integration (the brain processes it and decides), and motor output (signals go to muscles and glands). |  |
@@ -75,6 +87,8 @@
 | Interneurons | Relay neurons in the brain and spinal cord that connect sensory and motor neurons and pass information between them. | Inter = in between. |
 
 ## Divisions
+
+> The central nervous system is the brain and spinal cord; everything else is the peripheral nervous system. The PNS splits into somatic (voluntary movement) and autonomic (automatic) systems, and the autonomic splits into sympathetic (fight or flight) and parasympathetic (rest and digest). Reflexes run through the spinal cord.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -89,6 +103,8 @@
 | Reflex | A simple, automatic response to a stimulus (like the knee-jerk), directed by the spinal cord instead of the brain, which makes it faster. |  |
 
 ## Endocrine system
+
+> The endocrine system sends hormones through the blood, so it's slower than neurons but its effects last longer. The pituitary is the master gland. Know each hormone's job: adrenaline (emergency energy), ghrelin (hunger), leptin (fullness), testosterone, estrogen, oxytocin (bonding) and melatonin (sleep).
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -109,6 +125,8 @@
 
 ## Old brain
 
+> The old brain keeps you alive and alert. The brainstem includes the medulla (breathing and heartbeat) and the pons (sleep-wake). The reticular formation controls arousal, the thalamus relays the senses (except smell), and the cerebellum coordinates balance and movement.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Brainstem | The medulla plus the pons; handles automatic survival functions. |  |
@@ -120,6 +138,8 @@
 
 ## Limbic system
 
+> The limbic system handles emotion, memory and drives. The amygdala processes fear and emotion, the hippocampus forms memories, and the hypothalamus controls drives like hunger: the lateral hypothalamus turns hunger on and the ventromedial hypothalamus turns it off.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Limbic system | Brain structures involved in emotion and long-term memory: the amygdala, hippocampus, and hypothalamus. |  |
@@ -130,6 +150,8 @@
 | Ventromedial hypothalamus (VMH) | Part of the hypothalamus that signals fullness. Damage → overeating. | Ventromedial = Very full. |
 
 ## Cerebral cortex
+
+> The cortex has four lobes (F-POT). The frontal lobe plans and moves (prefrontal cortex, motor cortex, Broca's area for speech); Phineas Gage's injury showed its role in personality. The parietal lobe handles touch, the temporal lobe hearing and language (Wernicke's area), and the occipital lobe vision.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -150,6 +172,8 @@
 
 ## Hemispheres
 
+> The corpus callosum connects the two hemispheres. Each hemisphere controls the opposite side of the body (contralateral control), and each specializes (lateralization): the left in language, the right in things like tone and context.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Corpus callosum | Large band of neural fibers connecting the left and right hemispheres so they can communicate. |  |
@@ -160,12 +184,16 @@
 
 ## Change & damage
 
+> The brain can reorganize itself after experience or damage (plasticity), most of all in childhood. New neurons grow (neurogenesis) in only a few areas.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Plasticity | The brain's ability to change — reorganizing after damage or building new pathways through experience. Example: in a blind Braille reader, touch takes over parts of the visual cortex. | Plastic = moldable. |
 | Neurogenesis | The formation of new neurons. Only happens in two areas (one for memory, one for smell); usually a destroyed neuron cannot be replaced. |  |
 
 ## Brain scans
+
+> Some scans show structure (CT, MRI) and others show activity (EEG, PET, fMRI). fMRI shows function through blood flow and is more precise than PET.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -180,6 +208,8 @@
 > The path light takes, rods and cones, color theories, Gestalt grouping, and depth cues.
 
 ## The eye
+
+> Light passes the cornea and pupil (sized by the iris), the lens focuses it (accommodation), and it lands on the retina. There rods (dim light, no color) and cones (color, bright light) turn light into neural signals (transduction), which pass through bipolar and ganglion cells to the optic nerve.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -199,6 +229,8 @@
 
 ## In the brain
 
+> The primary visual cortex in the occipital lobe processes what the eyes send. Feature detectors there respond to edges, angles and movement, and the brain handles many parts of a scene at once (parallel processing).
+
 | Term | Definition | Hook |
 |---|---|---|
 | Primary visual cortex | Where visual input is first processed; located in the occipital lobe. |  |
@@ -206,6 +238,8 @@
 | Parallel processing | Processing many aspects of a stimulus (color, motion, form, depth) at the same time, then combining them into one image. |  |
 
 ## Color
+
+> Two theories explain color. Trichromatic theory: red, green and blue cones, which explains color blindness. Opponent-process theory: paired opposites, which explains afterimages. Both are right at different stages.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -217,6 +251,8 @@
 
 ## Gestalt
 
+> Gestalt means the brain organizes parts into a whole. It groups things that are close (proximity) or alike (similarity), fills in gaps (closure), and separates a figure from its background (figure-ground).
+
 | Term | Definition | Hook |
 |---|---|---|
 | Gestalt | An organized whole. Gestalt psychologists said we combine pieces of information into meaningful wholes (you see a face, not a set of lines). |  |
@@ -226,6 +262,8 @@
 | Figure-ground | Organizing what you see into objects (figures) that stand out from their surroundings (ground). |  |
 
 ## Depth
+
+> Depth perception uses binocular cues, which need both eyes (retinal disparity), and monocular cues, which work with one eye: relative size, interposition, linear perspective and relative clarity.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -244,6 +282,8 @@
 
 ## Hearing
 
+> Sound waves have amplitude (loudness) and frequency (pitch). Sound moves through the eardrum and ossicles to the cochlea. Damage to the eardrum or ossicles causes conduction hearing loss, often fixable; damage to the cochlea's hair cells causes sensorineural loss, which a cochlear implant can help.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Audition | The sense of hearing. |  |
@@ -259,12 +299,16 @@
 
 ## Body position
 
+> Two senses track your body. The vestibular sense, in the inner ear, handles balance; kinesthesis tracks the position and movement of your body parts.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Vestibular sense | Senses the head's position and movement (balance) using fluid in the semicircular canals and vestibular sacs. Signals go to the cerebellum. The fluid keeps moving after you stop, which causes dizziness. | Vestibular = balance in the ear. |
 | Kinesthesis | Senses the position and movement of individual body parts using sensors in muscles, tendons, and joints; feeds the cerebellum. | Kinesthesis = kinetic body parts. |
 
 ## Smell & taste
+
+> Smell (olfaction) is the one sense that skips the thalamus and connects straight to emotion and memory areas. Taste (gustation) has five basic tastes. Supertasters feel tastes more intensely, and smell strongly affects taste (sensory interaction).
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -276,6 +320,8 @@
 
 ## Touch & pain
 
+> Touch includes several skin senses. Gate control theory says a 'gate' in the spinal cord can block pain signals or let them through. Phantom limb is feeling sensation in a missing limb.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Touch | A mix of four skin senses: pressure, warmth, cold, and pain. |  |
@@ -283,6 +329,8 @@
 | Phantom limb | Feeling that an amputated limb is still there, because the sensory cortex area for that limb still has activity. |  |
 
 ## Unusual perception
+
+> Two unusual conditions: synesthesia, where one sense triggers another, and prosopagnosia, face blindness.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -295,6 +343,8 @@
 
 ## Sleep & consciousness
 
+> Sleep is an altered state of consciousness, not dormancy: the brain stays active, and everyone dreams every night. Sleep moves through stages in a repeating cycle.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Sleep | An altered state of consciousness. It is not a period of dormancy where your body and brain shut off: even when you are sound asleep, your brain is still active. |  |
@@ -302,6 +352,8 @@
 | Sleep stages | Sleep has four stages: NREM 1 (Stage 1), NREM 2 (Stage 2), NREM 3 (Stage 3), and REM sleep. | Three NREM stages, then REM. |
 
 ## Circadian rhythm
+
+> The circadian rhythm is the body's 24-hour biological clock. Body temperature rises through the day, dips in the afternoon and is lowest at night. Teens and young adults tend to be evening people, older adults morning people, and artificial light can shift the clock.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -313,6 +365,8 @@
 
 ## Effects of sleep loss
 
+> Sleep loss hurts the whole body: weaker focus and memory, a weaker immune system, more hunger (ghrelin up, leptin down) and more fat cells, heart risks, and effects on muscles and joints.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Sleep loss: brain | Diminished attentional focus and memory consolidation, and increased risk of depression. |  |
@@ -322,6 +376,8 @@
 | Sleep loss: muscles and joints | Muscles: reduced strength and slower reaction time and motor learning. Joints: increased inflammation and arthritis. |  |
 
 ## Sleep disorders
+
+> Know each disorder by its key sign: insomnia (trouble sleeping), sleep apnea (breathing stops), night terrors (terror in Stage 3, not remembered), sleepwalking, and narcolepsy (suddenly falling asleep).
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -333,6 +389,8 @@
 
 ## How drugs work
 
+> Psychoactive drugs change how neurons communicate. Agonists mimic a neurotransmitter, antagonists block it, and reuptake inhibitors keep it in the synapse longer. The drugs fall into four categories: depressants, stimulants, hallucinogens and opioids.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Psychoactive drugs | Chemical substances that alter perceptions and mood. They affect the synapses of neurons and the functioning of neurotransmitters. |  |
@@ -343,6 +401,8 @@
 
 ## Depressants
 
+> Depressants slow neural activity. Alcohol boosts GABA and reduces glutamate; it only seems like a stimulant because of how people act. Barbiturates and benzodiazepines are also depressants.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Depressants | Drugs that slow you down by reducing neural activity. Examples: alcohol, barbiturates, sedatives, benzodiazepines. | Depress = press down. |
@@ -351,6 +411,8 @@
 | Benzodiazepines | Valium and Xanax. Anti-anxiety drugs that calm the nervous system. They depress heartbeat and breathing. |  |
 
 ## Stimulants
+
+> Stimulants speed the body up. Caffeine and nicotine are mild; cocaine blocks dopamine reuptake, and amphetamines mimic adrenaline. The strong ones bring a high followed by a crash and cravings.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -362,6 +424,8 @@
 
 ## Hallucinogens
 
+> Hallucinogens distort perception. LSD can cause psychosis-like states; THC causes mild hallucinations, relaxation and time distortion; ecstasy (MDMA) is both a stimulant and a hallucinogen and can damage serotonin neurons.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Hallucinogens | Substances that distort visual and auditory perception. Examples: LSD, marijuana. |  |
@@ -371,6 +435,8 @@
 
 ## Opioids
 
+> Opioids such as heroin act as agonists for endorphins, relieving pain. With continued use the brain makes less of its own dopamine and endorphins, leading to dependence, tolerance and withdrawal.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Opioids | Drugs derived from the opium poppy that lessen pain and anxiety. Examples: heroin, codeine, morphine, methadone, OxyContin, oxycodone. |  |
@@ -378,6 +444,8 @@
 | Results of opioid use | Dependence, tolerance, withdrawal, and physiological and psychological addiction. |  |
 
 ## Addiction
+
+> Substance use doesn't interfere with daily life; substance abuse does. Tolerance means needing more for the same effect, withdrawal is the distress after stopping, and addiction is compulsive use despite harm.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -388,6 +456,8 @@
 | Withdrawal | The discomfort and distress that follow discontinuing an addictive drug. Can be physiological and/or psychological. |  |
 
 ## Substance use disorder
+
+> The DSM-5 lists 11 criteria for substance use disorder, grouped as losing control, life problems, and risk and the body. Severity depends on how many criteria a person meets: mild, moderate or severe.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -403,6 +473,8 @@
 
 ## Split-brain patients
 
+> When the corpus callosum is cut, the hemispheres can't share information. Each visual field goes to the opposite hemisphere (crossing at the optic chiasm). Something shown to the right visual field reaches the left hemisphere, which can name it; something shown to the left visual field reaches the right hemisphere, which can't speak but can point with the left hand.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Split-brain patient | Someone whose corpus callosum has been surgically cut, usually to stop severe seizures from spreading. The two hemispheres can no longer share information. |  |
@@ -413,6 +485,8 @@
 | Object flashed to the left visual field | Reaches only the right hemisphere. The patient says they saw "nothing," but can point to it or draw it with the left hand. | Left field → left hand, no words. |
 
 ## Hemisphere styles
+
+> Split-brain research showed each hemisphere's style: the left focuses on details, words and logic; the right on the big picture, tone and intuition.
 
 | Term | Definition | Hook |
 |---|---|---|

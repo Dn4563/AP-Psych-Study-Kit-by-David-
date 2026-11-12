@@ -1,0 +1,106 @@
+[
+ {
+  "title": "The seven perspectives in one word each",
+  "kind": "table",
+  "rows": [
+   [
+    "Perspective",
+    "Key word"
+   ],
+   [
+    "Psychodynamic",
+    "Unconscious, childhood"
+   ],
+   [
+    "Cognitive",
+    "Thoughts"
+   ],
+   [
+    "Behavioral",
+    "Learning, rewards"
+   ],
+   [
+    "Humanistic",
+    "Potential, free will"
+   ],
+   [
+    "Biological",
+    "Genes, brain chemistry"
+   ],
+   [
+    "Evolutionary",
+    "Survival, reproduction"
+   ],
+   [
+    "Sociocultural",
+    "Culture"
+   ]
+  ]
+ },
+ {
+  "title": "Research methods",
+  "kind": "table",
+  "rows": [
+   [
+    "Method",
+    "Can it show cause?",
+    "Main weakness"
+   ],
+   [
+    "Case study",
+    "No",
+    "May not apply to others"
+   ],
+   [
+    "Naturalistic observation",
+    "No",
+    "People may notice the observer"
+   ],
+   [
+    "Survey",
+    "No",
+    "Self-report and wording problems"
+   ],
+   [
+    "Correlation",
+    "No",
+    "Correlation ≠ causation"
+   ],
+   [
+    "Experiment",
+    "Yes",
+    "Confounding variables"
+   ]
+  ]
+ },
+ {
+  "title": "Experiment vocabulary",
+  "kind": "list",
+  "items": [
+   "IV = what the researcher changes. DV = what gets measured.",
+   "Experimental group gets the IV; control group doesn't.",
+   "Random (representative) sample → results can generalize.",
+   "Operational definitions → the study can be replicated."
+  ]
+ },
+ {
+  "title": "Ethics checklist",
+  "kind": "list",
+  "items": [
+   "Voluntary participation, informed consent (before), debriefing (after).",
+   "Confidentiality, no long-term harm, humane treatment of animals, institutional approval."
+  ]
+ },
+ {
+  "title": "Statistics quick rules",
+  "kind": "list",
+  "items": [
+   "Mean = average; median = middle; mode = most common.",
+   "Range = highest − lowest. Bigger standard deviation = more spread.",
+   "Normal curve: about 68% within 1 SD, about 95% within 2 SD.",
+   "The mean follows the tail: positive skew → mean > median > mode.",
+   "p ≤ .05 = statistically significant; effect size = how strong.",
+   "Percentile rank = % of scores below yours."
+  ]
+ }
+]

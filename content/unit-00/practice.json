@@ -21,10 +21,10 @@
      "ans": 1,
      "exp": "Positivity, relationships, and well-being are humanistic.",
      "why": [
+      "\"Biological perspective\" means: The importance of genetics, brain chemistry, hormones, and neurotransmitters (like dopamine and serotonin) in influencing behavior and thinking.",
       "",
-      "",
-      "",
-      ""
+      "\"Psychodynamic perspective\" means: Behavior is influenced by your unconscious mind and past experiences, especially those from childhood. Based heavily on the ideas of Freud.",
+      "\"Behavioral perspective\" means: How our behaviors have been influenced by our learned experiences. We often repeat behaviors that are reinforced by positive rewards."
      ]
     },
     {
@@ -41,10 +41,10 @@
      "ans": 1,
      "exp": "Psychodynamic: the unconscious mind and childhood experiences.",
      "why": [
+      "\"Humanistic perspective\" means: How humans can achieve their full potential, emphasizing free will, self-efficacy, and self-actualization. Also emphasizes relationships, positivity, and maximizing well-being.",
       "",
-      "",
-      "",
-      ""
+      "\"Cognitive perspective\" means: How our internal thought processes shape our behavior. Emphasizes memory, problem solving, intelligence, and perception.",
+      "\"Sociocultural perspective\" means: Humans behave and act differently based on the influences of their culture or way of life."
      ]
     },
     {
@@ -62,9 +62,9 @@
      "exp": "That's the biological perspective. Evolutionary is about survival and reproduction.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "\"Evolutionary perspective\" means: Human behavior is a result of evolutionary processes that protect us, give us adaptive behaviors, and help us be more successful at reproducing.",
+      "\"Cognitive perspective\" means: How our internal thought processes shape our behavior. Emphasizes memory, problem solving, intelligence, and perception.",
+      "\"Behavioral perspective\" means: How our behaviors have been influenced by our learned experiences. We often repeat behaviors that are reinforced by positive rewards."
      ]
     },
     {
@@ -81,10 +81,10 @@
      "ans": 2,
      "exp": "Cognitive = internal thought processes.",
      "why": [
+      "\"Behavioral perspective\" means: How our behaviors have been influenced by our learned experiences. We often repeat behaviors that are reinforced by positive rewards.",
+      "\"Humanistic perspective\" means: How humans can achieve their full potential, emphasizing free will, self-efficacy, and self-actualization. Also emphasizes relationships, positivity, and maximizing well-being.",
       "",
-      "",
-      "",
-      ""
+      "\"Psychodynamic perspective\" means: Behavior is influenced by your unconscious mind and past experiences, especially those from childhood. Based heavily on the ideas of Freud."
      ]
     },
     {
@@ -101,9 +101,9 @@
      "ans": 3,
      "exp": "Behavioral = learning and rewards.",
      "why": [
-      "",
-      "",
-      "",
+      "That's the psychodynamic perspective.",
+      "That's the biological perspective.",
+      "That's the sociocultural perspective.",
       ""
      ]
     },
@@ -121,10 +121,10 @@
      "ans": 1,
      "exp": "Evolutionary = protection, adaptive behavior, and reproduction.",
      "why": [
+      "That's the psychodynamic perspective.",
       "",
-      "",
-      "",
-      ""
+      "That's the sociocultural perspective.",
+      "That's the cognitive perspective."
      ]
     },
     {
@@ -142,9 +142,9 @@
      "exp": "Survival advantage for ancestors = evolutionary. The others are psychodynamic, cognitive, and sociocultural.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "Unconscious childhood experience is psychodynamic.",
+      "Focusing on thoughts is cognitive.",
+      "Culture is sociocultural."
      ]
     },
     {
@@ -161,9 +161,9 @@
      "ans": 3,
      "exp": "Unconscious mind + childhood = psychodynamic.",
      "why": [
-      "",
-      "",
-      "",
+      "Ancestors' survival is evolutionary.",
+      "Brain chemistry is biological.",
+      "Learning from others fits the behavioral or sociocultural view, not the unconscious.",
       ""
      ]
     },
@@ -182,9 +182,9 @@
      "exp": "Cognitive = how thought processes shape behavior.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "Genes are biological.",
+      "Culture is sociocultural.",
+      "The unconscious is psychodynamic."
      ]
     },
     {
@@ -201,9 +201,9 @@
      "ans": 3,
      "exp": "Culture or way of life = sociocultural.",
      "why": [
-      "",
-      "",
-      "",
+      "Ancestors' survival is evolutionary.",
+      "Neurotransmitters are biological.",
+      "Focusing on potential and growth is humanistic.",
       ""
      ]
     },
@@ -221,10 +221,10 @@
      "ans": 2,
      "exp": "Brain chemistry and neurotransmitters = biological. The culture answer is your slide's sociocultural example.",
      "why": [
+      "Culture is the sociocultural explanation.",
+      "Childhood experience points to a learning or psychodynamic explanation.",
       "",
-      "",
-      "",
-      ""
+      "Thinking and predicting is cognitive."
      ]
     },
     {
@@ -241,10 +241,10 @@
      "ans": 2,
      "exp": "Free will, self-efficacy, and self-actualization are humanistic.",
      "why": [
+      "\"Psychodynamic perspective\" means: Behavior is influenced by your unconscious mind and past experiences, especially those from childhood. Based heavily on the ideas of Freud.",
+      "\"Behavioral perspective\" means: How our behaviors have been influenced by our learned experiences. We often repeat behaviors that are reinforced by positive rewards.",
       "",
-      "",
-      "",
-      ""
+      "\"Biological perspective\" means: The importance of genetics, brain chemistry, hormones, and neurotransmitters (like dopamine and serotonin) in influencing behavior and thinking."
      ]
     },
     {
@@ -262,9 +262,9 @@
      "exp": "Hormones = biological.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "\"Sociocultural perspective\" means: Humans behave and act differently based on the influences of their culture or way of life.",
+      "\"Cognitive perspective\" means: How our internal thought processes shape our behavior. Emphasizes memory, problem solving, intelligence, and perception.",
+      "\"Humanistic perspective\" means: How humans can achieve their full potential, emphasizing free will, self-efficacy, and self-actualization. Also emphasizes relationships, positivity, and maximizing well-being."
      ]
     },
     {
@@ -281,10 +281,10 @@
      "ans": 1,
      "exp": "Differences based on culture or way of life = sociocultural.",
      "why": [
+      "\"Evolutionary perspective\" means: Human behavior is a result of evolutionary processes that protect us, give us adaptive behaviors, and help us be more successful at reproducing.",
       "",
-      "",
-      "",
-      ""
+      "\"Psychodynamic perspective\" means: Behavior is influenced by your unconscious mind and past experiences, especially those from childhood. Based heavily on the ideas of Freud.",
+      "\"Cognitive perspective\" means: How our internal thought processes shape our behavior. Emphasizes memory, problem solving, intelligence, and perception."
      ]
     },
     {
@@ -301,10 +301,10 @@
      "ans": 2,
      "exp": "Your slides: perspectives are like viewing situations through different lenses. A behavior can be explained by several.",
      "why": [
+      "Several perspectives can explain the same behavior.",
+      "Any behavior can be viewed through several lenses.",
       "",
-      "",
-      "",
-      ""
+      "They explain all kinds of behavior, not just disorders."
      ]
     }
    ]
@@ -330,10 +330,10 @@
      "ans": 1,
      "exp": "Your slides: psychology exists because intuition is unreliable, due to hindsight bias, misunderstanding of probability, and overconfidence.",
      "why": [
+      "Too extreme; intuition is unreliable, not always wrong.",
       "",
-      "",
-      "",
-      ""
+      "Research can have errors; that's why studies are replicated.",
+      "Your slides name biases that affect everyone."
      ]
     },
     {
@@ -351,9 +351,9 @@
      "exp": "Observe, theory, hypothesis, test, evaluate, modify, replicate.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "Observation comes first, and replication comes last.",
+      "You can't test before you have a hypothesis.",
+      "Observation comes first; replication comes last."
      ]
     },
     {
@@ -370,10 +370,10 @@
      "ans": 1,
      "exp": "Operational definitions state exactly how each variable will be measured.",
      "why": [
+      "A hypothesis is a testable prediction, not a definition of how to measure.",
       "",
-      "",
-      "",
-      ""
+      "\"Confounding variable\" means: An outside influence that affects the results of the study. Example from your slides: when studying how exercise (IV) affects weight loss (DV), possible confounding variables are diet, amount of sleep, and genetic issues.",
+      "A theory explains observations; it doesn't define measurements."
      ]
     },
     {
@@ -391,9 +391,9 @@
      "exp": "Your slides: research cannot be replicated without operational definitions.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "Nothing guarantees a hypothesis will be supported.",
+      "Experiments still need a control group.",
+      "Random sampling, not definitions, makes a sample representative."
      ]
     },
     {
@@ -411,9 +411,9 @@
      "exp": "Replicating means doing the research a second time to check that the results are reliable.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "\"Debriefing\" means: The explanation after the experiment of what the study was about, including its purpose and any deception.",
+      "\"Sampling bias\" means: Researchers targeting participants to make their hypothesis more likely to be proven, or failing to gather a representative sample of the population, leading to skewed results.",
+      "\"Naturalistic observation\" means: A descriptive technique that observes and records behavior in naturally occurring situations, without trying to manipulate or control the situation."
      ]
     },
     {
@@ -430,9 +430,9 @@
      "ans": 3,
      "exp": "Experiments manipulate variables to establish cause and effect.",
      "why": [
-      "",
-      "",
-      "",
+      "Correlation shows a relationship, not cause and effect.",
+      "\"Case study\" means: A descriptive method that examines one individual or group in depth.",
+      "\"Survey\" means: A descriptive technique used to get the self-reported attitudes and behaviors of a particular group, usually by questioning a representative random sample of the group.",
       ""
      ]
     },
@@ -450,10 +450,10 @@
      "ans": 1,
      "exp": "Case studies can be misleading if the person is atypical, and can lead to overgeneralizing.",
      "why": [
+      "Case studies give a lot of depth; that's their strength.",
       "",
-      "",
-      "",
-      ""
+      "Case studies describe behavior in detail.",
+      "Case studies don't require deception."
      ]
     },
     {
@@ -471,9 +471,9 @@
      "exp": "Surveys collect a lot of self-reported data in a short time.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "\"Case study\" means: A descriptive method that examines one individual or group in depth.",
+      "\"Naturalistic observation\" means: A descriptive technique that observes and records behavior in naturally occurring situations, without trying to manipulate or control the situation.",
+      "An experiment tests cause and effect; it isn't the quick way to collect opinions."
      ]
     },
     {
@@ -490,10 +490,10 @@
      "ans": 2,
      "exp": "It's non-invasive, but subjects may become aware of the observer, and it can be time consuming.",
      "why": [
+      "People usually act more naturally in their own setting, not less.",
+      "Nothing is manipulated in naturalistic observation.",
       "",
-      "",
-      "",
-      ""
+      "That's a case study."
      ]
     },
     {
@@ -510,10 +510,10 @@
      "ans": 1,
      "exp": "One goes down while the other goes up: negative.",
      "why": [
+      "In a positive correlation both move the same way; here they move opposite ways.",
       "",
-      "",
-      "",
-      ""
+      "\"Zero (no) correlation\" means: No relationship between the two variables. On a scatterplot, the dots are scattered with no pattern.",
+      "They move in opposite directions, so it can't be positive."
      ]
     },
     {
@@ -531,9 +531,9 @@
      "exp": "Both move in the same direction (both decrease), so it's positive. Positive doesn't mean \"good.\"",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "Both go down together, which is a positive correlation.",
+      "\"Zero (no) correlation\" means: No relationship between the two variables. On a scatterplot, the dots are scattered with no pattern.",
+      "Two variables moving together is a correlation."
      ]
     },
     {
@@ -551,9 +551,9 @@
      "exp": "Strength is how close the number is to +1 or -1. The sign only shows direction.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "0.5 is farther from 1 than 0.9 is.",
+      "0 means no relationship.",
+      "0.3 is a weak relationship."
      ]
     },
     {
@@ -570,10 +570,10 @@
      "ans": 2,
      "exp": "Correlation does not equal causation. Another factor could explain both.",
      "why": [
+      "A correlation can't show cause.",
+      "A correlation can't show cause in either direction.",
       "",
-      "",
-      "",
-      ""
+      "The study found a relationship."
      ]
     },
     {
@@ -590,9 +590,9 @@
      "ans": 3,
      "exp": "A third factor (summer weather) causes both, so they're correlated without one causing the other.",
      "why": [
-      "",
-      "",
-      "",
+      "Correlation doesn't mean one causes the other.",
+      "Correlation doesn't mean one causes the other.",
+      "They rise together, so it's positive.",
       ""
      ]
     },
@@ -610,10 +610,10 @@
      "ans": 1,
      "exp": "Everyone having an equal chance of inclusion makes it a representative random sample. The whole school is the population.",
      "why": [
+      "\"Population\" means: The group that the research is meant to apply to.",
       "",
-      "",
-      "",
-      ""
+      "\"Control group\" means: Participants who do not receive the manipulated variable. Example from your slides: the group that doesn't take the antidepressant. Comparing the groups shows whether the medication really reduces depression.",
+      "\"Case study\" means: A descriptive method that examines one individual or group in depth."
      ]
     },
     {
@@ -631,9 +631,9 @@
      "exp": "The IV is what the researcher manipulates.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "Height is measured: that's the dependent variable.",
+      "That would be held constant, not manipulated.",
+      "That's held constant for both groups."
      ]
     },
     {
@@ -650,10 +650,10 @@
      "ans": 2,
      "exp": "The DV is what gets measured.",
      "why": [
+      "That's manipulated: the independent variable.",
+      "That's the control condition.",
       "",
-      "",
-      "",
-      ""
+      "That's held constant."
      ]
     },
     {
@@ -670,9 +670,9 @@
      "ans": 3,
      "exp": "An outside influence that affects the results is a confounding variable. Your slides list diet, sleep, and genetics for this exact example.",
      "why": [
-      "",
-      "",
-      "",
+      "\"Dependent variable (DV)\" means: The factor that is measured or observed by the researcher. Examples from your slides: strength of memory; test scores.",
+      "\"Independent variable (IV)\" means: The factor that is manipulated or controlled by the researcher. Examples from your slides: amount of sleep (does sleep deprivation cause poor memory?); temperature (does room temperature affect test scores?).",
+      "\"Control group\" means: Participants who do not receive the manipulated variable. Example from your slides: the group that doesn't take the antidepressant. Comparing the groups shows whether the medication really reduces depression.",
       ""
      ]
     },
@@ -690,10 +690,10 @@
      "ans": 1,
      "exp": "Results caused by expectations alone are the placebo effect.",
      "why": [
+      "\"Hawthorne effect\" means: Participants changing their behavior because they know they are being observed.",
       "",
-      "",
-      "",
-      ""
+      "\"Barnum effect\" means: Believing that personality descriptions apply specifically to you (more than to other people), even though the description is filled with information that applies to everyone. Example: your horoscope.",
+      "\"Gambler's fallacy\" means: The tendency to overestimate the occurrence of patterns in random data."
      ]
     },
     {
@@ -710,9 +710,9 @@
      "ans": 3,
      "exp": "Believing a general description applies specifically to you is the Barnum effect.",
      "why": [
-      "",
-      "",
-      "",
+      "\"Hindsight bias\" means: The tendency to believe, after learning the outcome, that you would have foreseen it.",
+      "\"Placebo effect\" means: Experimental results caused by expectations alone. Example: participants act or claim to feel a certain way because they think they received a drug that would cause that reaction.",
+      "\"Self-report bias\" means: Participants try to affect the outcome of the research and/or are unrealistic about themselves. They may try to please the researcher or even purposely challenge the researcher's hypothesis.",
       ""
      ]
     },
@@ -730,10 +730,10 @@
      "ans": 2,
      "exp": "Seeing patterns in random data is the gambler's fallacy. Each flip is still 50/50.",
      "why": [
+      "\"Overconfidence\" means: The tendency to overestimate your knowledge and/or ability.",
+      "\"Hindsight bias\" means: The tendency to believe, after learning the outcome, that you would have foreseen it.",
       "",
-      "",
-      "",
-      ""
+      "\"Barnum effect\" means: Believing that personality descriptions apply specifically to you (more than to other people), even though the description is filled with information that applies to everyone. Example: your horoscope."
      ]
     },
     {
@@ -750,9 +750,9 @@
      "ans": 3,
      "exp": "The wording pushes people toward one answer.",
      "why": [
-      "",
-      "",
-      "",
+      "\"Placebo effect\" means: Experimental results caused by expectations alone. Example: participants act or claim to feel a certain way because they think they received a drug that would cause that reaction.",
+      "\"Hawthorne effect\" means: Participants changing their behavior because they know they are being observed.",
+      "\"Debriefing\" means: The explanation after the experiment of what the study was about, including its purpose and any deception.",
       ""
      ]
     },
@@ -770,10 +770,10 @@
      "ans": 2,
      "exp": "The sample doesn't represent the population, so the results will be skewed.",
      "why": [
+      "\"Placebo effect\" means: Experimental results caused by expectations alone. Example: participants act or claim to feel a certain way because they think they received a drug that would cause that reaction.",
+      "\"Hindsight bias\" means: The tendency to believe, after learning the outcome, that you would have foreseen it.",
       "",
-      "",
-      "",
-      ""
+      "\"Wording effects (framing)\" means: How questions are worded can skew responses."
      ]
     },
     {
@@ -790,10 +790,10 @@
      "ans": 1,
      "exp": "Informed consent comes before; debriefing comes after.",
      "why": [
+      "\"Debriefing\" means: The explanation after the experiment of what the study was about, including its purpose and any deception.",
       "",
-      "",
-      "",
-      ""
+      "\"Confidentiality\" means: Participants' information is kept private.",
+      "Replication means repeating a study."
      ]
     },
     {
@@ -810,10 +810,10 @@
      "ans": 2,
      "exp": "That breaks confidentiality. The other three are required guidelines.",
      "why": [
+      "\"Debriefing\" means: The explanation after the experiment of what the study was about, including its purpose and any deception.",
+      "That's required (informed consent and voluntary participation).",
       "",
-      "",
-      "",
-      ""
+      "That's required by the guidelines."
      ]
     },
     {
@@ -830,9 +830,9 @@
      "ans": 3,
      "exp": "The others are hindsight bias, gambler's fallacy, and social desirability bias.",
      "why": [
-      "",
-      "",
-      "",
+      "That's hindsight bias.",
+      "That's misunderstanding probability (like the gambler's fallacy).",
+      "That's social desirability bias.",
       ""
      ]
     },
@@ -850,10 +850,10 @@
      "ans": 2,
      "exp": "Self-report bias: trying to affect the outcome, please the researcher, or being unrealistic about yourself.",
      "why": [
+      "\"Sampling bias\" means: Researchers targeting participants to make their hypothesis more likely to be proven, or failing to gather a representative sample of the population, leading to skewed results.",
+      "\"Placebo effect\" means: Experimental results caused by expectations alone. Example: participants act or claim to feel a certain way because they think they received a drug that would cause that reaction.",
       "",
-      "",
-      "",
-      ""
+      "\"Gambler's fallacy\" means: The tendency to overestimate the occurrence of patterns in random data."
      ]
     }
    ]
@@ -879,10 +879,10 @@
      "ans": 2,
      "exp": "Descriptive statistics organize data. Deciding whether results generalize is inferential statistics.",
      "why": [
+      "That's inferential statistics.",
+      "That's what experiments do.",
       "",
-      "",
-      "",
-      ""
+      "Statistics alone don't prove cause; experiments test it."
      ]
     },
     {
@@ -899,9 +899,9 @@
      "ans": 3,
      "exp": "Histograms show frequency distributions and make patterns quick to spot.",
      "why": [
-      "",
-      "",
-      "",
+      "A scatterplot shows the relationship between two variables.",
+      "A pie chart shows parts of a whole.",
+      "A line graph shows change over time.",
       ""
      ]
     },
@@ -920,9 +920,9 @@
      "exp": "3 + 5 + 7 + 9 + 11 + 13 = 48, and 48 ÷ 6 = 8.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "\"The scientific method (7 steps)\" means: 1. Observe some aspect of the universe. 2. Develop a theory. 3. Use the theory to make a hypothesis. 4. Test the predictions with experiments, using operational definitions. 5. Evaluate the results. 6. Modify the theory in light of your findings. 7. Replicate.",
+      "9 is one of the scores; 48 ÷ 6 = 8.",
+      "6 is the number of scores, not the average."
      ]
     },
     {
@@ -939,9 +939,9 @@
      "ans": 3,
      "exp": "In order: 2, 4, 6, 8, 10, 12. The two middle numbers are 6 and 8, so the median is (6 + 8) ÷ 2 = 7.",
      "why": [
-      "",
-      "",
-      "",
+      "6 is one of the two middle scores; average 6 and 8.",
+      "8 is one of the two middle scores; average 6 and 8.",
+      "10 isn't in the middle when the scores are in order.",
       ""
      ]
     },
@@ -959,10 +959,10 @@
      "ans": 1,
      "exp": "9 appears most (mode). Middle two are 5 and 9, so the median is 7. Sum is 52, and 52 ÷ 8 = 6.5.",
      "why": [
+      "3 appears twice, but 9 appears three times; and the median is 7.",
       "",
-      "",
-      "",
-      ""
+      "The median averages 5 and 9 (= 7), and the mean is 52 ÷ 8 = 6.5.",
+      "The mean is 52 ÷ 8 = 6.5, not 7."
      ]
     },
     {
@@ -980,9 +980,9 @@
      "exp": "100 − 55 = 45. (70 is the mode and median; 76 is the mean.)",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "70 is the mode and median.",
+      "76 is the mean.",
+      "100 is the highest score; subtract the lowest."
      ]
     },
     {
@@ -999,10 +999,10 @@
      "ans": 2,
      "exp": "The range only uses the highest and lowest scores, so it's just a rough estimate.",
      "why": [
+      "The range is easier to calculate.",
+      "That's the mode.",
       "",
-      "",
-      "",
-      ""
+      "Not always, and that isn't why it's useful."
      ]
     },
     {
@@ -1019,10 +1019,10 @@
      "ans": 1,
      "exp": "A bigger standard deviation means scores are more dispersed around the mean.",
      "why": [
+      "A smaller standard deviation means less spread.",
       "",
-      "",
-      "",
-      ""
+      "Both averaged 80.",
+      "Different standard deviations mean different spreads."
      ]
     },
     {
@@ -1039,9 +1039,9 @@
      "ans": 3,
      "exp": "85–115 is within 1 standard deviation of the mean: about 68%.",
      "why": [
-      "",
-      "",
-      "",
+      "95% is within 2 standard deviations (70–130).",
+      "50% is the share above or below the mean.",
+      "About 99.7% is within 3 standard deviations.",
       ""
      ]
     },
@@ -1059,10 +1059,10 @@
      "ans": 2,
      "exp": "Within 2 standard deviations (2 × 15 = 30 points) of 100.",
      "why": [
+      "That's 1 standard deviation: about 68%.",
+      "That's 3 standard deviations: about 99.7%.",
       "",
-      "",
-      "",
-      ""
+      "That's only one side of the mean."
      ]
     },
     {
@@ -1079,10 +1079,10 @@
      "ans": 1,
      "exp": "The outlier pulls the mean way up. Your slides say the median and mode give a fuller picture.",
      "why": [
+      "\"Mean\" means: The average. Add up all the numbers, then divide by how many numbers there are. Example from your slides: 2, 3, 4, 5, 5, 8 → mean = 4.5.",
       "",
-      "",
-      "",
-      ""
+      "\"Range\" means: The difference between the highest and lowest scores: subtract the lowest from the highest. Example from your slides: 75, 78, 86, 92, 98, 100 → 100 − 75 = 25. Only a rough estimate of variation.",
+      "\"Standard deviation\" means: How much scores vary around the mean: whether they are packed together or spread out. A more useful measure of variation than the range."
      ]
     },
     {
@@ -1100,9 +1100,9 @@
      "exp": "Positive skew: tail to the right, and the mean follows the tail.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "That's negative skew.",
+      "That's a symmetrical (normal) distribution.",
+      "That's negative skew."
      ]
     },
     {
@@ -1119,10 +1119,10 @@
      "ans": 1,
      "exp": "Negative skew = tail to the left. The mean always follows the tail.",
      "why": [
+      "That's positive skew.",
       "",
-      "",
-      "",
-      ""
+      "The mean follows the tail, not the mode.",
+      "Skewed distributions aren't symmetrical."
      ]
     },
     {
@@ -1139,10 +1139,10 @@
      "ans": 1,
      "exp": "A few very high values make a tail to the right: positive skew.",
      "why": [
+      "A few very high incomes make the tail point right: positive skew.",
       "",
-      "",
-      "",
-      ""
+      "\"Symmetrical distribution\" means: No skew: mean = median = mode.",
+      "\"Bimodal curve\" means: A graph with two peaks (\"bi\" means two). Each peak is a local maximum: the highest values compared with the data points right around them."
      ]
     },
     {
@@ -1159,10 +1159,10 @@
      "ans": 2,
      "exp": "\"Bi\" means two: two peaks = bimodal.",
      "why": [
+      "\"Positive skew\" means: The tail goes to the right, and the mean goes to the right too. Order: mean > median > mode.",
+      "\"Negative skew\" means: The tail goes to the left, and the mean goes to the left too. Order: mean < median < mode.",
       "",
-      "",
-      "",
-      ""
+      "\"Normal curve\" means: A bell-shaped curve where most scores fall near the mean and fewer fall near either extreme."
      ]
     },
     {
@@ -1179,9 +1179,9 @@
      "ans": 3,
      "exp": "Inferential statistics check that results aren't just chance fluctuations in the sample.",
      "why": [
-      "",
-      "",
-      "",
+      "That's descriptive statistics.",
+      "That's the median, a descriptive statistic.",
+      "That's variation, a descriptive statistic.",
       ""
      ]
     },
@@ -1200,9 +1200,9 @@
      "exp": "The three: representative samples, bigger samples, and more estimates are better.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "It's the reverse: more estimates are better.",
+      "Representative samples are better.",
+      "More estimates (studies) are better than one."
      ]
     },
     {
@@ -1219,9 +1219,9 @@
      "ans": 3,
      "exp": "More estimates are better than fewer estimates.",
      "why": [
-      "",
-      "",
-      "",
+      "That's a case study.",
+      "The studies it combines still use samples.",
+      "Nothing guarantees significance.",
       ""
      ]
     },
@@ -1239,10 +1239,10 @@
      "ans": 2,
      "exp": "Your slide names both problems: unrepresentative samples and small sample size.",
      "why": [
+      "She didn't compute a p-value, and a small one would mean significance.",
+      "She didn't, and a control group would help.",
       "",
-      "",
-      "",
-      ""
+      "She didn't measure effect size."
      ]
     },
     {
@@ -1260,9 +1260,9 @@
      "exp": "Significant means p ≤ .05. .20 is too high.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "Significance needs p ≤ .05; .20 is too high.",
+      "\"Effect size\" means: The strength of the relationship between two variables. A p-value only tells you whether an effect exists; effect size tells you how strong it is. Your slide's example: a new study technique group averaged 85 vs. 75 for the usual group, a 10-point effect.",
+      "A p-value isn't a percentage of participants."
      ]
     },
     {
@@ -1279,10 +1279,10 @@
      "ans": 2,
      "exp": "Your slides: unlike p-values, effect size tells how strong the effect is.",
      "why": [
+      "They measure different things.",
+      "\"Effect size\" means: The strength of the relationship between two variables. A p-value only tells you whether an effect exists; effect size tells you how strong it is. Your slide's example: a new study technique group averaged 85 vs. 75 for the usual group, a 10-point effect.",
       "",
-      "",
-      "",
-      ""
+      "A larger p-value means weaker evidence, and p doesn't measure strength."
      ]
     },
     {
@@ -1300,9 +1300,9 @@
      "exp": "Effect size shows the practical importance of the result: 85 − 75 = 10.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "\"P-value\" means: A number from 0 to 1 describing how likely it is that your data happened by random chance. The smaller the p-value, the less likely the results were due to chance. A p-value of .05 or less is statistically significant.",
+      "\"Range\" means: The difference between the highest and lowest scores: subtract the lowest from the highest. Example from your slides: 75, 78, 86, 92, 98, 100 → 100 − 75 = 25. Only a rough estimate of variation.",
+      "\"Percentile rank\" means: The percentage of scores that are less than a given score. Your slides call it a fourth measure of central tendency. Example: in the 85th percentile on a psychology test, your score is higher than 85% of your peers."
      ]
     },
     {
@@ -1319,10 +1319,10 @@
      "ans": 1,
      "exp": "Percentile rank = the percentage of scores below yours.",
      "why": [
+      "Percentile compares you with others, not with the number of questions.",
       "",
-      "",
-      "",
-      ""
+      "Percentile isn't a point score.",
+      "It's the reverse: 70% scored lower."
      ]
     }
    ]
@@ -1353,10 +1353,10 @@
      "ans": 2,
      "exp": "Positivity, relationships, and well-being are humanistic.",
      "why": [
+      "\"Biological perspective\" means: The importance of genetics, brain chemistry, hormones, and neurotransmitters (like dopamine and serotonin) in influencing behavior and thinking.",
+      "\"Psychodynamic perspective\" means: Behavior is influenced by your unconscious mind and past experiences, especially those from childhood. Based heavily on the ideas of Freud.",
       "",
-      "",
-      "",
-      ""
+      "\"Behavioral perspective\" means: How our behaviors have been influenced by our learned experiences. We often repeat behaviors that are reinforced by positive rewards."
      ]
     },
     {
@@ -1373,9 +1373,9 @@
      "ans": 3,
      "exp": "Psychodynamic: the unconscious mind and childhood experiences.",
      "why": [
-      "",
-      "",
-      "",
+      "\"Humanistic perspective\" means: How humans can achieve their full potential, emphasizing free will, self-efficacy, and self-actualization. Also emphasizes relationships, positivity, and maximizing well-being.",
+      "\"Cognitive perspective\" means: How our internal thought processes shape our behavior. Emphasizes memory, problem solving, intelligence, and perception.",
+      "\"Sociocultural perspective\" means: Humans behave and act differently based on the influences of their culture or way of life.",
       ""
      ]
     },
@@ -1393,10 +1393,10 @@
      "ans": 1,
      "exp": "That's the biological perspective. Evolutionary is about survival and reproduction.",
      "why": [
+      "\"Evolutionary perspective\" means: Human behavior is a result of evolutionary processes that protect us, give us adaptive behaviors, and help us be more successful at reproducing.",
       "",
-      "",
-      "",
-      ""
+      "\"Cognitive perspective\" means: How our internal thought processes shape our behavior. Emphasizes memory, problem solving, intelligence, and perception.",
+      "\"Behavioral perspective\" means: How our behaviors have been influenced by our learned experiences. We often repeat behaviors that are reinforced by positive rewards."
      ]
     },
     {
@@ -1413,9 +1413,9 @@
      "ans": 3,
      "exp": "Cognitive = internal thought processes.",
      "why": [
-      "",
-      "",
-      "",
+      "\"Behavioral perspective\" means: How our behaviors have been influenced by our learned experiences. We often repeat behaviors that are reinforced by positive rewards.",
+      "\"Humanistic perspective\" means: How humans can achieve their full potential, emphasizing free will, self-efficacy, and self-actualization. Also emphasizes relationships, positivity, and maximizing well-being.",
+      "\"Psychodynamic perspective\" means: Behavior is influenced by your unconscious mind and past experiences, especially those from childhood. Based heavily on the ideas of Freud.",
       ""
      ]
     },
@@ -1433,10 +1433,10 @@
      "ans": 2,
      "exp": "Behavioral = learning and rewards.",
      "why": [
+      "That's the psychodynamic perspective.",
+      "That's the biological perspective.",
       "",
-      "",
-      "",
-      ""
+      "That's the sociocultural perspective."
      ]
     },
     {
@@ -1453,10 +1453,10 @@
      "ans": 1,
      "exp": "Evolutionary = protection, adaptive behavior, and reproduction.",
      "why": [
+      "That's the psychodynamic perspective.",
       "",
-      "",
-      "",
-      ""
+      "That's the sociocultural perspective.",
+      "That's the cognitive perspective."
      ]
     },
     {
@@ -1474,9 +1474,9 @@
      "exp": "Survival advantage for ancestors = evolutionary. The others are psychodynamic, cognitive, and sociocultural.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "Unconscious childhood experience is psychodynamic.",
+      "Focusing on thoughts is cognitive.",
+      "Culture is sociocultural."
      ]
     },
     {
@@ -1494,9 +1494,9 @@
      "exp": "Unconscious mind + childhood = psychodynamic.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "Ancestors' survival is evolutionary.",
+      "Brain chemistry is biological.",
+      "Learning from others fits the behavioral or sociocultural view, not the unconscious."
      ]
     },
     {
@@ -1514,9 +1514,9 @@
      "exp": "Cognitive = how thought processes shape behavior.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "Genes are biological.",
+      "Culture is sociocultural.",
+      "The unconscious is psychodynamic."
      ]
     },
     {
@@ -1533,10 +1533,10 @@
      "ans": 1,
      "exp": "Culture or way of life = sociocultural.",
      "why": [
+      "Ancestors' survival is evolutionary.",
       "",
-      "",
-      "",
-      ""
+      "Neurotransmitters are biological.",
+      "Focusing on potential and growth is humanistic."
      ]
     },
     {
@@ -1554,9 +1554,9 @@
      "exp": "Your slides: psychology exists because intuition is unreliable, due to hindsight bias, misunderstanding of probability, and overconfidence.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "Too extreme; intuition is unreliable, not always wrong.",
+      "Research can have errors; that's why studies are replicated.",
+      "Your slides name biases that affect everyone."
      ]
     },
     {
@@ -1573,10 +1573,10 @@
      "ans": 1,
      "exp": "Observe, theory, hypothesis, test, evaluate, modify, replicate.",
      "why": [
+      "Observation comes first, and replication comes last.",
       "",
-      "",
-      "",
-      ""
+      "You can't test before you have a hypothesis.",
+      "Observation comes first; replication comes last."
      ]
     },
     {
@@ -1593,9 +1593,9 @@
      "ans": 3,
      "exp": "Operational definitions state exactly how each variable will be measured.",
      "why": [
-      "",
-      "",
-      "",
+      "A hypothesis is a testable prediction, not a definition of how to measure.",
+      "\"Confounding variable\" means: An outside influence that affects the results of the study. Example from your slides: when studying how exercise (IV) affects weight loss (DV), possible confounding variables are diet, amount of sleep, and genetic issues.",
+      "A theory explains observations; it doesn't define measurements.",
       ""
      ]
     },
@@ -1613,10 +1613,10 @@
      "ans": 1,
      "exp": "Your slides: research cannot be replicated without operational definitions.",
      "why": [
+      "Nothing guarantees a hypothesis will be supported.",
       "",
-      "",
-      "",
-      ""
+      "Experiments still need a control group.",
+      "Random sampling, not definitions, makes a sample representative."
      ]
     },
     {
@@ -1634,9 +1634,9 @@
      "exp": "Replicating means doing the research a second time to check that the results are reliable.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "\"Debriefing\" means: The explanation after the experiment of what the study was about, including its purpose and any deception.",
+      "\"Sampling bias\" means: Researchers targeting participants to make their hypothesis more likely to be proven, or failing to gather a representative sample of the population, leading to skewed results.",
+      "\"Naturalistic observation\" means: A descriptive technique that observes and records behavior in naturally occurring situations, without trying to manipulate or control the situation."
      ]
     },
     {
@@ -1653,9 +1653,9 @@
      "ans": 3,
      "exp": "Experiments manipulate variables to establish cause and effect.",
      "why": [
-      "",
-      "",
-      "",
+      "Correlation shows a relationship, not cause and effect.",
+      "\"Case study\" means: A descriptive method that examines one individual or group in depth.",
+      "\"Survey\" means: A descriptive technique used to get the self-reported attitudes and behaviors of a particular group, usually by questioning a representative random sample of the group.",
       ""
      ]
     },
@@ -1673,9 +1673,9 @@
      "ans": 3,
      "exp": "Case studies can be misleading if the person is atypical, and can lead to overgeneralizing.",
      "why": [
-      "",
-      "",
-      "",
+      "Case studies give a lot of depth; that's their strength.",
+      "Case studies describe behavior in detail.",
+      "Case studies don't require deception.",
       ""
      ]
     },
@@ -1693,10 +1693,10 @@
      "ans": 1,
      "exp": "Surveys collect a lot of self-reported data in a short time.",
      "why": [
+      "\"Case study\" means: A descriptive method that examines one individual or group in depth.",
       "",
-      "",
-      "",
-      ""
+      "\"Naturalistic observation\" means: A descriptive technique that observes and records behavior in naturally occurring situations, without trying to manipulate or control the situation.",
+      "An experiment tests cause and effect; it isn't the quick way to collect opinions."
      ]
     },
     {
@@ -1714,9 +1714,9 @@
      "exp": "It's non-invasive, but subjects may become aware of the observer, and it can be time consuming.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "People usually act more naturally in their own setting, not less.",
+      "Nothing is manipulated in naturalistic observation.",
+      "That's a case study."
      ]
     },
     {
@@ -1733,10 +1733,10 @@
      "ans": 1,
      "exp": "One goes down while the other goes up: negative.",
      "why": [
+      "In a positive correlation both move the same way; here they move opposite ways.",
       "",
-      "",
-      "",
-      ""
+      "\"Zero (no) correlation\" means: No relationship between the two variables. On a scatterplot, the dots are scattered with no pattern.",
+      "They move in opposite directions, so it can't be positive."
      ]
     },
     {
@@ -1753,10 +1753,10 @@
      "ans": 2,
      "exp": "Descriptive statistics organize data. Deciding whether results generalize is inferential statistics.",
      "why": [
+      "That's inferential statistics.",
+      "That's what experiments do.",
       "",
-      "",
-      "",
-      ""
+      "Statistics alone don't prove cause; experiments test it."
      ]
     },
     {
@@ -1773,10 +1773,10 @@
      "ans": 2,
      "exp": "Histograms show frequency distributions and make patterns quick to spot.",
      "why": [
+      "A scatterplot shows the relationship between two variables.",
+      "A pie chart shows parts of a whole.",
       "",
-      "",
-      "",
-      ""
+      "A line graph shows change over time."
      ]
     },
     {
@@ -1793,9 +1793,9 @@
      "ans": 3,
      "exp": "3 + 5 + 7 + 9 + 11 + 13 = 48, and 48 ÷ 6 = 8.",
      "why": [
-      "",
-      "",
-      "",
+      "\"The scientific method (7 steps)\" means: 1. Observe some aspect of the universe. 2. Develop a theory. 3. Use the theory to make a hypothesis. 4. Test the predictions with experiments, using operational definitions. 5. Evaluate the results. 6. Modify the theory in light of your findings. 7. Replicate.",
+      "9 is one of the scores; 48 ÷ 6 = 8.",
+      "6 is the number of scores, not the average.",
       ""
      ]
     },
@@ -1813,9 +1813,9 @@
      "ans": 3,
      "exp": "In order: 2, 4, 6, 8, 10, 12. The two middle numbers are 6 and 8, so the median is (6 + 8) ÷ 2 = 7.",
      "why": [
-      "",
-      "",
-      "",
+      "6 is one of the two middle scores; average 6 and 8.",
+      "8 is one of the two middle scores; average 6 and 8.",
+      "10 isn't in the middle when the scores are in order.",
       ""
      ]
     },
@@ -1834,9 +1834,9 @@
      "exp": "9 appears most (mode). Middle two are 5 and 9, so the median is 7. Sum is 52, and 52 ÷ 8 = 6.5.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "3 appears twice, but 9 appears three times; and the median is 7.",
+      "The median averages 5 and 9 (= 7), and the mean is 52 ÷ 8 = 6.5.",
+      "The mean is 52 ÷ 8 = 6.5, not 7."
      ]
     },
     {
@@ -1853,10 +1853,10 @@
      "ans": 1,
      "exp": "100 − 55 = 45. (70 is the mode and median; 76 is the mean.)",
      "why": [
+      "70 is the mode and median.",
       "",
-      "",
-      "",
-      ""
+      "76 is the mean.",
+      "100 is the highest score; subtract the lowest."
      ]
     },
     {
@@ -1873,10 +1873,10 @@
      "ans": 2,
      "exp": "The range only uses the highest and lowest scores, so it's just a rough estimate.",
      "why": [
+      "The range is easier to calculate.",
+      "That's the mode.",
       "",
-      "",
-      "",
-      ""
+      "Not always, and that isn't why it's useful."
      ]
     },
     {
@@ -1893,10 +1893,10 @@
      "ans": 2,
      "exp": "A bigger standard deviation means scores are more dispersed around the mean.",
      "why": [
+      "A smaller standard deviation means less spread.",
+      "Both averaged 80.",
       "",
-      "",
-      "",
-      ""
+      "Different standard deviations mean different spreads."
      ]
     },
     {
@@ -1913,10 +1913,10 @@
      "ans": 2,
      "exp": "85–115 is within 1 standard deviation of the mean: about 68%.",
      "why": [
+      "95% is within 2 standard deviations (70–130).",
+      "50% is the share above or below the mean.",
       "",
-      "",
-      "",
-      ""
+      "About 99.7% is within 3 standard deviations."
      ]
     },
     {
@@ -1934,9 +1934,9 @@
      "exp": "Within 2 standard deviations (2 × 15 = 30 points) of 100.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "That's 1 standard deviation: about 68%.",
+      "That's 3 standard deviations: about 99.7%.",
+      "That's only one side of the mean."
      ]
     }
    ]

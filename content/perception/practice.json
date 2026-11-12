@@ -21,9 +21,9 @@
      "ans": 3,
      "exp": "Selective attention = focusing on one thing and NOT something else.",
      "why": [
-      "",
-      "",
-      "",
+      "Selective attention focuses on one thing, not everything.",
+      "That's the absolute threshold.",
+      "That's top-down processing.",
       ""
      ]
     },
@@ -41,9 +41,9 @@
      "ans": 3,
      "exp": "The Stroop effect is the delayed reaction when you must say the color of a word instead of the word itself.",
      "why": [
-      "",
-      "",
-      "",
+      "\"Change blindness\" means: Failing to notice changes in the environment because your attention is directed elsewhere.",
+      "\"Cocktail party effect\" means: The ability to focus auditory attention on a particular voice or sound while filtering out others. In a crowded room, you can focus on the voice of the one person you're talking with.",
+      "\"Weber's law\" means: For an average person to perceive a difference, two stimuli must differ by a constant percentage, not a constant amount.",
       ""
      ]
     },
@@ -61,10 +61,10 @@
      "ans": 1,
      "exp": "Missing a CHANGE = change blindness. Not seeing the pedestrian at all is inattentional blindness, the trap answer.",
      "why": [
+      "Missing a visible object entirely is inattentional blindness.",
       "",
-      "",
-      "",
-      ""
+      "That's the cocktail party effect.",
+      "That's an absolute threshold."
      ]
     },
     {
@@ -81,9 +81,9 @@
      "ans": 3,
      "exp": "Failing to see a visible object because attention is elsewhere = inattentional blindness. The shirt is change blindness.",
      "why": [
-      "",
-      "",
-      "",
+      "Missing a change is change blindness.",
+      "That's the pop-out phenomenon.",
+      "Noticing a change is about the difference threshold.",
       ""
      ]
     },
@@ -101,10 +101,10 @@
      "ans": 1,
      "exp": "Both come from attention being directed elsewhere. The difference is missing a change vs. missing an object.",
      "why": [
+      "They happen to healthy brains; attention is elsewhere.",
       "",
-      "",
-      "",
-      ""
+      "Both are usually about seeing.",
+      "ESP has no scientific basis; these are attention effects."
      ]
     },
     {
@@ -121,10 +121,10 @@
      "ans": 2,
      "exp": "Her friend was fully visible, but her attention was directed elsewhere.",
      "why": [
+      "\"Cocktail party effect\" means: The ability to focus auditory attention on a particular voice or sound while filtering out others. In a crowded room, you can focus on the voice of the one person you're talking with.",
+      "\"Absolute threshold\" means: The weakest amount of a stimulus that a person can detect 50% of the time: the moment when you notice something.",
       "",
-      "",
-      "",
-      ""
+      "\"Precognition\" means: Perceiving future events."
      ]
     },
     {
@@ -141,10 +141,10 @@
      "ans": 1,
      "exp": "Focusing auditory attention on one voice while filtering out others is the cocktail party effect.",
      "why": [
+      "\"Pop-out phenomenon\" means: Something different popping out to get our attention, like the one laughing face in the cartoon of a crying movie audience on your slides.",
       "",
-      "",
-      "",
-      ""
+      "\"Change blindness\" means: Failing to notice changes in the environment because your attention is directed elsewhere.",
+      "\"Difference threshold (just noticeable difference)\" means: The minimum amount something needs to change before a person notices the change 50% of the time."
      ]
     },
     {
@@ -161,10 +161,10 @@
      "ans": 2,
      "exp": "That's part of the cocktail party effect on your slides.",
      "why": [
+      "It's about attention to meaningful words, not a lower threshold.",
+      "\"Top-down processing\" means: Using your knowledge, experience, or context to understand and interpret sensory perceptions. This is perception.",
       "",
-      "",
-      "",
-      ""
+      "\"Change blindness\" means: Failing to notice changes in the environment because your attention is directed elsewhere."
      ]
     },
     {
@@ -182,9 +182,9 @@
      "exp": "Something different popping out to get your attention is the pop-out phenomenon.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "\"Inattentional blindness\" means: Failing to see visible objects when your attention is directed elsewhere.",
+      "\"Stroop effect\" means: Delayed reaction time when you must say the color of a word but not the name of the word. Example from your slides: the word GREEN printed in purple, where you have to say \"purple.\"",
+      "\"Clairvoyance\" means: Perceiving events you didn't actually witness, like knowing where a body is buried or how someone was murdered."
      ]
     },
     {
@@ -201,9 +201,9 @@
      "ans": 3,
      "exp": "Bottom-up = sensation. Top-down = perception.",
      "why": [
-      "",
-      "",
-      "",
+      "Reversed.",
+      "Both happen in every sense.",
+      "They're different: sensation vs. perception.",
       ""
      ]
     },
@@ -221,10 +221,10 @@
      "ans": 2,
      "exp": "Your slides: being aware of the squiggle is bottom-up; knowing what it means is top-down.",
      "why": [
+      "\"Bottom-up processing\" means: Sensory receptors throughout the body register information about the external environment and send it up to the brain for processing. This is sensation.",
+      "\"Absolute threshold\" means: The weakest amount of a stimulus that a person can detect 50% of the time: the moment when you notice something.",
       "",
-      "",
-      "",
-      ""
+      "\"Selective attention\" means: Focusing your conscious awareness on a particular stimulus and NOT something else."
      ]
     },
     {
@@ -241,10 +241,10 @@
      "ans": 1,
      "exp": "The mind doesn't read every letter by itself, but the word as a whole. That's top-down.",
      "why": [
+      "\"Bottom-up processing\" means: Sensory receptors throughout the body register information about the external environment and send it up to the brain for processing. This is sensation.",
       "",
-      "",
-      "",
-      ""
+      "\"Stroop effect\" means: Delayed reaction time when you must say the color of a word but not the name of the word. Example from your slides: the word GREEN printed in purple, where you have to say \"purple.\"",
+      "\"Weber's law\" means: For an average person to perceive a difference, two stimuli must differ by a constant percentage, not a constant amount."
      ]
     },
     {
@@ -261,9 +261,9 @@
      "ans": 3,
      "exp": "Bottom-up = receptors registering information and sending it up. The others all use knowledge or context (top-down).",
      "why": [
-      "",
-      "",
-      "",
+      "Using past experience is top-down.",
+      "\"Reading scrambled words\" means: You can read words with scrambled middle letters as long as the first and last letters are in the right place, because the mind reads the word as a whole, not every letter by itself. An example of top-down processing.",
+      "Using context is top-down.",
       ""
      ]
     },
@@ -279,12 +279,12 @@
       "The constant amount a stimulus must change to be noticed"
      ],
      "ans": 0,
-     "exp": "Absolute = detecting it at all. The second option is the difference threshold, the trap answer.",
+     "exp": "Absolute = detecting it at all. \"The smallest change in a stimulus a person can notice 50% of the time\" is the difference threshold, the trap answer.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "That's the difference threshold.",
+      "Not the absolute threshold.",
+      "Weber's law says a constant percentage, and that's about changes."
      ]
     },
     {
@@ -301,10 +301,10 @@
      "ans": 2,
      "exp": "The watch is the faintest sound you can detect. The other two \"noticing\" options are about changes (difference threshold).",
      "why": [
+      "Noticing a change is the difference threshold.",
+      "Noticing a change is the difference threshold.",
       "",
-      "",
-      "",
-      ""
+      "That's change blindness."
      ]
     },
     {
@@ -321,10 +321,10 @@
      "ans": 2,
      "exp": "JND = the smallest change you notice half the time.",
      "why": [
+      "That's the absolute threshold.",
+      "That's the cocktail party effect.",
       "",
-      "",
-      "",
-      ""
+      "That's ESP (clairvoyance)."
      ]
     },
     {
@@ -341,10 +341,10 @@
      "ans": 1,
      "exp": "Weber = percentage, not amount.",
      "why": [
+      "Weber's law is about a percentage, not an amount.",
       "",
-      "",
-      "",
-      ""
+      "A fixed amount doesn't work for every weight.",
+      "For weight it's about 2%."
      ]
     },
     {
@@ -361,10 +361,10 @@
      "ans": 2,
      "exp": "1 ounce is only 1% of 100 ounces, below the 2% needed for weight. The others are 10% or more.",
      "why": [
+      "That's a 10% change, easy to notice.",
+      "That's 10%, easy to notice.",
       "",
-      "",
-      "",
-      ""
+      "That's 50%, very easy to notice."
      ]
     },
     {
@@ -381,10 +381,10 @@
      "ans": 1,
      "exp": "Your slides: weight must change by 2%.",
      "why": [
+      "Far more than needed; weight needs about 2%.",
       "",
-      "",
-      "",
-      ""
+      "Weber's law is a percentage, not an amount.",
+      "Weber's law is a percentage, not an amount."
      ]
     },
     {
@@ -402,9 +402,9 @@
      "exp": "Weber's law: a constant percentage, not a constant amount.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "The absolute threshold is about detecting at all, not changes.",
+      "Not related to Weber's law.",
+      "\"Stroop effect\" means: Delayed reaction time when you must say the color of a word but not the name of the word. Example from your slides: the word GREEN printed in purple, where you have to say \"purple.\""
      ]
     },
     {
@@ -422,9 +422,9 @@
      "exp": "Telepathy = mind-to-mind communication.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "\"Clairvoyance\" means: Perceiving events you didn't actually witness, like knowing where a body is buried or how someone was murdered.",
+      "\"Precognition\" means: Perceiving future events.",
+      "\"Selective attention\" means: Focusing your conscious awareness on a particular stimulus and NOT something else."
      ]
     },
     {
@@ -441,9 +441,9 @@
      "ans": 3,
      "exp": "Precognition = perceiving future events.",
      "why": [
-      "",
-      "",
-      "",
+      "\"Telepathy\" means: Mind-to-mind communication.",
+      "\"Clairvoyance\" means: Perceiving events you didn't actually witness, like knowing where a body is buried or how someone was murdered.",
+      "\"Pop-out phenomenon\" means: Something different popping out to get our attention, like the one laughing face in the cartoon of a crying movie audience on your slides.",
       ""
      ]
     },
@@ -462,9 +462,9 @@
      "exp": "Your slides: no scientific basis, and psychics do no better than guesses.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "Psychics do no better than guesses.",
+      "\"Telepathy\" means: Mind-to-mind communication.",
+      "\"Precognition\" means: Perceiving future events."
      ]
     },
     {
@@ -482,9 +482,9 @@
      "exp": "So many predictions → a few hits; people focus on the 1 or 2 correct ones.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "There's no evidence for that.",
+      "Everyone uses top-down processing.",
+      "Most are wrong; people remember the hits."
      ]
     },
     {
@@ -502,9 +502,9 @@
      "exp": "Telepathy = mind to mind, precognition = the future, and failing to notice a change is change blindness.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "\"Telepathy\" means: Mind-to-mind communication.",
+      "\"Precognition\" means: Perceiving future events.",
+      "\"Pop-out phenomenon\" means: Something different popping out to get our attention, like the one laughing face in the cartoon of a crying movie audience on your slides."
      ]
     }
    ]
@@ -535,10 +535,10 @@
      "ans": 1,
      "exp": "Selective attention = focusing on one thing and NOT something else.",
      "why": [
+      "Selective attention focuses on one thing, not everything.",
       "",
-      "",
-      "",
-      ""
+      "That's the absolute threshold.",
+      "That's top-down processing."
      ]
     },
     {
@@ -555,9 +555,9 @@
      "ans": 3,
      "exp": "The Stroop effect is the delayed reaction when you must say the color of a word instead of the word itself.",
      "why": [
-      "",
-      "",
-      "",
+      "\"Change blindness\" means: Failing to notice changes in the environment because your attention is directed elsewhere.",
+      "\"Cocktail party effect\" means: The ability to focus auditory attention on a particular voice or sound while filtering out others. In a crowded room, you can focus on the voice of the one person you're talking with.",
+      "\"Weber's law\" means: For an average person to perceive a difference, two stimuli must differ by a constant percentage, not a constant amount.",
       ""
      ]
     },
@@ -575,10 +575,10 @@
      "ans": 1,
      "exp": "Missing a CHANGE = change blindness. Not seeing the pedestrian at all is inattentional blindness, the trap answer.",
      "why": [
+      "Missing a visible object entirely is inattentional blindness.",
       "",
-      "",
-      "",
-      ""
+      "That's the cocktail party effect.",
+      "That's an absolute threshold."
      ]
     },
     {
@@ -596,9 +596,9 @@
      "exp": "Failing to see a visible object because attention is elsewhere = inattentional blindness. The shirt is change blindness.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "Missing a change is change blindness.",
+      "That's the pop-out phenomenon.",
+      "Noticing a change is about the difference threshold."
      ]
     },
     {
@@ -615,10 +615,10 @@
      "ans": 1,
      "exp": "Both come from attention being directed elsewhere. The difference is missing a change vs. missing an object.",
      "why": [
+      "They happen to healthy brains; attention is elsewhere.",
       "",
-      "",
-      "",
-      ""
+      "Both are usually about seeing.",
+      "ESP has no scientific basis; these are attention effects."
      ]
     },
     {
@@ -636,9 +636,9 @@
      "exp": "Her friend was fully visible, but her attention was directed elsewhere.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "\"Cocktail party effect\" means: The ability to focus auditory attention on a particular voice or sound while filtering out others. In a crowded room, you can focus on the voice of the one person you're talking with.",
+      "\"Absolute threshold\" means: The weakest amount of a stimulus that a person can detect 50% of the time: the moment when you notice something.",
+      "\"Precognition\" means: Perceiving future events."
      ]
     },
     {
@@ -655,10 +655,10 @@
      "ans": 1,
      "exp": "Focusing auditory attention on one voice while filtering out others is the cocktail party effect.",
      "why": [
+      "\"Pop-out phenomenon\" means: Something different popping out to get our attention, like the one laughing face in the cartoon of a crying movie audience on your slides.",
       "",
-      "",
-      "",
-      ""
+      "\"Change blindness\" means: Failing to notice changes in the environment because your attention is directed elsewhere.",
+      "\"Difference threshold (just noticeable difference)\" means: The minimum amount something needs to change before a person notices the change 50% of the time."
      ]
     },
     {
@@ -676,9 +676,9 @@
      "exp": "That's part of the cocktail party effect on your slides.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "It's about attention to meaningful words, not a lower threshold.",
+      "\"Top-down processing\" means: Using your knowledge, experience, or context to understand and interpret sensory perceptions. This is perception.",
+      "\"Change blindness\" means: Failing to notice changes in the environment because your attention is directed elsewhere."
      ]
     },
     {
@@ -695,9 +695,9 @@
      "ans": 3,
      "exp": "Something different popping out to get your attention is the pop-out phenomenon.",
      "why": [
-      "",
-      "",
-      "",
+      "\"Inattentional blindness\" means: Failing to see visible objects when your attention is directed elsewhere.",
+      "\"Stroop effect\" means: Delayed reaction time when you must say the color of a word but not the name of the word. Example from your slides: the word GREEN printed in purple, where you have to say \"purple.\"",
+      "\"Clairvoyance\" means: Perceiving events you didn't actually witness, like knowing where a body is buried or how someone was murdered.",
       ""
      ]
     },
@@ -715,10 +715,10 @@
      "ans": 2,
      "exp": "Bottom-up = sensation. Top-down = perception.",
      "why": [
+      "Reversed.",
+      "Both happen in every sense.",
       "",
-      "",
-      "",
-      ""
+      "They're different: sensation vs. perception."
      ]
     },
     {
@@ -735,9 +735,9 @@
      "ans": 3,
      "exp": "Your slides: being aware of the squiggle is bottom-up; knowing what it means is top-down.",
      "why": [
-      "",
-      "",
-      "",
+      "\"Bottom-up processing\" means: Sensory receptors throughout the body register information about the external environment and send it up to the brain for processing. This is sensation.",
+      "\"Absolute threshold\" means: The weakest amount of a stimulus that a person can detect 50% of the time: the moment when you notice something.",
+      "\"Selective attention\" means: Focusing your conscious awareness on a particular stimulus and NOT something else.",
       ""
      ]
     },
@@ -755,10 +755,10 @@
      "ans": 2,
      "exp": "The mind doesn't read every letter by itself, but the word as a whole. That's top-down.",
      "why": [
+      "\"Bottom-up processing\" means: Sensory receptors throughout the body register information about the external environment and send it up to the brain for processing. This is sensation.",
+      "\"Stroop effect\" means: Delayed reaction time when you must say the color of a word but not the name of the word. Example from your slides: the word GREEN printed in purple, where you have to say \"purple.\"",
       "",
-      "",
-      "",
-      ""
+      "\"Weber's law\" means: For an average person to perceive a difference, two stimuli must differ by a constant percentage, not a constant amount."
      ]
     },
     {
@@ -776,9 +776,9 @@
      "exp": "Bottom-up = receptors registering information and sending it up. The others all use knowledge or context (top-down).",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "Using past experience is top-down.",
+      "\"Reading scrambled words\" means: You can read words with scrambled middle letters as long as the first and last letters are in the right place, because the mind reads the word as a whole, not every letter by itself. An example of top-down processing.",
+      "Using context is top-down."
      ]
     },
     {
@@ -793,11 +793,11 @@
       "The weakest amount of a stimulus a person can detect 50% of the time"
      ],
      "ans": 3,
-     "exp": "Absolute = detecting it at all. The second option is the difference threshold, the trap answer.",
+     "exp": "Absolute = detecting it at all. \"The smallest change in a stimulus a person can notice 50% of the time\" is the difference threshold, the trap answer.",
      "why": [
-      "",
-      "",
-      "",
+      "That's the difference threshold.",
+      "Not the absolute threshold.",
+      "Weber's law says a constant percentage, and that's about changes.",
       ""
      ]
     },
@@ -815,10 +815,10 @@
      "ans": 2,
      "exp": "The watch is the faintest sound you can detect. The other two \"noticing\" options are about changes (difference threshold).",
      "why": [
+      "Noticing a change is the difference threshold.",
+      "Noticing a change is the difference threshold.",
       "",
-      "",
-      "",
-      ""
+      "That's change blindness."
      ]
     },
     {
@@ -835,9 +835,9 @@
      "ans": 3,
      "exp": "JND = the smallest change you notice half the time.",
      "why": [
-      "",
-      "",
-      "",
+      "That's the absolute threshold.",
+      "That's the cocktail party effect.",
+      "That's ESP (clairvoyance).",
       ""
      ]
     },
@@ -855,9 +855,9 @@
      "ans": 3,
      "exp": "Weber = percentage, not amount.",
      "why": [
-      "",
-      "",
-      "",
+      "Weber's law is about a percentage, not an amount.",
+      "A fixed amount doesn't work for every weight.",
+      "For weight it's about 2%.",
       ""
      ]
     },
@@ -875,10 +875,10 @@
      "ans": 2,
      "exp": "1 ounce is only 1% of 100 ounces, below the 2% needed for weight. The others are 10% or more.",
      "why": [
+      "That's a 10% change, easy to notice.",
+      "That's 10%, easy to notice.",
       "",
-      "",
-      "",
-      ""
+      "That's 50%, very easy to notice."
      ]
     },
     {
@@ -896,9 +896,9 @@
      "exp": "Your slides: weight must change by 2%.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "Far more than needed; weight needs about 2%.",
+      "Weber's law is a percentage, not an amount.",
+      "Weber's law is a percentage, not an amount."
      ]
     },
     {
@@ -915,10 +915,10 @@
      "ans": 1,
      "exp": "Weber's law: a constant percentage, not a constant amount.",
      "why": [
+      "The absolute threshold is about detecting at all, not changes.",
       "",
-      "",
-      "",
-      ""
+      "Not related to Weber's law.",
+      "\"Stroop effect\" means: Delayed reaction time when you must say the color of a word but not the name of the word. Example from your slides: the word GREEN printed in purple, where you have to say \"purple.\""
      ]
     },
     {
@@ -936,9 +936,9 @@
      "exp": "Telepathy = mind-to-mind communication.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "\"Clairvoyance\" means: Perceiving events you didn't actually witness, like knowing where a body is buried or how someone was murdered.",
+      "\"Precognition\" means: Perceiving future events.",
+      "\"Selective attention\" means: Focusing your conscious awareness on a particular stimulus and NOT something else."
      ]
     },
     {
@@ -956,9 +956,9 @@
      "exp": "Precognition = perceiving future events.",
      "why": [
       "",
-      "",
-      "",
-      ""
+      "\"Telepathy\" means: Mind-to-mind communication.",
+      "\"Clairvoyance\" means: Perceiving events you didn't actually witness, like knowing where a body is buried or how someone was murdered.",
+      "\"Pop-out phenomenon\" means: Something different popping out to get our attention, like the one laughing face in the cartoon of a crying movie audience on your slides."
      ]
     },
     {
@@ -975,10 +975,10 @@
      "ans": 1,
      "exp": "Your slides: no scientific basis, and psychics do no better than guesses.",
      "why": [
+      "Psychics do no better than guesses.",
       "",
-      "",
-      "",
-      ""
+      "\"Telepathy\" means: Mind-to-mind communication.",
+      "\"Precognition\" means: Perceiving future events."
      ]
     },
     {
@@ -995,10 +995,10 @@
      "ans": 2,
      "exp": "So many predictions → a few hits; people focus on the 1 or 2 correct ones.",
      "why": [
+      "There's no evidence for that.",
+      "Everyone uses top-down processing.",
       "",
-      "",
-      "",
-      ""
+      "Most are wrong; people remember the hits."
      ]
     },
     {
@@ -1015,10 +1015,10 @@
      "ans": 2,
      "exp": "Telepathy = mind to mind, precognition = the future, and failing to notice a change is change blindness.",
      "why": [
+      "\"Telepathy\" means: Mind-to-mind communication.",
+      "\"Precognition\" means: Perceiving future events.",
       "",
-      "",
-      "",
-      ""
+      "\"Pop-out phenomenon\" means: Something different popping out to get our attention, like the one laughing face in the cartoon of a crying movie audience on your slides."
      ]
     }
    ]

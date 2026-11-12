@@ -1,0 +1,447 @@
+{
+ "A researcher records how children play at recess without interacting with them or changing anything. Which method is this?": {
+  "Case study": "\"Case study\" means: A descriptive method that examines one individual or group in depth.",
+  "Survey": "\"Survey\" means: A descriptive technique used to get the self-reported attitudes and behaviors of a particular group, usually by questioning a representative random sample of the group.",
+  "Experiment": "An experiment manipulates a variable; here nothing is changed."
+ },
+ "Students who miss more school tend to have lower grades. This is a:": {
+  "Positive correlation": "\"Positive correlation\" means: Two variables increase or decrease together. Examples from your slides: as sleep increases, memory increases; as salary decreases, spending also decreases; as hourly pay increases, employee morale increases.",
+  "Zero correlation": "\"Zero (no) correlation\" means: No relationship between the two variables. On a scatterplot, the dots are scattered with no pattern.",
+  "Proven cause-and-effect relationship": "A correlation can't prove cause and effect."
+ },
+ "A study tests whether caffeine improves memory. One group gets caffeine, the other gets none, then both take a memory test. What is the dependent variable?": {
+  "Caffeine": "Caffeine is what the researcher changes: the independent variable.",
+  "The group with no caffeine": "That's the control group, not a variable that's measured.",
+  "The number of participants": "That's the sample size, not the outcome being measured."
+ },
+ "In the caffeine study, the group that gets no caffeine is the:": {
+  "Experimental group": "\"Experimental group\" means: Participants who receive the manipulated variable. Example from your slides: the group that takes the antidepressant.",
+  "Population": "\"Population\" means: The group that the research is meant to apply to.",
+  "Confounding variable": "\"Confounding variable\" means: An outside influence that affects the results of the study. Example from your slides: when studying how exercise (IV) affects weight loss (DV), possible confounding variables are diet, amount of sleep, and genetic issues."
+ },
+ "Factory workers become more productive just because they know researchers are watching them. This is the:": {
+  "Placebo effect": "\"Placebo effect\" means: Experimental results caused by expectations alone. Example: participants act or claim to feel a certain way because they think they received a drug that would cause that reaction.",
+  "Barnum effect": "\"Barnum effect\" means: Believing that personality descriptions apply specifically to you (more than to other people), even though the description is filled with information that applies to everyone. Example: your horoscope.",
+  "Gambler's fallacy": "\"Gambler's fallacy\" means: The tendency to overestimate the occurrence of patterns in random data."
+ },
+ "After the game, Sam says, \"I knew they would lose all along.\" This is:": {
+  "Overconfidence": "\"Overconfidence\" means: The tendency to overestimate your knowledge and/or ability.",
+  "Gambler's fallacy": "\"Gambler's fallacy\" means: The tendency to overestimate the occurrence of patterns in random data.",
+  "Social desirability bias": "\"Social desirability bias\" means: People giving answers that may be dishonest because they are seeking approval and/or want to highlight their character strengths."
+ },
+ "After an experiment, participants are told the study's real purpose and about any deception. This is called:": {
+  "Informed consent": "\"Informed consent\" means: Giving potential participants enough information about the study to let them choose whether or not to participate.",
+  "Confidentiality": "\"Confidentiality\" means: Participants' information is kept private.",
+  "Replication": "Replication means repeating a study to see if the results hold."
+ },
+ "On an anonymous-looking survey about cheating, almost no students admit to cheating, even though many do. The most likely problem is:": {
+  "The Hawthorne effect": "\"Hawthorne effect\" means: Participants changing their behavior because they know they are being observed.",
+  "The placebo effect": "\"Placebo effect\" means: Experimental results caused by expectations alone. Example: participants act or claim to feel a certain way because they think they received a drug that would cause that reaction.",
+  "Gambler's fallacy": "\"Gambler's fallacy\" means: The tendency to overestimate the occurrence of patterns in random data."
+ },
+ "Mr. Epstein gives his students candy to reward them for doing their homework. Which perspective fits best?": {
+  "Cognitive": "\"Cognitive perspective\" means: How our internal thought processes shape our behavior. Emphasizes memory, problem solving, intelligence, and perception.",
+  "Humanistic": "\"Humanistic perspective\" means: How humans can achieve their full potential, emphasizing free will, self-efficacy, and self-actualization. Also emphasizes relationships, positivity, and maximizing well-being.",
+  "Psychodynamic": "\"Psychodynamic perspective\" means: Behavior is influenced by your unconscious mind and past experiences, especially those from childhood. Based heavily on the ideas of Freud."
+ },
+ "Doctors believe Rosa suffers from schizophrenia because there is too much dopamine in her brain. Which perspective fits best?": {
+  "Psychodynamic": "\"Psychodynamic perspective\" means: Behavior is influenced by your unconscious mind and past experiences, especially those from childhood. Based heavily on the ideas of Freud.",
+  "Sociocultural": "\"Sociocultural perspective\" means: Humans behave and act differently based on the influences of their culture or way of life.",
+  "Evolutionary": "\"Evolutionary perspective\" means: Human behavior is a result of evolutionary processes that protect us, give us adaptive behaviors, and help us be more successful at reproducing."
+ },
+ "Alex is learning to focus on positive relationships and his future potential, instead of the past, to improve his self-esteem. Which perspective fits best?": {
+  "Psychodynamic": "\"Psychodynamic perspective\" means: Behavior is influenced by your unconscious mind and past experiences, especially those from childhood. Based heavily on the ideas of Freud.",
+  "Behavioral": "\"Behavioral perspective\" means: How our behaviors have been influenced by our learned experiences. We often repeat behaviors that are reinforced by positive rewards.",
+  "Biological": "\"Biological perspective\" means: The importance of genetics, brain chemistry, hormones, and neurotransmitters (like dopamine and serotonin) in influencing behavior and thinking."
+ },
+ "Juliette's therapist believes her anxiety is influenced by her poor relationship with her father as a child. Which perspective fits best?": {
+  "Humanistic": "\"Humanistic perspective\" means: How humans can achieve their full potential, emphasizing free will, self-efficacy, and self-actualization. Also emphasizes relationships, positivity, and maximizing well-being.",
+  "Cognitive": "\"Cognitive perspective\" means: How our internal thought processes shape our behavior. Emphasizes memory, problem solving, intelligence, and perception.",
+  "Evolutionary": "\"Evolutionary perspective\" means: Human behavior is a result of evolutionary processes that protect us, give us adaptive behaviors, and help us be more successful at reproducing."
+ },
+ "Jason's fear of snakes is a survival instinct his ancestors also had. Which perspective fits best?": {
+  "Behavioral": "\"Behavioral perspective\" means: How our behaviors have been influenced by our learned experiences. We often repeat behaviors that are reinforced by positive rewards.",
+  "Biological": "\"Biological perspective\" means: The importance of genetics, brain chemistry, hormones, and neurotransmitters (like dopamine and serotonin) in influencing behavior and thinking.",
+  "Sociocultural": "\"Sociocultural perspective\" means: Humans behave and act differently based on the influences of their culture or way of life."
+ },
+ "Heather wears skirts and dresses because that is the norm in the society where she lives. Which perspective fits best?": {
+  "Evolutionary": "\"Evolutionary perspective\" means: Human behavior is a result of evolutionary processes that protect us, give us adaptive behaviors, and help us be more successful at reproducing.",
+  "Humanistic": "\"Humanistic perspective\" means: How humans can achieve their full potential, emphasizing free will, self-efficacy, and self-actualization. Also emphasizes relationships, positivity, and maximizing well-being.",
+  "Cognitive": "\"Cognitive perspective\" means: How our internal thought processes shape our behavior. Emphasizes memory, problem solving, intelligence, and perception."
+ },
+ "Carl takes antidepressants to help improve his mood. Which perspective fits best?": {
+  "Cognitive": "\"Cognitive perspective\" means: How our internal thought processes shape our behavior. Emphasizes memory, problem solving, intelligence, and perception.",
+  "Humanistic": "\"Humanistic perspective\" means: How humans can achieve their full potential, emphasizing free will, self-efficacy, and self-actualization. Also emphasizes relationships, positivity, and maximizing well-being.",
+  "Psychodynamic": "\"Psychodynamic perspective\" means: Behavior is influenced by your unconscious mind and past experiences, especially those from childhood. Based heavily on the ideas of Freud."
+ },
+ "Jason has been feeling very negatively about work, so his therapist encourages him to change how he thinks about it. Which perspective fits best?": {
+  "Behavioral": "\"Behavioral perspective\" means: How our behaviors have been influenced by our learned experiences. We often repeat behaviors that are reinforced by positive rewards.",
+  "Biological": "\"Biological perspective\" means: The importance of genetics, brain chemistry, hormones, and neurotransmitters (like dopamine and serotonin) in influencing behavior and thinking.",
+  "Evolutionary": "\"Evolutionary perspective\" means: Human behavior is a result of evolutionary processes that protect us, give us adaptive behaviors, and help us be more successful at reproducing."
+ },
+ "What is the mean of 2, 4, 6, 8, 10?": {
+  "5": "5 is the number of scores, not their average.",
+  "8": "8 is one of the scores; the sum (30) ÷ 5 is 6.",
+  "4": "4 is one of the scores; the sum (30) ÷ 5 is 6."
+ },
+ "What is the median of 3, 9, 1, 7, 5?": {
+  "7": "\"The scientific method (7 steps)\" means: 1. Observe some aspect of the universe. 2. Develop a theory. 3. Use the theory to make a hypothesis. 4. Test the predictions with experiments, using operational definitions. 5. Evaluate the results. 6. Modify the theory in light of your findings. 7. Replicate.",
+  "9": "9 is the highest score; put them in order and take the middle one.",
+  "3": "\"3 key principles\" means: 1. Representative samples are better than unrepresentative samples. 2. Bigger samples are better than small ones. 3. More estimates are better than fewer estimates."
+ },
+ "What is the mode of 4, 7, 7, 2, 9, 7, 4?": {
+  "4": "4 appears twice; 7 appears three times.",
+  "9": "9 appears only once.",
+  "2": "2 appears only once."
+ },
+ "Test scores: 60, 72, 85, 90, 95. What is the range?": {
+  "80.4": "80.4 is the mean, not the range.",
+  "85": "85 is the median, not the range.",
+  "25": "Range is highest minus lowest: 95 − 60, not 85 − 60."
+ },
+ "On a very hard test, most students score low, but a few score very high. The distribution is:": {
+  "Negatively skewed": "Negative skew has its tail on the left, from a few very low scores.",
+  "Symmetrical": "\"Symmetrical distribution\" means: No skew: mean = median = mode.",
+  "Bimodal": "\"Bimodal curve\" means: A graph with two peaks (\"bi\" means two). Each peak is a local maximum: the highest values compared with the data points right around them."
+ },
+ "On a very easy quiz, most students score near 100, but a few score very low. How does the mean compare to the median?": {
+  "The mean is higher than the median": "The few low scores pull the mean down, not up.",
+  "They are equal": "They're equal only in a symmetrical distribution.",
+  "There is no mean": "Every set of numbers has a mean."
+ },
+ "A study finds p = .03. What does this mean?": {
+  "The result is not significant": "p ≤ .05 counts as significant, and .03 is below .05.",
+  "The effect is very strong": "A p-value doesn't measure strength; effect size does.",
+  "3% of participants improved": "A p-value isn't a percentage of participants."
+ },
+ "Jada scored in the 90th percentile on a practice test. This means:": {
+  "She got 90% of the questions right": "Percentile compares you with other test takers, not with the number of questions.",
+  "90 people took the test": "Percentile isn't a count of test takers.",
+  "She scored 90 points above the mean": "Percentile isn't a point score."
+ },
+ "Antonio is feeling much healthier now that he is focusing on his positive traits and having good relationships. Which perspective fits best?": {
+  "Biological": "\"Biological perspective\" means: The importance of genetics, brain chemistry, hormones, and neurotransmitters (like dopamine and serotonin) in influencing behavior and thinking.",
+  "Psychodynamic": "\"Psychodynamic perspective\" means: Behavior is influenced by your unconscious mind and past experiences, especially those from childhood. Based heavily on the ideas of Freud.",
+  "Behavioral": "\"Behavioral perspective\" means: How our behaviors have been influenced by our learned experiences. We often repeat behaviors that are reinforced by positive rewards."
+ },
+ "Which perspective is based heavily on the ideas of Freud?": {
+  "Humanistic": "\"Humanistic perspective\" means: How humans can achieve their full potential, emphasizing free will, self-efficacy, and self-actualization. Also emphasizes relationships, positivity, and maximizing well-being.",
+  "Cognitive": "\"Cognitive perspective\" means: How our internal thought processes shape our behavior. Emphasizes memory, problem solving, intelligence, and perception.",
+  "Sociocultural": "\"Sociocultural perspective\" means: Humans behave and act differently based on the influences of their culture or way of life."
+ },
+ "Which perspective focuses on genetics, brain chemistry, hormones, and neurotransmitters?": {
+  "Evolutionary": "\"Evolutionary perspective\" means: Human behavior is a result of evolutionary processes that protect us, give us adaptive behaviors, and help us be more successful at reproducing.",
+  "Cognitive": "\"Cognitive perspective\" means: How our internal thought processes shape our behavior. Emphasizes memory, problem solving, intelligence, and perception.",
+  "Behavioral": "\"Behavioral perspective\" means: How our behaviors have been influenced by our learned experiences. We often repeat behaviors that are reinforced by positive rewards."
+ },
+ "Which perspective emphasizes memory, problem solving, intelligence, and perception?": {
+  "Behavioral": "\"Behavioral perspective\" means: How our behaviors have been influenced by our learned experiences. We often repeat behaviors that are reinforced by positive rewards.",
+  "Humanistic": "\"Humanistic perspective\" means: How humans can achieve their full potential, emphasizing free will, self-efficacy, and self-actualization. Also emphasizes relationships, positivity, and maximizing well-being.",
+  "Psychodynamic": "\"Psychodynamic perspective\" means: Behavior is influenced by your unconscious mind and past experiences, especially those from childhood. Based heavily on the ideas of Freud."
+ },
+ "Which of the following best describes the behavioral perspective?": {
+  "Behavior comes from the unconscious mind.": "That's the psychodynamic perspective.",
+  "Behavior is mostly determined by genes.": "That's the biological perspective.",
+  "Behavior depends on a person's culture.": "That's the sociocultural perspective."
+ },
+ "Which of the following best describes the evolutionary perspective?": {
+  "Behavior is shaped by childhood memories.": "That's the psychodynamic perspective.",
+  "Behavior is shaped by social norms.": "That's the sociocultural perspective.",
+  "Behavior depends on how we think about situations.": "That's the cognitive perspective."
+ },
+ "Charles has a terrible fear of spiders. Which explanation fits the evolutionary perspective?": {
+  "A frightening spider experience from early childhood is affecting him unconsciously.": "Unconscious childhood experience is psychodynamic.",
+  "His thoughts about spiders are exaggerated and unrealistic.": "Focusing on thoughts is cognitive.",
+  "In his culture, spiders are treated as scary and disgusting.": "Culture is sociocultural."
+ },
+ "Charles has a terrible fear of spiders. Which explanation fits the psychodynamic perspective?": {
+  "Fearing spiders helped his ancestors survive.": "Ancestors' survival is evolutionary.",
+  "His brain chemistry makes him more anxious.": "Brain chemistry is biological.",
+  "People around him taught him spiders are gross.": "Learning from others fits the behavioral or sociocultural view, not the unconscious."
+ },
+ "Charles has a terrible fear of spiders. Which explanation fits the cognitive perspective?": {
+  "He inherited a gene linked to anxiety.": "Genes are biological.",
+  "In his culture, spiders are seen as dangerous.": "Culture is sociocultural.",
+  "He has an unconscious memory of being bitten.": "The unconscious is psychodynamic."
+ },
+ "Charles has a terrible fear of spiders. Which explanation fits the sociocultural perspective?": {
+  "Fearing spiders helped his ancestors survive.": "Ancestors' survival is evolutionary.",
+  "His neurotransmitter levels are unusual.": "Neurotransmitters are biological.",
+  "He focuses on his potential to overcome fear.": "Focusing on potential and growth is humanistic."
+ },
+ "Suzanne loves romantic comedy movies. Which explanation uses the biological perspective?": {
+  "In her culture, it's popular for women to enjoy romantic movies.": "Culture is the sociocultural explanation.",
+  "She was often taken to romantic movies as a child.": "Childhood experience points to a learning or psychodynamic explanation.",
+  "She enjoys predicting how the plot will turn out.": "Thinking and predicting is cognitive."
+ },
+ "A therapist helps a client focus on free will, self-actualization, and reaching their full potential. Which perspective is the therapist using?": {
+  "Psychodynamic": "\"Psychodynamic perspective\" means: Behavior is influenced by your unconscious mind and past experiences, especially those from childhood. Based heavily on the ideas of Freud.",
+  "Behavioral": "\"Behavioral perspective\" means: How our behaviors have been influenced by our learned experiences. We often repeat behaviors that are reinforced by positive rewards.",
+  "Biological": "\"Biological perspective\" means: The importance of genetics, brain chemistry, hormones, and neurotransmitters (like dopamine and serotonin) in influencing behavior and thinking."
+ },
+ "A psychologist argues that a teen's aggression is mostly due to high testosterone levels. Which perspective is this?": {
+  "Sociocultural": "\"Sociocultural perspective\" means: Humans behave and act differently based on the influences of their culture or way of life.",
+  "Cognitive": "\"Cognitive perspective\" means: How our internal thought processes shape our behavior. Emphasizes memory, problem solving, intelligence, and perception.",
+  "Humanistic": "\"Humanistic perspective\" means: How humans can achieve their full potential, emphasizing free will, self-efficacy, and self-actualization. Also emphasizes relationships, positivity, and maximizing well-being."
+ },
+ "A researcher compares how families in different countries discipline their children, expecting differences based on each country's way of life. Which perspective is this?": {
+  "Evolutionary": "\"Evolutionary perspective\" means: Human behavior is a result of evolutionary processes that protect us, give us adaptive behaviors, and help us be more successful at reproducing.",
+  "Psychodynamic": "\"Psychodynamic perspective\" means: Behavior is influenced by your unconscious mind and past experiences, especially those from childhood. Based heavily on the ideas of Freud.",
+  "Cognitive": "\"Cognitive perspective\" means: How our internal thought processes shape our behavior. Emphasizes memory, problem solving, intelligence, and perception."
+ },
+ "Which of the following best explains why psychologists use different perspectives?": {
+  "Only one perspective can be correct.": "Several perspectives can explain the same behavior.",
+  "Each perspective is used for only one type of behavior.": "Any behavior can be viewed through several lenses.",
+  "Perspectives are only used to diagnose disorders.": "They explain all kinds of behavior, not just disorders."
+ },
+ "Which of the following best explains why psychologists rely on research instead of intuition?": {
+  "Intuition is always wrong.": "Too extreme; intuition is unreliable, not always wrong.",
+  "Research never contains errors.": "Research can have errors; that's why studies are replicated.",
+  "Intuition only works for experts.": "Your slides name biases that affect everyone."
+ },
+ "Which of the following is the correct order of the first four steps of the scientific method?": {
+  "Make a hypothesis → observe → replicate → develop a theory": "Observation comes first, and replication comes last.",
+  "Test → observe → develop a theory → evaluate": "You can't test before you have a hypothesis.",
+  "Develop a theory → replicate → observe → make a hypothesis": "Observation comes first; replication comes last."
+ },
+ "A researcher decides that \"smiling\" means at least four teeth showing and \"friendly\" means the photographer tells at least two jokes. These are:": {
+  "Hypotheses": "A hypothesis is a testable prediction, not a definition of how to measure.",
+  "Confounding variables": "\"Confounding variable\" means: An outside influence that affects the results of the study. Example from your slides: when studying how exercise (IV) affects weight loss (DV), possible confounding variables are diet, amount of sleep, and genetic issues.",
+  "Theories": "A theory explains observations; it doesn't define measurements."
+ },
+ "Which of the following best explains why operational definitions are important?": {
+  "They guarantee the hypothesis will be supported.": "Nothing guarantees a hypothesis will be supported.",
+  "They replace the need for a control group.": "Experiments still need a control group.",
+  "They make the sample representative.": "Random sampling, not definitions, makes a sample representative."
+ },
+ "A researcher repeats another scientist's study with new participants to see whether the results hold up. This is:": {
+  "Debriefing": "\"Debriefing\" means: The explanation after the experiment of what the study was about, including its purpose and any deception.",
+  "Sampling bias": "\"Sampling bias\" means: Researchers targeting participants to make their hypothesis more likely to be proven, or failing to gather a representative sample of the population, leading to skewed results.",
+  "Naturalistic observation": "\"Naturalistic observation\" means: A descriptive technique that observes and records behavior in naturally occurring situations, without trying to manipulate or control the situation."
+ },
+ "Which research method is the only one that can establish cause and effect?": {
+  "Correlational study": "Correlation shows a relationship, not cause and effect.",
+  "Case study": "\"Case study\" means: A descriptive method that examines one individual or group in depth.",
+  "Survey": "\"Survey\" means: A descriptive technique used to get the self-reported attitudes and behaviors of a particular group, usually by questioning a representative random sample of the group."
+ },
+ "A psychologist spends two years studying one patient with a rare memory disorder in great detail. Which of the following is the biggest weakness of this method?": {
+  "It gives too little in-depth information.": "Case studies give a lot of depth; that's their strength.",
+  "It cannot describe behavior.": "Case studies describe behavior in detail.",
+  "It always involves deception.": "Case studies don't require deception."
+ },
+ "A researcher wants to know how 2,000 teens feel about social media and needs results quickly. Which method fits best?": {
+  "Case study": "\"Case study\" means: A descriptive method that examines one individual or group in depth.",
+  "Naturalistic observation": "\"Naturalistic observation\" means: A descriptive technique that observes and records behavior in naturally occurring situations, without trying to manipulate or control the situation.",
+  "Experiment": "An experiment tests cause and effect; it isn't the quick way to collect opinions."
+ },
+ "Which of the following is a disadvantage of naturalistic observation?": {
+  "Subjects behave less honestly than in a lab.": "People usually act more naturally in their own setting, not less.",
+  "It requires manipulating variables.": "Nothing is manipulated in naturalistic observation.",
+  "It only studies one person.": "That's a case study."
+ },
+ "As hours of sleep decrease, levels of stress increase. Which type of correlation is this?": {
+  "Positive": "In a positive correlation both move the same way; here they move opposite ways.",
+  "Zero": "\"Zero (no) correlation\" means: No relationship between the two variables. On a scatterplot, the dots are scattered with no pattern.",
+  "Perfect positive": "They move in opposite directions, so it can't be positive."
+ },
+ "As salary decreases, spending also decreases. Which type of correlation is this?": {
+  "Negative": "Both go down together, which is a positive correlation.",
+  "Zero": "\"Zero (no) correlation\" means: No relationship between the two variables. On a scatterplot, the dots are scattered with no pattern.",
+  "It isn't a correlation": "Two variables moving together is a correlation."
+ },
+ "Which correlation coefficient shows the strongest relationship?": {
+  "+0.5": "0.5 is farther from 1 than 0.9 is.",
+  "0": "0 means no relationship.",
+  "+0.3": "0.3 is a weak relationship."
+ },
+ "A study finds that students who eat breakfast earn higher grades. Which conclusion is most appropriate?": {
+  "Eating breakfast causes higher grades.": "A correlation can't show cause.",
+  "Higher grades cause students to eat breakfast.": "A correlation can't show cause in either direction.",
+  "There is no relationship between them.": "The study found a relationship."
+ },
+ "Ice cream sales and sunburns rise together. According to your slides, which of the following best explains this?": {
+  "Ice cream causes sunburns.": "Correlation doesn't mean one causes the other.",
+  "Sunburns make people buy ice cream.": "Correlation doesn't mean one causes the other.",
+  "It's a negative correlation.": "They rise together, so it's positive."
+ },
+ "A researcher randomly picks 500 names from a list of every student in a school, so every student has an equal chance of being chosen. This is a:": {
+  "Population": "\"Population\" means: The group that the research is meant to apply to.",
+  "Control group": "\"Control group\" means: Participants who do not receive the manipulated variable. Example from your slides: the group that doesn't take the antidepressant. Comparing the groups shows whether the medication really reduces depression.",
+  "Case study": "\"Case study\" means: A descriptive method that examines one individual or group in depth."
+ },
+ "Plants are randomly put in a room with music or a silent room, and their height is measured after a month. What is the independent variable?": {
+  "Plant height": "Height is measured: that's the dependent variable.",
+  "The type of plant": "That would be held constant, not manipulated.",
+  "The length of the study": "That's held constant for both groups."
+ },
+ "In the same plant study, what is the dependent variable?": {
+  "Whether the plants hear music": "That's manipulated: the independent variable.",
+  "The silent room": "That's the control condition.",
+  "The type of plant": "That's held constant."
+ },
+ "A study tests whether exercise causes weight loss, but the exercise group also happened to eat healthier food. Diet is a:": {
+  "Dependent variable": "\"Dependent variable (DV)\" means: The factor that is measured or observed by the researcher. Examples from your slides: strength of memory; test scores.",
+  "Independent variable": "\"Independent variable (IV)\" means: The factor that is manipulated or controlled by the researcher. Examples from your slides: amount of sleep (does sleep deprivation cause poor memory?); temperature (does room temperature affect test scores?).",
+  "Control group": "\"Control group\" means: Participants who do not receive the manipulated variable. Example from your slides: the group that doesn't take the antidepressant. Comparing the groups shows whether the medication really reduces depression."
+ },
+ "Patients given a sugar pill they believe is a pain medication report feeling less pain. This is the:": {
+  "Hawthorne effect": "\"Hawthorne effect\" means: Participants changing their behavior because they know they are being observed.",
+  "Barnum effect": "\"Barnum effect\" means: Believing that personality descriptions apply specifically to you (more than to other people), even though the description is filled with information that applies to everyone. Example: your horoscope.",
+  "Gambler's fallacy": "\"Gambler's fallacy\" means: The tendency to overestimate the occurrence of patterns in random data."
+ },
+ "A horoscope says, \"You sometimes doubt yourself, but you have hidden strengths,\" and Mia thinks it describes her perfectly. This is the:": {
+  "Hindsight bias": "\"Hindsight bias\" means: The tendency to believe, after learning the outcome, that you would have foreseen it.",
+  "Placebo effect": "\"Placebo effect\" means: Experimental results caused by expectations alone. Example: participants act or claim to feel a certain way because they think they received a drug that would cause that reaction.",
+  "Self-report bias": "\"Self-report bias\" means: Participants try to affect the outcome of the research and/or are unrealistic about themselves. They may try to please the researcher or even purposely challenge the researcher's hypothesis."
+ },
+ "After a coin lands heads five times in a row, Leo bets on tails because tails is \"due.\" This is:": {
+  "Overconfidence": "\"Overconfidence\" means: The tendency to overestimate your knowledge and/or ability.",
+  "Hindsight bias": "\"Hindsight bias\" means: The tendency to believe, after learning the outcome, that you would have foreseen it.",
+  "The Barnum effect": "\"Barnum effect\" means: Believing that personality descriptions apply specifically to you (more than to other people), even though the description is filled with information that applies to everyone. Example: your horoscope."
+ },
+ "A survey asks, \"Don't you agree that dangerous video games should be banned?\" The biggest problem with this question is:": {
+  "The placebo effect": "\"Placebo effect\" means: Experimental results caused by expectations alone. Example: participants act or claim to feel a certain way because they think they received a drug that would cause that reaction.",
+  "The Hawthorne effect": "\"Hawthorne effect\" means: Participants changing their behavior because they know they are being observed.",
+  "Debriefing": "\"Debriefing\" means: The explanation after the experiment of what the study was about, including its purpose and any deception."
+ },
+ "A researcher studying the exercise habits of all Americans surveys only members of one gym. The main problem is:": {
+  "The placebo effect": "\"Placebo effect\" means: Experimental results caused by expectations alone. Example: participants act or claim to feel a certain way because they think they received a drug that would cause that reaction.",
+  "Hindsight bias": "\"Hindsight bias\" means: The tendency to believe, after learning the outcome, that you would have foreseen it.",
+  "Wording effects": "\"Wording effects (framing)\" means: How questions are worded can skew responses."
+ },
+ "Before a study begins, participants are told what it involves so they can decide whether to take part. This is:": {
+  "Debriefing": "\"Debriefing\" means: The explanation after the experiment of what the study was about, including its purpose and any deception.",
+  "Confidentiality": "\"Confidentiality\" means: Participants' information is kept private.",
+  "Replication": "Replication means repeating a study."
+ },
+ "Which of the following would violate the APA's ethical guidelines?": {
+  "Debriefing participants after a study": "\"Debriefing\" means: The explanation after the experiment of what the study was about, including its purpose and any deception.",
+  "Letting people choose whether to participate": "That's required (informed consent and voluntary participation).",
+  "Getting approval from a research institution": "That's required by the guidelines."
+ },
+ "Overconfidence is best described as:": {
+  "Believing you knew the outcome all along": "That's hindsight bias.",
+  "Seeing patterns in random data": "That's misunderstanding probability (like the gambler's fallacy).",
+  "Giving answers that make you look good": "That's social desirability bias."
+ },
+ "Participants in a study answer questions in ways they think the researcher wants, or exaggerate how good they are. This is:": {
+  "Sampling bias": "\"Sampling bias\" means: Researchers targeting participants to make their hypothesis more likely to be proven, or failing to gather a representative sample of the population, leading to skewed results.",
+  "The placebo effect": "\"Placebo effect\" means: Experimental results caused by expectations alone. Example: participants act or claim to feel a certain way because they think they received a drug that would cause that reaction.",
+  "The gambler's fallacy": "\"Gambler's fallacy\" means: The tendency to overestimate the occurrence of patterns in random data."
+ },
+ "Which of the following best describes the purpose of descriptive statistics?": {
+  "To decide whether results apply to a whole population": "That's inferential statistics.",
+  "To manipulate variables": "That's what experiments do.",
+  "To prove cause and effect": "Statistics alone don't prove cause; experiments test it."
+ },
+ "Which type of graph is a bar graph that shows a frequency distribution?": {
+  "Scatterplot": "A scatterplot shows the relationship between two variables.",
+  "Pie chart": "A pie chart shows parts of a whole.",
+  "Line graph": "A line graph shows change over time."
+ },
+ "What is the mean of 3, 5, 7, 9, 11, 13?": {
+  "7": "\"The scientific method (7 steps)\" means: 1. Observe some aspect of the universe. 2. Develop a theory. 3. Use the theory to make a hypothesis. 4. Test the predictions with experiments, using operational definitions. 5. Evaluate the results. 6. Modify the theory in light of your findings. 7. Replicate.",
+  "9": "9 is one of the scores; 48 ÷ 6 = 8.",
+  "6": "6 is the number of scores, not the average."
+ },
+ "What is the median of 4, 10, 6, 2, 8, 12?": {
+  "6": "6 is one of the two middle scores; average 6 and 8.",
+  "8": "8 is one of the two middle scores; average 6 and 8.",
+  "10": "10 isn't in the middle when the scores are in order."
+ },
+ "For the data 2, 3, 3, 5, 9, 9, 9, 12, which statement is correct?": {
+  "Mode = 3, median = 5, mean = 6.5": "3 appears twice, but 9 appears three times; and the median is 7.",
+  "Mode = 9, median = 5, mean = 7": "The median averages 5 and 9 (= 7), and the mean is 52 ÷ 8 = 6.5.",
+  "Mode = 9, median = 7, mean = 7": "The mean is 52 ÷ 8 = 6.5, not 7."
+ },
+ "Scores: 55, 70, 70, 85, 100. What is the range?": {
+  "70": "70 is the mode and median.",
+  "76": "76 is the mean.",
+  "100": "100 is the highest score; subtract the lowest."
+ },
+ "Which of the following best explains why standard deviation is a more useful measure of variation than the range?": {
+  "It is easier to calculate.": "The range is easier to calculate.",
+  "It shows the most common score.": "That's the mode.",
+  "It is always smaller than the mean.": "Not always, and that isn't why it's useful."
+ },
+ "Class A and Class B both averaged 80 on a test. Class A's standard deviation is 3; Class B's is 15. Which statement is true?": {
+  "Class A's scores are more spread out.": "A smaller standard deviation means less spread.",
+  "Class B scored higher on average.": "Both averaged 80.",
+  "Both classes have the same spread.": "Different standard deviations mean different spreads."
+ },
+ "IQ scores have a mean of 100 and a standard deviation of 15. About what percent of people score between 85 and 115?": {
+  "95%": "95% is within 2 standard deviations (70–130).",
+  "50%": "50% is the share above or below the mean.",
+  "99%": "About 99.7% is within 3 standard deviations."
+ },
+ "On the same IQ scale, about 95% of people score between:": {
+  "85 and 115": "That's 1 standard deviation: about 68%.",
+  "55 and 145": "That's 3 standard deviations: about 99.7%.",
+  "100 and 130": "That's only one side of the mean."
+ },
+ "A billionaire moves into a small town where most families earn very little. Which measure best describes a typical family's income?": {
+  "Mean": "\"Mean\" means: The average. Add up all the numbers, then divide by how many numbers there are. Example from your slides: 2, 3, 4, 5, 5, 8 → mean = 4.5.",
+  "Range": "\"Range\" means: The difference between the highest and lowest scores: subtract the lowest from the highest. Example from your slides: 75, 78, 86, 92, 98, 100 → 100 − 75 = 25. Only a rough estimate of variation.",
+  "Standard deviation": "\"Standard deviation\" means: How much scores vary around the mean: whether they are packed together or spread out. A more useful measure of variation than the range."
+ },
+ "Which statement is true of a positively skewed distribution?": {
+  "Mean < median < mode": "That's negative skew.",
+  "Mean = median = mode": "That's a symmetrical (normal) distribution.",
+  "The tail goes to the left": "That's negative skew."
+ },
+ "In a negatively skewed distribution, the tail points:": {
+  "Right, and the mean is pulled right": "That's positive skew.",
+  "Left, and the mode is pulled left": "The mean follows the tail, not the mode.",
+  "Nowhere, because it's symmetrical": "Skewed distributions aren't symmetrical."
+ },
+ "Most families in a town earn $20,000–$50,000, but a few earn millions. How is income in this town distributed?": {
+  "Negatively skewed": "A few very high incomes make the tail point right: positive skew.",
+  "Symmetrical": "\"Symmetrical distribution\" means: No skew: mean = median = mode.",
+  "Bimodal": "\"Bimodal curve\" means: A graph with two peaks (\"bi\" means two). Each peak is a local maximum: the highest values compared with the data points right around them."
+ },
+ "A graph of the heights of a group of kindergartners and their parents has two clear peaks. This is a:": {
+  "Positive skew": "\"Positive skew\" means: The tail goes to the right, and the mean goes to the right too. Order: mean > median > mode.",
+  "Negative skew": "\"Negative skew\" means: The tail goes to the left, and the mean goes to the left too. Order: mean < median < mode.",
+  "Normal curve": "\"Normal curve\" means: A bell-shaped curve where most scores fall near the mean and fewer fall near either extreme."
+ },
+ "Which statement best describes inferential statistics?": {
+  "They organize data into histograms.": "That's descriptive statistics.",
+  "They find the middle score.": "That's the median, a descriptive statistic.",
+  "They measure how spread out scores are.": "That's variation, a descriptive statistic."
+ },
+ "Which is one of the three key principles of inferential statistics on your slides?": {
+  "Fewer estimates are better than more estimates.": "It's the reverse: more estimates are better.",
+  "Unrepresentative samples are better than representative ones.": "Representative samples are better.",
+  "One study is enough to generalize.": "More estimates (studies) are better than one."
+ },
+ "Why is meta-analysis useful?": {
+  "It studies one person in depth.": "That's a case study.",
+  "It removes the need for a sample.": "The studies it combines still use samples.",
+  "It guarantees that results are significant.": "Nothing guarantees significance."
+ },
+ "Alex asks two friends about each café and decides Café Mocha is better. Which of the following best explains why her conclusion isn't reliable?": {
+  "Her p-value is too small.": "She didn't compute a p-value, and a small one would mean significance.",
+  "She used a control group.": "She didn't, and a control group would help.",
+  "Her effect size is too large.": "She didn't measure effect size."
+ },
+ "A study reports p = .20. Which conclusion is correct?": {
+  "The result is significant because .20 is small.": "Significance needs p ≤ .05; .20 is too high.",
+  "The effect size is 20 points.": "\"Effect size\" means: The strength of the relationship between two variables. A p-value only tells you whether an effect exists; effect size tells you how strong it is. Your slide's example: a new study technique group averaged 85 vs. 75 for the usual group, a 10-point effect.",
+  "20% of participants improved.": "A p-value isn't a percentage of participants."
+ },
+ "Which statement about p-values and effect size is correct?": {
+  "They mean the same thing.": "They measure different things.",
+  "Effect size tells whether a result is due to chance.": "\"Effect size\" means: The strength of the relationship between two variables. A p-value only tells you whether an effect exists; effect size tells you how strong it is. Your slide's example: a new study technique group averaged 85 vs. 75 for the usual group, a 10-point effect.",
+  "A larger p-value means a stronger effect.": "A larger p-value means weaker evidence, and p doesn't measure strength."
+ },
+ "Students using a new study technique averaged 85; students studying as usual averaged 75. According to your slides, the 10-point difference is the:": {
+  "P-value": "\"P-value\" means: A number from 0 to 1 describing how likely it is that your data happened by random chance. The smaller the p-value, the less likely the results were due to chance. A p-value of .05 or less is statistically significant.",
+  "Range": "\"Range\" means: The difference between the highest and lowest scores: subtract the lowest from the highest. Example from your slides: 75, 78, 86, 92, 98, 100 → 100 − 75 = 25. Only a rough estimate of variation.",
+  "Percentile rank": "\"Percentile rank\" means: The percentage of scores that are less than a given score. Your slides call it a fourth measure of central tendency. Example: in the 85th percentile on a psychology test, your score is higher than 85% of your peers."
+ },
+ "Ty is in the 70th percentile on a psychology test. This means:": {
+  "He got 70% of the questions right.": "Percentile compares you with others, not with the number of questions.",
+  "He scored 70 points.": "Percentile isn't a point score.",
+  "70% of students scored higher than him.": "It's the reverse: 70% scored lower."
+ }
+}
