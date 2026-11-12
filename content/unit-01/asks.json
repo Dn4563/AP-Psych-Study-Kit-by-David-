@@ -18,6 +18,25 @@
     ]
    ],
    "exp": "Neurons are the basic building blocks of the nervous system."
+  },
+  {
+   "q": "About how many neurons form networks throughout the body, according to your card?",
+   "right": "Hundreds of billions",
+   "wrong": [
+    [
+     "A few thousand, mostly located in the spinal cord",
+     "Far too few."
+    ],
+    [
+     "Exactly one million",
+     "Not on your card."
+    ],
+    [
+     "About 50",
+     "Far too few."
+    ]
+   ],
+   "exp": "Hundreds of billions of neurons form networks."
   }
  ],
  "Glial cells (glia)": [
@@ -39,6 +58,25 @@
     ]
    ],
    "exp": "Glia = glue: they support the system."
+  },
+  {
+   "q": "Your slides compare glial cells to neurons in number. Which is true?",
+   "right": "Glia outnumber neurons about 50 to 1",
+   "wrong": [
+    [
+     "Neurons outnumber glia by about fifty to one in the brain",
+     "It's the other way around."
+    ],
+    [
+     "They are equal in number",
+     "Not on your slides."
+    ],
+    [
+     "Glia exist only in the spinal cord",
+     "They're in the brain."
+    ]
+   ],
+   "exp": "About 50x more glia than neurons."
   }
  ],
  "Dendrites": [
@@ -60,6 +98,25 @@
     ]
    ],
    "exp": "Dendrites = detect."
+  },
+  {
+   "q": "A drug blocks the receptors on a neuron's branch-like receiving parts. Which part is affected?",
+   "right": "The dendrites",
+   "wrong": [
+    [
+     "The axon, which carries signals away from the cell body",
+     "The axon sends, not receives."
+    ],
+    [
+     "The myelin sheath",
+     "Myelin has no receptors for messages."
+    ],
+    [
+     "The vesicles",
+     "Those store neurotransmitters."
+    ]
+   ],
+   "exp": "Dendrite receptors receive chemical signals."
   }
  ],
  "Soma": [
@@ -81,6 +138,25 @@
     ]
    ],
    "exp": "The soma is the cell body."
+  },
+  {
+   "q": "Which part of a neuron keeps the cell alive?",
+   "right": "The soma",
+   "wrong": [
+    [
+     "The terminal buttons at the very ends of the axon branches",
+     "Those hold vesicles."
+    ],
+    [
+     "The synapse",
+     "That is a gap."
+    ],
+    [
+     "The myelin sheath",
+     "That coats the axon."
+    ]
+   ],
+   "exp": "The soma holds the nucleus and keeps the cell alive."
   }
  ],
  "Axon": [
@@ -102,6 +178,25 @@
     ]
    ],
    "exp": "Axon = away from the cell body."
+  },
+  {
+   "q": "Myelin coats which part of a neuron?",
+   "right": "The axon",
+   "wrong": [
+    [
+     "The dendrites, which receive incoming chemical messages",
+     "Myelin coats the axon."
+    ],
+    [
+     "The soma",
+     "Myelin coats the axon."
+    ],
+    [
+     "The synapse",
+     "The synapse is a gap."
+    ]
+   ],
+   "exp": "Myelin protects the axon and speeds the signal."
   }
  ],
  "Myelin sheath": [
@@ -123,6 +218,25 @@
     ]
    ],
    "exp": "Myelin protects the axon and speeds the signal, like insulation on a wire."
+  },
+  {
+   "q": "Two runners touch a hot stove at the same moment. One has thick myelin on the neurons involved; the other's myelin is thin. Whose brain gets the pain signal first?",
+   "right": "The runner with thick myelin",
+   "wrong": [
+    [
+     "The runner with thin myelin, since thinner coating lets more signal through",
+     "Myelin speeds the signal up."
+    ],
+    [
+     "Both at exactly the same time",
+     "Myelin changes the speed."
+    ],
+    [
+     "Neither; myelin blocks pain",
+     "Myelin doesn't block signals."
+    ]
+   ],
+   "exp": "Myelin speeds up the electrical signal, like insulation on a wire."
   }
  ],
  "Terminal branches": [
@@ -144,6 +258,25 @@
     ]
    ],
    "exp": "Terminal branches are the axon's frayed ends, each ending in a terminal button."
+  },
+  {
+   "q": "In the path of a signal, what comes right after the axon?",
+   "right": "The terminal branches",
+   "wrong": [
+    [
+     "The dendrites of the very same neuron that sent the signal",
+     "Those are at the start."
+    ],
+    [
+     "The soma",
+     "That comes before the axon."
+    ],
+    [
+     "The cell nucleus",
+     "That is in the soma."
+    ]
+   ],
+   "exp": "Axon → terminal branches → terminal buttons."
   }
  ],
  "Terminal buttons": [
@@ -165,6 +298,25 @@
     ]
    ],
    "exp": "Terminal buttons are knobs that hold the vesicles."
+  },
+  {
+   "q": "Which structure sits at the very end of each terminal branch?",
+   "right": "A terminal button",
+   "wrong": [
+    [
+     "A dendrite that waits to receive a signal from another cell",
+     "Dendrites are on the receiving neuron."
+    ],
+    [
+     "A glial cell",
+     "Glia are support cells."
+    ],
+    [
+     "A synapse",
+     "The synapse is the gap beyond it."
+    ]
+   ],
+   "exp": "Each terminal branch ends in a terminal button."
   }
  ],
  "Vesicles": [
@@ -186,6 +338,25 @@
     ]
    ],
    "exp": "Vesicles store neurotransmitters in the terminal buttons."
+  },
+  {
+   "q": "When a neuron fires, what do the vesicles release into the synapse?",
+   "right": "Neurotransmitters",
+   "wrong": [
+    [
+     "Hormones that travel through the bloodstream to distant organs",
+     "Hormones come from glands."
+    ],
+    [
+     "Myelin",
+     "Myelin coats axons."
+    ],
+    [
+     "Glial cells",
+     "Those are support cells."
+    ]
+   ],
+   "exp": "Vesicles store neurotransmitters."
   }
  ],
  "Synapse": [
@@ -207,6 +378,25 @@
     ]
    ],
    "exp": "The synapse is the gap; neurons never actually touch."
+  },
+  {
+   "q": "Do two neurons physically touch at a synapse?",
+   "right": "No; there's a gap",
+   "wrong": [
+    [
+     "Yes, the axon of one fuses directly with the dendrite of the next",
+     "Neurons never actually touch."
+    ],
+    [
+     "Only in the spinal cord",
+     "Never."
+    ],
+    [
+     "Only during sleep",
+     "Never."
+    ]
+   ],
+   "exp": "The synapse is a gap; neurons never touch."
   }
  ],
  "Resting potential": [
@@ -228,6 +418,25 @@
     ]
    ],
    "exp": "Not firing, waiting for input."
+  },
+  {
+   "q": "Which state comes right before a neuron reaches threshold?",
+   "right": "Resting potential",
+   "wrong": [
+    [
+     "The refractory period, the recovery time after firing",
+     "That comes after firing."
+    ],
+    [
+     "Reuptake",
+     "That happens after release."
+    ],
+    [
+     "Action potential",
+     "That is the firing itself."
+    ]
+   ],
+   "exp": "Resting → threshold → action potential."
   }
  ],
  "Threshold": [
@@ -249,6 +458,25 @@
     ]
    ],
    "exp": "The neuron fires only once threshold is reached."
+  },
+  {
+   "q": "Stimulation stays just below a neuron's threshold. What happens?",
+   "right": "It does not fire",
+   "wrong": [
+    [
+     "It fires weakly, at about half of its usual strength",
+     "There's no partial firing."
+    ],
+    [
+     "It fires twice",
+     "It doesn't fire at all."
+    ],
+    [
+     "It enters reuptake",
+     "Not related."
+    ]
+   ],
+   "exp": "No threshold, no action potential."
   }
  ],
  "Action potential": [
@@ -270,6 +498,25 @@
     ]
    ],
    "exp": "The action potential is the neuron firing."
+  },
+  {
+   "q": "Where does the action potential start, according to your card?",
+   "right": "At the soma",
+   "wrong": [
+    [
+     "In the synapse between two neurons that are next to each other",
+     "The synapse is a gap."
+    ],
+    [
+     "In the dendrites only",
+     "The soma starts it."
+    ],
+    [
+     "In the vesicles",
+     "Those store chemicals."
+    ]
+   ],
+   "exp": "The soma starts the action potential once threshold is reached."
   }
  ],
  "All-or-none principle": [
@@ -291,6 +538,25 @@
     ]
    ],
    "exp": "All or none: a neuron fires completely or not at all."
+  },
+  {
+   "q": "A classmate says, \"A weak stimulus that barely reaches threshold makes a neuron fire weakly.\" What is wrong with that?",
+   "right": "Reaching threshold always means a full firing",
+   "wrong": [
+    [
+     "Nothing; weaker stimuli always produce weaker firings in a neuron",
+     "A neuron never fires partially."
+    ],
+    [
+     "Weak stimuli make neurons fire twice",
+     "Not how it works."
+    ],
+    [
+     "Weak stimuli cause reuptake",
+     "Not related."
+    ]
+   ],
+   "exp": "All or none: once threshold is reached the neuron fires completely; a stronger stimulus doesn't make a stronger firing."
   }
  ],
  "Reuptake": [
@@ -312,6 +578,25 @@
     ]
    ],
    "exp": "Reuptake reabsorbs leftover neurotransmitters."
+  },
+  {
+   "q": "A drug blocks reuptake. What happens to the neurotransmitter?",
+   "right": "It stays in the synapse longer",
+   "wrong": [
+    [
+     "It is destroyed right away before it can reach the next neuron",
+     "Blocking reuptake keeps it around."
+    ],
+    [
+     "It turns into a hormone",
+     "Not how it works."
+    ],
+    [
+     "It moves into the myelin",
+     "Not how it works."
+    ]
+   ],
+   "exp": "Blocking reuptake leaves more neurotransmitter in the synapse."
   }
  ],
  "Refractory period": [
@@ -333,6 +618,25 @@
     ]
    ],
    "exp": "Like a toilet: you have to wait to flush again."
+  },
+  {
+   "q": "A neuron has just fired. A split second later, a burst of neurotransmitters hits its dendrites, well above threshold. What happens right then?",
+   "right": "Nothing; it can't fire yet",
+   "wrong": [
+    [
+     "It fires an even stronger signal than it did the first time",
+     "Firing never gets stronger, and it's in recovery."
+    ],
+    [
+     "It fires at half strength",
+     "Neurons never half-fire."
+    ],
+    [
+     "It releases more myelin",
+     "Not related."
+    ]
+   ],
+   "exp": "During the refractory period the neuron can't fire, no matter how many neurotransmitters it receives."
   }
  ],
  "Multiple sclerosis (MS)": [
@@ -354,6 +658,25 @@
     ]
    ],
    "exp": "MS = myelin sheath breakdown (demyelination)."
+  },
+  {
+   "q": "Two patients have muscle weakness. In one, antibodies attack the muscles' ACh receptors; in the other, the coating on the axons is breaking down. Which one has MS?",
+   "right": "The one whose axon coating is breaking down",
+   "wrong": [
+    [
+     "The one whose antibodies attack the muscles' acetylcholine receptors",
+     "That is myasthenia gravis."
+    ],
+    [
+     "Both have MS",
+     "Only one fits MS."
+    ],
+    [
+     "Neither; both have Parkinson's",
+     "Parkinson's is low dopamine."
+    ]
+   ],
+   "exp": "MS is deterioration of the myelin sheath."
   }
  ],
  "Myasthenia gravis": [
@@ -375,6 +698,25 @@
     ]
    ],
    "exp": "An autoimmune disorder blocking acetylcholine receptors at the muscles."
+  },
+  {
+   "q": "What kind of disorder is myasthenia gravis?",
+   "right": "Autoimmune",
+   "wrong": [
+    [
+     "Psychotic, involving hallucinations, delusions and disorganized speech",
+     "It's a neuromuscular autoimmune disorder."
+    ],
+    [
+     "A sleep disorder",
+     "Not a sleep disorder."
+    ],
+    [
+     "A mood disorder",
+     "Not a mood disorder."
+    ]
+   ],
+   "exp": "Antibodies block or destroy acetylcholine receptor sites."
   }
  ],
  "Neurotransmitter": [
@@ -396,6 +738,25 @@
     ]
    ],
    "exp": "Neurotransmitters are chemical messengers between neurons."
+  },
+  {
+   "q": "Where are neurotransmitters released?",
+   "right": "Into the synapse",
+   "wrong": [
+    [
+     "Into the bloodstream, so they can travel to distant organs",
+     "That is hormones."
+    ],
+    [
+     "Into the myelin",
+     "Not where they go."
+    ],
+    [
+     "Into the cochlea",
+     "Not where they go."
+    ]
+   ],
+   "exp": "Neurotransmitters are released into the synapse."
   }
  ],
  "Excitatory": [
@@ -417,6 +778,25 @@
     ]
    ],
    "exp": "Excite = go."
+  },
+  {
+   "q": "Which neurotransmitter is the major excitatory one?",
+   "right": "Glutamate",
+   "wrong": [
+    [
+     "GABA, the main calming chemical of the nervous system",
+     "GABA is the major inhibitory one."
+    ],
+    [
+     "Serotonin",
+     "Your slides list it as inhibitory."
+    ],
+    [
+     "Endorphins",
+     "Your slides list them as inhibitory."
+    ]
+   ],
+   "exp": "Glutamate is the major excitatory neurotransmitter."
   }
  ],
  "Inhibitory": [
@@ -438,6 +818,25 @@
     ]
    ],
    "exp": "Inhibit = stop."
+  },
+  {
+   "q": "Which neurotransmitter is the major inhibitory one?",
+   "right": "GABA",
+   "wrong": [
+    [
+     "Glutamate, the main chemical involved in learning and memory",
+     "Glutamate is the major excitatory one."
+    ],
+    [
+     "Acetylcholine",
+     "Your slides list it as excitatory."
+    ],
+    [
+     "Substance P",
+     "Your slides list it as excitatory."
+    ]
+   ],
+   "exp": "GABA is the primary inhibitory neurotransmitter."
   }
  ],
  "Acetylcholine (ACh)": [
@@ -459,6 +858,25 @@
     ]
    ],
    "exp": "ACh controls movement and plays a role in memory; too little is linked to Alzheimer's."
+  },
+  {
+   "q": "A poison blocks acetylcholine receptors at the muscles. What would you expect?",
+   "right": "Paralysis",
+   "wrong": [
+    [
+     "Muscle spasms, the effect of having far too much acetylcholine",
+     "Spasms come from too much ACh."
+    ],
+    [
+     "Hallucinations",
+     "Not ACh."
+    ],
+    [
+     "Insomnia",
+     "Not ACh."
+    ]
+   ],
+   "exp": "Blocked ACh receptors cause paralysis."
   }
  ],
  "Dopamine": [
@@ -480,6 +898,25 @@
     ]
    ],
    "exp": "Low dopamine is linked to Parkinson's."
+  },
+  {
+   "q": "High dopamine levels are linked to which disorder?",
+   "right": "Schizophrenia",
+   "wrong": [
+    [
+     "Parkinson's disease, which involves tremors and slow movement",
+     "That is low dopamine."
+    ],
+    [
+     "Alzheimer's",
+     "That is low ACh."
+    ],
+    [
+     "Depression",
+     "That is low serotonin."
+    ]
+   ],
+   "exp": "High dopamine is linked to schizophrenia."
   }
  ],
  "Serotonin": [
@@ -501,6 +938,25 @@
     ]
    ],
    "exp": "Low serotonin is linked to depression; SSRIs raise it."
+  },
+  {
+   "q": "Low serotonin is linked to which problems on your card?",
+   "right": "Depression, anger problems and OCD",
+   "wrong": [
+    [
+     "Parkinson's disease and a range of addictive behaviors",
+     "Those are low dopamine."
+    ],
+    [
+     "Muscle spasms",
+     "That is too much ACh."
+    ],
+    [
+     "Schizophrenia",
+     "That is high dopamine."
+    ]
+   ],
+   "exp": "Low serotonin: depression, anger-control problems, OCD."
   }
  ],
  "SSRI": [
@@ -522,6 +978,25 @@
     ]
    ],
    "exp": "Selective serotonin reuptake inhibitor: an antidepressant."
+  },
+  {
+   "q": "Two antidepressants both raise serotonin. One blocks serotonin from being reabsorbed; the other doesn't. Which one is an SSRI?",
+   "right": "The one that blocks reabsorption",
+   "wrong": [
+    [
+     "The one that adds brand new serotonin made outside the body",
+     "SSRIs block reuptake."
+    ],
+    [
+     "Both are SSRIs",
+     "Only the reuptake blocker is."
+    ],
+    [
+     "Neither",
+     "The reuptake blocker is an SSRI."
+    ]
+   ],
+   "exp": "Selective serotonin reuptake inhibitor: blocks reuptake so serotonin stays longer."
   }
  ],
  "Norepinephrine": [
@@ -543,6 +1018,25 @@
     ]
    ],
    "exp": "Norepinephrine (noradrenaline) drives the sympathetic response."
+  },
+  {
+   "q": "Low norepinephrine is linked to which problems on your card?",
+   "right": "Depression and ADHD",
+   "wrong": [
+    [
+     "Developing fears and phobias, which come from high levels",
+     "Fears are linked to high levels."
+    ],
+    [
+     "Parkinson's",
+     "That is low dopamine."
+    ],
+    [
+     "Paralysis",
+     "That is blocked ACh."
+    ]
+   ],
+   "exp": "Low norepinephrine: depression and ADHD."
   }
  ],
  "GABA": [
@@ -564,6 +1058,25 @@
     ]
    ],
    "exp": "GABA is the primary inhibitory neurotransmitter; too little is linked to anxiety."
+  },
+  {
+   "q": "What happens with too much GABA?",
+   "right": "Sleepiness",
+   "wrong": [
+    [
+     "Anxiety disorders, which come from having too little GABA",
+     "That is too little GABA."
+    ],
+    [
+     "Muscle spasms",
+     "That is too much ACh."
+    ],
+    [
+     "Hallucinations",
+     "That is high dopamine."
+    ]
+   ],
+   "exp": "Too much GABA causes sleepiness."
   }
  ],
  "Glutamate": [
@@ -585,6 +1098,25 @@
     ]
    ],
    "exp": "Glutamate = go: the major excitatory neurotransmitter."
+  },
+  {
+   "q": "Too much glutamate is linked to which problems?",
+   "right": "High anxiety, OCD and migraines",
+   "wrong": [
+    [
+     "Sleepiness and calm, like the effects of too much GABA",
+     "That is too much GABA."
+    ],
+    [
+     "Parkinson's",
+     "That is low dopamine."
+    ],
+    [
+     "Paralysis",
+     "That is blocked ACh."
+    ]
+   ],
+   "exp": "Too much glutamate: high anxiety, OCD, migraines."
   }
  ],
  "Endorphins": [
@@ -606,6 +1138,25 @@
     ]
    ],
    "exp": "Endorphins are natural painkillers: the runner's high."
+  },
+  {
+   "q": "Which gland releases endorphins, according to your card?",
+   "right": "The pituitary gland",
+   "wrong": [
+    [
+     "The adrenal glands, which sit on top of the two kidneys",
+     "Those release adrenaline."
+    ],
+    [
+     "The pineal gland",
+     "That releases melatonin."
+    ],
+    [
+     "The stomach",
+     "That makes ghrelin."
+    ]
+   ],
+   "exp": "Endorphins are released by the pituitary gland."
   }
  ],
  "Substance P": [
@@ -627,6 +1178,25 @@
     ]
    ],
    "exp": "P = pain."
+  },
+  {
+   "q": "Which three things raise substance P levels, according to your card?",
+   "right": "Stress, heat and painful stimuli",
+   "wrong": [
+    [
+     "Sleep, darkness and calm, the way melatonin rises at night",
+     "That is melatonin."
+    ],
+    [
+     "Food and fullness",
+     "That is leptin."
+    ],
+    [
+     "Exercise and joy",
+     "That fits endorphins."
+    ]
+   ],
+   "exp": "Substance P rises with stress, heat and painful stimuli."
   }
  ],
  "Three functions of the nervous system": [
@@ -648,6 +1218,25 @@
     ]
    ],
    "exp": "Gather information, process it, act on it."
+  },
+  {
+   "q": "Your brain decides to answer a question after hearing it. Which function is the deciding?",
+   "right": "Integration",
+   "wrong": [
+    [
+     "Sensory input, gathering information through the senses",
+     "That is hearing the question."
+    ],
+    [
+     "Motor output",
+     "That is speaking."
+    ],
+    [
+     "Reuptake",
+     "Not a nervous system function."
+    ]
+   ],
+   "exp": "Integration: the brain processes and decides."
   }
  ],
  "Sensory (afferent) neurons": [
@@ -669,6 +1258,25 @@
     ]
    ],
    "exp": "Afferent = arrive."
+  },
+  {
+   "q": "A patient can move his hand on command but can't feel a pinprick on it. Which neurons from the hand are most likely damaged?",
+   "right": "Sensory (afferent) neurons",
+   "wrong": [
+    [
+     "Motor (efferent) neurons that carry commands out to the muscles",
+     "He can still move; the problem is feeling."
+    ],
+    [
+     "Interneurons in the cerebellum",
+     "Not the most likely damage."
+    ],
+    [
+     "Glial cells in the eye",
+     "Not related."
+    ]
+   ],
+   "exp": "Afferent = arrive: sensory messages coming in."
   }
  ],
  "Motor (efferent) neurons": [
@@ -690,6 +1298,25 @@
     ]
    ],
    "exp": "Efferent = exit."
+  },
+  {
+   "q": "A patient feels a pinprick on her foot but can't move the foot away. Which neurons to the foot are most likely damaged?",
+   "right": "Motor (efferent) neurons",
+   "wrong": [
+    [
+     "Sensory (afferent) neurons that carry feelings in from the skin",
+     "She can still feel the pinprick."
+    ],
+    [
+     "Interneurons in the eye",
+     "Not related."
+    ],
+    [
+     "Vesicles",
+     "Those store neurotransmitters."
+    ]
+   ],
+   "exp": "Efferent = exit: signals going out to muscles."
   }
  ],
  "Interneurons": [
@@ -711,6 +1338,25 @@
     ]
    ],
    "exp": "Inter = in between."
+  },
+  {
+   "q": "Where are interneurons found?",
+   "right": "In the brain and spinal cord",
+   "wrong": [
+    [
+     "In the skin and muscles at the far ends of the limbs",
+     "Those have sensory and motor neurons."
+    ],
+    [
+     "In the eye only",
+     "Not only."
+    ],
+    [
+     "In the bloodstream",
+     "Neurons aren't in the blood."
+    ]
+   ],
+   "exp": "Interneurons relay information within the brain and spinal cord."
   }
  ],
  "Central nervous system (CNS)": [
@@ -732,6 +1378,25 @@
     ]
    ],
    "exp": "CNS = brain and spinal cord."
+  },
+  {
+   "q": "Which two parts make up the central nervous system?",
+   "right": "The brain and spinal cord",
+   "wrong": [
+    [
+     "The somatic and autonomic systems that reach the whole body",
+     "Those are parts of the peripheral system."
+    ],
+    [
+     "The eyes and ears",
+     "Not the CNS."
+    ],
+    [
+     "The heart and lungs",
+     "Not the CNS."
+    ]
+   ],
+   "exp": "CNS = brain + spinal cord."
   }
  ],
  "Spinal cord": [
@@ -753,6 +1418,25 @@
     ]
    ],
    "exp": "The spinal cord connects the brain to the body."
+  },
+  {
+   "q": "In which direction does the spinal cord send messages?",
+   "right": "Both ways",
+   "wrong": [
+    [
+     "Only from the brain down to the body, never back up",
+     "It sends messages both ways."
+    ],
+    [
+     "Only up to the brain",
+     "Both ways."
+    ],
+    [
+     "Only to the eyes",
+     "Not true."
+    ]
+   ],
+   "exp": "The spinal cord sends messages both ways."
   }
  ],
  "Peripheral nervous system (PNS)": [
@@ -774,6 +1458,25 @@
     ]
    ],
    "exp": "PNS = all nerves outside the brain and spinal cord."
+  },
+  {
+   "q": "Which two systems are part of the peripheral nervous system?",
+   "right": "Somatic and autonomic",
+   "wrong": [
+    [
+     "The brain and the spinal cord, linked by the brainstem",
+     "Those are the CNS."
+    ],
+    [
+     "Endocrine and limbic",
+     "Not PNS divisions."
+    ],
+    [
+     "Rods and cones",
+     "Those are in the eye."
+    ]
+   ],
+   "exp": "The PNS includes the somatic and autonomic systems."
   }
  ],
  "Nerves": [
@@ -795,6 +1498,25 @@
     ]
    ],
    "exp": "Nerves carry messages to and from the CNS."
+  },
+  {
+   "q": "What analogy does your card use for nerves?",
+   "right": "Wires carrying messages",
+   "wrong": [
+    [
+     "Insulation wrapped around an electrical wire to protect it",
+     "That is myelin."
+    ],
+    [
+     "A switchboard",
+     "That is the thalamus."
+    ],
+    [
+     "A highway",
+     "That is the spinal cord."
+    ]
+   ],
+   "exp": "Nerves act like wires carrying messages."
   }
  ],
  "Somatic nervous system": [
@@ -813,6 +1535,25 @@
     [
      "The endocrine system",
      "That releases hormones."
+    ]
+   ],
+   "exp": "Somatic = voluntary movement."
+  },
+  {
+   "q": "Which action uses the somatic nervous system?",
+   "right": "Kicking a ball on purpose",
+   "wrong": [
+    [
+     "Your heart speeding up when you are suddenly frightened",
+     "That is autonomic."
+    ],
+    [
+     "Digesting lunch",
+     "That is autonomic."
+    ],
+    [
+     "Your pupils widening",
+     "That is autonomic."
     ]
    ],
    "exp": "Somatic = voluntary movement."
@@ -837,6 +1578,25 @@
     ]
    ],
    "exp": "Autonomic = automatic."
+  },
+  {
+   "q": "Which two divisions make up the autonomic nervous system?",
+   "right": "Sympathetic and parasympathetic",
+   "wrong": [
+    [
+     "Somatic and central, which control voluntary movement",
+     "Not the autonomic divisions."
+    ],
+    [
+     "Afferent and efferent",
+     "Those are neuron types."
+    ],
+    [
+     "Left and right",
+     "Those are hemispheres."
+    ]
+   ],
+   "exp": "Autonomic = sympathetic + parasympathetic."
   }
  ],
  "Sympathetic nervous system": [
@@ -858,6 +1618,25 @@
     ]
    ],
    "exp": "Sympathetic = stressed: fight, flight or freeze."
+  },
+  {
+   "q": "Which response does the sympathetic system trigger besides fight and flight?",
+   "right": "Freeze",
+   "wrong": [
+    [
+     "Rest and digest, the calming response after danger has passed",
+     "That is parasympathetic."
+    ],
+    [
+     "Sleep",
+     "Not on your card."
+    ],
+    [
+     "Tend",
+     "That is tend-and-befriend, not on this card."
+    ]
+   ],
+   "exp": "Fight, flight or freeze."
   }
  ],
  "Parasympathetic nervous system": [
@@ -879,6 +1658,25 @@
     ]
    ],
    "exp": "Parasympathetic = peace: rest and digest."
+  },
+  {
+   "q": "After a big Thanksgiving dinner on the couch, your heart rate is slow and your stomach is busy digesting. Which system is most active?",
+   "right": "Parasympathetic",
+   "wrong": [
+    [
+     "Sympathetic, which gets the body ready to fight, flee or freeze",
+     "That is arousal, not rest."
+    ],
+    [
+     "Somatic",
+     "That is voluntary movement."
+    ],
+    [
+     "Central",
+     "Rest and digest is autonomic."
+    ]
+   ],
+   "exp": "Parasympathetic = rest and digest."
   }
  ],
  "Reflex": [
@@ -900,6 +1698,25 @@
     ]
    ],
    "exp": "Reflexes skip the brain, which makes them faster."
+  },
+  {
+   "q": "Which structure directs a knee-jerk reflex?",
+   "right": "The spinal cord",
+   "wrong": [
+    [
+     "The cerebral cortex, after planning the movement carefully",
+     "Reflexes skip the brain."
+    ],
+    [
+     "The thalamus",
+     "Not the director."
+    ],
+    [
+     "The hippocampus",
+     "Not involved."
+    ]
+   ],
+   "exp": "Reflexes are directed by the spinal cord."
   }
  ],
  "Endocrine system": [
@@ -918,6 +1735,25 @@
     [
      "The central nervous system",
      "That is the brain and spinal cord."
+    ]
+   ],
+   "exp": "The endocrine system is the system of glands."
+  },
+  {
+   "q": "Which structure is part of the endocrine system?",
+   "right": "The adrenal glands",
+   "wrong": [
+    [
+     "The corpus callosum that connects the brain's two hemispheres",
+     "That is a brain structure."
+    ],
+    [
+     "The retina",
+     "That is in the eye."
+    ],
+    [
+     "The cochlea",
+     "That is in the ear."
     ]
    ],
    "exp": "The endocrine system is the system of glands."
@@ -942,6 +1778,25 @@
     ]
    ],
    "exp": "Hormones travel through the bloodstream: slower, but longer lasting."
+  },
+  {
+   "q": "Which is true about hormones compared with neurotransmitters?",
+   "right": "Slower, but the effects last longer",
+   "wrong": [
+    [
+     "Faster, and the effects wear off almost right away afterward",
+     "That describes neurotransmitters."
+    ],
+    [
+     "They travel across synapses",
+     "Hormones travel in the blood."
+    ],
+    [
+     "They come from vesicles",
+     "They come from glands."
+    ]
+   ],
+   "exp": "Hormones travel in the bloodstream: slower, longer-lasting."
   }
  ],
  "Pituitary gland": [
@@ -963,6 +1818,25 @@
     ]
    ],
    "exp": "The pituitary is the master gland."
+  },
+  {
+   "q": "Which three functions does the pituitary regulate, according to your card?",
+   "right": "Stress, growth and reproduction",
+   "wrong": [
+    [
+     "Hunger, fullness and digestion of the food that is eaten",
+     "Those involve ghrelin and leptin."
+    ],
+    [
+     "Vision and hearing",
+     "Not glands."
+    ],
+    [
+     "Balance",
+     "That is vestibular."
+    ]
+   ],
+   "exp": "The master gland regulates stress, growth and reproduction."
   }
  ],
  "Adrenaline": [
@@ -984,6 +1858,25 @@
     ]
    ],
    "exp": "Adrenaline from the adrenal glands fuels fight-or-flight."
+  },
+  {
+   "q": "Where are the adrenal glands located?",
+   "right": "On top of the kidneys",
+   "wrong": [
+    [
+     "Deep in the brain, right next to the thalamus and pineal gland",
+     "That is the pineal gland."
+    ],
+    [
+     "In the stomach",
+     "That makes ghrelin."
+    ],
+    [
+     "In the neck",
+     "Not on your card."
+    ]
+   ],
+   "exp": "Adrenal glands sit on top of the kidneys."
   }
  ],
  "Ghrelin": [
@@ -1005,6 +1898,25 @@
     ]
    ],
    "exp": "Ghrelin = growling stomach."
+  },
+  {
+   "q": "Where is ghrelin made?",
+   "right": "In the stomach",
+   "wrong": [
+    [
+     "In the small intestine, according to your Psych slides",
+     "That is leptin."
+    ],
+    [
+     "In the pituitary",
+     "Not ghrelin."
+    ],
+    [
+     "In the pineal gland",
+     "That is melatonin."
+    ]
+   ],
+   "exp": "Ghrelin is made in the stomach."
   }
  ],
  "Leptin": [
@@ -1026,6 +1938,25 @@
     ]
    ],
    "exp": "Leptin = leave the table."
+  },
+  {
+   "q": "Where do your slides say leptin is made?",
+   "right": "In the small intestine",
+   "wrong": [
+    [
+     "In the stomach, the organ that growls when you are hungry",
+     "That is ghrelin."
+    ],
+    [
+     "In the testes",
+     "That is testosterone."
+    ],
+    [
+     "In the pineal gland",
+     "That is melatonin."
+    ]
+   ],
+   "exp": "Your slides say leptin is made in the small intestine."
   }
  ],
  "Testosterone": [
@@ -1047,6 +1978,25 @@
     ]
    ],
    "exp": "Testosterone: sex drive; too much is linked to aggression."
+  },
+  {
+   "q": "Where is testosterone made, according to your card?",
+   "right": "In the testes and ovaries",
+   "wrong": [
+    [
+     "In the adrenal glands only, together with adrenaline",
+     "Your card says testes and ovaries."
+    ],
+    [
+     "In the stomach",
+     "That is ghrelin."
+    ],
+    [
+     "In the pineal gland",
+     "That is melatonin."
+    ]
+   ],
+   "exp": "Testosterone is made in the testes and ovaries."
   }
  ],
  "Estrogen": [
@@ -1068,6 +2018,25 @@
     ]
    ],
    "exp": "Estrogen is important for reproduction."
+  },
+  {
+   "q": "Which description fits estrogen?",
+   "right": "A sex hormone important for reproduction",
+   "wrong": [
+    [
+     "The hunger hormone that makes your stomach growl before meals",
+     "That is ghrelin."
+    ],
+    [
+     "The love hormone",
+     "That is oxytocin."
+    ],
+    [
+     "The sleep hormone",
+     "That is melatonin."
+    ]
+   ],
+   "exp": "Estrogen is important for reproduction; women have more."
   }
  ],
  "Oxytocin": [
@@ -1089,6 +2058,25 @@
     ]
    ],
    "exp": "Oxytocin is the love or bonding hormone."
+  },
+  {
+   "q": "Low oxytocin is linked to which condition on your card?",
+   "right": "Postpartum depression",
+   "wrong": [
+    [
+     "Parkinson's disease and its tremors and slow movement",
+     "That is low dopamine."
+    ],
+    [
+     "Anxiety",
+     "That is low GABA."
+    ],
+    [
+     "Obesity",
+     "Not on your card."
+    ]
+   ],
+   "exp": "Low oxytocin is linked to postpartum depression."
   }
  ],
  "Melatonin": [
@@ -1110,6 +2098,25 @@
     ]
    ],
    "exp": "Melatonin from the pineal gland responds to darkness."
+  },
+  {
+   "q": "Which gland releases melatonin?",
+   "right": "The pineal gland",
+   "wrong": [
+    [
+     "The pituitary gland, the master gland of the endocrine system",
+     "Not melatonin."
+    ],
+    [
+     "The adrenal glands",
+     "They release adrenaline."
+    ],
+    [
+     "The thyroid",
+     "Not on your card."
+    ]
+   ],
+   "exp": "Melatonin comes from the pineal gland."
   }
  ],
  "Brainstem": [
@@ -1131,6 +2138,25 @@
     ]
    ],
    "exp": "Brainstem = medulla + pons."
+  },
+  {
+   "q": "A patient's brainstem is damaged. Which kinds of functions are most at risk?",
+   "right": "Automatic survival functions",
+   "wrong": [
+    [
+     "Fine motor skills, coordination and balance, like riding a bike",
+     "That is the cerebellum."
+    ],
+    [
+     "Language comprehension",
+     "That is Wernicke's area."
+    ],
+    [
+     "Face recognition",
+     "That is the right hemisphere."
+    ]
+   ],
+   "exp": "The brainstem handles automatic survival functions."
   }
  ],
  "Medulla": [
@@ -1152,6 +2178,25 @@
     ]
    ],
    "exp": "The medulla controls breathing and heartbeat."
+  },
+  {
+   "q": "Why is an injury to the base of the brainstem often far more dangerous than one to the cerebellum?",
+   "right": "The medulla controls breathing and heartbeat",
+   "wrong": [
+    [
+     "The cerebellum controls breathing and the heartbeat, but the medulla does not",
+     "It's the reverse."
+    ],
+    [
+     "The medulla stores long-term memories",
+     "That is the hippocampus."
+    ],
+    [
+     "The medulla controls vision",
+     "That is the occipital lobe."
+    ]
+   ],
+   "exp": "The medulla controls life-sustaining functions."
   }
  ],
  "Pons": [
@@ -1173,6 +2218,25 @@
     ]
    ],
    "exp": "Pons = bridge."
+  },
+  {
+   "q": "A patient's sleep-wake cycle is badly disrupted after a small brainstem stroke. Which structure is most likely involved?",
+   "right": "The pons",
+   "wrong": [
+    [
+     "The occipital lobe at the back of the brain, which processes vision",
+     "That is vision."
+    ],
+    [
+     "Broca's area",
+     "That is speech."
+    ],
+    [
+     "The amygdala",
+     "That is fear."
+    ]
+   ],
+   "exp": "The pons is involved in automatic processes, especially the sleep-wake cycle."
   }
  ],
  "Reticular formation": [
@@ -1194,6 +2258,25 @@
     ]
    ],
    "exp": "The reticular formation controls arousal and consciousness."
+  },
+  {
+   "q": "The reticular formation controls which two things?",
+   "right": "Arousal and consciousness",
+   "wrong": [
+    [
+     "Hunger and fullness, through signals from the stomach and gut",
+     "That is the hypothalamus."
+    ],
+    [
+     "Vision and color",
+     "That is the occipital lobe."
+    ],
+    [
+     "Speech production",
+     "That is Broca's area."
+    ]
+   ],
+   "exp": "Arousal and consciousness."
   }
  ],
  "Thalamus": [
@@ -1215,6 +2298,25 @@
     ]
    ],
    "exp": "The thalamus is the sensory switchboard (every sense but smell)."
+  },
+  {
+   "q": "Which sense is NOT routed through the thalamus?",
+   "right": "Smell",
+   "wrong": [
+    [
+     "Vision, which travels from the eyes to the occipital lobe",
+     "Vision goes through the thalamus."
+    ],
+    [
+     "Hearing",
+     "Hearing goes through it."
+    ],
+    [
+     "Touch",
+     "Touch goes through it."
+    ]
+   ],
+   "exp": "All senses except smell go through the thalamus."
   }
  ],
  "Cerebellum": [
@@ -1236,6 +2338,25 @@
     ]
    ],
    "exp": "The cerebellum handles balance and coordination; alcohol strongly affects it."
+  },
+  {
+   "q": "Which learned skill relies on the cerebellum, according to your card?",
+   "right": "Riding a bike",
+   "wrong": [
+    [
+     "Remembering a phone number for a few seconds before dialing it",
+     "That isn't the cerebellum's job."
+    ],
+    [
+     "Recognizing a face",
+     "That is the right hemisphere."
+    ],
+    [
+     "Feeling fear",
+     "That is the amygdala."
+    ]
+   ],
+   "exp": "Learned motor skills like riding a bike."
   }
  ],
  "Limbic system": [
@@ -1257,6 +2378,25 @@
     ]
    ],
    "exp": "Limbic system: amygdala, hippocampus, hypothalamus."
+  },
+  {
+   "q": "Which three structures make up the limbic system on your card?",
+   "right": "Amygdala, hippocampus, hypothalamus",
+   "wrong": [
+    [
+     "Medulla, pons and reticular formation in the brainstem",
+     "Those are brainstem parts."
+    ],
+    [
+     "Frontal, parietal, occipital",
+     "Those are lobes."
+    ],
+    [
+     "Rods, cones, ganglia",
+     "Those are in the eye."
+    ]
+   ],
+   "exp": "Amygdala, hippocampus and hypothalamus."
   }
  ],
  "Amygdala": [
@@ -1278,6 +2418,25 @@
     ]
    ],
    "exp": "The amygdala processes fear and aggression."
+  },
+  {
+   "q": "A man can't read fear on other people's faces and doesn't form emotional memories of scary events. Which structure is most likely damaged?",
+   "right": "The amygdala",
+   "wrong": [
+    [
+     "The hippocampus, which stores ordinary facts and events",
+     "The emotional part points to the amygdala."
+    ],
+    [
+     "The medulla",
+     "That is breathing."
+    ],
+    [
+     "The pons",
+     "That is sleep."
+    ]
+   ],
+   "exp": "The amygdala reads others' emotions and stores emotional memories."
   }
  ],
  "Hippocampus": [
@@ -1299,6 +2458,25 @@
     ]
    ],
    "exp": "A hippo never forgets: the hippocampus stores new long-term memories."
+  },
+  {
+   "q": "Which disease is one of the first to damage the hippocampus?",
+   "right": "Alzheimer's",
+   "wrong": [
+    [
+     "Parkinson's, which comes from low levels of dopamine",
+     "Not on your card."
+    ],
+    [
+     "Multiple sclerosis",
+     "That damages myelin."
+    ],
+    [
+     "Narcolepsy",
+     "That is a sleep disorder."
+    ]
+   ],
+   "exp": "The hippocampus is one of the first areas damaged by Alzheimer's."
   }
  ],
  "Hypothalamus": [
@@ -1320,6 +2498,25 @@
     ]
    ],
    "exp": "The hypothalamus: feeding, fighting, fleeing, mating."
+  },
+  {
+   "q": "Which system does the hypothalamus regulate?",
+   "right": "The autonomic nervous system",
+   "wrong": [
+    [
+     "The somatic nervous system of voluntary, chosen movements",
+     "That is voluntary movement."
+    ],
+    [
+     "The visual cortex",
+     "Not the hypothalamus."
+    ],
+    [
+     "Speech",
+     "Not the hypothalamus."
+    ]
+   ],
+   "exp": "The hypothalamus regulates the autonomic nervous system."
   }
  ],
  "Lateral hypothalamus (LH)": [
@@ -1341,6 +2538,25 @@
     ]
    ],
    "exp": "Lateral = lunch: damage means loss of hunger."
+  },
+  {
+   "q": "Rat A stops eating after damage to one part of its hypothalamus; rat B overeats after damage to another part. Which parts were damaged, in order?",
+   "right": "Rat A: lateral; rat B: ventromedial",
+   "wrong": [
+    [
+     "Rat A: ventromedial; rat B: lateral, the other way around",
+     "Lateral damage stops hunger; VMH damage causes overeating."
+    ],
+    [
+     "Both: lateral",
+     "Their symptoms are opposite."
+    ],
+    [
+     "Both: hippocampus",
+     "That is memory."
+    ]
+   ],
+   "exp": "LH damage → loss of hunger; VMH damage → overeating."
   }
  ],
  "Ventromedial hypothalamus (VMH)": [
@@ -1362,6 +2578,25 @@
     ]
    ],
    "exp": "Ventromedial = very full: damage means overeating."
+  },
+  {
+   "q": "What does the VMH signal when it works normally?",
+   "right": "Fullness",
+   "wrong": [
+    [
+     "Hunger, telling the body that it is time for lunch",
+     "That is the LH."
+    ],
+    [
+     "Fear",
+     "That is the amygdala."
+    ],
+    [
+     "Sleep",
+     "That is melatonin."
+    ]
+   ],
+   "exp": "Ventromedial = very full."
   }
  ],
  "Cerebral cortex": [
@@ -1383,6 +2618,25 @@
     ]
    ],
    "exp": "Four lobes: frontal, parietal, occipital, temporal (F-POT)."
+  },
+  {
+   "q": "A neurologist says a patient's damage is in the wrinkled outer layer of the brain. Which kinds of function are most likely affected?",
+   "right": "Higher functions like planning, language and vision",
+   "wrong": [
+    [
+     "Only breathing and heartbeat, which keep the patient alive",
+     "Those are brainstem functions."
+    ],
+    [
+     "Only reflexes",
+     "Those are spinal cord."
+    ],
+    [
+     "Only hormone release",
+     "That is endocrine."
+    ]
+   ],
+   "exp": "The cerebral cortex holds the four lobes (F-POT)."
   }
  ],
  "Frontal lobe": [
@@ -1404,6 +2658,25 @@
     ]
    ],
    "exp": "The frontal lobe is at the front of the brain."
+  },
+  {
+   "q": "Where is the frontal lobe?",
+   "right": "At the front of the brain",
+   "wrong": [
+    [
+     "At the very back of the brain, where vision is processed",
+     "That is the occipital lobe."
+    ],
+    [
+     "On top",
+     "That is the parietal lobe."
+    ],
+    [
+     "On the sides",
+     "That is the temporal lobe."
+    ]
+   ],
+   "exp": "Front of the brain."
   }
  ],
  "Prefrontal cortex": [
@@ -1425,6 +2698,25 @@
     ]
    ],
    "exp": "The prefrontal cortex handles executive functions like judgment and planning."
+  },
+  {
+   "q": "Which functions belong to the prefrontal cortex?",
+   "right": "Judgment, planning and moral reasoning",
+   "wrong": [
+    [
+     "Processing sounds and storing long-term memories of events",
+     "That is the temporal lobe."
+    ],
+    [
+     "Balance",
+     "That is the cerebellum."
+    ],
+    [
+     "Breathing",
+     "That is the medulla."
+    ]
+   ],
+   "exp": "Executive functions: judgment, planning, reasoning, moral judgment, personality."
   }
  ],
  "Motor cortex": [
@@ -1443,6 +2735,25 @@
     [
      "Wernicke's area",
      "That is for understanding language."
+    ]
+   ],
+   "exp": "The motor cortex controls voluntary movement."
+  },
+  {
+   "q": "Surgeons stimulate a strip at the back of a patient's frontal lobe, and her fingers twitch. Which strip did they touch?",
+   "right": "The motor cortex",
+   "wrong": [
+    [
+     "The somatosensory cortex, which would make her feel a touch instead",
+     "That registers touch."
+    ],
+    [
+     "The visual cortex",
+     "That processes sight."
+    ],
+    [
+     "Wernicke's area",
+     "That is language."
     ]
    ],
    "exp": "The motor cortex controls voluntary movement."
@@ -1467,6 +2778,25 @@
     ]
    ],
    "exp": "Broca = broken speech when damaged."
+  },
+  {
+   "q": "Where is Broca's area located?",
+   "right": "Left frontal lobe, by the motor cortex",
+   "wrong": [
+    [
+     "Right temporal lobe, next to the primary auditory cortex",
+     "That isn't Broca's area."
+    ],
+    [
+     "Occipital lobe",
+     "That is vision."
+    ],
+    [
+     "Cerebellum",
+     "That is balance."
+    ]
+   ],
+   "exp": "Broca's area: left frontal lobe, next to the motor cortex."
   }
  ],
  "Broca's aphasia": [
@@ -1488,6 +2818,25 @@
     ]
    ],
    "exp": "Short, effortful sentences with good understanding = Broca's aphasia."
+  },
+  {
+   "q": "In Broca's aphasia, which ability is mostly fine?",
+   "right": "Understanding language",
+   "wrong": [
+    [
+     "Producing long, fluent sentences without effort or pauses",
+     "That is what's impaired."
+    ],
+    [
+     "Moving the arms",
+     "Not the point."
+    ],
+    [
+     "Seeing colors",
+     "Not related."
+    ]
+   ],
+   "exp": "Speech production suffers; understanding is mostly fine."
   }
  ],
  "Phineas Gage": [
@@ -1509,6 +2858,25 @@
     ]
    ],
    "exp": "Phineas Gage's personality changed after damage to his prefrontal cortex."
+  },
+  {
+   "q": "What happened to Phineas Gage?",
+   "right": "An iron rod went through his prefrontal cortex",
+   "wrong": [
+    [
+     "He lost his hippocampus in surgery and could not form memories",
+     "Not Gage."
+    ],
+    [
+     "He had his corpus callosum cut",
+     "That is a split-brain patient."
+    ],
+    [
+     "He developed MS",
+     "Not Gage."
+    ]
+   ],
+   "exp": "A railroad worker whose personality changed after the injury."
   }
  ],
  "Parietal lobe": [
@@ -1530,6 +2898,25 @@
     ]
    ],
    "exp": "The parietal lobe processes body sensations and spatial orientation."
+  },
+  {
+   "q": "Where is the parietal lobe?",
+   "right": "On top of the brain",
+   "wrong": [
+    [
+     "At the very front of the brain, behind the forehead",
+     "That is the frontal lobe."
+    ],
+    [
+     "At the back",
+     "That is the occipital lobe."
+    ],
+    [
+     "On the sides",
+     "That is the temporal lobe."
+    ]
+   ],
+   "exp": "Top of the brain."
   }
  ],
  "Somatosensory cortex": [
@@ -1551,6 +2938,25 @@
     ]
    ],
    "exp": "M before S: motor cortex, then somatosensory cortex."
+  },
+  {
+   "q": "Your fingertips are very sensitive. Which strip registers that touch?",
+   "right": "The somatosensory cortex",
+   "wrong": [
+    [
+     "The motor cortex, which controls voluntary body movement",
+     "That controls movement."
+    ],
+    [
+     "The visual cortex",
+     "That processes sight."
+    ],
+    [
+     "The auditory cortex",
+     "That processes sound."
+    ]
+   ],
+   "exp": "It registers touch and body movement sensations."
   }
  ],
  "Temporal lobe": [
@@ -1572,6 +2978,25 @@
     ]
    ],
    "exp": "Temporal = by your temples, near your ears."
+  },
+  {
+   "q": "After an injury above his left ear, a man struggles to process what people say and to recall old memories. Which lobe is most likely damaged?",
+   "right": "The temporal lobe",
+   "wrong": [
+    [
+     "The occipital lobe at the back, which handles everything we see",
+     "That is vision."
+    ],
+    [
+     "The parietal lobe",
+     "That is touch and space."
+    ],
+    [
+     "The cerebellum",
+     "That is balance."
+    ]
+   ],
+   "exp": "Temporal lobe: hearing, language processing, long-term memory."
   }
  ],
  "Primary auditory cortex": [
@@ -1593,6 +3018,25 @@
     ]
    ],
    "exp": "Hearing is processed in the primary auditory cortex."
+  },
+  {
+   "q": "Which lobe contains the primary auditory cortex?",
+   "right": "The temporal lobe",
+   "wrong": [
+    [
+     "The occipital lobe at the back of the brain, which processes sight",
+     "That is vision."
+    ],
+    [
+     "The frontal lobe",
+     "That is planning and movement."
+    ],
+    [
+     "The parietal lobe",
+     "That is touch."
+    ]
+   ],
+   "exp": "Hearing is processed in the temporal lobe."
   }
  ],
  "Wernicke's area": [
@@ -1614,6 +3058,25 @@
     ]
    ],
    "exp": "Wernicke = words don't make sense when damaged."
+  },
+  {
+   "q": "A woman can still speak fluently but can no longer understand what she reads or hears. Which area is most likely damaged?",
+   "right": "Wernicke's area",
+   "wrong": [
+    [
+     "Broca's area, which would make her speech slow and broken instead",
+     "Her speech is fluent."
+    ],
+    [
+     "The motor cortex",
+     "That is movement."
+    ],
+    [
+     "The occipital lobe",
+     "She can see the words."
+    ]
+   ],
+   "exp": "Wernicke's area is for comprehending written and spoken language."
   }
  ],
  "Wernicke's aphasia": [
@@ -1635,6 +3098,25 @@
     ]
    ],
    "exp": "Fluent speech that makes little sense = Wernicke's aphasia."
+  },
+  {
+   "q": "Which ability is impaired in Wernicke's aphasia?",
+   "right": "Understanding language",
+   "wrong": [
+    [
+     "Moving the mouth to speak at all, so the person is silent",
+     "Speech can flow."
+    ],
+    [
+     "Seeing faces",
+     "Not related."
+    ],
+    [
+     "Balance",
+     "Not related."
+    ]
+   ],
+   "exp": "Difficulty understanding and expressing language; speech can flow but makes little sense."
   }
  ],
  "Occipital lobe": [
@@ -1656,6 +3138,25 @@
     ]
    ],
    "exp": "Occipital = optical."
+  },
+  {
+   "q": "Which features do neurons in the occipital lobe recognize, according to your card?",
+   "right": "Lines, angles, shapes and movement",
+   "wrong": [
+    [
+     "Pitch, loudness and the direction that a sound comes from",
+     "That is hearing."
+    ],
+    [
+     "Hot and cold",
+     "That is touch."
+    ],
+    [
+     "Tastes",
+     "That is gustation."
+    ]
+   ],
+   "exp": "Neurons that recognize lines, angles, shapes and movement."
   }
  ],
  "Corpus callosum": [
@@ -1677,6 +3178,25 @@
     ]
    ],
    "exp": "The corpus callosum lets the hemispheres communicate."
+  },
+  {
+   "q": "What does the corpus callosum let the hemispheres do?",
+   "right": "Communicate",
+   "wrong": [
+    [
+     "Control the same side of the body instead of the opposite side",
+     "Control is contralateral."
+    ],
+    [
+     "Sleep",
+     "Not its job."
+    ],
+    [
+     "Produce hormones",
+     "Not its job."
+    ]
+   ],
+   "exp": "A band of fibers that lets the hemispheres communicate."
   }
  ],
  "Brain lateralization": [
@@ -1698,6 +3218,25 @@
     ]
    ],
    "exp": "Some functions are specialized to one side of the brain."
+  },
+  {
+   "q": "Which statement describes lateralization?",
+   "right": "Some functions are mainly on one side",
+   "wrong": [
+    [
+     "Both hemispheres do exactly the same jobs in exactly the same way",
+     "That isn't lateralization."
+    ],
+    [
+     "The brain can make new neurons anywhere",
+     "That isn't true."
+    ],
+    [
+     "Each neuron fires completely",
+     "That is all-or-none."
+    ]
+   ],
+   "exp": "Certain functions are specialized to one side of the brain."
   }
  ],
  "Contralateral control": [
@@ -1719,6 +3258,25 @@
     ]
    ],
    "exp": "Right brain → left body."
+  },
+  {
+   "q": "A person touches something hot with the left hand. Which hemisphere first registers it?",
+   "right": "The right hemisphere",
+   "wrong": [
+    [
+     "The left hemisphere, on the same side as the hand that was burned",
+     "Each side controls the opposite side."
+    ],
+    [
+     "The cerebellum only",
+     "The cortex registers it."
+    ],
+    [
+     "The brainstem only",
+     "Not the point."
+    ]
+   ],
+   "exp": "Right brain ↔ left body."
   }
  ],
  "Left hemisphere": [
@@ -1740,6 +3298,25 @@
     ]
    ],
    "exp": "Left = language and logic."
+  },
+  {
+   "q": "Which function does your card list for the left hemisphere?",
+   "right": "Time and sequencing",
+   "wrong": [
+    [
+     "Recognizing faces, places and objects that you have seen before",
+     "That is the right."
+    ],
+    [
+     "Tone of speech",
+     "That is the right."
+    ],
+    [
+     "Expressing emotion",
+     "That is the right."
+    ]
+   ],
+   "exp": "Left: speech, language, math, time and sequencing."
   }
  ],
  "Right hemisphere": [
@@ -1761,6 +3338,25 @@
     ]
    ],
    "exp": "The right handles faces, emotion and tone of speech."
+  },
+  {
+   "q": "Which function does your card list for the right hemisphere?",
+   "right": "Spatial ability",
+   "wrong": [
+    [
+     "Math calculations and recognizing written words and numbers",
+     "Those are left."
+    ],
+    [
+     "Speech production",
+     "That is left."
+    ],
+    [
+     "Time and sequencing",
+     "That is left."
+    ]
+   ],
+   "exp": "Right: spatial ability, faces, emotion, tone."
   }
  ],
  "Plasticity": [
@@ -1782,6 +3378,25 @@
     ]
    ],
    "exp": "The brain can change and reorganize."
+  },
+  {
+   "q": "After a stroke, a woman relearns to speak as other brain areas take over. What does this show?",
+   "right": "Plasticity",
+   "wrong": [
+    [
+     "Neurogenesis happening in every single area of the brain",
+     "New neurons form in only two areas."
+    ],
+    [
+     "Contralateral control",
+     "Not the point."
+    ],
+    [
+     "All-or-none",
+     "Not the point."
+    ]
+   ],
+   "exp": "The brain reorganizes after damage."
   }
  ],
  "Neurogenesis": [
@@ -1803,6 +3418,25 @@
     ]
    ],
    "exp": "Neurogenesis happens only in two areas (memory and smell)."
+  },
+  {
+   "q": "In which two areas does neurogenesis happen, according to your card?",
+   "right": "One for memory, one for smell",
+   "wrong": [
+    [
+     "One for vision and one for hearing, at the back and sides",
+     "Not the areas on your card."
+    ],
+    [
+     "Every part of the brain",
+     "Only two areas."
+    ],
+    [
+     "None at all",
+     "It happens in two areas."
+    ]
+   ],
+   "exp": "Neurogenesis happens in only two areas: one for memory, one for smell."
   }
  ],
  "EEG": [
@@ -1824,6 +3458,25 @@
     ]
    ],
    "exp": "EEG = electrical activity (brain waves)."
+  },
+  {
+   "q": "Which question can an EEG answer best?",
+   "right": "Is the patient having seizures?",
+   "wrong": [
+    [
+     "Exactly where is the tumor inside the brain, and how big is it?",
+     "That needs a structure scan like CT or MRI."
+    ],
+    [
+     "Which region uses the most glucose?",
+     "That is PET."
+    ],
+    [
+     "Where is blood flow highest?",
+     "That is fMRI."
+    ]
+   ],
+   "exp": "EEG records electrical activity; used to find seizures."
   }
  ],
  "PET scan": [
@@ -1845,6 +3498,25 @@
     ]
    ],
    "exp": "PET shows where glucose is used, which regions are active."
+  },
+  {
+   "q": "PET and fMRI both show brain activity. Which is more precise, according to your card?",
+   "right": "fMRI",
+   "wrong": [
+    [
+     "PET, because it uses radioactive glucose as a tracer",
+     "Your card says fMRI is more precise."
+    ],
+    [
+     "Neither shows activity",
+     "Both do."
+    ],
+    [
+     "CT",
+     "CT shows structure."
+    ]
+   ],
+   "exp": "fMRI is more precise than PET."
   }
  ],
  "CT scan": [
@@ -1866,6 +3538,25 @@
     ]
    ],
    "exp": "CT = X-rays showing structure."
+  },
+  {
+   "q": "Which scans show brain structure rather than activity?",
+   "right": "CT and MRI",
+   "wrong": [
+    [
+     "PET and fMRI, which show which regions are working hardest",
+     "Those show activity."
+    ],
+    [
+     "EEG and PET",
+     "Those show activity."
+    ],
+    [
+     "EEG only",
+     "That shows activity."
+    ]
+   ],
+   "exp": "Structure: CT, MRI. Activity: PET, fMRI, EEG."
   }
  ],
  "MRI": [
@@ -1887,6 +3578,25 @@
     ]
    ],
    "exp": "MRI = magnets showing detailed structure."
+  },
+  {
+   "q": "What does an MRI use to build its picture?",
+   "right": "Strong magnetic pulses",
+   "wrong": [
+    [
+     "X-rays passed through the head from many different angles",
+     "That is CT."
+    ],
+    [
+     "Radioactive glucose",
+     "That is PET."
+    ],
+    [
+     "Scalp electrodes",
+     "That is EEG."
+    ]
+   ],
+   "exp": "MRI uses strong magnetic pulses."
   }
  ],
  "fMRI": [
@@ -1908,6 +3618,25 @@
     ]
    ],
    "exp": "f = function: blood flow and oxygen use."
+  },
+  {
+   "q": "A researcher wants to see which brain areas work hardest while people solve puzzles, with no radiation. Which scan fits best?",
+   "right": "fMRI",
+   "wrong": [
+    [
+     "PET, which injects radioactive glucose to track brain activity",
+     "That uses radioactive glucose."
+    ],
+    [
+     "CT",
+     "That shows structure with X-rays."
+    ],
+    [
+     "A regular MRI",
+     "That shows structure, not function."
+    ]
+   ],
+   "exp": "fMRI shows function through blood flow and oxygen use."
   }
  ],
  "Cornea": [
@@ -1929,6 +3658,25 @@
     ]
    ],
    "exp": "The cornea is where light first enters."
+  },
+  {
+   "q": "A scratch on the clear outer layer of the eye blurs everything a patient sees. Which structure is scratched?",
+   "right": "The cornea",
+   "wrong": [
+    [
+     "The retina, the light-sensitive layer at the very back of the eye",
+     "The retina is at the back, not the outer layer."
+    ],
+    [
+     "The iris",
+     "That is the colored muscle."
+    ],
+    [
+     "The optic nerve",
+     "That carries signals to the brain."
+    ]
+   ],
+   "exp": "The cornea is the clear, protective outer layer."
   }
  ],
  "Iris": [
@@ -1950,6 +3698,25 @@
     ]
    ],
    "exp": "The iris controls pupil size and is unique to you."
+  },
+  {
+   "q": "In bright sunlight, which muscle makes your pupils shrink?",
+   "right": "The iris",
+   "wrong": [
+    [
+     "The lens, which changes its shape to focus near and far",
+     "The lens focuses; the iris controls pupil size."
+    ],
+    [
+     "The cornea",
+     "It's a clear layer, not a muscle."
+    ],
+    [
+     "The retina",
+     "It's light-sensitive tissue."
+    ]
+   ],
+   "exp": "The iris controls the pupil's size."
   }
  ],
  "Pupil": [
@@ -1971,6 +3738,25 @@
     ]
    ],
    "exp": "The pupil is the adjustable opening."
+  },
+  {
+   "q": "An eye doctor shines a light in your eye and watches a small black opening shrink. What is she watching?",
+   "right": "The pupil",
+   "wrong": [
+    [
+     "The iris, the colored ring of muscle all around it",
+     "The iris is the muscle; the opening is the pupil."
+    ],
+    [
+     "The lens",
+     "That's behind the pupil."
+    ],
+    [
+     "The cornea",
+     "It doesn't change size."
+    ]
+   ],
+   "exp": "The pupil is the adjustable opening that lets light in."
   }
  ],
  "Lens": [
@@ -1992,6 +3778,25 @@
     ]
    ],
    "exp": "The lens focuses the image."
+  },
+  {
+   "q": "You look from your phone to a whiteboard across the room and it comes into focus. Which structure changed shape to do that?",
+   "right": "The lens",
+   "wrong": [
+    [
+     "The cornea, the clear outer layer that light passes through first",
+     "The cornea doesn't change shape to focus."
+    ],
+    [
+     "The pupil",
+     "The pupil changes size, not focus."
+    ],
+    [
+     "The retina",
+     "The retina receives the image."
+    ]
+   ],
+   "exp": "The lens changes shape to focus images on the retina."
   }
  ],
  "Accommodation": [
@@ -2013,6 +3818,25 @@
     ]
    ],
    "exp": "The lens changes shape to focus on near or far objects."
+  },
+  {
+   "q": "Which structure changes shape during accommodation?",
+   "right": "The lens",
+   "wrong": [
+    [
+     "The pupil, which gets bigger or smaller depending on light",
+     "The pupil changes size, not shape for focus."
+    ],
+    [
+     "The retina",
+     "Not during accommodation."
+    ],
+    [
+     "The cochlea",
+     "That is in the ear."
+    ]
+   ],
+   "exp": "Accommodation is the lens changing shape to focus."
   }
  ],
  "Retina": [
@@ -2034,6 +3858,25 @@
     ]
    ],
    "exp": "The retina is the light-sensitive surface where transduction happens."
+  },
+  {
+   "q": "A disease destroys the rods and cones. Which part of the eye has been damaged?",
+   "right": "The retina",
+   "wrong": [
+    [
+     "The cornea at the front of the eye, where light first enters",
+     "Rods and cones are in the retina."
+    ],
+    [
+     "The lens",
+     "Not where rods and cones are."
+    ],
+    [
+     "The iris",
+     "Not where rods and cones are."
+    ]
+   ],
+   "exp": "The retina contains the rods and cones."
   }
  ],
  "Transduction": [
@@ -2055,6 +3898,25 @@
     ]
    ],
    "exp": "Turning one form of energy into neural impulses."
+  },
+  {
+   "q": "Hearing has its own transduction step. Where does it happen?",
+   "right": "In the cochlea's hair cells",
+   "wrong": [
+    [
+     "In the eardrum, which only vibrates when sound waves arrive",
+     "The eardrum vibrates; the hair cells transduce."
+    ],
+    [
+     "In the ossicles",
+     "They pass vibrations."
+    ],
+    [
+     "In the optic nerve",
+     "That is vision."
+    ]
+   ],
+   "exp": "Transduction converts one form of energy (vibration) into neural impulses."
   }
  ],
  "Rods": [
@@ -2076,6 +3938,25 @@
     ]
    ],
    "exp": "Rods = reduced light, black and white."
+  },
+  {
+   "q": "A disease destroys a patient's rods but leaves the cones. Which problem will he notice most?",
+   "right": "Seeing in dim light",
+   "wrong": [
+    [
+     "Telling apart the colors on a brightly lit, sunny afternoon",
+     "Cones handle color and they're fine."
+    ],
+    [
+     "Hearing",
+     "Not related."
+    ],
+    [
+     "Balance",
+     "Not related."
+    ]
+   ],
+   "exp": "Rods let you see in dim light."
   }
  ],
  "Cones": [
@@ -2097,6 +3978,25 @@
     ]
    ],
    "exp": "Cones = color and detail."
+  },
+  {
+   "q": "A person with damaged cones would have the most trouble with which task?",
+   "right": "Telling red from green",
+   "wrong": [
+    [
+     "Seeing the outline of a dark hallway at night with no lights",
+     "That uses rods."
+    ],
+    [
+     "Hearing high notes",
+     "That is the ear."
+    ],
+    [
+     "Keeping balance",
+     "That is vestibular."
+    ]
+   ],
+   "exp": "Cones handle color and fine detail."
   }
  ],
  "Dark adaptation": [
@@ -2118,6 +4018,25 @@
     ]
    ],
    "exp": "Pupils dilate to let more light in; it takes about 20 minutes."
+  },
+  {
+   "q": "What happens to your pupils during dark adaptation?",
+   "right": "They dilate",
+   "wrong": [
+    [
+     "They shrink to let in less light and protect the retina",
+     "In darkness they dilate."
+    ],
+    [
+     "They close completely",
+     "They don't close."
+    ],
+    [
+     "They change color",
+     "They don't change color."
+    ]
+   ],
+   "exp": "Pupils dilate to let more light reach the retina; it takes about 20 minutes."
   }
  ],
  "Bipolar cells": [
@@ -2136,6 +4055,25 @@
     [
      "Hair cells",
      "Those are in the ear."
+    ]
+   ],
+   "exp": "Rods/cones → bipolar cells → ganglion cells."
+  },
+  {
+   "q": "In the retina, a signal passes from the rods and cones to which cells next?",
+   "right": "Bipolar cells",
+   "wrong": [
+    [
+     "The ossicles, three tiny bones in the middle of the ear",
+     "Those are in the ear."
+    ],
+    [
+     "The lens",
+     "That is in front of the retina."
+    ],
+    [
+     "The cornea",
+     "That is the outer layer."
     ]
    ],
    "exp": "Rods/cones → bipolar cells → ganglion cells."
@@ -2160,6 +4098,25 @@
     ]
    ],
    "exp": "Ganglion cell axons form the optic nerve."
+  },
+  {
+   "q": "Damage to the axons of the ganglion cells would affect which structure?",
+   "right": "The optic nerve",
+   "wrong": [
+    [
+     "The iris, the colored muscle that sets the size of the pupil",
+     "Not made of ganglion axons."
+    ],
+    [
+     "The lens",
+     "Not made of ganglion axons."
+    ],
+    [
+     "The cochlea",
+     "That is in the ear."
+    ]
+   ],
+   "exp": "Ganglion cell axons bundle together to form the optic nerve."
   }
  ],
  "Optic nerve": [
@@ -2181,6 +4138,25 @@
     ]
    ],
    "exp": "The optic nerve carries visual signals to the brain."
+  },
+  {
+   "q": "A patient's eyes work, but a tumor presses on the cable between eye and brain. Which structure is affected?",
+   "right": "The optic nerve",
+   "wrong": [
+    [
+     "The corpus callosum, which links the two halves of the brain",
+     "That connects the hemispheres."
+    ],
+    [
+     "The cornea",
+     "That is the outer layer."
+    ],
+    [
+     "The pupil",
+     "That is an opening."
+    ]
+   ],
+   "exp": "The optic nerve carries impulses from the eye to the brain."
   }
  ],
  "Primary visual cortex": [
@@ -2199,6 +4175,25 @@
     [
      "In the hippocampus",
      "That stores memories."
+    ]
+   ],
+   "exp": "The primary visual cortex is in the occipital lobe."
+  },
+  {
+   "q": "Damage to which lobe would affect the primary visual cortex?",
+   "right": "The occipital lobe",
+   "wrong": [
+    [
+     "The temporal lobe, the area that processes all of the sounds we hear",
+     "That is hearing."
+    ],
+    [
+     "The frontal lobe",
+     "That is planning and movement."
+    ],
+    [
+     "The parietal lobe",
+     "That is touch."
     ]
    ],
    "exp": "The primary visual cortex is in the occipital lobe."
@@ -2223,6 +4218,25 @@
     ]
    ],
    "exp": "They respond to specific features like shape, angle or movement."
+  },
+  {
+   "q": "A cat's neuron fires only when it sees a bar of light moving left. What kind of neuron is this?",
+   "right": "A feature detector",
+   "wrong": [
+    [
+     "A rod, which picks up dim light in the retina of the eye",
+     "Rods are receptors, not cortex neurons."
+    ],
+    [
+     "A motor neuron",
+     "That controls muscles."
+    ],
+    [
+     "An interneuron in the spinal cord",
+     "Not for vision features."
+    ]
+   ],
+   "exp": "Feature detectors respond to specific features like shape, angle or movement."
   }
  ],
  "Parallel processing": [
@@ -2244,6 +4258,25 @@
     ]
    ],
    "exp": "Processing many aspects of a stimulus at once."
+  },
+  {
+   "q": "Why do we see a moving red ball as one object instead of separate color, motion and shape?",
+   "right": "The brain processes them together, then combines them",
+   "wrong": [
+    [
+     "The eye sends just one single feature at a time to the brain",
+     "The brain handles them at the same time."
+    ],
+    [
+     "Only the lens processes color",
+     "Not how it works."
+    ],
+    [
+     "Feature detectors ignore motion",
+     "They detect motion."
+    ]
+   ],
+   "exp": "Parallel processing combines many aspects into one image."
   }
  ],
  "Trichromatic theory": [
@@ -2265,6 +4298,25 @@
     ]
    ],
    "exp": "Tri = three cones."
+  },
+  {
+   "q": "Mixing red, green and blue light can make almost any color on a TV screen. Which theory of color vision does this match?",
+   "right": "Trichromatic theory",
+   "wrong": [
+    [
+     "Opponent-process theory of red/green and yellow/blue pairs",
+     "That explains afterimages, not mixing three colors."
+    ],
+    [
+     "Gate control theory",
+     "That is pain."
+    ],
+    [
+     "Weber's law",
+     "That is differences."
+    ]
+   ],
+   "exp": "Three types of cones combine to produce any color."
   }
  ],
  "Color blindness": [
@@ -2283,6 +4335,25 @@
     [
      "Too much melatonin",
      "That affects sleep."
+    ]
+   ],
+   "exp": "Color blindness usually comes from impaired red or green cones."
+  },
+  {
+   "q": "Which theory best explains why most color blindness affects red or green?",
+   "right": "Trichromatic: those cones are impaired",
+   "wrong": [
+    [
+     "Gate control: a gate in the spinal cord blocks the color signals",
+     "Gate control is about pain."
+    ],
+    [
+     "Opponent-process: the eye sees too much red",
+     "Not the explanation."
+    ],
+    [
+     "Sound localization",
+     "Not related."
     ]
    ],
    "exp": "Color blindness usually comes from impaired red or green cones."
@@ -2307,6 +4378,25 @@
     ]
    ],
    "exp": "A cell can signal only one color of each pair at a time."
+  },
+  {
+   "q": "Which theory explains why staring at a yellow square leaves a blue afterimage?",
+   "right": "Opponent-process theory",
+   "wrong": [
+    [
+     "Trichromatic theory of red, green and blue cones in the retina",
+     "That doesn't explain afterimages."
+    ],
+    [
+     "Gestalt theory",
+     "That is grouping."
+    ],
+    [
+     "Weber's law",
+     "That is differences."
+    ]
+   ],
+   "exp": "Opposing pairs: yellow/blue, red/green, white/black."
   }
  ],
  "Afterimage": [
@@ -2328,6 +4418,25 @@
     ]
    ],
    "exp": "Opponent-process theory explains afterimages."
+  },
+  {
+   "q": "You stare at a red flag, then look at a white wall. What color is the afterimage?",
+   "right": "Green",
+   "wrong": [
+    [
+     "Red, because the original image stays on the retina for a while",
+     "Afterimages show the opposing color."
+    ],
+    [
+     "Yellow",
+     "Red's opposite is green."
+    ],
+    [
+     "Blue",
+     "Blue's opposite is yellow."
+    ]
+   ],
+   "exp": "Opponent pairs: red/green."
   }
  ],
  "Which color theory is right?": [
@@ -2349,6 +4458,25 @@
     ]
    ],
    "exp": "Trichromatic explains the retina; opponent-process explains the brain."
+  },
+  {
+   "q": "Where does each color theory apply?",
+   "right": "Trichromatic in the retina; opponent-process in the brain",
+   "wrong": [
+    [
+     "Opponent-process in the retina, and trichromatic in the brain itself",
+     "It's the other way around."
+    ],
+    [
+     "Both only in the ear",
+     "They're about vision."
+    ],
+    [
+     "Neither is accepted",
+     "Both are right."
+    ]
+   ],
+   "exp": "Both are right, at different stages."
   }
  ],
  "Gestalt": [
@@ -2367,6 +4495,25 @@
     [
      "Retinal disparity",
      "That is a depth cue."
+    ]
+   ],
+   "exp": "We combine pieces into meaningful wholes."
+  },
+  {
+   "q": "Which statement best captures the Gestalt idea?",
+   "right": "The whole is seen before the parts",
+   "wrong": [
+    [
+     "We notice each separate line before ever seeing the overall shape",
+     "Gestalt says we see wholes."
+    ],
+    [
+     "Color comes from three cones",
+     "That is trichromatic."
+    ],
+    [
+     "Depth needs two eyes",
+     "That is binocular cues."
     ]
    ],
    "exp": "We combine pieces into meaningful wholes."
@@ -2391,6 +4538,25 @@
     ]
    ],
    "exp": "We group objects that are close together."
+  },
+  {
+   "q": "On a page, letters close together look like words, separated by spaces. Which principle explains this?",
+   "right": "Proximity",
+   "wrong": [
+    [
+     "Closure, filling in the gaps to see a complete shape",
+     "No gaps are being filled."
+    ],
+    [
+     "Similarity",
+     "The letters look alike either way."
+    ],
+    [
+     "Figure-ground",
+     "Not the grouping principle here."
+    ]
+   ],
+   "exp": "We group objects that are close together."
   }
  ],
  "Similarity": [
@@ -2405,6 +4571,25 @@
     [
      "Closure",
      "That is filling in gaps."
+    ],
+    [
+     "Interposition",
+     "That is a depth cue."
+    ]
+   ],
+   "exp": "We group objects that look alike."
+  },
+  {
+   "q": "A crowd at a game looks like two groups because one side wears blue and the other wears red. Which principle explains this?",
+   "right": "Similarity",
+   "wrong": [
+    [
+     "Proximity, grouping things together because they are close",
+     "Grouping here is by color."
+    ],
+    [
+     "Closure",
+     "Not filling gaps."
     ],
     [
      "Interposition",
@@ -2433,6 +4618,25 @@
     ]
    ],
    "exp": "We fill in gaps to see a complete shape."
+  },
+  {
+   "q": "A logo made of broken lines still reads as a complete circle. Which principle explains this?",
+   "right": "Closure",
+   "wrong": [
+    [
+     "Similarity, grouping together the things that look alike",
+     "The key is filling the gaps."
+    ],
+    [
+     "Proximity",
+     "Not about nearness."
+    ],
+    [
+     "Relative size",
+     "That is a depth cue."
+    ]
+   ],
+   "exp": "We fill in gaps to see a complete shape."
   }
  ],
  "Figure-ground": [
@@ -2454,6 +4658,25 @@
     ]
    ],
    "exp": "Organizing a scene into a figure and its ground."
+  },
+  {
+   "q": "Reading black text on a white page, you see the letters as objects and the page as background. Which principle is this?",
+   "right": "Figure-ground",
+   "wrong": [
+    [
+     "Closure, filling in the gaps between broken lines",
+     "Not filling gaps."
+    ],
+    [
+     "Similarity",
+     "Not grouping alike items."
+    ],
+    [
+     "Linear perspective",
+     "That is depth."
+    ]
+   ],
+   "exp": "Objects (figures) stand out from their surroundings (ground)."
   }
  ],
  "Depth perception": [
@@ -2475,6 +4698,25 @@
     ]
    ],
    "exp": "Judging how far away things are."
+  },
+  {
+   "q": "Which everyday task depends most on depth perception?",
+   "right": "Judging when to step off a curb",
+   "wrong": [
+    [
+     "Telling apart the colors on the red and green traffic lights",
+     "That is color vision."
+    ],
+    [
+     "Hearing a siren",
+     "That is hearing."
+    ],
+    [
+     "Smelling smoke",
+     "That is smell."
+    ]
+   ],
+   "exp": "Judging how far away an object is."
   }
  ],
  "Binocular cues": [
@@ -2496,6 +4738,25 @@
     ]
    ],
    "exp": "Binocular cues need both eyes."
+  },
+  {
+   "q": "Which depth cue is binocular?",
+   "right": "Retinal disparity",
+   "wrong": [
+    [
+     "Linear perspective, like train tracks meeting in the distance",
+     "That is monocular."
+    ],
+    [
+     "Interposition",
+     "That is monocular."
+    ],
+    [
+     "Relative size",
+     "That is monocular."
+    ]
+   ],
+   "exp": "Retinal disparity needs both eyes."
   }
  ],
  "Retinal disparity": [
@@ -2517,6 +4778,25 @@
     ]
    ],
    "exp": "Each eye gets a slightly different image; a bigger difference means closer."
+  },
+  {
+   "q": "Which object gives you the biggest retinal disparity?",
+   "right": "A pencil a few inches from your nose",
+   "wrong": [
+    [
+     "A mountain far away on the horizon, many miles in the distance",
+     "Far objects give little disparity."
+    ],
+    [
+     "A plane in the sky",
+     "Far away, little disparity."
+    ],
+    [
+     "The moon",
+     "Far away, little disparity."
+    ]
+   ],
+   "exp": "The bigger the difference between the two images, the closer the object."
   }
  ],
  "Monocular cues": [
@@ -2538,6 +4818,25 @@
     ]
    ],
    "exp": "Mono = one eye."
+  },
+  {
+   "q": "Which distances do monocular cues mostly help with?",
+   "right": "Farther distances",
+   "wrong": [
+    [
+     "Only things a few inches from your face, like a book you are reading",
+     "Monocular cues are used for farther distances."
+    ],
+    [
+     "Only sounds",
+     "They're visual."
+    ],
+    [
+     "Only colors",
+     "They're about depth."
+    ]
+   ],
+   "exp": "Monocular cues work with one eye, mostly for farther distances."
   }
  ],
  "Relative size": [
@@ -2559,6 +4858,25 @@
     ]
    ],
    "exp": "If two objects are assumed the same size, the smaller-looking one seems farther."
+  },
+  {
+   "q": "Two identical cars are in a photo, and one is tiny. Why does it look farther away?",
+   "right": "We assume they're the same size",
+   "wrong": [
+    [
+     "The smaller one is blocked by the bigger one in front of it",
+     "That would be interposition."
+    ],
+    [
+     "It looks hazier",
+     "That would be relative clarity."
+    ],
+    [
+     "Parallel lines converge",
+     "That would be linear perspective."
+    ]
+   ],
+   "exp": "If objects are assumed to be the same size, the smaller-looking one seems farther."
   }
  ],
  "Interposition": [
@@ -2580,6 +4898,25 @@
     ]
    ],
    "exp": "An object blocking another is seen as closer."
+  },
+  {
+   "q": "In a painting, a person stands partly in front of a tree, hiding some of its trunk. Which cue tells you she's closer?",
+   "right": "Interposition",
+   "wrong": [
+    [
+     "Relative clarity, since the closer object is sharper",
+     "The key is that she blocks the tree."
+    ],
+    [
+     "Relative size",
+     "Not about size."
+    ],
+    [
+     "Retinal disparity",
+     "A painting can't use it."
+    ]
+   ],
+   "exp": "An object that blocks another is seen as closer."
   }
  ],
  "Linear perspective": [
@@ -2598,6 +4935,25 @@
     [
      "Closure",
      "That is a Gestalt principle."
+    ]
+   ],
+   "exp": "Parallel lines seem to converge in the distance."
+  },
+  {
+   "q": "An artist draws road edges that come together at a point near the horizon. Which cue is this?",
+   "right": "Linear perspective",
+   "wrong": [
+    [
+     "Interposition, where one object is drawn blocking another",
+     "Nothing is blocked."
+    ],
+    [
+     "Relative clarity",
+     "Not about haze."
+    ],
+    [
+     "Proximity",
+     "That is grouping."
     ]
    ],
    "exp": "Parallel lines seem to converge in the distance."
@@ -2622,6 +4978,25 @@
     ]
    ],
    "exp": "Sharp objects seem closer; hazy ones seem farther."
+  },
+  {
+   "q": "In a landscape painting, the mountains in back are drawn faint and blurry. Which cue makes them look far?",
+   "right": "Relative clarity",
+   "wrong": [
+    [
+     "Linear perspective, lines that come together in the distance",
+     "Not converging lines."
+    ],
+    [
+     "Interposition",
+     "Not blocking."
+    ],
+    [
+     "Retinal disparity",
+     "Not possible in a painting."
+    ]
+   ],
+   "exp": "Hazy objects seem farther away."
   }
  ],
  "Audition": [
@@ -2640,6 +5015,25 @@
     [
      "Kinesthesis",
      "That is body position."
+    ]
+   ],
+   "exp": "Audition is hearing."
+  },
+  {
+   "q": "Which structures are part of audition?",
+   "right": "Eardrum, ossicles and cochlea",
+   "wrong": [
+    [
+     "Rods, cones and the ganglion cells at the back of the eye",
+     "Those are vision."
+    ],
+    [
+     "Taste buds",
+     "Those are taste."
+    ],
+    [
+     "Semicircular canals only",
+     "Those are balance."
     ]
    ],
    "exp": "Audition is hearing."
@@ -2664,6 +5058,25 @@
     ]
    ],
    "exp": "Higher amplitude = louder."
+  },
+  {
+   "q": "A whisper and a shout of the same note differ mainly in which property?",
+   "right": "Amplitude",
+   "wrong": [
+    [
+     "Frequency, the property of a sound that sets its pitch",
+     "Same note means same pitch."
+    ],
+    [
+     "Color",
+     "Sound has no color."
+    ],
+    [
+     "Transduction",
+     "That is a process."
+    ]
+   ],
+   "exp": "Amplitude determines loudness."
   }
  ],
  "Frequency": [
@@ -2685,6 +5098,25 @@
     ]
    ],
    "exp": "Higher frequency = higher pitch."
+  },
+  {
+   "q": "A bass guitar and a whistle are equally loud. What makes the whistle sound higher?",
+   "right": "Higher frequency",
+   "wrong": [
+    [
+     "Higher amplitude, the height of each of the sound waves",
+     "That would be louder, not higher."
+    ],
+    [
+     "Lower frequency",
+     "That would be lower pitch."
+    ],
+    [
+     "More transduction",
+     "Not the answer."
+    ]
+   ],
+   "exp": "High frequency = high pitch."
   }
  ],
  "Sound localization": [
@@ -2706,6 +5138,25 @@
     ]
    ],
    "exp": "The nearer ear hears it slightly louder and slightly sooner."
+  },
+  {
+   "q": "A sound comes from directly in front of you. Why is it harder to place than one from the side?",
+   "right": "Both ears hear it the same",
+   "wrong": [
+    [
+     "Only one of your ears can hear sounds that come from in front",
+     "Both ears hear it."
+    ],
+    [
+     "Sounds in front are always quieter",
+     "Not the reason."
+    ],
+    [
+     "The cochlea is turned off",
+     "Not true."
+    ]
+   ],
+   "exp": "Localization relies on one ear hearing a sound slightly louder and sooner."
   }
  ],
  "Eardrum": [
@@ -2727,6 +5178,25 @@
     ]
    ],
    "exp": "The eardrum vibrates with sound."
+  },
+  {
+   "q": "A loud blast tears a membrane between the outer and middle ear. Which type of hearing loss could this cause?",
+   "right": "Conduction hearing loss",
+   "wrong": [
+    [
+     "Sensorineural hearing loss from damaged hair cells",
+     "The eardrum is part of conduction."
+    ],
+    [
+     "Synesthesia",
+     "Not hearing loss."
+    ],
+    [
+     "Prosopagnosia",
+     "Not hearing loss."
+    ]
+   ],
+   "exp": "The eardrum is part of the sound-conducting path."
   }
  ],
  "Ossicles": [
@@ -2748,6 +5218,25 @@
     ]
    ],
    "exp": "Hammer, anvil and stirrup."
+  },
+  {
+   "q": "If the middle-ear bones fuse and can't move, which type of hearing loss results?",
+   "right": "Conduction hearing loss",
+   "wrong": [
+    [
+     "Sensorineural hearing loss caused by damage to the auditory nerve",
+     "The ossicles conduct sound."
+    ],
+    [
+     "Phantom limb",
+     "Not related."
+    ],
+    [
+     "Narcolepsy",
+     "Not related."
+    ]
+   ],
+   "exp": "Damage to the ossicles is conduction hearing loss."
   }
  ],
  "Cochlea": [
@@ -2769,6 +5258,25 @@
     ]
    ],
    "exp": "Transduction for hearing happens in the cochlea."
+  },
+  {
+   "q": "Which part of the ear does a cochlear implant connect to?",
+   "right": "The cochlea",
+   "wrong": [
+    [
+     "The ossicles, the three tiny bones in the middle ear",
+     "The implant is wired into the cochlea."
+    ],
+    [
+     "The eardrum",
+     "Not where it's wired."
+    ],
+    [
+     "The semicircular canals",
+     "Those are balance."
+    ]
+   ],
+   "exp": "A cochlear implant is wired into the cochlea."
   }
  ],
  "Conduction hearing loss": [
@@ -2790,6 +5298,25 @@
     ]
    ],
    "exp": "Conduction = correctable (outer and middle ear)."
+  },
+  {
+   "q": "Which type of hearing loss can usually be fixed with surgery?",
+   "right": "Conduction hearing loss",
+   "wrong": [
+    [
+     "Sensorineural hearing loss from damage to the inner ear's hair cells",
+     "That can't be reversed."
+    ],
+    [
+     "All hearing loss",
+     "Not sensorineural."
+    ],
+    [
+     "None",
+     "Conduction can be fixed."
+    ]
+   ],
+   "exp": "Conduction = correctable."
   }
  ],
  "Sensorineural hearing loss": [
@@ -2811,6 +5338,25 @@
     ]
    ],
    "exp": "Nerve deafness: damage to the hair cells or auditory nerve."
+  },
+  {
+   "q": "Why can't sensorineural hearing loss be fixed by repairing the eardrum?",
+   "right": "The damage is in the inner ear",
+   "wrong": [
+    [
+     "The damage is only in the outer ear canal, which surgery cannot reach",
+     "It's inner ear damage."
+    ],
+    [
+     "The eardrum doesn't exist",
+     "It does."
+    ],
+    [
+     "It's caused by the lens",
+     "Not related."
+    ]
+   ],
+   "exp": "Damage to the cochlea's hair cells or the auditory nerve."
   }
  ],
  "Cochlear implant": [
@@ -2832,6 +5378,25 @@
     ]
    ],
    "exp": "It turns sounds into electrical signals sent up the auditory nerve."
+  },
+  {
+   "q": "Which patient is the best candidate for a cochlear implant?",
+   "right": "One with damaged cochlear hair cells",
+   "wrong": [
+    [
+     "One with a torn eardrum that surgery can easily repair",
+     "That is conduction loss."
+    ],
+    [
+     "One with color blindness",
+     "Not related."
+    ],
+    [
+     "One with insomnia",
+     "Not related."
+    ]
+   ],
+   "exp": "Cochlear implants are used for sensorineural hearing loss."
   }
  ],
  "Vestibular sense": [
@@ -2853,6 +5418,25 @@
     ]
    ],
    "exp": "Fluid in the semicircular canals keeps moving after you stop."
+  },
+  {
+   "q": "Where do vestibular signals go in the brain?",
+   "right": "The cerebellum",
+   "wrong": [
+    [
+     "The occipital lobe at the back, where visual signals are processed",
+     "That is vision."
+    ],
+    [
+     "Broca's area",
+     "That is speech."
+    ],
+    [
+     "The amygdala",
+     "That is fear."
+    ]
+   ],
+   "exp": "Vestibular signals go to the cerebellum."
   }
  ],
  "Kinesthesis": [
@@ -2874,6 +5458,25 @@
     ]
    ],
    "exp": "Sensors in muscles, tendons and joints track body parts."
+  },
+  {
+   "q": "Where are the sensors for kinesthesis?",
+   "right": "In muscles, tendons and joints",
+   "wrong": [
+    [
+     "In the semicircular canals of the inner ear, near the cochlea",
+     "That is the vestibular sense."
+    ],
+    [
+     "In the retina",
+     "That is vision."
+    ],
+    [
+     "In the taste buds",
+     "That is taste."
+    ]
+   ],
+   "exp": "Kinesthesis uses sensors in muscles, tendons and joints."
   }
  ],
  "Olfaction": [
@@ -2895,6 +5498,25 @@
     ]
    ],
    "exp": "Olfaction goes to areas connected to the limbic system."
+  },
+  {
+   "q": "Which brain structure does smell skip, unlike every other sense?",
+   "right": "The thalamus",
+   "wrong": [
+    [
+     "The cerebellum, the little brain at the back that controls balance",
+     "Smell skips the thalamus."
+    ],
+    [
+     "The cortex",
+     "Smell reaches the cortex."
+    ],
+    [
+     "The spinal cord",
+     "Not the point."
+    ]
+   ],
+   "exp": "Smell skips the thalamus and goes to limbic-connected areas."
   }
  ],
  "Gustation": [
@@ -2916,6 +5538,25 @@
     ]
    ],
    "exp": "Taste buds regenerate about every two weeks."
+  },
+  {
+   "q": "About how many taste buds does the tongue have, according to your card?",
+   "right": "About 200",
+   "wrong": [
+    [
+     "About 2 million, spread across the tongue, cheeks and throat",
+     "Your card says about 200."
+    ],
+    [
+     "About 5",
+     "Too few."
+    ],
+    [
+     "Exactly 1,000",
+     "Not on your card."
+    ]
+   ],
+   "exp": "About 200 taste buds, each with 50–100 receptors."
   }
  ],
  "Five basic tastes": [
@@ -2937,6 +5578,25 @@
     ]
    ],
    "exp": "Sweet, sour, salty, bitter and umami (savory)."
+  },
+  {
+   "q": "Which list contains only basic tastes?",
+   "right": "Sweet, sour, salty, bitter, umami",
+   "wrong": [
+    [
+     "Sweet, sour, spicy, cold and minty, the flavors of candy",
+     "Spicy, cold and minty aren't basic tastes."
+    ],
+    [
+     "Red, green, blue",
+     "Those are colors."
+    ],
+    [
+     "Pressure, warmth, cold, pain",
+     "Those are touch."
+    ]
+   ],
+   "exp": "Five basic tastes."
   }
  ],
  "Supertasters": [
@@ -2958,6 +5618,25 @@
     ]
    ],
    "exp": "Supertasters have more taste buds and feel taste and pain more intensely."
+  },
+  {
+   "q": "Why might a supertaster dislike very bitter coffee more than friends do?",
+   "right": "More taste buds make tastes more intense",
+   "wrong": [
+    [
+     "Fewer taste buds make every flavor taste weaker and more bitter",
+     "Supertasters have more taste buds."
+    ],
+    [
+     "Their cochlea is damaged",
+     "Not related."
+    ],
+    [
+     "They lack smell",
+     "Not on your card."
+    ]
+   ],
+   "exp": "Supertasters experience tastes more intensely."
   }
  ],
  "Sensory interaction": [
@@ -2979,6 +5658,25 @@
     ]
    ],
    "exp": "One sense (smell) influences another (taste)."
+  },
+  {
+   "q": "Food tastes bland when you have a stuffy nose. What does this show?",
+   "right": "Sensory interaction",
+   "wrong": [
+    [
+     "Sensorineural hearing loss affecting how food tastes",
+     "Not hearing."
+    ],
+    [
+     "Synesthesia",
+     "Not one sense triggering another experience."
+    ],
+    [
+     "Gate control",
+     "That is pain."
+    ]
+   ],
+   "exp": "Smell affects taste."
   }
  ],
  "Touch": [
@@ -3000,6 +5698,25 @@
     ]
    ],
    "exp": "Touch = pressure, warmth, cold and pain."
+  },
+  {
+   "q": "Feeling a hot mug, a cold ice cube and a pinch all use which sense?",
+   "right": "Touch",
+   "wrong": [
+    [
+     "Kinesthesis, the sense of where your body parts are positioned",
+     "That tracks body position."
+    ],
+    [
+     "Gustation",
+     "That is taste."
+    ],
+    [
+     "Vestibular sense",
+     "That is balance."
+    ]
+   ],
+   "exp": "Touch includes pressure, warmth, cold and pain."
   }
  ],
  "Gate control theory": [
@@ -3021,6 +5738,25 @@
     ]
    ],
    "exp": "Distraction can close the spinal cord's pain gate."
+  },
+  {
+   "q": "Why might a soldier not notice a wound until after the battle, according to gate control theory?",
+   "right": "Distraction can close the pain gate",
+   "wrong": [
+    [
+     "His cochlea was too busy processing the loud sounds of the battle",
+     "Not related."
+    ],
+    [
+     "Pain never reaches the brain",
+     "It can when the gate opens."
+    ],
+    [
+     "He's a supertaster",
+     "Not related."
+    ]
+   ],
+   "exp": "The spinal cord's gate can block pain signals; distraction can close it."
   }
  ],
  "Phantom limb": [
@@ -3042,6 +5778,25 @@
     ]
    ],
    "exp": "The sensory cortex area for the limb is still active."
+  },
+  {
+   "q": "Which brain area explains phantom limb sensations?",
+   "right": "The sensory cortex area for that limb",
+   "wrong": [
+    [
+     "The motor cortex area that is in charge of the opposite arm",
+     "The sensory cortex explains the feeling."
+    ],
+    [
+     "The pineal gland",
+     "Not related."
+    ],
+    [
+     "The cochlea",
+     "Not related."
+    ]
+   ],
+   "exp": "The sensory cortex area for that limb still has activity."
   }
  ],
  "Synesthesia": [
@@ -3063,6 +5818,25 @@
     ]
    ],
    "exp": "One sense triggers another."
+  },
+  {
+   "q": "Which experience is synesthesia rather than sensory interaction?",
+   "right": "Seeing blue whenever you see the number 7",
+   "wrong": [
+    [
+     "Food tasting bland because a cold has blocked up your nose",
+     "That is sensory interaction."
+    ],
+    [
+     "Hearing your name in a crowd",
+     "That is the cocktail party effect."
+    ],
+    [
+     "Feeling dizzy after spinning",
+     "That is vestibular."
+    ]
+   ],
+   "exp": "One sense triggers another experience."
   }
  ],
  "Prosopagnosia": [
@@ -3081,6 +5855,25 @@
     [
      "Narcolepsy",
      "That is falling asleep suddenly."
+    ]
+   ],
+   "exp": "Face blindness."
+  },
+  {
+   "q": "A woman recognizes her son only by his voice and red jacket. Which condition might she have?",
+   "right": "Prosopagnosia",
+   "wrong": [
+    [
+     "Color blindness that keeps her from seeing faces in color",
+     "She can see; she can't recognize faces."
+    ],
+    [
+     "Synesthesia",
+     "Not related."
+    ],
+    [
+     "Narcolepsy",
+     "Not related."
     ]
    ],
    "exp": "Face blindness."
@@ -3105,6 +5898,25 @@
     ]
    ],
    "exp": "Even sound asleep, your brain is still active."
+  },
+  {
+   "q": "Which finding best supports the idea that sleep is an altered state, not a shutdown?",
+   "right": "Brain activity continues during sleep",
+   "wrong": [
+    [
+     "The heart completely stops beating for short periods during sleep",
+     "Not true."
+    ],
+    [
+     "No one dreams",
+     "Everyone dreams."
+    ],
+    [
+     "The brain turns off in Stage 3",
+     "The brain stays active."
+    ]
+   ],
+   "exp": "Even sound asleep, your brain is still active."
   }
  ],
  "Dreaming": [
@@ -3126,6 +5938,25 @@
     ]
    ],
    "exp": "She dreams; she just doesn't remember."
+  },
+  {
+   "q": "Which claim agrees with your slides about dreaming?",
+   "right": "Everyone dreams every night",
+   "wrong": [
+    [
+     "Only people with sleep disorders ever dream during the night",
+     "Everyone dreams."
+    ],
+    [
+     "Dreams happen only in naps",
+     "Every night."
+    ],
+    [
+     "Adults stop dreaming",
+     "Everyone dreams."
+    ]
+   ],
+   "exp": "Everyone dreams every night."
   }
  ],
  "Sleep stages": [
@@ -3144,6 +5975,25 @@
     [
      "REM 1, REM 2, REM 3, NREM",
      "There are three NREM stages and one REM."
+    ]
+   ],
+   "exp": "Three NREM stages, then REM."
+  },
+  {
+   "q": "How many sleep stages are NREM?",
+   "right": "Three",
+   "wrong": [
+    [
+     "Four, because every one of the sleep stages is a type of NREM",
+     "REM is the fourth, not NREM."
+    ],
+    [
+     "One",
+     "There are three."
+    ],
+    [
+     "Five",
+     "There are four stages total."
     ]
    ],
    "exp": "Three NREM stages, then REM."
@@ -3168,6 +6018,25 @@
     ]
    ],
    "exp": "The 24-hour biological clock."
+  },
+  {
+   "q": "About how long is the cycle of the circadian rhythm?",
+   "right": "24 hours",
+   "wrong": [
+    [
+     "About 90 minutes, the length of a single cycle of sleep stages",
+     "Your card says 24 hours."
+    ],
+    [
+     "One week",
+     "Too long."
+    ],
+    [
+     "One year",
+     "Too long."
+    ]
+   ],
+   "exp": "The biological clock runs on a 24-hour cycle."
   }
  ],
  "Body temperature cycle": [
@@ -3189,6 +6058,25 @@
     ]
    ],
    "exp": "Temperature rises through the day, dips in the afternoon and is lowest at night."
+  },
+  {
+   "q": "A student feels sluggish in mid-afternoon. Which part of the body temperature cycle might explain it?",
+   "right": "Temperature dips in the afternoon",
+   "wrong": [
+    [
+     "Temperature is at its very highest point of the day in the afternoon",
+     "It dips in the afternoon."
+    ],
+    [
+     "Temperature is lowest at noon",
+     "It's lowest at night."
+    ],
+    [
+     "Temperature never changes",
+     "It changes through the day."
+    ]
+   ],
+   "exp": "Temperature rises through the day, dips in the afternoon, and is lowest at night."
   }
  ],
  "Teens and young adults": [
@@ -3210,6 +6098,25 @@
     ]
    ],
    "exp": "Most teens and young adults are evening-energized."
+  },
+  {
+   "q": "A teen does his best thinking at 9 p.m. Which pattern does this fit?",
+   "right": "Evening-energized teens",
+   "wrong": [
+    [
+     "Morning-person older adults whose energy fades through the day",
+     "That pattern is older adults."
+    ],
+    [
+     "Insomnia",
+     "Not a disorder here."
+    ],
+    [
+     "Narcolepsy",
+     "Not a disorder here."
+    ]
+   ],
+   "exp": "Most teens and young adults improve across the day."
   }
  ],
  "Older adults": [
@@ -3231,6 +6138,25 @@
     ]
    ],
    "exp": "Most older adults' energy declines as the day goes on."
+  },
+  {
+   "q": "Grandma schedules her harder tasks for the morning. Which pattern explains why?",
+   "right": "Most older adults are morning people",
+   "wrong": [
+    [
+     "Most older adults have the most energy late in the evening hours",
+     "Their energy declines through the day."
+    ],
+    [
+     "Older adults don't have circadian rhythms",
+     "They do."
+    ],
+    [
+     "Older adults don't sleep",
+     "Not true."
+    ]
+   ],
+   "exp": "Older adults: energy declines as the day goes on."
   }
  ],
  "Artificial light": [
@@ -3252,6 +6178,25 @@
     ]
    ],
    "exp": "Artificial light can interfere with circadian rhythms."
+  },
+  {
+   "q": "A sleep coach tells a client to put the phone away an hour before bed. Which card explains this advice?",
+   "right": "Artificial light can disrupt circadian rhythms",
+   "wrong": [
+    [
+     "Artificial light boosts the body's melatonin and makes people sleepy",
+     "It interferes with the rhythm."
+    ],
+    [
+     "Phones cause narcolepsy",
+     "Not on your card."
+    ],
+    [
+     "Light improves REM",
+     "Not on your card."
+    ]
+   ],
+   "exp": "Light from phones and lamps can interfere with circadian rhythms."
   }
  ],
  "Sleep loss: brain": [
@@ -3273,6 +6218,25 @@
     ]
    ],
    "exp": "Sleep loss reduces focus and memory consolidation and raises the risk of depression."
+  },
+  {
+   "q": "Which mental-health risk rises with sleep loss, according to your slides?",
+   "right": "Depression",
+   "wrong": [
+    [
+     "Schizophrenia, from a dopamine overload during the night",
+     "Not on your slides."
+    ],
+    [
+     "Synesthesia",
+     "Not related."
+    ],
+    [
+     "Prosopagnosia",
+     "Not related."
+    ]
+   ],
+   "exp": "Sleep loss increases the risk of depression."
   }
  ],
  "Sleep loss: immune system": [
@@ -3294,6 +6258,25 @@
     ]
    ],
    "exp": "Fewer immune cells, more viral infections."
+  },
+  {
+   "q": "Which type of infection rises with sleep loss, per your slides?",
+   "right": "Viral infections like colds",
+   "wrong": [
+    [
+     "Bacterial infections of the bones and joints in older adults",
+     "Your slides say viral infections like colds."
+    ],
+    [
+     "None",
+     "Infections increase."
+    ],
+    [
+     "Only food poisoning",
+     "Not on your slides."
+    ]
+   ],
+   "exp": "Sleep loss suppresses immune cells and raises viral infections."
   }
  ],
  "Sleep loss: stomach and fat cells": [
@@ -3315,6 +6298,25 @@
     ]
    ],
    "exp": "More hunger-arousing ghrelin, less hunger-suppressing leptin, more fat cells."
+  },
+  {
+   "q": "Which long-term risk is linked to sleep loss through hunger hormones and fat cells?",
+   "right": "Obesity",
+   "wrong": [
+    [
+     "Anorexia, from losing all interest in eating during the day",
+     "Sleep loss raises hunger."
+    ],
+    [
+     "Color blindness",
+     "Not related."
+    ],
+    [
+     "Hearing loss",
+     "Not related."
+    ]
+   ],
+   "exp": "More ghrelin, less leptin, more fat cells: greater risk of obesity."
   }
  ],
  "Sleep loss: heart": [
@@ -3336,6 +6338,25 @@
     ]
    ],
    "exp": "Sleep loss increases the risk of high blood pressure."
+  },
+  {
+   "q": "Which heart risk would a cardiologist connect to chronic sleep loss?",
+   "right": "High blood pressure",
+   "wrong": [
+    [
+     "A heart rate that is much slower and steadier than average",
+     "Not on your slides."
+    ],
+    [
+     "Lower cholesterol",
+     "Not on your slides."
+    ],
+    [
+     "Stronger heart valves",
+     "Not on your slides."
+    ]
+   ],
+   "exp": "Increased risk of high blood pressure."
   }
  ],
  "Sleep loss: muscles and joints": [
@@ -3357,6 +6378,25 @@
     ]
    ],
    "exp": "Reduced strength, slower reaction time and motor learning, more inflammation."
+  },
+  {
+   "q": "Which joint problem rises with sleep loss, according to your slides?",
+   "right": "Inflammation and arthritis",
+   "wrong": [
+    [
+     "Stronger cartilage and faster healing of the joints over time",
+     "Sleep loss worsens joints."
+    ],
+    [
+     "Torn ligaments",
+     "Not on your slides."
+    ],
+    [
+     "Broken bones",
+     "Not on your slides."
+    ]
+   ],
+   "exp": "Joints: increased inflammation and arthritis."
   }
  ],
  "Insomnia": [
@@ -3378,6 +6418,25 @@
     ]
    ],
    "exp": "Insomnia: can't sleep."
+  },
+  {
+   "q": "Which disorder is the opposite problem from insomnia?",
+   "right": "Narcolepsy",
+   "wrong": [
+    [
+     "Chronic trouble falling or staying asleep through the night",
+     "That is insomnia itself."
+    ],
+    [
+     "Sleepwalking",
+     "Not the opposite."
+    ],
+    [
+     "Sleep apnea",
+     "Not the opposite."
+    ]
+   ],
+   "exp": "Insomnia = can't sleep; narcolepsy = falls asleep suddenly."
   }
  ],
  "Sleep apnea": [
@@ -3399,6 +6458,25 @@
     ]
    ],
    "exp": "Apnea = no air."
+  },
+  {
+   "q": "A man's partner notices he keeps stopping breathing at night, and he's exhausted every day. Which disorder should a doctor check for?",
+   "right": "Sleep apnea",
+   "wrong": [
+    [
+     "Narcolepsy, which causes sudden sleep attacks during the day",
+     "The key sign is stopping breathing."
+    ],
+    [
+     "Insomnia",
+     "He is sleeping."
+    ],
+    [
+     "Night terrors",
+     "Not about breathing."
+    ]
+   ],
+   "exp": "You stop breathing in your sleep."
   }
  ],
  "Night terrors": [
@@ -3420,6 +6498,25 @@
     ]
    ],
    "exp": "Intense fear with no recollection, in Stage 3."
+  },
+  {
+   "q": "What separates a night terror from a nightmare?",
+   "right": "It isn't remembered the next morning",
+   "wrong": [
+    [
+     "It is always remembered in vivid detail the next morning",
+     "Night terrors aren't remembered."
+    ],
+    [
+     "It happens only in adults",
+     "Not on your card."
+    ],
+    [
+     "It happens while awake",
+     "It happens during sleep."
+    ]
+   ],
+   "exp": "No recollection the following morning; happens in Stage 3."
   }
  ],
  "Sleepwalking": [
@@ -3441,6 +6538,25 @@
     ]
    ],
    "exp": "Walking while asleep."
+  },
+  {
+   "q": "Which disorder involves walking around while still asleep?",
+   "right": "Sleepwalking",
+   "wrong": [
+    [
+     "Narcolepsy, where a person falls asleep suddenly during the day",
+     "That is falling asleep suddenly."
+    ],
+    [
+     "Insomnia",
+     "That is being unable to sleep."
+    ],
+    [
+     "Sleep apnea",
+     "That is breathing."
+    ]
+   ],
+   "exp": "A sleep disorder: walking while asleep."
   }
  ],
  "Narcolepsy": [
@@ -3459,6 +6575,25 @@
     [
      "Sleepwalking",
      "That is walking while asleep."
+    ]
+   ],
+   "exp": "Narco = sleep attack."
+  },
+  {
+   "q": "Why might a doctor tell a patient with narcolepsy not to drive?",
+   "right": "He may fall asleep suddenly",
+   "wrong": [
+    [
+     "He cannot fall asleep at night, so he is always too tired to drive",
+     "That is insomnia."
+    ],
+    [
+     "He stops breathing at night",
+     "That is sleep apnea."
+    ],
+    [
+     "He walks while asleep",
+     "That is sleepwalking."
     ]
    ],
    "exp": "Narco = sleep attack."
@@ -3483,6 +6618,25 @@
     ]
    ],
    "exp": "Psychoactive drugs alter perceptions and mood."
+  },
+  {
+   "q": "Where in the nervous system do psychoactive drugs do their work, according to your card?",
+   "right": "At the synapses",
+   "wrong": [
+    [
+     "Only in the bloodstream, without ever reaching the brain itself",
+     "They affect synapses and neurotransmitters."
+    ],
+    [
+     "Only in the muscles",
+     "Not on your card."
+    ],
+    [
+     "Only in the cochlea",
+     "Not on your card."
+    ]
+   ],
+   "exp": "They affect the synapses and neurotransmitter functioning."
   }
  ],
  "Agonist": [
@@ -3504,6 +6658,25 @@
     ]
    ],
    "exp": "Agonist = acts like it (opiates and endorphins)."
+  },
+  {
+   "q": "Which drug acts as an agonist, according to your slides?",
+   "right": "Opiates, which mimic endorphins",
+   "wrong": [
+    [
+     "Cocaine, which blocks dopamine from being reabsorbed",
+     "Your slides list that under antagonist/reuptake."
+    ],
+    [
+     "Caffeine",
+     "Not listed as an agonist."
+    ],
+    [
+     "Alcohol only",
+     "Not the example given."
+    ]
+   ],
+   "exp": "Agonists mimic a neurotransmitter: opiates and endorphins."
   }
  ],
  "Antagonist": [
@@ -3525,6 +6698,25 @@
     ]
    ],
    "exp": "Antagonist = against it."
+  },
+  {
+   "q": "A drug sits in a neurotransmitter's receptors and stops it from having its effect. What kind of drug is it?",
+   "right": "An antagonist",
+   "wrong": [
+    [
+     "An agonist, which copies the neurotransmitter and adds to its effect",
+     "That would increase the effect."
+    ],
+    [
+     "A hormone",
+     "Not a drug type."
+    ],
+    [
+     "A placebo",
+     "That has no chemical effect."
+    ]
+   ],
+   "exp": "Antagonist = against it: it blocks the neurotransmitter's effects."
   }
  ],
  "Reuptake inhibitor": [
@@ -3546,6 +6738,25 @@
     ]
    ],
    "exp": "A reuptake inhibitor blocks reabsorption."
+  },
+  {
+   "q": "Which medication class from your treatment unit is also a reuptake inhibitor?",
+   "right": "SSRIs",
+   "wrong": [
+    [
+     "Benzodiazepines, which boost the calming effects of GABA",
+     "They work on GABA, not reuptake."
+    ],
+    [
+     "Lithium",
+     "Not a reuptake inhibitor."
+    ],
+    [
+     "Antabuse",
+     "Not a reuptake inhibitor."
+    ]
+   ],
+   "exp": "SSRIs block serotonin reuptake."
   }
  ],
  "Four categories of psychoactive drugs": [
@@ -3567,6 +6778,25 @@
     ]
    ],
    "exp": "Depressants, stimulants, hallucinogens and opioids."
+  },
+  {
+   "q": "Which category does LSD belong to?",
+   "right": "Hallucinogens",
+   "wrong": [
+    [
+     "Depressants, which slow down the activity of the nervous system",
+     "LSD is a hallucinogen."
+    ],
+    [
+     "Opioids",
+     "LSD isn't from the opium poppy."
+    ],
+    [
+     "Stimulants",
+     "LSD is a hallucinogen."
+    ]
+   ],
+   "exp": "Depressants, stimulants, hallucinogens, opioids."
   }
  ],
  "Depressants": [
@@ -3588,6 +6818,25 @@
     ]
    ],
    "exp": "Depress = press down."
+  },
+  {
+   "q": "Which drug is a depressant?",
+   "right": "Barbiturates",
+   "wrong": [
+    [
+     "Amphetamines, which speed up the nervous system",
+     "Those are stimulants."
+    ],
+    [
+     "Cocaine",
+     "A stimulant."
+    ],
+    [
+     "LSD",
+     "A hallucinogen."
+    ]
+   ],
+   "exp": "Depressants: alcohol, barbiturates, sedatives, benzodiazepines."
   }
  ],
  "Alcohol": [
@@ -3609,6 +6858,25 @@
     ]
    ],
    "exp": "Alcohol intensifies GABA and reduces glutamate."
+  },
+  {
+   "q": "Alcohol reduces glutamate. Which effect does that cause, per your card?",
+   "right": "Slower reactions and impaired judgment",
+   "wrong": [
+    [
+     "Faster reactions and sharper thinking, like a stimulant",
+     "Alcohol is a depressant."
+    ],
+    [
+     "Hallucinations",
+     "Not on your card."
+    ],
+    [
+     "Lower pain only",
+     "Not the glutamate effect."
+    ]
+   ],
+   "exp": "Reduced glutamate: slower reactions, impaired judgment."
   }
  ],
  "Barbiturates / sedatives": [
@@ -3630,6 +6898,25 @@
     ]
    ],
    "exp": "Downers that increase GABA; they can cause dependence."
+  },
+  {
+   "q": "Why are barbiturates risky for long-term use, per your card?",
+   "right": "They disrupt sleep and cause dependence",
+   "wrong": [
+    [
+     "They cause hallucinations and long-term memory problems for years",
+     "That fits LSD or MDMA."
+    ],
+    [
+     "They raise blood pressure",
+     "Not on your card."
+    ],
+    [
+     "They block dopamine",
+     "Not on your card."
+    ]
+   ],
+   "exp": "They mess with sleep patterns and cause dependence."
   }
  ],
  "Benzodiazepines": [
@@ -3651,6 +6938,25 @@
     ]
    ],
    "exp": "Benzodiazepines are anti-anxiety depressants."
+  },
+  {
+   "q": "Which body functions do benzodiazepines depress, per your card?",
+   "right": "Heartbeat and breathing",
+   "wrong": [
+    [
+     "Vision and hearing, which become blurry and muffled",
+     "Not on your card."
+    ],
+    [
+     "Hunger and thirst",
+     "Not on your card."
+    ],
+    [
+     "Memory only",
+     "Not on your card."
+    ]
+   ],
+   "exp": "They depress heartbeat and breathing."
   }
  ],
  "Stimulants": [
@@ -3672,6 +6978,25 @@
     ]
    ],
    "exp": "Caffeine, nicotine, cocaine, amphetamines, meth."
+  },
+  {
+   "q": "Which drug is NOT a stimulant?",
+   "right": "Alcohol",
+   "wrong": [
+    [
+     "Nicotine, the highly addictive drug found in cigarettes",
+     "Nicotine is a stimulant."
+    ],
+    [
+     "Caffeine",
+     "A stimulant."
+    ],
+    [
+     "Meth",
+     "A stimulant."
+    ]
+   ],
+   "exp": "Alcohol is a depressant."
   }
  ],
  "Caffeine": [
@@ -3693,6 +7018,25 @@
     ]
    ],
    "exp": "High doses of caffeine cause anxiety, palpitations and insomnia."
+  },
+  {
+   "q": "Which foods naturally contain caffeine, according to your card?",
+   "right": "Coffee, tea and chocolate",
+   "wrong": [
+    [
+     "Milk, bread and rice, which most people eat every day",
+     "Not listed."
+    ],
+    [
+     "Only energy drinks",
+     "It's naturally occurring."
+    ],
+    [
+     "Only soda",
+     "It's naturally occurring."
+    ]
+   ],
+   "exp": "Naturally occurring in coffee, tea and chocolate."
   }
  ],
  "Nicotine": [
@@ -3714,6 +7058,25 @@
     ]
    ],
    "exp": "Nicotine withdrawal: irritability, headaches, nervousness."
+  },
+  {
+   "q": "Why can nicotine feel both stimulating and calming?",
+   "right": "Its effect depends on how long you smoke",
+   "wrong": [
+    [
+     "It is a depressant that only seems stimulating to the user",
+     "It's a stimulant."
+    ],
+    [
+     "It mimics endorphins",
+     "Not on your card."
+    ],
+    [
+     "It blocks GABA",
+     "Not on your card."
+    ]
+   ],
+   "exp": "Depending on time smoked, it can have stimulating or sedative effects."
   }
  ],
  "Cocaine": [
@@ -3735,6 +7098,25 @@
     ]
    ],
    "exp": "Cocaine blocks dopamine reuptake, then crashes."
+  },
+  {
+   "q": "Which neurotransmitter does cocaine keep in the synapse?",
+   "right": "Dopamine",
+   "wrong": [
+    [
+     "GABA, the main calming chemical in the brain's synapses",
+     "Cocaine blocks dopamine reuptake."
+    ],
+    [
+     "Serotonin",
+     "That is SSRIs."
+    ],
+    [
+     "Acetylcholine",
+     "Not on your card."
+    ]
+   ],
+   "exp": "Cocaine blocks dopamine reabsorption."
   }
  ],
  "Amphetamines": [
@@ -3756,6 +7138,25 @@
     ]
    ],
    "exp": "Amphetamines mimic epinephrine/adrenaline."
+  },
+  {
+   "q": "Which drugs are forms of amphetamines, per your card?",
+   "right": "Meth and ecstasy (MDMA)",
+   "wrong": [
+    [
+     "Heroin and morphine, both made from the opium poppy plant",
+     "Those are opioids."
+    ],
+    [
+     "Xanax and Valium",
+     "Those are benzodiazepines."
+    ],
+    [
+     "LSD and THC",
+     "Those are hallucinogens."
+    ]
+   ],
+   "exp": "Meth and ecstasy/MDMA are forms of amphetamines."
   }
  ],
  "Hallucinogens": [
@@ -3777,6 +7178,25 @@
     ]
    ],
    "exp": "LSD and marijuana distort perception."
+  },
+  {
+   "q": "Which drug on your slides is a hallucinogen?",
+   "right": "Marijuana",
+   "wrong": [
+    [
+     "Nicotine, the stimulant that is found in cigarettes",
+     "Nicotine is a stimulant."
+    ],
+    [
+     "Heroin",
+     "An opioid."
+    ],
+    [
+     "Barbiturates",
+     "Depressants."
+    ]
+   ],
+   "exp": "Hallucinogens: LSD and marijuana."
   }
  ],
  "LSD": [
@@ -3798,6 +7218,25 @@
     ]
    ],
    "exp": "LSD is a hallucinogen."
+  },
+  {
+   "q": "Which long-term risk is linked to LSD on your card?",
+   "right": "Psychosis and paranoia",
+   "wrong": [
+    [
+     "Tardive dyskinesia, the movement side effect of antipsychotics",
+     "That is a drug side effect of antipsychotics."
+    ],
+    [
+     "Obesity",
+     "Not on your card."
+    ],
+    [
+     "Hearing loss",
+     "Not on your card."
+    ]
+   ],
+   "exp": "LSD can result in psychosis, memory loss, paranoia and more."
   }
  ],
  "THC": [
@@ -3819,6 +7258,25 @@
     ]
    ],
    "exp": "THC is marijuana's active ingredient."
+  },
+  {
+   "q": "Which effect of THC is on your card?",
+   "right": "A distorted sense of time",
+   "wrong": [
+    [
+     "Losing serotonin-producing neurons and having a permanently lower mood",
+     "That is MDMA."
+    ],
+    [
+     "Paralysis",
+     "Not on your card."
+    ],
+    [
+     "Night terrors",
+     "Not on your card."
+    ]
+   ],
+   "exp": "Mild hallucinations, euphoria, relaxation, distorted time."
   }
  ],
  "Ecstasy (MDMA)": [
@@ -3840,6 +7298,25 @@
     ]
    ],
    "exp": "MDMA can cause lasting mood and memory problems."
+  },
+  {
+   "q": "Why can ecstasy cause a lasting low mood?",
+   "right": "It can damage serotonin-producing neurons",
+   "wrong": [
+    [
+     "It permanently raises dopamine levels in the brain's reward system",
+     "Not on your card."
+    ],
+    [
+     "It blocks endorphins",
+     "Not on your card."
+    ],
+    [
+     "It is an opioid",
+     "It's a stimulant and hallucinogen."
+    ]
+   ],
+   "exp": "Damaged serotonin neurons: permanent deflation of mood and memory impairment."
   }
  ],
  "Opioids": [
@@ -3861,6 +7338,25 @@
     ]
    ],
    "exp": "Opioids come from the opium poppy."
+  },
+  {
+   "q": "Where do opioids come from?",
+   "right": "The opium poppy",
+   "wrong": [
+    [
+     "Coffee and tea leaves, which contain natural caffeine",
+     "That is caffeine."
+    ],
+    [
+     "The adrenal glands",
+     "Those make adrenaline."
+    ],
+    [
+     "The pineal gland",
+     "That makes melatonin."
+    ]
+   ],
+   "exp": "Drugs derived from the opium poppy."
   }
  ],
  "How opioids work": [
@@ -3882,6 +7378,25 @@
     ]
    ],
    "exp": "Opioids act as endorphin agonists; with continued use the brain stops producing its own."
+  },
+  {
+   "q": "Opioids act as agonists for which natural chemical?",
+   "right": "Endorphins",
+   "wrong": [
+    [
+     "Glutamate, the major excitatory chemical of the brain",
+     "Opioids mimic endorphins."
+    ],
+    [
+     "Melatonin",
+     "Not on your card."
+    ],
+    [
+     "Ghrelin",
+     "Not on your card."
+    ]
+   ],
+   "exp": "Opioids act as agonists for endorphins."
   }
  ],
  "Results of opioid use": [
@@ -3903,6 +7418,25 @@
     ]
    ],
    "exp": "Opioid use leads to dependence, tolerance, withdrawal and addiction."
+  },
+  {
+   "q": "A patient on painkillers needs bigger doses and feels sick when she stops. Which two results of opioid use are these?",
+   "right": "Tolerance and withdrawal",
+   "wrong": [
+    [
+     "Synesthesia and prosopagnosia, two unusual perception problems",
+     "Not opioid results."
+    ],
+    [
+     "Insomnia and narcolepsy",
+     "Not the results described."
+    ],
+    [
+     "Mania and depression",
+     "Not opioid results."
+    ]
+   ],
+   "exp": "Results include dependence, tolerance, withdrawal and addiction."
   }
  ],
  "Substance use": [
@@ -3921,6 +7455,25 @@
     [
      "Withdrawal",
      "She isn't stopping a drug."
+    ]
+   ],
+   "exp": "Use that doesn't interfere with daily functioning."
+  },
+  {
+   "q": "Which situation is substance use rather than abuse?",
+   "right": "A cup of coffee each morning that causes no problems",
+   "wrong": [
+    [
+     "Missing work over and over again because of heavy drinking at night",
+     "That interferes with functioning."
+    ],
+    [
+     "Driving while high",
+     "That is dangerous."
+    ],
+    [
+     "Getting arrested for drugs",
+     "That is a legal problem."
     ]
    ],
    "exp": "Use that doesn't interfere with daily functioning."
@@ -3945,6 +7498,25 @@
     ]
    ],
    "exp": "A pattern that hurts functioning, causes danger and legal trouble."
+  },
+  {
+   "q": "Which feature turns substance use into substance abuse?",
+   "right": "It harms functioning or causes danger",
+   "wrong": [
+    [
+     "The substance is legal, cheap and easy for anyone to buy",
+     "Legality isn't the line."
+    ],
+    [
+     "It's used once a year",
+     "Not the line."
+    ],
+    [
+     "It tastes bad",
+     "Not the line."
+    ]
+   ],
+   "exp": "A pattern that inhibits functioning, puts the user in danger, or causes legal trouble."
   }
  ],
  "Tolerance": [
@@ -3966,6 +7538,25 @@
     ]
    ],
    "exp": "Needing larger amounts for the same effect."
+  },
+  {
+   "q": "Why do people with tolerance often take more and more of a drug?",
+   "right": "The same amount works less",
+   "wrong": [
+    [
+     "The same amount suddenly starts to work much more strongly",
+     "It's the reverse."
+    ],
+    [
+     "They forget their dose",
+     "Not tolerance."
+    ],
+    [
+     "They're in withdrawal",
+     "That's after stopping."
+    ]
+   ],
+   "exp": "Tolerance: needing larger amounts for the same effect."
   }
  ],
  "Addiction": [
@@ -3987,6 +7578,25 @@
     ]
    ],
    "exp": "Craving and using despite consequences: wanting it more than liking it."
+  },
+  {
+   "q": "What does \"wanting it more than liking it\" mean for addiction?",
+   "right": "Craving it even when it's no longer enjoyable",
+   "wrong": [
+    [
+     "Enjoying the drug much more each time it is taken",
+     "Addicted users often enjoy it less."
+    ],
+    [
+     "Never wanting the drug",
+     "They crave it."
+    ],
+    [
+     "Only using it on weekends",
+     "Not the point."
+    ]
+   ],
+   "exp": "Users want the drug more than they like it."
   }
  ],
  "Withdrawal": [
@@ -4008,6 +7618,25 @@
     ]
    ],
    "exp": "Discomfort and distress after stopping an addictive drug."
+  },
+  {
+   "q": "Which two kinds of withdrawal does your card describe?",
+   "right": "Physiological and psychological",
+   "wrong": [
+    [
+     "Positive and negative, like the symptoms of schizophrenia",
+     "Not the card's terms."
+    ],
+    [
+     "Sensory and motor",
+     "Not the card's terms."
+    ],
+    [
+     "Alarm and resistance",
+     "Those are GAS stages."
+    ]
+   ],
+   "exp": "Withdrawal can be physiological and/or psychological."
   }
  ],
  "Substance use disorder": [
@@ -4029,6 +7658,25 @@
     ]
    ],
    "exp": "Craving and use despite life disruption or risk; 11 criteria."
+  },
+  {
+   "q": "How many DSM-5 criteria are used to diagnose substance use disorder?",
+   "right": "11",
+   "wrong": [
+    [
+     "25, which is the same number as the questions on the test",
+     "There are 11."
+    ],
+    [
+     "3",
+     "That is the mild threshold."
+    ],
+    [
+     "6",
+     "That is the severe threshold."
+    ]
+   ],
+   "exp": "Diagnosed with 11 DSM-5 criteria."
   }
  ],
  "Severity levels": [
@@ -4050,6 +7698,25 @@
     ]
    ],
    "exp": "Mild = 3, moderate = 4 or 5, severe = 6 or more."
+  },
+  {
+   "q": "A patient meets 7 of the 11 criteria. What severity is that?",
+   "right": "Severe",
+   "wrong": [
+    [
+     "Moderate, which is between four and five of the criteria",
+     "Moderate is 4–5."
+    ],
+    [
+     "Mild",
+     "Mild is 3."
+    ],
+    [
+     "No disorder",
+     "7 is a disorder."
+    ]
+   ],
+   "exp": "Severe = 6 or more."
   }
  ],
  "Criteria: losing control": [
@@ -4071,6 +7738,25 @@
     ]
    ],
    "exp": "Using more or longer than intended and failing to cut down."
+  },
+  {
+   "q": "Which situation fits the \"losing control\" criteria?",
+   "right": "Spending hours getting and recovering from it",
+   "wrong": [
+    [
+     "Giving up a sport or club that you used to love because of it",
+     "That is life problems."
+    ],
+    [
+     "Using it while driving",
+     "That is risk."
+    ],
+    [
+     "Needing more for the same effect",
+     "That is tolerance."
+    ]
+   ],
+   "exp": "Spending a lot of time getting, using or recovering from it."
   }
  ],
  "Criteria: life problems": [
@@ -4092,6 +7778,25 @@
     ]
    ],
    "exp": "Failing duties and giving up important activities."
+  },
+  {
+   "q": "Which situation fits the \"life problems\" criteria?",
+   "right": "Fights with family because of drug use",
+   "wrong": [
+    [
+     "Using more of the drug than planned and failing to cut back on it",
+     "That is losing control."
+    ],
+    [
+     "Withdrawal symptoms",
+     "That is risk and the body."
+    ],
+    [
+     "Cravings",
+     "That is losing control."
+    ]
+   ],
+   "exp": "Continuing even when it causes relationship problems."
   }
  ],
  "Criteria: risk and the body": [
@@ -4113,6 +7818,25 @@
     ]
    ],
    "exp": "Continuing despite physical harm, plus tolerance and withdrawal."
+  },
+  {
+   "q": "Which situation fits the \"risk and the body\" criteria?",
+   "right": "Taking more to relieve withdrawal",
+   "wrong": [
+    [
+     "Skipping school and family events because of the drug use",
+     "That is life problems."
+    ],
+    [
+     "Wanting to quit but failing",
+     "That is losing control."
+    ],
+    [
+     "Cravings",
+     "That is losing control."
+    ]
+   ],
+   "exp": "Tolerance, and withdrawal symptoms relieved by taking more."
   }
  ],
  "Split-brain patient": [
@@ -4134,6 +7858,25 @@
     ]
    ],
    "exp": "Split-brain: the hemispheres can't share information."
+  },
+  {
+   "q": "Why are some patients' corpus callosums cut?",
+   "right": "To stop severe seizures from spreading",
+   "wrong": [
+    [
+     "To improve their memory and help them learn faster in school",
+     "Not the reason."
+    ],
+    [
+     "To cure blindness",
+     "Not the reason."
+    ],
+    [
+     "To treat depression",
+     "Not the reason."
+    ]
+   ],
+   "exp": "Usually to stop severe seizures from spreading."
   }
  ],
  "Left visual field (LVF)": [
@@ -4155,6 +7898,25 @@
     ]
    ],
    "exp": "Left field → right brain."
+  },
+  {
+   "q": "Which half of each eye receives the left visual field?",
+   "right": "The right half of each eye",
+   "wrong": [
+    [
+     "The left half of each eye, on the same side as the visual field",
+     "It's received by the right half."
+    ],
+    [
+     "Only the left eye",
+     "Both eyes see it."
+    ],
+    [
+     "Only the right eye",
+     "Both eyes see it."
+    ]
+   ],
+   "exp": "LVF: right half of each eye → right hemisphere."
   }
  ],
  "Right visual field (RVF)": [
@@ -4176,6 +7938,25 @@
     ]
    ],
    "exp": "Right field → left brain, the language side."
+  },
+  {
+   "q": "Why can split-brain patients name objects shown in the right visual field?",
+   "right": "It reaches the language hemisphere",
+   "wrong": [
+    [
+     "It reaches the right hemisphere, which handles faces and space",
+     "The RVF goes to the left hemisphere."
+    ],
+    [
+     "It skips the brain",
+     "Not true."
+    ],
+    [
+     "The eyes name it",
+     "Not true."
+    ]
+   ],
+   "exp": "Right field → left brain → can say it."
   }
  ],
  "Optic chiasm": [
@@ -4197,6 +7978,25 @@
     ]
    ],
    "exp": "Chiasm looks like an X."
+  },
+  {
+   "q": "If the optic nerves didn't cross at the optic chiasm, where would the left visual field go?",
+   "right": "To the left hemisphere",
+   "wrong": [
+    [
+     "To the right hemisphere, the way that it normally does",
+     "The crossing is what sends it to the right."
+    ],
+    [
+     "To the cerebellum",
+     "Not related."
+    ],
+    [
+     "Nowhere",
+     "It would still reach the brain."
+    ]
+   ],
+   "exp": "The crossing at the chiasm sends each visual field to the opposite hemisphere."
   }
  ],
  "Object flashed to the right visual field": [
@@ -4218,6 +8018,25 @@
     ]
    ],
    "exp": "The right field reaches the left hemisphere, which can speak."
+  },
+  {
+   "q": "A split-brain patient sees a cup in the right visual field. With which hand can she reach for it?",
+   "right": "Her right hand",
+   "wrong": [
+    [
+     "Her left hand, which is controlled by the brain's right hemisphere",
+     "The left hemisphere controls the right hand."
+    ],
+    [
+     "Neither hand",
+     "She can use the right."
+    ],
+    [
+     "Only her left hand",
+     "Not correct."
+    ]
+   ],
+   "exp": "Right field → left hemisphere → right hand."
   }
  ],
  "Object flashed to the left visual field": [
@@ -4239,6 +8058,25 @@
     ]
    ],
    "exp": "Left field → right hemisphere → left hand, no words."
+  },
+  {
+   "q": "A split-brain patient is shown a key in the left visual field. What will she say she saw?",
+   "right": "\"Nothing\"",
+   "wrong": [
+    [
+     "\"A key,\" because her left hemisphere can name what she saw",
+     "Her left hemisphere didn't receive it."
+    ],
+    [
+     "\"A lock\"",
+     "Not the point."
+    ],
+    [
+     "\"Two keys\"",
+     "Not the point."
+    ]
+   ],
+   "exp": "She says \"nothing\" but can point to it with her left hand."
   }
  ],
  "Trees vs. forest": [
@@ -4260,6 +8098,25 @@
     ]
    ],
    "exp": "Right = the forest (the big picture)."
+  },
+  {
+   "q": "Which hemisphere would notice that a crowd photo shows a concert, rather than counting individual faces?",
+   "right": "The right hemisphere",
+   "wrong": [
+    [
+     "The left hemisphere, which focuses on the separate small pieces",
+     "The left focuses on details."
+    ],
+    [
+     "The brainstem",
+     "Not related."
+    ],
+    [
+     "The cerebellum",
+     "Not related."
+    ]
+   ],
+   "exp": "Right = the forest; left = the trees."
   }
  ],
  "Words vs. tone": [
@@ -4281,6 +8138,25 @@
     ]
    ],
    "exp": "Right = tone, inflection and context."
+  },
+  {
+   "q": "Damage to which hemisphere would make it hardest to tell if someone is joking from their tone?",
+   "right": "The right hemisphere",
+   "wrong": [
+    [
+     "The left hemisphere, which handles the literal meanings of words",
+     "The left handles literal words."
+    ],
+    [
+     "The occipital lobe",
+     "That is vision."
+    ],
+    [
+     "The cerebellum",
+     "That is balance."
+    ]
+   ],
+   "exp": "Right: tone, inflection and context."
   }
  ],
  "Logic vs. intuition": [
@@ -4302,6 +8178,25 @@
     ]
    ],
    "exp": "Left = logic, linear thinking and calculation."
+  },
+  {
+   "q": "Which task fits the right hemisphere's style on your card?",
+   "right": "Sensing that a friend is upset",
+   "wrong": [
+    [
+     "Working through a long multi-step math problem one step at a time",
+     "That is left: logic and calculation."
+    ],
+    [
+     "Reading words literally",
+     "That is left."
+    ],
+    [
+     "Putting events in order",
+     "That is left."
+    ]
+   ],
+   "exp": "Right: feelings, intuition, inferences, perception."
   }
  ]
 }
