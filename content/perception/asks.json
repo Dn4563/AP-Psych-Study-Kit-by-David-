@@ -18,6 +18,25 @@
     ]
    ],
    "exp": "Focusing on one stimulus and not others."
+  },
+  {
+   "q": "Why can a student miss the teacher's announcement while texting?",
+   "right": "Attention was focused on the phone",
+   "wrong": [
+    [
+     "The announcement was below her absolute threshold for hearing sound",
+     "She could hear it; she wasn't attending."
+    ],
+    [
+     "She has prosopagnosia",
+     "Not related."
+    ],
+    [
+     "The Stroop effect",
+     "Not related."
+    ]
+   ],
+   "exp": "Selective attention: focusing on one stimulus and not others."
   }
  ],
  "Stroop effect": [
@@ -39,6 +58,25 @@
     ]
    ],
    "exp": "The word fights the color, slowing your reaction."
+  },
+  {
+   "q": "Why is naming the ink color of the word BLUE printed in red slow?",
+   "right": "The word's meaning fights the color",
+   "wrong": [
+    [
+     "The colors are below the absolute threshold for vision in most people",
+     "Not the reason."
+    ],
+    [
+     "Change blindness",
+     "Not related."
+    ],
+    [
+     "Weber's law",
+     "Not related."
+    ]
+   ],
+   "exp": "The word fights the color."
   }
  ],
  "Change blindness": [
@@ -60,6 +98,25 @@
     ]
    ],
    "exp": "Missing a change because attention is elsewhere."
+  },
+  {
+   "q": "Which situation shows change blindness?",
+   "right": "Not noticing a friend's new haircut",
+   "wrong": [
+    [
+     "Missing a person in a gorilla suit who walks right through a game",
+     "That is inattentional blindness."
+    ],
+    [
+     "Hearing your name",
+     "That is the cocktail party effect."
+    ],
+    [
+     "Reading scrambled words",
+     "That is top-down processing."
+    ]
+   ],
+   "exp": "Missing a change."
   }
  ],
  "Inattentional blindness": [
@@ -78,6 +135,25 @@
     [
      "Absolute threshold",
      "That is the weakest detectable stimulus."
+    ]
+   ],
+   "exp": "Failing to see a visible object when attention is elsewhere."
+  },
+  {
+   "q": "A driver texting at a light never sees a cyclist right in front of her. What is this?",
+   "right": "Inattentional blindness",
+   "wrong": [
+    [
+     "Change blindness, where she misses that something has changed",
+     "Nothing changed; she missed a visible object."
+    ],
+    [
+     "Selective attention to the cyclist",
+     "She wasn't attending to the cyclist."
+    ],
+    [
+     "Absolute threshold",
+     "The cyclist was visible."
     ]
    ],
    "exp": "Failing to see a visible object when attention is elsewhere."
@@ -102,6 +178,25 @@
     ]
    ],
    "exp": "Change blindness = not noticing a change; inattentional blindness = not seeing an object at all."
+  },
+  {
+   "q": "In both change blindness and inattentional blindness, what is the cause?",
+   "right": "Attention is directed elsewhere",
+   "wrong": [
+    [
+     "Damage to the eyes or to the occipital lobe of the brain",
+     "Not the cause."
+    ],
+    [
+     "ESP",
+     "Not related."
+    ],
+    [
+     "Hearing loss",
+     "Not related."
+    ]
+   ],
+   "exp": "Both happen because attention is directed elsewhere."
   }
  ],
  "Cocktail party effect": [
@@ -123,6 +218,25 @@
     ]
    ],
    "exp": "Focusing auditory attention on one voice."
+  },
+  {
+   "q": "Which ability does the cocktail party effect describe?",
+   "right": "Focusing on one voice among many",
+   "wrong": [
+    [
+     "Seeing the one face that is different in a crowd of other faces",
+     "That is pop-out."
+    ],
+    [
+     "Reading a jumbled word",
+     "That is top-down."
+    ],
+    [
+     "Naming ink colors",
+     "That is Stroop."
+    ]
+   ],
+   "exp": "Focusing auditory attention on one voice while filtering out others."
   }
  ],
  "Hearing your name": [
@@ -141,6 +255,25 @@
     [
      "Absolute threshold only",
      "This is part of the cocktail party effect."
+    ]
+   ],
+   "exp": "Part of the cocktail party effect."
+  },
+  {
+   "q": "Which bigger effect is hearing your name across a noisy room part of?",
+   "right": "The cocktail party effect",
+   "wrong": [
+    [
+     "The pop-out phenomenon, which is about things that look different",
+     "That is visual."
+    ],
+    [
+     "Change blindness",
+     "That is missing changes."
+    ],
+    [
+     "The Barnum effect",
+     "That is personality descriptions."
     ]
    ],
    "exp": "Part of the cocktail party effect."
@@ -165,6 +298,25 @@
     ]
    ],
    "exp": "Something different pops out to get our attention."
+  },
+  {
+   "q": "On your slides, what is the example of the pop-out phenomenon?",
+   "right": "One laughing face in a crying audience",
+   "wrong": [
+    [
+     "A gorilla in a basketball game that nobody watching seems to notice",
+     "That is inattentional blindness."
+    ],
+    [
+     "The word GREEN in purple",
+     "That is Stroop."
+    ],
+    [
+     "A ticking watch at 20 feet",
+     "That is a threshold."
+    ]
+   ],
+   "exp": "Something different pops out to get our attention."
   }
  ],
  "Bottom-up processing": [
@@ -186,6 +338,25 @@
     ]
    ],
    "exp": "From the body up: sensation."
+  },
+  {
+   "q": "Which is bottom-up processing?",
+   "right": "Your ears picking up raw sound waves",
+   "wrong": [
+    [
+     "Using what you already know to recognize a song after one note",
+     "That is top-down."
+    ],
+    [
+     "Reading a word as a whole",
+     "That is top-down."
+    ],
+    [
+     "Guessing a blurry shape is your coat",
+     "That is top-down."
+    ]
+   ],
+   "exp": "Sensation: receptors send information up to the brain."
   }
  ],
  "Top-down processing": [
@@ -207,6 +378,25 @@
     ]
    ],
    "exp": "Using knowledge and context to interpret: perception."
+  },
+  {
+   "q": "Why can you understand a friend in a loud cafeteria even if you miss some words?",
+   "right": "You use context to fill in the gaps",
+   "wrong": [
+    [
+     "Your ears pick up every single sound wave perfectly clearly",
+     "You miss some sounds; knowledge fills in."
+    ],
+    [
+     "Bottom-up processing only",
+     "Context is top-down."
+    ],
+    [
+     "ESP",
+     "No scientific basis."
+    ]
+   ],
+   "exp": "Top-down: using knowledge and context to interpret."
   }
  ],
  "Reading scrambled words": [
@@ -228,6 +418,25 @@
     ]
    ],
    "exp": "The mind reads the word as a whole when first and last letters are right."
+  },
+  {
+   "q": "Which letters must be in the right place for scrambled words to stay readable, per your card?",
+   "right": "The first and last letters",
+   "wrong": [
+    [
+     "Only the vowels, which can be moved anywhere in the middle",
+     "Your card says first and last letters."
+    ],
+    [
+     "Only the middle letters",
+     "Those can be scrambled."
+    ],
+    [
+     "None",
+     "First and last must be right."
+    ]
+   ],
+   "exp": "The mind reads the word as a whole."
   }
  ],
  "The handwriting example": [
@@ -249,6 +458,25 @@
     ]
    ],
    "exp": "Awareness of squiggles = bottom-up; knowing what they mean = top-down."
+  },
+  {
+   "q": "In the messy-note example, which part is bottom-up?",
+   "right": "Being aware of the squiggles",
+   "wrong": [
+    [
+     "Knowing that the squiggles on the note actually mean the number 15",
+     "That is top-down."
+    ],
+    [
+     "Answering the note",
+     "Not part of the example."
+    ],
+    [
+     "Forgetting the note",
+     "Not part of the example."
+    ]
+   ],
+   "exp": "Squiggles = sensation (bottom-up); meaning = perception (top-down)."
   }
  ],
  "Absolute threshold": [
@@ -267,6 +495,25 @@
     [
      "Selective attention",
      "That is focus."
+    ]
+   ],
+   "exp": "The weakest stimulus detected 50% of the time."
+  },
+  {
+   "q": "What percentage of the time must you detect a stimulus for it to count as your absolute threshold?",
+   "right": "50%",
+   "wrong": [
+    [
+     "100%, every single time that the stimulus is presented to you",
+     "The threshold is 50%."
+    ],
+    [
+     "10%",
+     "Too low."
+    ],
+    [
+     "75%",
+     "Not the definition."
     ]
    ],
    "exp": "The weakest stimulus detected 50% of the time."
@@ -291,6 +538,25 @@
     ]
    ],
    "exp": "Watch at 20 feet, a teaspoon of salt in two gallons, car music volume."
+  },
+  {
+   "q": "Tasting one teaspoon of salt in two gallons of water is an example of what?",
+   "right": "An absolute threshold",
+   "wrong": [
+    [
+     "A just noticeable difference between two different amounts of salt",
+     "Only one stimulus is detected here."
+    ],
+    [
+     "Weber's law",
+     "That compares differences."
+    ],
+    [
+     "Sensory interaction",
+     "Not the example."
+    ]
+   ],
+   "exp": "An absolute threshold example on your slides."
   }
  ],
  "Difference threshold (just noticeable difference)": [
@@ -309,6 +575,25 @@
     [
      "Change blindness",
      "You did notice it."
+    ]
+   ],
+   "exp": "The minimum change noticed 50% of the time."
+  },
+  {
+   "q": "What is the difference threshold measuring?",
+   "right": "The smallest change you notice",
+   "wrong": [
+    [
+     "The weakest stimulus that you can detect at all, half of the time",
+     "That is the absolute threshold."
+    ],
+    [
+     "How long a sound lasts",
+     "Not the definition."
+    ],
+    [
+     "How many senses you use",
+     "Not the definition."
     ]
    ],
    "exp": "The minimum change noticed 50% of the time."
@@ -333,6 +618,25 @@
     ]
    ],
    "exp": "5 to 6 is probably unnoticed; 5 to 10 is noticed."
+  },
+  {
+   "q": "Why might you not notice the music going from level 5 to 6 in your car?",
+   "right": "The change is below the JND",
+   "wrong": [
+    [
+     "Level 6 is below the absolute threshold for hearing sounds at all",
+     "You can hear it; the change is too small."
+    ],
+    [
+     "The Stroop effect",
+     "Not related."
+    ],
+    [
+     "Change blindness",
+     "That's visual attention."
+    ]
+   ],
+   "exp": "Changes smaller than the just noticeable difference aren't noticed."
   }
  ],
  "Weber's law": [
@@ -354,6 +658,25 @@
     ]
    ],
    "exp": "Differences must be a constant percentage, not a constant amount."
+  },
+  {
+   "q": "Why would adding $1 to a $2 snack be noticeable, but not adding $1 to a $500 phone?",
+   "right": "Weber's law: the change must be a percentage",
+   "wrong": [
+    [
+     "The absolute threshold for prices, the smallest amount people can see",
+     "This is about noticing a change."
+    ],
+    [
+     "The cocktail party effect",
+     "Not related."
+    ],
+    [
+     "Top-down processing",
+     "Not the law here."
+    ]
+   ],
+   "exp": "Two stimuli must differ by a constant percentage."
   }
  ],
  "Weber's law examples": [
@@ -375,6 +698,25 @@
     ]
    ],
    "exp": "2% of 100 ounces is 2 ounces."
+  },
+  {
+   "q": "Under the 2% rule on your slide, how much weight must be added to a 50-ounce weight to notice it?",
+   "right": "About 1 ounce",
+   "wrong": [
+    [
+     "About 10 ounces, which is twenty percent of the whole weight",
+     "Far more than 2%."
+    ],
+    [
+     "About 5 ounces",
+     "That's 10%."
+    ],
+    [
+     "Nothing",
+     "Some change is needed."
+    ]
+   ],
+   "exp": "2% of 50 ounces is 1 ounce."
   }
  ],
  "Extrasensory perception (ESP)": [
@@ -396,6 +738,25 @@
     ]
    ],
    "exp": "Telepathy, clairvoyance and precognition lack scientific support."
+  },
+  {
+   "q": "Which three claims make up ESP on your slides?",
+   "right": "Telepathy, clairvoyance, precognition",
+   "wrong": [
+    [
+     "Synesthesia, prosopagnosia and phantom limb sensations",
+     "Those are real conditions, not ESP."
+    ],
+    [
+     "Proximity, similarity, closure",
+     "Those are Gestalt."
+    ],
+    [
+     "Rods, cones, ganglia",
+     "Those are in the eye."
+    ]
+   ],
+   "exp": "ESP: telepathy, clairvoyance, precognition."
   }
  ],
  "Telepathy": [
@@ -414,6 +775,25 @@
     [
      "Synesthesia",
      "That is mixed senses, and it's real."
+    ]
+   ],
+   "exp": "Mind-to-mind communication."
+  },
+  {
+   "q": "Which claim is telepathy rather than precognition?",
+   "right": "\"I can read what you're thinking.\"",
+   "wrong": [
+    [
+     "\"I knew the plane would crash before it ever left the ground.\"",
+     "That is precognition."
+    ],
+    [
+     "\"I can see where the treasure is buried.\"",
+     "That is clairvoyance."
+    ],
+    [
+     "\"I hear colors.\"",
+     "That is synesthesia."
     ]
    ],
    "exp": "Mind-to-mind communication."
@@ -438,6 +818,25 @@
     ]
    ],
    "exp": "Perceiving events you didn't witness."
+  },
+  {
+   "q": "A psychic claims she can describe how a crime happened without having been there. What claim is this?",
+   "right": "Clairvoyance",
+   "wrong": [
+    [
+     "Telepathy, reading the thoughts of the person who is in front of her",
+     "That is mind-to-mind."
+    ],
+    [
+     "Precognition",
+     "That is the future."
+    ],
+    [
+     "Top-down processing",
+     "That uses real senses."
+    ]
+   ],
+   "exp": "Perceiving events you didn't witness."
   }
  ],
  "Precognition": [
@@ -456,6 +855,25 @@
     [
      "Change blindness",
      "That is attention."
+    ]
+   ],
+   "exp": "Perceiving future events."
+  },
+  {
+   "q": "Which claim is precognition?",
+   "right": "\"I dreamed the score before the game.\"",
+   "wrong": [
+    [
+     "\"I can send my thoughts to my sister who lives in another city.\"",
+     "That is telepathy."
+    ],
+    [
+     "\"I can see a hidden object.\"",
+     "That is clairvoyance."
+    ],
+    [
+     "\"I noticed the haircut.\"",
+     "Not ESP."
     ]
    ],
    "exp": "Perceiving future events."
@@ -480,6 +898,25 @@
     ]
    ],
    "exp": "Psychic visions are no better than guesses."
+  },
+  {
+   "q": "A detective asks whether to rely on a psychic's vision. What does the evidence on your slides say?",
+   "right": "It's no better than guessing",
+   "wrong": [
+    [
+     "It is much more accurate than the clues that detectives can find",
+     "Not supported."
+    ],
+    [
+     "It's always wrong",
+     "It's like a guess, sometimes right."
+    ],
+    [
+     "It's proven by science",
+     "No scientific basis."
+    ]
+   ],
+   "exp": "Psychic visions given to police are no more accurate than others' guesses."
   }
  ],
  "Why psychics seem accurate": [
@@ -501,6 +938,25 @@
     ]
    ],
    "exp": "So many predictions guarantee a hit, and people forget the misses."
+  },
+  {
+   "q": "Which thinking error does \"remembering the hits and forgetting the misses\" resemble most?",
+   "right": "Focusing only on the correct predictions",
+   "wrong": [
+    [
+     "Using every single prediction, right and wrong, when judging",
+     "That would be accurate judging."
+    ],
+    [
+     "The Stroop effect",
+     "Not related."
+    ],
+    [
+     "Weber's law",
+     "Not related."
+    ]
+   ],
+   "exp": "People focus on the 1 or 2 correct predictions and forget the rest."
   }
  ]
 }
