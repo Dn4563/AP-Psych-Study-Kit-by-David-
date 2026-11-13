@@ -426,6 +426,33 @@ const writeJSON = (k, v) => {
 /* Theme and text size apply to the whole course, including the unit list. */
 const PREF_DEF = { theme: "auto", size: 2 };
 const PREFS = Object.assign({}, PREF_DEF, readJSON(PREFK) || {});
+/* Theme is one setting for the whole site: the hub's Dark mode switch and every kit's Settings share "sk:theme"
+   (all kits live on the same github.io site). Older choices carry over: the hub's old key, then this course's. */
+const THEMEK = "sk:theme";
+function savedTheme() {
+  try {
+    const t = localStorage.getItem(THEMEK) || localStorage.getItem("sk:hub:theme");
+    if (t === "auto" || t === "light" || t === "dark") return t;
+  } catch (e) {}
+  return null;
+}
+function setTheme(t) {
+  PREFS.theme = t;
+  try {
+    localStorage.setItem(THEMEK, t);
+  } catch (e) {}
+}
+PREFS.theme = savedTheme() || PREFS.theme;
+/* Another open tab (the hub or another kit) changed the theme: follow it. */
+addEventListener("storage", (e) => {
+  if (e.key !== THEMEK) return;
+  const t = savedTheme();
+  if (t && t !== PREFS.theme) {
+    PREFS.theme = t;
+    applyPrefs();
+    if (typeof render === "function" && UNIT) render();
+  }
+});
 function applyPrefs() {
   const root = document.documentElement;
   root.setAttribute("data-theme", PREFS.theme);
@@ -552,7 +579,7 @@ function loadSave() {
   const s = o.settings || {};
   /* Older kits kept theme and size per kit; carry them over once. */
   if (!readJSON(PREFK) && (s.theme || s.size !== undefined)) {
-    if (s.theme) PREFS.theme = s.theme;
+    if (s.theme && !savedTheme()) setTheme(s.theme);
     if (typeof s.size === "number") PREFS.size = s.size;
     writeJSON(PREFK, PREFS);
     applyPrefs();
@@ -2346,7 +2373,8 @@ document.addEventListener("change", (e) => {
   const t = e.target;
   if (!UNIT || !t.dataset) return;
   if (t.dataset.pref !== undefined) {
-    PREFS[t.dataset.pref] = t.dataset.pref === "size" ? Number(t.value) : t.value;
+    if (t.dataset.pref === "theme") setTheme(t.value);
+    else PREFS[t.dataset.pref] = t.dataset.pref === "size" ? Number(t.value) : t.value;
     writeJSON(PREFK, PREFS);
     applyPrefs();
     render();
@@ -2416,7 +2444,7 @@ function backupData() {
   try {
     for (let i = 0; i < localStorage.length; i++) {
       const k = localStorage.key(i);
-      if (k && k.indexOf(BK_PREFIX) === 0) data[k] = localStorage.getItem(k);
+      if (k && (k.indexOf(BK_PREFIX) === 0 || k === THEMEK)) data[k] = localStorage.getItem(k);
     }
   } catch (e) {}
   return { app: "study-kit", course: COURSE.id, saved: new Date().toISOString(), data: data };
@@ -2424,14 +2452,14 @@ function backupData() {
 function restoreData(o) {
   if (!o || o.app !== "study-kit" || typeof o.data !== "object") throw new Error("unreadable");
   if (o.course !== COURSE.id) throw new Error("other course");
-  const keys = Object.keys(o.data).filter((k) => k.indexOf(BK_PREFIX) === 0 && typeof o.data[k] === "string");
+  const keys = Object.keys(o.data).filter((k) => (k.indexOf(BK_PREFIX) === 0 || k === THEMEK) && typeof o.data[k] === "string");
   if (!keys.length) throw new Error("empty");
   keys.forEach((k) => {
     try {
       localStorage.setItem(k, o.data[k]);
     } catch (e) {}
   });
-  return "Restored your progress for " + plural(new Set(keys.map((k) => k.split(":")[2])).size - (o.data[BK_PREFIX + "prefs"] ? 1 : 0), "unit") + ".";
+  return "Restored your progress for " + plural(new Set(keys.filter((k) => k !== THEMEK).map((k) => k.split(":")[2])).size - (o.data[BK_PREFIX + "prefs"] ? 1 : 0), "unit") + ".";
 }
 /* Every card in a unit, optional decks included, keyed by term. */
 function termIds(u) {
