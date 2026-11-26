@@ -2,7 +2,7 @@
 
 Live site: https://dn4563.github.io/AP-Psych-Study-Kit-by-David-/
 
-The content (cards, scenario questions, exam-style questions, chains, tables and watch-out notes) comes from **Phineas's AP Psych study kit** (https://github.com/brother12334/Psych-Unit-1), used with his permission. This repo puts it in the study-kit format David uses for his other classes, and adds one applied question for every card.
+The content (cards, scenario questions, exam-style questions, chains, tables and watch-out notes) comes from **Phineas's AP Psych study kit** (https://github.com/ichbleibhier/Psych-Unit-1 (his username was brother12334 until Nov 2026)), used with his permission. This repo puts it in the study-kit format David uses for his other classes, and adds one applied question for every card.
 
 Built with the study kit engine by David Noskow (https://github.com/Dn4563/Study-Hub-by-David), MIT license.
 
@@ -13,6 +13,7 @@ Built with the study kit engine by David Noskow (https://github.com/Dn4563/Study
 | Path | What it is |
 |---|---|
 | `content/course.json` | Course name, colors, Study Hub link, and the list of units |
+| `content/frq/practice.json` | AAQ & EBQ free response practice (imported: 55 articles, 30 prompts, his guides and checker settings) |
 | `content/unit-00/`, `unit-01/`, `unit-05/`, `perception/` | One folder per unit: `cards.md`, `scenarios.json`, `practice.json`, `guide.json`, `watch.md` (imported); `asks.json` (our applied questions), `whys.json` (why each wrong choice is wrong), `intros.json` (section intros) and `cheat.json` (cheat sheet) are ours and survive re-imports |
 | `source/phineas-psych-kit.html` | The copy of Phineas's page the content was imported from |
 | `scripts/import-phineas.mjs` | The importer (`npm run import`) |
@@ -33,3 +34,14 @@ Built with the study kit engine by David Noskow (https://github.com/Dn4563/Study
 3. Cards you marked known there become "got it" here, in the right unit, and terms you missed come up more in Learn. His lesson numbers and quiz answers don't carry over (the lessons and question sets are different).
 
 The card map is `content/import-map.json`, rebuilt by `npm run import`.
+
+## AI grading with Gemini (optional, free)
+
+Every AAQ and EBQ is graded by Phineas's built-in checker with no setup. To also have answers graded like an AP reader would, and to make new practice articles and prompts:
+
+1. Go to https://aistudio.google.com and sign in with a Google account. School accounts and accounts for students under 18 may be blocked; a personal account usually works (ask a parent if you need to).
+2. Click **Get API key**, then **Create API key**. If you don't see those buttons, look for **API keys** in the menu on the left. Google may make a project for you; that's fine.
+3. Copy the key (a long code that starts with `AIza`).
+4. On the site, open the **AAQ & EBQ** unit, press the gear (Settings), paste the key into **Gemini AI grading**, press **Save**, then **Test**.
+
+Good to know: it's free with daily limits. The key is saved only in that browser and is never part of the site; your answers go only to Google's Gemini service. On a shared computer, press **Remove key** when you're done. AI can make mistakes, so compare with the model answer.

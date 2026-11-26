@@ -23,7 +23,9 @@ These apply to every new unit or chapter in this kit, and to any rework of an ol
 - Before building anything, describe the plan to David in the chat in plain words (what will change, where, and how it will work) and wait for his OK.
 
 ## This kit: Phineas's content
-- The cards, scenarios, exam questions, chains, tables and watch-out notes come from Phineas's AP Psych kit (github.com/brother12334/Psych-Unit-1), used with his permission. Keep his wording; don't split or rewrite his cards. Never edit his repo.
+- The cards, scenarios, exam questions, chains, tables and watch-out notes come from Phineas's AP Psych kit (his kit at ichbleibhier.github.io/Psych-Unit-1, repo github.com/ichbleibhier/Psych-Unit-1; he changed his username from brother12334 in Nov 2026), used with his permission. Keep his wording; don't split or rewrite his cards. Never edit his repo.
 - Re-import only when David says Phineas gave permission again: save Phineas's page as `source/phineas-psych-kit.html`, run `npm run import`, then write applied questions for any cards the importer lists (in `scripts/asks-src/<unit>.py`, then `python3 scripts/asks-src/make_asks.py <unit>`).
 - `asks.json` is ours; the importer never touches it.
 - Also ours, merged by the importer on every import: `whys.json` (why each wrong choice in his practice questions and scenarios is wrong, keyed by question text and choice), `intros.json` ("Read this first" text per section; a key like `Deck name|Section` beats a plain section name) and `cheat.json` (the unit's cheat sheet). If he rewords a question or a choice, its why stops matching: after a re-import run `python3 scripts/asks-src/check_whys.py` and fill the gaps.
+- AAQ & EBQ (unit `frq`) are also Phineas's: his articles, prompts, model answers, guides, rubric and checker. The importer writes `content/frq/practice.json`; keep his wording. His checker is ported as is in the engine (`kit-core/js/92-frqcheck.js`); if he changes his checker, port the change there.
+- Gemini AI grading is optional and lives in the engine (`kit-core/js/93-gemini.js`). Each student uses their own key, saved only in their browser. Never put a key in the repo.
