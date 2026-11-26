@@ -9,7 +9,7 @@
 // Never touches asks.json (our applied questions). At the end it lists cards that have no applied question
 // yet, and applied questions whose card no longer exists, so they can be written or removed.
 // Phineas's content is copied as is. Cards he hides (the named-phobia cards) stay out.
-// It also writes content/frq/practice.json: his AAQ and EBQ free-response practice (see the end of this file).
+// It also writes content/frq/checker.json: the settings for his AAQ and EBQ key-word checker (see the end of this file).
 import { readFileSync, writeFileSync, existsSync, mkdirSync } from "node:fs";
 import vm from "node:vm";
 
@@ -213,7 +213,7 @@ RAW.forEach((r, i) => {
 writeFileSync(root + "content/import-map.json", JSON.stringify({ app: "psych-unit-1", name: "Phineas's kit", known: "ps1-known", miss: "ps1-miss", cards }, null, 1) + "\n");
 report.push("Progress map: " + Object.keys(cards).length + " of Phineas's card ids");
 // ---------- AAQ and EBQ free-response practice (his new sections) ----------
-// One practice-only unit, "frq": practice sets and timed sets, his guides, his grading rules and model answers.
+// The "frq" unit uses his key-word checker; its questions are ours (fr.json).
 // His Gemini settings code isn't copied; the engine has its own optional Gemini grading (js/93-gemini.js).
 {
   const fctx = vm.createContext({});
@@ -239,47 +239,12 @@ report.push("Progress map: " + Object.keys(cards).length + " of Phineas's card i
     aaqTopics: genTopics,
     ebqTopics: genTopics.concat(list(/AAQ_GEN_TOPICS\.concat\((\[[^\]]*\])\)/, "EBQ topics")),
   };
-  /* His "How the AAQ works" and "How the EBQ works" boxes, word for word, as blocks: {p}, {h}, {rows}, {table}.
-     Bold and line breaks are kept; everything else is plain text. */
-  const strip = (x) => x.replace(/<(?!\/?b>|br>)[^>]+>/g, "").replace(/\s+/g, " ").trim();
-  function guide(title) {
-    const i = html.indexOf(">" + title + "</h2>");
-    if (i < 0) throw new Error("Could not find the guide " + title);
-    const seg = html.slice(i + title.length + 6, html.indexOf("`;", i));
-    const blocks = [];
-    const re = /<h3>([\s\S]*?)<\/h3>|<p>([\s\S]*?)<\/p>|<div class="rows">([\s\S]*?)(?=<h3>|<p>|$)|<table[^>]*>([\s\S]*?)<\/table>/g;
-    let m;
-    while ((m = re.exec(seg))) {
-      if (m[1]) blocks.push({ h: strip(m[1]) });
-      else if (m[2]) blocks.push({ p: strip(m[2]) });
-      else if (m[3]) blocks.push({ rows: [...m[3].matchAll(/<div class="t">([\s\S]*?)<\/div><div class="x">([\s\S]*?)<\/div>/g)].map((r) => [strip(r[1]), strip(r[2])]) });
-      else if (m[4].indexOf("${AAQ_PARTS") >= 0)
-        blocks.push({ table: [["Part", "What it asks", "Task verb", "Pts"]].concat(F.AAQ_PARTS.map((p) => ["<b>" + p.k + "</b> " + p.name, p.tip, p.verb, String(p.pts)])) });
-      else blocks.push({ table: [...m[4].matchAll(/<tr>([\s\S]*?)<\/tr>/g)].map((r) => [...r[1].matchAll(/<t[hd]>([\s\S]*?)<\/t[hd]>/g)].map((c) => strip(c[1]))) });
-    }
-    return blocks;
-  }
-  const aaqGuide = guide("How the AAQ works"),
-    ebqGuide = guide("How the EBQ works");
-  const label = "Practice article from Phineas's AP Psych kit (a fictional study written for practice).";
-  const aaqSrc = (a) => ({ title: a.title, attr: a.source, label: label, blocks: a.sections.map(([h, p]) => ({ h: h, p: p })), table: [a.table.head].concat(a.table.rows), tableAfter: "Participants" });
-  const ebqSrc = (e) => ({ title: e.question, label: "Practice sources from Phineas's AP Psych kit, summarized and simplified.", blocks: e.sources.map((x, i) => ({ h: "Source " + (i + 1) + ": " + x.title, p: x.text })) });
-  const aaqQ = (a, pre) => ({ id: pre + a.id, type: "wfr", grader: "aaq", topic: a.topic, title: a.title, src: "a-" + a.id, r: a.r, parts: F.AAQ_PARTS.map((p) => ({ k: p.k, prompt: a.q[p.k], model: a.model[p.k], max: p.pts })) });
-  const ebqQ = (e, pre) => ({ id: pre + e.id, type: "wfr", grader: "ebq", topic: e.topic, title: e.title, src: "e-" + e.id, topicWords: e.topicWords || [], parts: F.EBQ_PARTS.map((p) => ({ k: p.k, prompt: p.q, model: e.model[p.k], max: p.pts })) });
-  const srcs = (items, key, fn) => Object.fromEntries(items.map((x) => [key + x.id, fn(x)]));
-  /* Timed sets: a few spread across the list, so each timed run is a different topic. */
-  const spread = (arr, n) => Array.from({ length: n }, (_, i) => arr[Math.floor((i * arr.length) / n)]);
-  const tA = spread(F.AAQ, 5),
-    tE = spread(F.EBQ, 3);
-  const sections = [
-    { name: "AAQ practice", mode: "practice", grader: "aaq", guide: aaqGuide, tips: [], sources: srcs(F.AAQ, "a-", aaqSrc), questions: F.AAQ.map((a) => aaqQ(a, "aaq-")) },
-    { name: "EBQ practice", mode: "practice", grader: "ebq", guide: ebqGuide, tips: [], sources: srcs(F.EBQ, "e-", ebqSrc), questions: F.EBQ.map((e) => ebqQ(e, "ebq-")) },
-    { name: "Timed AAQ (25 min)", mode: "exam", exam: "Timed AAQ", grader: "aaq", guide: aaqGuide, tips: [], examTips: ["Turn the Timer on. The real AAQ is 25 minutes, including a 10-minute reading period.", "Answer every part, then press Check my answers on each article."], sources: srcs(tA, "a-", aaqSrc), questions: tA.map((a) => aaqQ(a, "taaq-")) },
-    { name: "Timed EBQ (45 min)", mode: "exam", exam: "Timed EBQ", grader: "ebq", guide: ebqGuide, tips: [], examTips: ["Turn the Timer on. The real EBQ is 45 minutes, including a 15-minute reading period.", "Answer every part, then press Check my answers on each prompt."], sources: srcs(tE, "e-", ebqSrc), questions: tE.map((e) => ebqQ(e, "tebq-")) },
-  ];
+  /* Only his checker's settings come over (content/frq/checker.json). His AAQ articles, EBQ prompts and guides
+     are not imported: David chose our own exam-length questions (content/frq/fr.json, written from
+     scripts/frq-src/) and points students to Phineas's kit for his shorter practice. */
   const fdir = root + "content/frq/";
   mkdirSync(fdir, { recursive: true });
-  writeFileSync(fdir + "practice.json", JSON.stringify({ frq: frq, sections: sections }, null, 1) + "\n");
-  report.push("AAQ & EBQ: " + F.AAQ.length + " AAQ articles, " + F.EBQ.length + " EBQ prompts, " + frq.concepts.length + " EBQ concepts");
+  writeFileSync(fdir + "checker.json", JSON.stringify({ frq: frq }, null, 1) + "\n");
+  report.push("AAQ & EBQ checker: " + frq.concepts.length + " EBQ concepts, " + frq.aaqParts.length + " AAQ parts (his " + F.AAQ.length + " articles and " + F.EBQ.length + " prompts are not imported)");
 }
 report.forEach((l) => console.log(l));

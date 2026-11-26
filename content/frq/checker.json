@@ -1,0 +1,679 @@
+{
+ "frq": {
+  "aaqParts": [
+   {
+    "k": "A",
+    "name": "Research method",
+    "verb": "Identify",
+    "pts": 1,
+    "tip": "Look for random assignment, manipulation of a variable, and control/experimental groups.",
+    "mistake": "Calling an experiment a \"correlational study\" because it measured variables. Random assignment + a manipulated variable = experiment."
+   },
+   {
+    "k": "B",
+    "name": "Research variable",
+    "verb": "State",
+    "pts": 1,
+    "tip": "Scan the Method section for how the variable was actually measured or tested.",
+    "mistake": "Giving a textbook definition instead of how THIS study measured it."
+   },
+   {
+    "k": "C",
+    "name": "Statistic interpretation",
+    "verb": "Describe",
+    "pts": 1,
+    "tip": "Always connect the number back to what it means for the research question.",
+    "mistake": "Just restating the numbers (\"the mean was 7.81\") without saying which group did better and what that tells us."
+   },
+   {
+    "k": "D",
+    "name": "Ethical guidelines",
+    "verb": "Identify + Describe",
+    "pts": 1,
+    "tip": "Read the Method section carefully. Ethical practices are often described without being named.",
+    "mistake": "Naming a guideline the researchers SHOULD have followed but that the article never describes."
+   },
+   {
+    "k": "E",
+    "name": "Generalizability",
+    "verb": "Explain",
+    "pts": 1,
+    "tip": "The demographic table is the key. Reference specific percentages from the participant data.",
+    "mistake": "Saying \"the study is (not) generalizable\" without citing specific demographics (age, race, gender, location)."
+   },
+   {
+    "k": "F",
+    "name": "Argumentation",
+    "verb": "Explain",
+    "pts": 2,
+    "tip": "Use specific numbers from the Results section and explicitly say whether they support or refute the hypothesis.",
+    "mistake": "A conclusion with no specific data (1 pt), or data with no explanation of how it connects to the hypothesis (1 pt). You need both for 2."
+   }
+  ],
+  "ebqParts": [
+   {
+    "k": "A",
+    "label": "A",
+    "name": "Claim",
+    "verb": "Propose",
+    "pts": 1,
+    "rows": 2,
+    "q": "Propose a specific and defensible claim based in psychological science that responds to the question.",
+    "tip": "Take a clear position the sources can back up. \"Should,\" \"because,\" and \"depends on\" help make a claim specific.",
+    "mistake": "A vague claim (\"Social media affects teenagers\") or one that just restates the question earns 0."
+   },
+   {
+    "k": "Bi",
+    "label": "B(i)",
+    "name": "Evidence #1",
+    "verb": "Support",
+    "pts": 1,
+    "rows": 3,
+    "q": "Support your claim using at least one piece of specific and relevant evidence from one of the sources.",
+    "tip": "Pick specific data (numbers, groups, results) and cite it: \"(Source 1)\" or \"According to Source 1…\".",
+    "mistake": "No citation, or a vague summary of a source instead of specific data."
+   },
+   {
+    "k": "Bii",
+    "label": "B(ii)",
+    "name": "Explain + apply",
+    "verb": "Explain",
+    "pts": 2,
+    "rows": 5,
+    "q": "Explain how the evidence from Part B(i) supports your claim using a psychological perspective, theory, concept, or research finding learned in AP Psychology.",
+    "tip": "Two moves: (1) say HOW the evidence supports your claim, (2) name a psych concept from class and use it to explain WHY the result happened.",
+    "mistake": "Explaining the evidence without applying a concept (1 pt), or \"applying\" a term that comes from the sources (depression, sleep, screen time…)."
+   },
+   {
+    "k": "Ci",
+    "label": "C(i)",
+    "name": "Evidence #2",
+    "verb": "Support",
+    "pts": 1,
+    "rows": 3,
+    "q": "Support your claim using an additional piece of specific and relevant evidence from a different source than the one that you used to support your claim in Part B(i).",
+    "tip": "Use a DIFFERENT source than Part B. Plan which two sources you will use during the reading period.",
+    "mistake": "Using the same source as Part B(i): it earns 0 even if the evidence is good."
+   },
+   {
+    "k": "Cii",
+    "label": "C(ii)",
+    "name": "Explain + apply",
+    "verb": "Explain",
+    "pts": 2,
+    "rows": 5,
+    "q": "Explain how the evidence from Part C(i) supports your claim using a different psychological perspective, theory, concept, or research finding learned in AP Psychology than the one that you used in Part B(ii).",
+    "tip": "Use a DIFFERENT concept than Part B(ii). Plan two concepts before you start writing.",
+    "mistake": "Reusing the concept from B(ii) caps this part at 1 point."
+   }
+  ],
+  "methods": {
+   "experiment": [
+    "experiment"
+   ],
+   "correlational study": [
+    "correlation"
+   ],
+   "case study": [
+    "case study"
+   ],
+   "naturalistic observation": [
+    "naturalistic",
+    "observation"
+   ],
+   "survey": [
+    "survey"
+   ],
+   "meta-analysis": [
+    "meta-analysis",
+    "meta analysis"
+   ]
+  },
+  "words": {
+   "compare": [
+    "more",
+    "higher",
+    "greater",
+    "fewer",
+    "less",
+    "lower",
+    "better",
+    "worse",
+    "outperform",
+    "faster",
+    "slower",
+    "quicker",
+    "larger",
+    "smaller",
+    "bigger",
+    "than",
+    "grew",
+    "shrank",
+    "increase",
+    "decrease",
+    "rose",
+    "fell",
+    "drop",
+    "while",
+    "whereas",
+    "compared",
+    "only"
+   ],
+   "claim": [
+    "generaliz",
+    "cannot",
+    "can not",
+    "can't",
+    "not be",
+    "limited",
+    "only",
+    "may not",
+    "apply",
+    "applies",
+    "extend",
+    "representative",
+    "represent"
+   ],
+   "support": [
+    "support",
+    "refute",
+    "not prove",
+    "does not prove",
+    "do not prove",
+    "doesn't prove",
+    "consistent with",
+    "confirm",
+    "contradict",
+    "does not support",
+    "doesn't support",
+    "not support",
+    "partially"
+   ],
+   "link": [
+    "because",
+    "since",
+    "shows",
+    "show that",
+    "indicat",
+    "suggest",
+    "which means",
+    "this means",
+    "therefore",
+    "demonstrat",
+    "so ",
+    "meaning",
+    "proves",
+    "evidence"
+   ]
+  },
+  "stop": [
+   "about",
+   "after",
+   "again",
+   "their",
+   "there",
+   "these",
+   "those",
+   "which",
+   "while",
+   "would",
+   "could",
+   "should",
+   "other",
+   "being",
+   "because",
+   "between",
+   "compared",
+   "students",
+   "people",
+   "adults",
+   "participants",
+   "study",
+   "researchers",
+   "found",
+   "average",
+   "group",
+   "groups",
+   "source",
+   "sources",
+   "reported",
+   "percent"
+  ],
+  "concepts": [
+   [
+    "social comparison theory",
+    "social comparison|upward comparison|downward comparison",
+    ""
+   ],
+   [
+    "operant conditioning / reinforcement",
+    "operant|reinforce|punishment|punisher",
+    ""
+   ],
+   [
+    "classical conditioning",
+    "classical(ly)? condition|conditioned (stimulus|response)",
+    ""
+   ],
+   [
+    "observational learning",
+    "observational learning|bandura|bobo|imitat|model(l)?ing",
+    ""
+   ],
+   [
+    "circadian rhythm",
+    "circadian|biological clock|internal clock",
+    ""
+   ],
+   [
+    "memory consolidation",
+    "consolidat",
+    ""
+   ],
+   [
+    "encoding",
+    "encod",
+    ""
+   ],
+   [
+    "testing effect",
+    "testing effect|retrieval practice",
+    ""
+   ],
+   [
+    "spacing effect",
+    "spacing effect|distributed practice|spaced practice|massed practice",
+    ""
+   ],
+   [
+    "working memory",
+    "working memory",
+    ""
+   ],
+   [
+    "long-term potentiation",
+    "long.term potentiation|\\bltp\\b",
+    ""
+   ],
+   [
+    "selective / divided attention",
+    "selective attention|divided attention|multitask|attentional capacity",
+    ""
+   ],
+   [
+    "self-esteem / self-concept",
+    "self.esteem|self.concept",
+    ""
+   ],
+   [
+    "self-efficacy",
+    "self.efficacy",
+    ""
+   ],
+   [
+    "Erikson's identity stage",
+    "erikson|identity vs|identity versus|role confusion|psychosocial stage",
+    ""
+   ],
+   [
+    "Piaget's stages",
+    "piaget|formal operational|concrete operational|preoperational|sensorimotor",
+    ""
+   ],
+   [
+    "neuroplasticity",
+    "plasticity|neuroplastic",
+    ""
+   ],
+   [
+    "prefrontal cortex",
+    "prefrontal|frontal lobe",
+    ""
+   ],
+   [
+    "hippocampus",
+    "hippocamp",
+    ""
+   ],
+   [
+    "amygdala",
+    "amygdala",
+    ""
+   ],
+   [
+    "limbic system",
+    "limbic",
+    ""
+   ],
+   [
+    "Maslow's hierarchy of needs",
+    "maslow|hierarchy of needs",
+    ""
+   ],
+   [
+    "need to belong",
+    "need to belong|belongingness",
+    ""
+   ],
+   [
+    "social support",
+    "social support",
+    ""
+   ],
+   [
+    "tend-and-befriend",
+    "tend.and.befriend",
+    ""
+   ],
+   [
+    "General Adaptation Syndrome",
+    "general adaptation|\\bgas\\b|alarm (stage|reaction)|resistance stage|exhaustion stage",
+    ""
+   ],
+   [
+    "sympathetic nervous system (fight-or-flight)",
+    "(?<!para)sympathetic|fight.or.flight",
+    ""
+   ],
+   [
+    "parasympathetic nervous system",
+    "parasympathetic|rest.and.digest",
+    ""
+   ],
+   [
+    "stress hormones / HPA axis",
+    "stress hormone|\\bhpa\\b|adrenal",
+    ""
+   ],
+   [
+    "immunosuppression",
+    "immunosuppress|immune system",
+    ""
+   ],
+   [
+    "endorphins",
+    "endorphin",
+    ""
+   ],
+   [
+    "dopamine",
+    "dopamine",
+    ""
+   ],
+   [
+    "serotonin",
+    "serotonin",
+    ""
+   ],
+   [
+    "neurotransmitters",
+    "neurotransmitter",
+    ""
+   ],
+   [
+    "reward pathway",
+    "reward (pathway|system|circuit|center)|nucleus accumbens",
+    ""
+   ],
+   [
+    "stimulants",
+    "stimulant",
+    ""
+   ],
+   [
+    "depressants",
+    "\\bdepressants?\\b",
+    ""
+   ],
+   [
+    "tolerance",
+    "tolerance",
+    ""
+   ],
+   [
+    "withdrawal",
+    "withdrawal",
+    ""
+   ],
+   [
+    "biopsychosocial model",
+    "biopsychosocial",
+    ""
+   ],
+   [
+    "biological perspective",
+    "biological perspective",
+    ""
+   ],
+   [
+    "behavioral perspective",
+    "behaviou?ral perspective|behaviorism",
+    ""
+   ],
+   [
+    "cognitive perspective",
+    "cognitive perspective",
+    ""
+   ],
+   [
+    "humanistic perspective",
+    "humanistic|unconditional positive regard|self.actuali",
+    ""
+   ],
+   [
+    "sociocultural perspective",
+    "sociocultural|socio-cultural",
+    ""
+   ],
+   [
+    "psychodynamic perspective",
+    "psychodynamic|freud|unconscious",
+    ""
+   ],
+   [
+    "evolutionary perspective",
+    "evolutionary|natural selection",
+    ""
+   ],
+   [
+    "cognitive restructuring",
+    "cognitive restructuring|automatic (negative )?thoughts?|cognitive distortion|irrational belief",
+    ""
+   ],
+   [
+    "Beck's cognitive triad",
+    "cognitive triad|\\bbeck",
+    ""
+   ],
+   [
+    "cognitive-behavioral therapy",
+    "cognitive.behavio|\\bcbt\\b",
+    ""
+   ],
+   [
+    "learned helplessness",
+    "learned helplessness",
+    ""
+   ],
+   [
+    "explanatory style",
+    "explanatory style|pessimistic (style|thinking)|optimistic (style|thinking)",
+    ""
+   ],
+   [
+    "intrinsic / extrinsic motivation",
+    "intrinsic|extrinsic|overjustification",
+    ""
+   ],
+   [
+    "Yerkes-Dodson law",
+    "yerkes|optimal arousal|arousal theory",
+    ""
+   ],
+   [
+    "top-down processing",
+    "top.down|bottom.up|perceptual set",
+    ""
+   ],
+   [
+    "gate control theory",
+    "gate.control",
+    ""
+   ],
+   [
+    "placebo effect",
+    "placebo",
+    ""
+   ],
+   [
+    "problem-focused coping",
+    "problem.focused",
+    ""
+   ],
+   [
+    "emotion-focused coping",
+    "emotion.focused",
+    ""
+   ],
+   [
+    "attachment",
+    "attachment|secure base",
+    ""
+   ],
+   [
+    "critical / sensitive period",
+    "critical period|sensitive period",
+    ""
+   ],
+   [
+    "REM sleep",
+    "\\brem\\b",
+    ""
+   ],
+   [
+    "cognitive dissonance",
+    "cognitive dissonance",
+    ""
+   ],
+   [
+    "confirmation bias",
+    "confirmation bias",
+    ""
+   ],
+   [
+    "self-fulfilling prophecy",
+    "self.fulfilling",
+    ""
+   ],
+   [
+    "growth mindset",
+    "growth mindset|fixed mindset",
+    ""
+   ],
+   [
+    "locus of control",
+    "locus of control",
+    ""
+   ],
+   [
+    "conformity / social influence",
+    "conformity|normative social influence|informational social influence",
+    ""
+   ],
+   [
+    "social facilitation",
+    "social facilitation",
+    ""
+   ],
+   [
+    "habituation",
+    "habituat",
+    ""
+   ],
+   [
+    "desensitization",
+    "desensitiz",
+    ""
+   ],
+   [
+    "frustration-aggression principle",
+    "frustration.aggression",
+    ""
+   ],
+   [
+    "diathesis-stress model",
+    "diathesis",
+    ""
+   ],
+   [
+    "myelination",
+    "myelin",
+    ""
+   ],
+   [
+    "synaptic pruning",
+    "pruning",
+    ""
+   ],
+   [
+    "neurogenesis",
+    "neurogenesis",
+    ""
+   ],
+   [
+    "mere exposure effect",
+    "mere exposure",
+    ""
+   ],
+   [
+    "self-determination theory",
+    "self.determination|autonomy, competence",
+    ""
+   ]
+  ],
+  "aaqRubric": "AP Psychology Article Analysis Question (AAQ) rubric. Parts A-E are worth 1 point each; Part F is worth 2 points.\nA (Research method, task verb IDENTIFY): earn the point for naming the correct research method (experiment, correlational study, case study, naturalistic observation, meta-analysis, etc.). Random assignment + a manipulated variable = experiment. No explanation is required.\nB (Research variable, STATE): earn the point for the operational definition used IN THIS STUDY: how the researchers actually measured or manipulated the variable, with measurable specifics from the Method. A general textbook definition earns 0.\nC (Statistic interpretation, DESCRIBE): earn the point for saying what the statistic means for the study (which group did better / direction and meaning of the relationship) and connecting it to what was investigated. Only restating the numbers earns 0.\nD (Ethical guidelines, IDENTIFY + DESCRIBE): earn the point only if the student names a specific ethical guideline that the article actually describes AND describes how the researchers applied it, with evidence from the article. A guideline not described in the article earns 0.\nE (Generalizability, EXPLAIN): earn the point for a claim about whether the findings generalize, naming a specific population, AND citing specific participant demographics from the study (percentages, ages, location, etc.). No specific demographics = 0.\nF (Argumentation, EXPLAIN): point 1 for citing a specific result (data) from the study; point 2 for an accurate explanation of how that result supports or refutes the hypothesis/claim. Claiming a correlational or observational study proves causation is NOT accurate.\nBe fair like a real AP reader: accept any correct wording, do not require the model answer's exact words, ignore spelling, and do not award points for vague or incorrect answers.",
+  "ebqRubric": "AP Psychology Evidence-Based Question (EBQ) rubric, 7 points.\nA (Claim, 1 pt, PROPOSE): a specific, defensible claim based in psychological science that responds to the question. Vague claims (\"Social media affects teenagers\") or restatements of the question earn 0.\nB(i) (Evidence #1, 1 pt, SUPPORT): specific, relevant evidence from ONE source that supports the claim, with a citation such as \"(Source 1)\" or \"According to Source 1\". No citation = 0. Vague summaries = 0.\nB(ii) (Explain + apply, 2 pts): point 1 for explaining how the B(i) evidence supports the claim; point 2 for ALSO applying a psychological perspective, theory, concept, or research finding learned in AP Psychology (e.g., social comparison theory, operant conditioning, circadian rhythm, memory consolidation, Erikson, Piaget, neuroplasticity, prefrontal cortex). Terms that come from the sources themselves (e.g., depression, well-being, sleep, screen time), \"statistically significant,\" and vague popular ideas do NOT count as applied concepts. Opinion only = 0.\nC(i) (Evidence #2, 1 pt): like B(i) but from a DIFFERENT source than B(i). Same source as B(i) = 0.\nC(ii) (Explain + apply, 2 pts): like B(ii) but with a DIFFERENT concept than B(ii). Reusing B(ii)'s concept caps C(ii) at 1.\nBe fair like a real AP reader: accept any correct wording, ignore spelling, and do not award points for vague or incorrect answers. Evidence must actually support the student's claim.",
+  "aaqTopics": [
+   "Research methods",
+   "Statistics",
+   "Psychological perspectives",
+   "Neurons & neurotransmitters",
+   "The brain",
+   "Sleep",
+   "Drugs & consciousness",
+   "Sensation & perception",
+   "Health psychology & stress",
+   "Anxiety disorders",
+   "Depressive & bipolar disorders",
+   "Neurodevelopmental disorders",
+   "Schizophrenia",
+   "OCD & trauma disorders",
+   "Eating disorders",
+   "Personality disorders",
+   "Treatment & therapy"
+  ],
+  "ebqTopics": [
+   "Research methods",
+   "Statistics",
+   "Psychological perspectives",
+   "Neurons & neurotransmitters",
+   "The brain",
+   "Sleep",
+   "Drugs & consciousness",
+   "Sensation & perception",
+   "Health psychology & stress",
+   "Anxiety disorders",
+   "Depressive & bipolar disorders",
+   "Neurodevelopmental disorders",
+   "Schizophrenia",
+   "OCD & trauma disorders",
+   "Eating disorders",
+   "Personality disorders",
+   "Treatment & therapy",
+   "Memory & learning",
+   "Development",
+   "Social psychology",
+   "Motivation & emotion"
+  ]
+ }
+}
