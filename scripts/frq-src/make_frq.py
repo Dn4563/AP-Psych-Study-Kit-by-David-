@@ -8,6 +8,18 @@ import json, os, re, sys
 
 sys.path.insert(0, os.path.dirname(__file__))
 from items import AAQ, EBQ, EBQ_PARTS, GUIDE, LINKS, AAQ_LABEL, EBQ_LABEL
+from aaq_more import AAQ_MORE
+
+AAQ = AAQ + AAQ_MORE
+try:
+    from ebq_more import EBQ_MORE
+
+    EBQ = EBQ + EBQ_MORE
+except ImportError:
+    pass
+ids = [x["id"] for x in AAQ + EBQ]
+if len(ids) != len(set(ids)):
+    sys.exit("Two questions share an id")
 
 ROOT = os.path.join(os.path.dirname(__file__), "..", "..")
 SECTIONS = ["Introduction", "Participants", "Method", "Results and Discussion"]

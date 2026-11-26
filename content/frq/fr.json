@@ -244,6 +244,2148 @@
    ]
   },
   {
+   "id": "aaq-caffeine",
+   "type": "wfr",
+   "grader": "aaq",
+   "topic": "Drugs, Stimulants",
+   "title": "Caffeine Dose and Reaction Time",
+   "r": {
+    "A": {
+     "answer": "experiment",
+     "keys": [
+      "experiment"
+     ],
+     "clues": [
+      "random",
+      "assign",
+      "manipulat",
+      "independent variable",
+      "group"
+     ],
+     "trap": "correlational study",
+     "trapHint": "The researchers randomly assigned people to a caffeine dose, so they manipulated caffeine: that makes it an experiment."
+    },
+    "B": {
+     "groups": [
+      [
+       "millisecond",
+       " ms"
+      ],
+      [
+       "square",
+       "space bar",
+       "key",
+       "press",
+       "60 trials",
+       "appear"
+      ]
+     ],
+     "labels": [
+      "Says it was measured in milliseconds",
+      "Gives how this study measured it (time from the square appearing to pressing the space bar, over 60 trials)"
+     ]
+    },
+    "C": {
+     "nums": [
+      "305",
+      "338",
+      "33 milliseconds",
+      "33 ms"
+     ],
+     "meaning": [
+      "react",
+      "respond",
+      "reaction",
+      "faster",
+      "quicker"
+     ],
+     "subject": [
+      "low dose",
+      "caffeine",
+      "100"
+     ],
+     "speedHint": true
+    },
+    "D": {
+     "eth": [
+      {
+       "name": "Institutional review",
+       "keys": [
+        "ethics board",
+        "review board",
+        "irb",
+        "institutional review",
+        "ethics committee"
+       ],
+       "ev": [
+        "approved",
+        "before",
+        "began"
+       ]
+      },
+      {
+       "name": "Informed consent",
+       "keys": [
+        "informed consent",
+        "consent"
+       ],
+       "ev": [
+        "signed",
+        "form",
+        "explained",
+        "told",
+        "before"
+       ]
+      },
+      {
+       "name": "Right to withdraw",
+       "keys": [
+        "withdraw",
+        "end the session",
+        "stop at any time",
+        "leave",
+        "quit"
+       ],
+       "ev": [
+        "any time",
+        "anytime",
+        "paid",
+        "still"
+       ]
+      },
+      {
+       "name": "Debriefing",
+       "keys": [
+        "debrief"
+       ],
+       "ev": [
+        "told which",
+        "which drink",
+        "end of the session",
+        "after"
+       ]
+      }
+     ],
+     "notIn": [
+      "confid",
+      "harm"
+     ]
+    },
+    "E": {
+     "pop": [
+      "college",
+      "student",
+      "teen",
+      "adolescent",
+      "young adult",
+      "older",
+      "adults",
+      "children",
+      "general population",
+      "everyone",
+      "people",
+      "population",
+      "daily",
+      "every day",
+      "heavy",
+      "coffee drinker"
+     ],
+     "demo": [
+      "21",
+      "45",
+      "29.8",
+      "54%",
+      "46%",
+      "62%",
+      "18%",
+      "11%",
+      "48%",
+      "ohio",
+      "light",
+      "two caffeinated",
+      "no more than two"
+     ]
+    },
+    "F": {
+     "data": [
+      "305",
+      "301",
+      "338",
+      "5.1",
+      "5.4",
+      "3.9"
+     ],
+     "concept": [
+      "stimulant",
+      "alert",
+      "central nervous system",
+      "excite"
+     ]
+    }
+   },
+   "source": {
+    "title": "Caffeine Dose and Reaction Time",
+    "label": "Written for this kit: a fictional study in the style of the real exam.",
+    "blocks": [
+     {
+      "h": "Introduction",
+      "p": "This study examined whether the amount of caffeine a person consumes affects how quickly they respond to a simple visual signal."
+     },
+     {
+      "h": "Participants",
+      "p": "Participants were 120 adults recruited through an online ad posted by a university hospital in Ohio. To take part, adults had to drink no more than two caffeinated drinks a day, have no heart problems, and not be pregnant. Of the 151 adults who filled out the online screening form, 31 did not meet these requirements or could not attend a morning session. Participants were paid $30 for one 3-hour session, and parking was provided.\n\nParticipants ranged in age from 21 to 45 years (mean age = 29.8 years, standard deviation = 6.2 years). The sample was 54% women and 46% men. The race/ethnicity of the participants was reported as follows: 62% White, 18% Black/African American, 11% Asian/Asian American, 6% Hispanic/Latino/a, and 3% multiracial. About half of the participants (48%) worked full-time, and 31% were students. On the screening form, participants reported drinking an average of 1.2 caffeinated drinks per day, most often coffee."
+     },
+     {
+      "h": "Method",
+      "p": "The hospital's ethics board approved the study before it began. When participants arrived, a nurse checked their blood pressure, and a researcher explained that they would drink a beverage that might contain caffeine and then complete computer tasks. Participants signed a consent form, and they were told that they could end the session at any time and would still be paid.\n\nParticipants were asked not to eat or drink anything with caffeine for 24 hours before the session, and all sessions began at 8:00 a.m. Participants were given a plain bagel and water when they arrived so that no one would be tested on an empty stomach. Each participant was randomly assigned to one of three groups:\n- No caffeine group: a drink containing 0 milligrams of caffeine.\n- Low dose group: a drink containing 100 milligrams of caffeine, about the amount in one cup of coffee.\n- High dose group: a drink containing 300 milligrams of caffeine.\n\nAll three drinks were 350 milliliters of the same lemon-flavored beverage and looked and tasted the same. Participants were asked to finish the drink within 5 minutes. Neither the participants nor the researcher running the session knew which drink a participant received.\n\nAfter drinking the beverage, participants waited 45 minutes in a quiet room, where they could read magazines. They then sat at a computer in a small testing room with the lights dimmed and the door closed and completed a 10-minute reaction-time task. Before the real trials began, each participant completed 10 practice trials, which were not counted. A gray square appeared in the center of a computer screen at random intervals, and participants pressed the space bar as quickly as possible each time it appeared. Reaction time was measured as the average number of milliseconds between the square appearing and the key press, across 60 trials. Participants also rated how alert they felt from 1 (very sleepy) to 7 (very alert) and completed a short word puzzle that was not scored for this study.\n\nAt the end of the session, the nurse checked blood pressure again, and each participant was told which drink they had received. Participants who had received caffeine were reminded that it could make it harder to fall asleep that night if they drank more later in the day."
+     },
+     {
+      "h": "Results and Discussion",
+      "p": "Three participants in the high dose group stopped the session early because they felt jittery, and their data were not used. The results for the remaining participants are shown in the table.\n\nTable: Mean Results for Each Group\n| Measure | No caffeine | Low dose | High dose |\n| Reaction time (milliseconds) | 338 | 305 | 301 |\n| Alertness rating (1 to 7) | 3.9 | 5.1 | 5.4 |\n| Participants who reported feeling jittery | 3% | 10% | 37% |\n\nBoth caffeine groups had significantly faster reaction times than the no caffeine group (p < .01). The difference between the low dose and high dose groups was not statistically significant. Both caffeine groups also rated themselves as significantly more alert than the no caffeine group.\n\nBlood pressure rose slightly more in the high dose group than in the other groups, but no participant's blood pressure reached an unsafe level. The researchers noted that the participants were light caffeine users and that the results might differ for people who drink caffeine every day."
+     }
+    ]
+   },
+   "parts": [
+    {
+     "k": "A",
+     "prompt": "Identify the research method used in the study.",
+     "model": "The research method is an experiment.",
+     "max": 1
+    },
+    {
+     "k": "B",
+     "prompt": "State the operational definition of reaction time in the study.",
+     "model": "Reaction time was the average number of milliseconds between the gray square appearing on the screen and the participant pressing the space bar, across 60 trials.",
+     "max": 1
+    },
+    {
+     "k": "C",
+     "prompt": "Describe what the mean reaction times indicate for the low dose group as compared to the no caffeine group.",
+     "model": "The low dose group responded in 305 milliseconds on average, compared with 338 milliseconds for the no caffeine group, and the difference was statistically significant. This indicates that 100 milligrams of caffeine made people react faster, and the difference was unlikely to be due to chance.",
+     "max": 1
+    },
+    {
+     "k": "D",
+     "prompt": "Identify one ethical guideline described in the study. Describe one way the researchers in the study applied this ethical guideline.",
+     "model": "The researchers used informed consent: before the study, a researcher explained that participants would drink a beverage that might contain caffeine and then do computer tasks, and participants signed a consent form and were told they could end the session at any time and still be paid.",
+     "max": 1
+    },
+    {
+     "k": "E",
+     "prompt": "Explain the extent to which the research findings may or may not be generalizable using specific and relevant evidence from the study.",
+     "model": "The findings may not generalize to people who drink caffeine every day, because all participants were light caffeine users who drank no more than two caffeinated drinks a day, and they were adults aged 21 to 45 from one area of Ohio.",
+     "max": 1
+    },
+    {
+     "k": "F",
+     "prompt": "Explain how at least one of the research findings supports or refutes the idea that caffeine is a stimulant that increases alertness.",
+     "model": "This supports the idea that caffeine is a stimulant that increases alertness. Both caffeine groups reacted significantly faster than the no caffeine group (305 and 301 milliseconds vs. 338) and rated themselves as more alert (5.1 and 5.4 vs. 3.9). Stimulants excite the central nervous system, so caffeine made participants more alert and quicker to respond.",
+     "max": 2
+    }
+   ]
+  },
+  {
+   "id": "aaq-exercise",
+   "type": "wfr",
+   "grader": "aaq",
+   "topic": "Depressive disorders, Correlation",
+   "title": "Weekly Exercise and Depressive Symptoms in Teens",
+   "r": {
+    "A": {
+     "answer": "correlational study",
+     "keys": [
+      "correlation"
+     ],
+     "clues": [
+      "relationship",
+      "survey",
+      "no random",
+      "not manipulat",
+      "measured",
+      "r ="
+     ],
+     "trap": "experiment",
+     "trapHint": "Nobody was assigned to exercise more or less; the researchers only measured two variables and looked at their relationship, so it is a correlational study."
+    },
+    "B": {
+     "groups": [
+      [
+       "day"
+      ],
+      [
+       "60 minutes",
+       "sixty minutes",
+       "7 days",
+       "seven days",
+       "past week",
+       "0 to 7"
+      ]
+     ],
+     "labels": [
+      "Says it was counted in days",
+      "Gives how this study measured it (days in the past 7 with at least 60 minutes of activity)"
+     ]
+    },
+    "C": {
+     "nums": [
+      "-.41",
+      ".41",
+      "-0.41",
+      "0.41"
+     ],
+     "meaning": [
+      "depress",
+      "symptom"
+     ],
+     "subject": [
+      "exercise",
+      "active"
+     ],
+     "kind": "corr"
+    },
+    "D": {
+     "eth": [
+      {
+       "name": "Institutional review",
+       "keys": [
+        "institutional review",
+        "review board",
+        "irb",
+        "ethics board",
+        "approved by"
+       ],
+       "ev": [
+        "approved",
+        "district",
+        "university"
+       ]
+      },
+      {
+       "name": "Informed consent",
+       "keys": [
+        "informed consent",
+        "consent",
+        "assent",
+        "parent"
+       ],
+       "ev": [
+        "signed",
+        "letter",
+        "form",
+        "agreed"
+       ]
+      },
+      {
+       "name": "Right to withdraw",
+       "keys": [
+        "withdraw",
+        "stop at any time",
+        "skip",
+        "quit"
+       ],
+       "ev": [
+        "any time",
+        "anytime",
+        "question",
+        "skip"
+       ]
+      },
+      {
+       "name": "Confidentiality",
+       "keys": [
+        "confidential",
+        "anonym",
+        "code number",
+        "privacy",
+        "private"
+       ],
+       "ev": [
+        "code",
+        "number",
+        "names",
+        "teachers",
+        "never see"
+       ]
+      },
+      {
+       "name": "Protection from harm",
+       "keys": [
+        "protection from harm",
+        "harm",
+        "counselor",
+        "support line"
+       ],
+       "ev": [
+        "40",
+        "counselor",
+        "support line",
+        "message"
+       ]
+      }
+     ],
+     "notIn": [
+      "debrief"
+     ]
+    },
+    "E": {
+     "pop": [
+      "college",
+      "student",
+      "teen",
+      "adolescent",
+      "young adult",
+      "older",
+      "adults",
+      "children",
+      "general population",
+      "everyone",
+      "people",
+      "population",
+      "high school",
+      "country",
+      "united states",
+      "other states"
+     ],
+     "demo": [
+      "14",
+      "18",
+      "15.9",
+      "52%",
+      "46%",
+      "48%",
+      "27%",
+      "15%",
+      "71%",
+      "38%",
+      "north carolina",
+      "six",
+      "public high school"
+     ]
+    },
+    "F": {
+     "data": [
+      "-.41",
+      ".41",
+      "24.6",
+      "12.3",
+      "17.9",
+      "-.33"
+     ],
+     "concept": [
+      "exercis",
+      "depress",
+      "caus"
+     ],
+     "stanceWant": "refute",
+     "stanceHint": "This was a correlational study, so it can't show that exercise causes fewer symptoms. Say the finding does not support (or only partly supports) the causal claim, and why."
+    }
+   },
+   "source": {
+    "title": "Weekly Exercise and Depressive Symptoms in Teens",
+    "label": "Written for this kit: a fictional study in the style of the real exam.",
+    "blocks": [
+     {
+      "h": "Introduction",
+      "p": "This study examined the relationship between how much high school students exercise and how many symptoms of depression they report."
+     },
+     {
+      "h": "Participants",
+      "p": "Participants were 640 students in grades 9 through 12 at six public high schools in North Carolina. The schools were chosen because their principals agreed to take part. All students in the selected classes were invited, and 71% of those invited took part. Students who were absent on the day of the survey were not given a second chance to take it. Each participant was entered into a drawing for one of twenty $25 gift cards.\n\nParticipants ranged in age from 14 to 18 years (mean age = 15.9 years, standard deviation = 1.1 years). The sample was 52% girls, 46% boys, and 2% another gender identity. The race/ethnicity of the participants was reported as follows: 48% White, 27% Black/African American, 15% Hispanic/Latino/a, 5% Asian/Asian American, and 5% multiracial. Thirty-eight percent of participants played on at least one school sports team, and 41% received free or reduced-price school lunch. Two of the six schools were in rural areas, three in suburbs, and one in a city."
+     },
+     {
+      "h": "Method",
+      "p": "The study was approved by a university's institutional review board and by the school district. Parents received a letter describing the study and returned a signed form if they agreed to let their child take part. Students also signed an assent form. Students were told that they could skip any question or stop at any time, and that their teachers would never see their answers. Surveys were labeled with code numbers instead of names.\n\nStudents completed the survey on school laptops during a homeroom period, which took about 25 minutes. A research assistant, not the teacher, handed out the laptops and answered questions. Students who did not take part read silently at their desks. Exercise was measured with the question \"In the past 7 days, on how many days were you physically active for a total of at least 60 minutes per day?\" Answers ranged from 0 to 7 days. Depressive symptoms were measured with a 20-item questionnaire asking how often in the past week students had felt sad, hopeless, tired, or uninterested in things they usually enjoy. Scores ranged from 0 to 60, with higher scores meaning more symptoms.\n\nBefore the main study, the researchers tested the exercise question with a separate group of 40 students who also wore step-counting watches for a week; students who reported more active days also took more steps. The survey also asked about hours of sleep on school nights, hours of screen time per day, and how many close friends the student had. It also asked whether the student had a job and how they got to school (walking, biking, bus, or car). Any student whose depression score was 40 or higher received a private message with information about the school counselor and a free support line.\n\nThe researchers chose to survey students in late October, after the start of the school year but before winter break, so that holidays and final exams would not affect students' answers. All six schools completed the survey within the same two weeks, and each school received a short report of its overall results, with no information about individual students."
+     },
+     {
+      "h": "Results and Discussion",
+      "p": "Table: Mean Depressive Symptom Score by Days of Exercise per Week\n| Days of exercise in the past week | Percent of students | Mean depressive symptom score (0 to 60) |\n| 0 to 1 days | 22% | 24.6 |\n| 2 to 4 days | 47% | 17.9 |\n| 5 to 7 days | 31% | 12.3 |\n\nDays of exercise were negatively correlated with depressive symptom scores (r = -.41, p < .001). Students who exercised on more days tended to report fewer symptoms of depression. Hours of sleep were also negatively correlated with depressive symptoms (r = -.33), and hours of screen time were positively correlated with depressive symptoms (r = .22).\n\nGirls reported slightly higher depressive symptom scores than boys on average (19.4 vs. 16.2), and boys reported more days of exercise. Students who walked or biked to school did not differ from other students in depressive symptoms. The researchers noted that students who play sports may also spend more time with friends and coaches, and that students who feel depressed may have less energy to exercise."
+     }
+    ]
+   },
+   "parts": [
+    {
+     "k": "A",
+     "prompt": "Identify the research method used in the study.",
+     "model": "The research method is a correlational study.",
+     "max": 1
+    },
+    {
+     "k": "B",
+     "prompt": "State the operational definition of exercise in the study.",
+     "model": "Exercise was the number of days in the past 7 days (0 to 7) on which the student was physically active for a total of at least 60 minutes.",
+     "max": 1
+    },
+    {
+     "k": "C",
+     "prompt": "Describe what the correlation coefficient of r = -.41 indicates about the relationship between days of exercise and depressive symptom scores.",
+     "model": "The correlation of r = -.41 is a moderate negative correlation: students who exercised on more days tended to have lower depressive symptom scores, and the relationship was statistically significant, so it was unlikely to be due to chance.",
+     "max": 1
+    },
+    {
+     "k": "D",
+     "prompt": "Identify one ethical guideline described in the study. Describe one way the researchers in the study applied this ethical guideline.",
+     "model": "The researchers used confidentiality: surveys were labeled with code numbers instead of names, and students were told their teachers would never see their answers.",
+     "max": 1
+    },
+    {
+     "k": "E",
+     "prompt": "Explain the extent to which the research findings may or may not be generalizable using specific and relevant evidence from the study.",
+     "model": "The findings may not generalize to teens across the United States, because all participants were students aged 14 to 18 from six public high schools in North Carolina, and 48% were White.",
+     "max": 1
+    },
+    {
+     "k": "F",
+     "prompt": "Explain how at least one of the research findings supports or refutes the idea that exercising more causes teens to have fewer symptoms of depression.",
+     "model": "The findings do not support the claim that exercise causes fewer symptoms of depression. Days of exercise were negatively correlated with depressive symptoms (r = -.41), but that is not enough because this was a correlational study, and correlation does not equal causation. Students who feel depressed may have less energy to exercise, or a third variable like sleep or time with friends on sports teams could explain both.",
+     "max": 2
+    }
+   ]
+  },
+  {
+   "id": "aaq-spiders",
+   "type": "wfr",
+   "grader": "aaq",
+   "topic": "Phobias, Treatment",
+   "title": "Exposure Therapy for Fear of Spiders",
+   "r": {
+    "A": {
+     "answer": "experiment",
+     "keys": [
+      "experiment"
+     ],
+     "clues": [
+      "random",
+      "assign",
+      "manipulat",
+      "independent variable",
+      "group",
+      "waiting list"
+     ],
+     "trap": "case study",
+     "trapHint": "There were 64 participants randomly assigned to exposure or a waiting list, so this is an experiment, not a case study of one person."
+    },
+    "B": {
+     "groups": [
+      [
+       "step"
+      ],
+      [
+       "12",
+       "twelve",
+       "approach test",
+       "tank",
+       "spider",
+       "hallway"
+      ]
+     ],
+     "labels": [
+      "Says it was the number of steps completed",
+      "Gives how this study measured it (steps out of 12 toward the spider in the approach test)"
+     ]
+    },
+    "C": {
+     "nums": [
+      "10.4",
+      "3.8",
+      "6.6"
+     ],
+     "meaning": [
+      "avoid",
+      "approach",
+      "steps",
+      "closer",
+      "fear"
+     ],
+     "subject": [
+      "exposure",
+      "waiting",
+      "treat"
+     ]
+    },
+    "D": {
+     "eth": [
+      {
+       "name": "Institutional review",
+       "keys": [
+        "institutional review",
+        "review board",
+        "irb",
+        "ethics board"
+       ],
+       "ev": [
+        "approved",
+        "before",
+        "board"
+       ]
+      },
+      {
+       "name": "Informed consent",
+       "keys": [
+        "informed consent",
+        "consent"
+       ],
+       "ev": [
+        "signed",
+        "form",
+        "explained",
+        "told",
+        "spider",
+        "fear"
+       ]
+      },
+      {
+       "name": "Right to withdraw",
+       "keys": [
+        "withdraw",
+        "stop any task",
+        "leave the study",
+        "stop at any time",
+        "quit"
+       ],
+       "ev": [
+        "any time",
+        "anytime",
+        "stop",
+        "leave"
+       ]
+      }
+     ],
+     "notIn": [
+      "confid",
+      "debrief"
+     ]
+    },
+    "E": {
+     "pop": [
+      "college",
+      "student",
+      "teen",
+      "adolescent",
+      "young adult",
+      "older",
+      "adults",
+      "children",
+      "general population",
+      "everyone",
+      "people",
+      "population",
+      "men",
+      "male",
+      "women",
+      "other phobia"
+     ],
+     "demo": [
+      "81%",
+      "19%",
+      "77%",
+      "19",
+      "58",
+      "31.4",
+      "oregon",
+      "women",
+      "64"
+     ]
+    },
+    "F": {
+     "data": [
+      "86",
+      "31",
+      "84",
+      "80",
+      "10.4",
+      "3.8",
+      "69%",
+      "3.1"
+     ],
+     "concept": [
+      "exposure",
+      "fear",
+      "phobia",
+      "avoid"
+     ]
+    }
+   },
+   "source": {
+    "title": "Exposure Therapy for Fear of Spiders",
+    "label": "Written for this kit: a fictional study in the style of the real exam.",
+    "blocks": [
+     {
+      "h": "Introduction",
+      "p": "This study tested whether a single long session of exposure therapy reduces fear and avoidance in adults with an intense fear of spiders."
+     },
+     {
+      "h": "Participants",
+      "p": "Participants were recruited through ads on a university website and in local newspapers in Oregon. Adults who responded completed a phone interview with a clinical psychologist, and those who met the criteria for a specific phobia of spiders were invited to take part. People who were receiving other treatment for anxiety, or who had a heart condition, were not eligible. Of the 97 adults who completed the phone interview, 71 met the criteria, and 7 of those decided not to take part.\n\nThe final sample was 64 adults aged 19 to 58 years (mean age = 31.4 years, standard deviation = 9.7 years). The sample was 81% women and 19% men. The race/ethnicity of the participants was reported as follows: 77% White, 9% Asian/Asian American, 8% Hispanic/Latino/a, 3% Black/African American, and 3% multiracial. Most participants (72%) said their fear had started before age 10, and many said they checked rooms for spiders before entering them. Participants did not receive payment, but those in the waiting list group were offered free treatment after the study ended."
+     },
+     {
+      "h": "Method",
+      "p": "The university's institutional review board approved the study. At the first visit, a psychologist explained that participants might be asked to be near or touch a live spider, which could cause strong fear. Participants signed a consent form. They were told that they could stop any task, or leave the study, at any time.\n\nBefore treatment, each participant completed a behavioral approach test. A live, harmless house spider sat in a covered glass tank at the far end of a 6-meter hallway. Participants were asked to walk toward the tank and do as many of 12 steps as they could, such as standing 1 meter from the tank, removing the lid, and letting the spider walk on a gloved hand. Avoidance was measured as the number of steps completed, from 0 to 12. At each step, participants also rated their fear from 0 (no fear) to 100 (the most fear imaginable), and the highest rating was recorded. They then filled out a questionnaire about their history of other fears and how much the fear affected their daily life, such as avoiding camping or basements. The test took about 15 minutes, and a researcher stood beside the participant the whole time.\n\nParticipants who completed all 12 steps before treatment would not have been included, but none did. Participants were then randomly assigned to one of two groups:\n1. Exposure group: one 3-hour session with a therapist. The participant gradually moved closer to spiders of increasing size, staying with each step until their fear dropped by about half. The therapist first showed each step, such as holding a spider in a cup, and then helped the participant try it. Sessions took place in a quiet office with a window, and participants could take short breaks for water.\n2. Waiting list group: no treatment during the study.\n\nOne week later, every participant completed the behavioral approach test again with a different spider of about the same size. Participants in the exposure group were also asked to look at photos of spiders for 10 minutes a day during that week, and most said they had done so on at least 5 days. The researcher who ran the test did not know which group each participant was in. After the test, participants also rated how confident they felt that they could handle seeing a spider at home, from 0 (not at all confident) to 10 (completely confident)."
+     },
+     {
+      "h": "Results and Discussion",
+      "p": "Table: Mean Results Before and One Week After Treatment\n| Group | Steps completed before | Steps completed after | Fear rating before (0 to 100) | Fear rating after (0 to 100) |\n| Exposure | 3.1 | 10.4 | 86 | 31 |\n| Waiting list | 3.3 | 3.8 | 84 | 80 |\n\nOne week after treatment, participants in the exposure group completed significantly more steps and reported significantly less fear than participants in the waiting list group (p < .001). Twenty-two of the 32 participants in the exposure group (69%) completed all 12 steps, compared with none in the waiting list group.\n\nTwo participants in the exposure group stopped the session early, and their after-treatment scores were included in the analysis. Confidence ratings rose from an average of 2.2 to 7.6 in the exposure group and stayed near 2 in the waiting list group. The researchers noted that the study did not test whether the improvement lasted beyond one week, and that all of the therapists had years of experience treating phobias."
+     }
+    ]
+   },
+   "parts": [
+    {
+     "k": "A",
+     "prompt": "Identify the research method used in the study.",
+     "model": "The research method is an experiment.",
+     "max": 1
+    },
+    {
+     "k": "B",
+     "prompt": "State the operational definition of avoidance in the study.",
+     "model": "Avoidance was the number of steps out of 12 that the participant completed in the behavioral approach test, such as standing 1 meter from the spider tank or letting the spider walk on a gloved hand.",
+     "max": 1
+    },
+    {
+     "k": "C",
+     "prompt": "Describe what the mean number of steps completed after treatment indicates for the exposure group as compared to the waiting list group.",
+     "model": "After treatment, the exposure group completed 10.4 steps on average, compared with 3.8 steps for the waiting list group, and the difference was statistically significant. This indicates that people who had exposure therapy avoided the spider much less, and the difference was unlikely to be due to chance.",
+     "max": 1
+    },
+    {
+     "k": "D",
+     "prompt": "Identify one ethical guideline described in the study. Describe one way the researchers in the study applied this ethical guideline.",
+     "model": "The researchers used informed consent: a psychologist explained that participants might have to be near or touch a live spider and could feel strong fear, participants signed a consent form, and they were told they could stop any task or leave at any time.",
+     "max": 1
+    },
+    {
+     "k": "E",
+     "prompt": "Explain the extent to which the research findings may or may not be generalizable using specific and relevant evidence from the study.",
+     "model": "The findings may not generalize to men with spider phobias, because 81% of the participants were women, and 77% were White adults from Oregon.",
+     "max": 1
+    },
+    {
+     "k": "F",
+     "prompt": "Explain how at least one of the research findings supports or refutes the idea that exposure therapy reduces fear in people with a specific phobia.",
+     "model": "This supports the idea that exposure therapy reduces fear in people with a specific phobia. The exposure group's fear ratings dropped from 86 to 31, while the waiting list group stayed about the same (84 to 80). This shows that exposure therapy works: it exposes people to what they normally avoid, and after being gradually exposed to spiders, the participants' fear went down and they could approach the spider.",
+     "max": 2
+    }
+   ]
+  },
+  {
+   "id": "aaq-examstress",
+   "type": "wfr",
+   "grader": "aaq",
+   "topic": "Stress, Immune system",
+   "title": "Exam Stress and Catching a Cold",
+   "r": {
+    "A": {
+     "answer": "correlational study",
+     "keys": [
+      "correlation"
+     ],
+     "clues": [
+      "relationship",
+      "survey",
+      "no random",
+      "not manipulat",
+      "measured",
+      "r ="
+     ],
+     "trap": "experiment",
+     "trapHint": "The researchers didn't assign anyone to be stressed; they measured stress and colds and looked at the relationship, so it is a correlational study."
+    },
+    "B": {
+     "groups": [
+      [
+       "day"
+      ],
+      [
+       "two of",
+       "2 of",
+       "sneez",
+       "runny",
+       "sore throat",
+       "cough",
+       "checklist"
+      ]
+     ],
+     "labels": [
+      "Says it was counted in days",
+      "Gives how this study measured it (days with at least two of the listed symptoms on the daily checklist)"
+     ]
+    },
+    "C": {
+     "nums": [
+      ".36",
+      "0.36"
+     ],
+     "meaning": [
+      "cold",
+      "symptom",
+      "sick",
+      "ill"
+     ],
+     "subject": [
+      "stress"
+     ],
+     "kind": "corr"
+    },
+    "D": {
+     "eth": [
+      {
+       "name": "Institutional review",
+       "keys": [
+        "institutional review",
+        "review board",
+        "irb",
+        "ethics board"
+       ],
+       "ev": [
+        "approved",
+        "board"
+       ]
+      },
+      {
+       "name": "Informed consent",
+       "keys": [
+        "informed consent",
+        "consent"
+       ],
+       "ev": [
+        "consent page",
+        "clicked",
+        "agree",
+        "explain",
+        "online"
+       ]
+      },
+      {
+       "name": "Right to withdraw",
+       "keys": [
+        "withdraw",
+        "stop at any time",
+        "quit",
+        "leave the study"
+       ],
+       "ev": [
+        "any time",
+        "anytime",
+        "stop"
+       ]
+      },
+      {
+       "name": "Confidentiality",
+       "keys": [
+        "confidential",
+        "anonym",
+        "without their names",
+        "privacy",
+        "private"
+       ],
+       "ev": [
+        "name",
+        "stored"
+       ]
+      },
+      {
+       "name": "Debriefing",
+       "keys": [
+        "debrief"
+       ],
+       "ev": [
+        "summary",
+        "explain",
+        "end",
+        "after",
+        "studying"
+       ]
+      }
+     ],
+     "notIn": [
+      "harm"
+     ]
+    },
+    "E": {
+     "pop": [
+      "college",
+      "student",
+      "teen",
+      "adolescent",
+      "young adult",
+      "older",
+      "adults",
+      "children",
+      "general population",
+      "everyone",
+      "people",
+      "population",
+      "not in college",
+      "workers"
+     ],
+     "demo": [
+      "18",
+      "24",
+      "20.1",
+      "57%",
+      "43%",
+      "59%",
+      "16%",
+      "84%",
+      "pennsylvania",
+      "one private",
+      "private university",
+      "campus housing",
+      "roommate"
+     ]
+    },
+    "F": {
+     "data": [
+      ".36",
+      "7.8",
+      "2.1",
+      "4.6",
+      "-.29"
+     ],
+     "concept": [
+      "immun",
+      "stress",
+      "caus",
+      "sick",
+      "cold"
+     ],
+     "stanceWant": "refute",
+     "stanceHint": "This was a correlational study, so it can't prove stress causes immunosuppression. Say the finding does not prove (or only partly supports) the causal claim, and why."
+    }
+   },
+   "source": {
+    "title": "Exam Stress and Catching a Cold",
+    "label": "Written for this kit: a fictional study in the style of the real exam.",
+    "blocks": [
+     {
+      "h": "Introduction",
+      "p": "This study examined whether college students who report more stress during final exams are more likely to report cold symptoms in the weeks around exams."
+     },
+     {
+      "h": "Participants",
+      "p": "Participants were 212 undergraduate students at a private university in Pennsylvania. Students were recruited through an email sent to all students living in campus housing. They received course credit or $20 for taking part. Of the 260 students who replied to the email, 48 were not included because they had a long-term illness, took medication that affects the immune system, or were studying abroad that semester.\n\nParticipants ranged in age from 18 to 24 years (mean age = 20.1 years, standard deviation = 1.4 years). The sample was 57% women and 43% men. The race/ethnicity of the participants was reported as follows: 59% White, 16% Asian/Asian American, 12% Hispanic/Latino/a, 9% Black/African American, and 4% multiracial. Eighty-four percent of participants lived in a residence hall with a roommate, and the rest lived alone. About a third of participants (34%) also had a part-time job on campus."
+     },
+     {
+      "h": "Method",
+      "p": "The university's institutional review board approved the study. Students read an online consent page explaining that they would answer short surveys on their phones for four weeks, and they clicked a button to agree. The consent page said that students could stop at any time, and that their answers would be stored without their names.\n\nThe study began in late November. Two weeks before final exams, students completed the 10-item Perceived Stress Scale, which asks how often in the past month they felt nervous and stressed or unable to handle everything they had to do. Scores range from 0 to 40, with higher scores meaning more stress. Students also reported how many exams and papers they had due and how many hours per week they usually exercised. These first surveys took about 15 minutes and were completed online.\n\nFor the next four weeks, which included the two weeks of final exams, students received a text message each evening with a link to a short checklist. Cold symptoms were measured as the number of days on which a student reported at least two of the following: sneezing, a runny or stuffy nose, a sore throat, or a cough. Students also reported hours of sleep each night and whether they had gotten a flu shot that year. The checklist asked how many cups of coffee or energy drinks the student had that day, but the researchers did not use those answers in this report. A research assistant checked the responses each week and contacted any student who had missed three or more days in a row to ask whether they wanted to continue.\n\nEach checklist took about 1 minute. If a student missed a day, a reminder was sent the next morning, but students could not fill in checklists for earlier days. Students who completed at least 24 of the 28 daily checklists were included in the analysis.\n\nAt the end of the four weeks, students answered a few questions about whether they had used any cold medicine and whether anyone they lived with had been sick. Students were then sent a summary explaining what the researchers were studying."
+     },
+     {
+      "h": "Results and Discussion",
+      "p": "Of the 212 students, 188 completed enough checklists to be included. Stress scores were positively correlated with the number of days with cold symptoms (r = .36, p < .001). Students who reported more stress before exams tended to report more days with cold symptoms during the four weeks.\n\nTable: Days with Cold Symptoms by Stress Level\n| Stress score group | Number of students | Mean days with cold symptoms (out of 28) |\n| Low (0 to 13) | 51 | 2.1 |\n| Medium (14 to 26) | 94 | 4.6 |\n| High (27 to 40) | 43 | 7.8 |\n\nAverage hours of sleep were negatively correlated with days of cold symptoms (r = -.29). Students with higher stress scores also slept fewer hours on average. Getting a flu shot was not related to the number of days with cold symptoms.\n\nStudents who said that a roommate had been sick also reported more days with cold symptoms. Exercise hours were not significantly related to days with cold symptoms. The number of exams and papers due was only weakly related to days with cold symptoms (r = .12). The researchers noted that cold symptoms were reported by the students and were not confirmed by a doctor, and that the study took place during winter, when colds are common on campus."
+     }
+    ]
+   },
+   "parts": [
+    {
+     "k": "A",
+     "prompt": "Identify the research method used in the study.",
+     "model": "The research method is a correlational study.",
+     "max": 1
+    },
+    {
+     "k": "B",
+     "prompt": "State the operational definition of cold symptoms in the study.",
+     "model": "Cold symptoms were measured as the number of days, out of 28 daily checklists, on which a student reported at least two of these: sneezing, a runny or stuffy nose, a sore throat, or a cough.",
+     "max": 1
+    },
+    {
+     "k": "C",
+     "prompt": "Describe what the correlation coefficient of r = .36 indicates about the relationship between stress scores and days with cold symptoms.",
+     "model": "The correlation of r = .36 is a positive correlation: students with higher stress scores tended to report more days with cold symptoms, and it was statistically significant, so the relationship was unlikely to be due to chance.",
+     "max": 1
+    },
+    {
+     "k": "D",
+     "prompt": "Identify one ethical guideline described in the study. Describe one way the researchers in the study applied this ethical guideline.",
+     "model": "The researchers used confidentiality: the consent page told students their answers would be stored without their names.",
+     "max": 1
+    },
+    {
+     "k": "E",
+     "prompt": "Explain the extent to which the research findings may or may not be generalizable using specific and relevant evidence from the study.",
+     "model": "The findings may not generalize to adults who are not in college, because all participants were students aged 18 to 24 living in campus housing at one private university in Pennsylvania, and 84% lived with a roommate.",
+     "max": 1
+    },
+    {
+     "k": "F",
+     "prompt": "Explain how at least one of the research findings supports or refutes the idea that stress causes immunosuppression.",
+     "model": "The findings do not prove that stress causes immunosuppression. Students in the high stress group had 7.8 days with cold symptoms compared with 2.1 for the low stress group (r = .36), but this was a correlational study, so it cannot show cause. A third variable such as sleep could explain it, since stressed students also slept fewer hours, and sleep was related to colds too.",
+     "max": 2
+    }
+   ]
+  },
+  {
+   "id": "aaq-vrpain",
+   "type": "wfr",
+   "grader": "aaq",
+   "topic": "Touch and pain, Gate control theory",
+   "title": "Virtual Reality Distraction During a Needle Procedure",
+   "r": {
+    "A": {
+     "answer": "experiment",
+     "keys": [
+      "experiment"
+     ],
+     "clues": [
+      "random",
+      "assign",
+      "manipulat",
+      "independent variable",
+      "condition"
+     ],
+     "trap": "naturalistic observation",
+     "trapHint": "The researchers randomly assigned children to virtual reality, a tablet, or standard care, so they manipulated the distraction: that makes it an experiment."
+    },
+    "B": {
+     "groups": [
+      [
+       "face",
+       "0 to 10",
+       "number"
+      ],
+      [
+       "faces pain scale",
+       "pointed",
+       "point",
+       "after the needle",
+       "removed"
+      ]
+     ],
+     "labels": [
+      "Says it was a number on the faces scale",
+      "Gives how this study measured it (the face the child pointed to right after the needle came out)"
+     ]
+    },
+    "C": {
+     "nums": [
+      "2.3",
+      "5.6",
+      "3.3"
+     ],
+     "meaning": [
+      "pain",
+      "hurt"
+     ],
+     "subject": [
+      "virtual",
+      "vr",
+      "standard"
+     ]
+    },
+    "D": {
+     "eth": [
+      {
+       "name": "Institutional review",
+       "keys": [
+        "institutional review",
+        "review board",
+        "irb",
+        "ethics board"
+       ],
+       "ev": [
+        "approved",
+        "board"
+       ]
+      },
+      {
+       "name": "Informed consent",
+       "keys": [
+        "informed consent",
+        "consent",
+        "assent"
+       ],
+       "ev": [
+        "signed",
+        "form",
+        "explained",
+        "parent",
+        "agreed"
+       ]
+      },
+      {
+       "name": "Right to withdraw",
+       "keys": [
+        "withdraw",
+        "stop at any time",
+        "quit",
+        "leave the study"
+       ],
+       "ev": [
+        "any time",
+        "anytime",
+        "care",
+        "without"
+       ]
+      }
+     ],
+     "notIn": [
+      "confid",
+      "debrief"
+     ]
+    },
+    "E": {
+     "pop": [
+      "college",
+      "student",
+      "teen",
+      "adolescent",
+      "young adult",
+      "older",
+      "adults",
+      "children",
+      "general population",
+      "everyone",
+      "people",
+      "population",
+      "younger",
+      "infants",
+      "patients"
+     ],
+     "demo": [
+      "8",
+      "14",
+      "10.9",
+      "49%",
+      "51%",
+      "46%",
+      "28%",
+      "18%",
+      "68%",
+      "texas",
+      "one children",
+      "children's hospital"
+     ]
+    },
+    "F": {
+     "data": [
+      "2.3",
+      "5.6",
+      "3.9",
+      "3.3"
+     ],
+     "concept": [
+      "gate",
+      "spinal cord",
+      "distract",
+      "pain signal"
+     ]
+    }
+   },
+   "source": {
+    "title": "Virtual Reality Distraction During a Needle Procedure",
+    "label": "Written for this kit: a fictional study in the style of the real exam.",
+    "blocks": [
+     {
+      "h": "Introduction",
+      "p": "This study examined whether playing a virtual reality game during a blood draw changes how much pain children report."
+     },
+     {
+      "h": "Participants",
+      "p": "Participants were 156 children aged 8 to 14 who were having blood drawn for a routine test at an outpatient clinic of a children's hospital in Texas. Families were approached in the waiting room by a research assistant. Children who had a blood draw scheduled for a long-term illness, who had a history of seizures, or who had trouble seeing were not eligible. Of the 203 families approached, 47 declined, most often because they were in a hurry.\n\nThe children's mean age was 10.9 years (standard deviation = 1.8 years). The sample was 49% girls and 51% boys. The race/ethnicity of the children was reported by their parents as follows: 46% Hispanic/Latino/a, 28% White, 18% Black/African American, 5% Asian/Asian American, and 3% multiracial. Most children (68%) said they had had blood drawn at least once before. Each family received a $15 gift card."
+     },
+     {
+      "h": "Method",
+      "p": "The hospital's institutional review board approved the study. A research assistant explained the study to each parent, who signed a consent form, and to each child, who agreed in writing on a simple assent form. Families were told that they could stop at any time without any effect on the child's care.\n\nBefore the blood draw, each child rated how worried they felt about the needle on a scale from 0 (not worried) to 10 (very worried). Children were then randomly assigned to one of three conditions:\n1. Virtual reality condition: the child wore a virtual reality headset and played an underwater game, in which they steered a submarine and collected glowing fish, starting 1 minute before the needle went in.\n2. Tablet condition: the child watched a cartoon of their choice on a tablet held by a parent, starting at the same time.\n3. Standard care condition: the child received the clinic's usual care, in which the nurse talked with the child and a parent could hold their hand.\n\nParents in all three conditions could stay in the room. Six nurses with at least 3 years of experience did all of the blood draws, and each nurse worked with children in all three conditions. The blood draws took an average of 4 minutes.\n\nWithin 1 minute after the needle was removed, a research assistant who had not been in the room asked the child to point to one of six faces on the Faces Pain Scale, ranging from a smiling face (0, no pain) to a crying face (10, the most pain possible). Pain was measured as the number under the face the child pointed to. Parents also rated how upset their child seemed during the draw, and the nurse recorded whether the needle had to be inserted more than once.\n\nBefore the study began, the research team tested the virtual reality game with 12 children who were not in the study to make sure that the headset fit children of different sizes and that the game was easy to learn in under a minute. The headsets were cleaned with wipes after every use. All blood draws took place between 8:00 a.m. and noon in the same two rooms, which had the same chairs, lighting, and pictures on the walls. After the study, each child was allowed to play the virtual reality game for 5 minutes, whatever condition they had been in."
+     },
+     {
+      "h": "Results and Discussion",
+      "p": "Worry ratings before the blood draw did not differ significantly among the three conditions. Pain ratings after the draw are shown in the table.\n\nTable: Mean Ratings for Each Condition\n| Condition | Number of children | Worry before (0 to 10) | Pain rating (0 to 10) |\n| Virtual reality | 52 | 5.4 | 2.3 |\n| Tablet | 53 | 5.2 | 3.9 |\n| Standard care | 51 | 5.6 | 5.6 |\n\nChildren in the virtual reality condition reported significantly less pain than children in the standard care condition (p < .001) and than children in the tablet condition (p = .01). Children in the tablet condition reported significantly less pain than those in standard care (p = .02). Parents also rated children in the virtual reality condition as less upset.\n\nThe needle had to be inserted more than once for 11 children, spread across all three conditions. Four children in the virtual reality condition said the headset made them feel a little dizzy, and one asked to remove it. The researchers noted that the nurses could see which condition each child was in."
+     }
+    ]
+   },
+   "parts": [
+    {
+     "k": "A",
+     "prompt": "Identify the research method used in the study.",
+     "model": "The research method is an experiment.",
+     "max": 1
+    },
+    {
+     "k": "B",
+     "prompt": "State the operational definition of pain in the study.",
+     "model": "Pain was the number (0 to 10) under the face the child pointed to on the Faces Pain Scale within 1 minute after the needle was removed.",
+     "max": 1
+    },
+    {
+     "k": "C",
+     "prompt": "Describe what the mean pain ratings indicate for the virtual reality condition as compared to the standard care condition.",
+     "model": "Children in the virtual reality condition rated their pain 2.3 on average, compared with 5.6 in standard care, and the difference was statistically significant. This indicates that playing the virtual reality game made the blood draw hurt less, and the difference was unlikely to be due to chance.",
+     "max": 1
+    },
+    {
+     "k": "D",
+     "prompt": "Identify one ethical guideline described in the study. Describe one way the researchers in the study applied this ethical guideline.",
+     "model": "The researchers used informed consent: a research assistant explained the study, each parent signed a consent form, each child agreed on an assent form, and families were told they could stop at any time without affecting the child's care.",
+     "max": 1
+    },
+    {
+     "k": "E",
+     "prompt": "Explain the extent to which the research findings may or may not be generalizable using specific and relevant evidence from the study.",
+     "model": "The findings may not generalize to adults, because all participants were children aged 8 to 14 at one children's hospital in Texas, and 46% were Hispanic/Latino/a.",
+     "max": 1
+    },
+    {
+     "k": "F",
+     "prompt": "Explain how at least one of the research findings supports or refutes gate control theory.",
+     "model": "This supports gate control theory. Children who played the virtual reality game rated their pain 2.3, compared with 5.6 for standard care, and children watching a cartoon were in between (3.9). Gate control theory says the spinal cord has a gate that can block pain signals and that distraction can close the gate, so the more distracting the activity was, the less pain got through.",
+     "max": 2
+    }
+   ]
+  },
+  {
+   "id": "aaq-placebo",
+   "type": "wfr",
+   "grader": "aaq",
+   "topic": "Research methods, Placebo effect",
+   "title": "What You Think Is in Your Drink",
+   "r": {
+    "A": {
+     "answer": "experiment",
+     "keys": [
+      "experiment"
+     ],
+     "clues": [
+      "random",
+      "assign",
+      "manipulat",
+      "independent variable",
+      "condition",
+      "placebo"
+     ],
+     "trap": "correlational study",
+     "trapHint": "Participants were randomly assigned to what they drank and what they were told, so the researchers manipulated it: that makes it an experiment."
+    },
+    "B": {
+     "groups": [
+      [
+       "number",
+       "how many",
+       "problems"
+      ],
+      [
+       "5 minutes",
+       "five minutes",
+       "multiplication",
+       "two-digit",
+       "correct"
+      ]
+     ],
+     "labels": [
+      "Says it was the number of problems",
+      "Gives how this study measured it (two-digit multiplication problems correct in 5 minutes)"
+     ]
+    },
+    "C": {
+     "nums": [
+      "6.6",
+      "4.3",
+      "2.3"
+     ],
+     "meaning": [
+      "energ"
+     ],
+     "subject": [
+      "placebo",
+      "water",
+      "believ",
+      "told"
+     ]
+    },
+    "D": {
+     "eth": [
+      {
+       "name": "Institutional review",
+       "keys": [
+        "institutional review",
+        "review board",
+        "irb",
+        "ethics board"
+       ],
+       "ev": [
+        "approved",
+        "deception",
+        "board"
+       ]
+      },
+      {
+       "name": "Informed consent",
+       "keys": [
+        "informed consent",
+        "consent"
+       ],
+       "ev": [
+        "signed",
+        "form",
+        "told",
+        "caffeine",
+        "explained"
+       ]
+      },
+      {
+       "name": "Right to withdraw",
+       "keys": [
+        "withdraw",
+        "leave at any time",
+        "stop at any time",
+        "quit",
+        "leave"
+       ],
+       "ev": [
+        "any time",
+        "anytime",
+        "credit"
+       ]
+      },
+      {
+       "name": "Debriefing",
+       "keys": [
+        "debrief"
+       ],
+       "ev": [
+        "real purpose",
+        "purpose",
+        "explained",
+        "end",
+        "contained",
+        "actually"
+       ]
+      }
+     ],
+     "notIn": [
+      "confid",
+      "harm"
+     ]
+    },
+    "E": {
+     "pop": [
+      "college",
+      "student",
+      "teen",
+      "adolescent",
+      "young adult",
+      "older",
+      "adults",
+      "children",
+      "general population",
+      "everyone",
+      "people",
+      "population",
+      "non-students",
+      "energy drink users"
+     ],
+     "demo": [
+      "18",
+      "25",
+      "19.7",
+      "60%",
+      "40%",
+      "65%",
+      "17%",
+      "44%",
+      "colorado",
+      "one public",
+      "public university"
+     ]
+    },
+    "F": {
+     "data": [
+      "6.6",
+      "7.2",
+      "4.3",
+      "11.9",
+      "11.4",
+      "14.8"
+     ],
+     "concept": [
+      "placebo",
+      "expect",
+      "believ"
+     ]
+    }
+   },
+   "source": {
+    "title": "What You Think Is in Your Drink",
+    "label": "Written for this kit: a fictional study in the style of the real exam.",
+    "blocks": [
+     {
+      "h": "Introduction",
+      "p": "This study examined whether believing you have had an energy drink changes how energetic you feel and how well you do on a timed math task, even when the drink has no caffeine."
+     },
+     {
+      "h": "Participants",
+      "p": "Participants were 105 undergraduate students at a public university in Colorado who signed up through the psychology department's research website. The study was listed as \"Drinks and Problem Solving.\" Students received 1 hour of course credit. Sessions were held between 1:00 and 4:00 p.m., and participants were asked not to have any caffeine after 9:00 a.m. on the day of their session. Six students who said they had had coffee that afternoon were rescheduled.\n\nParticipants ranged in age from 18 to 25 years (mean age = 19.7 years, standard deviation = 1.5 years). The sample was 60% women and 40% men. The race/ethnicity of the participants was reported as follows: 65% White, 17% Hispanic/Latino/a, 8% Asian/Asian American, 4% Black/African American, and 6% multiracial. On a screening survey, 44% said they drank an energy drink at least once a week. Students who reported heart problems or a bad reaction to caffeine were not eligible."
+     },
+     {
+      "h": "Method",
+      "p": "The university's institutional review board approved the study, including its use of deception. Participants were told that the study was about how drinks affect problem solving, that they might drink a beverage containing caffeine, and that they could leave at any time and still receive credit. They then signed a consent form.\n\nParticipants were randomly assigned to one of three conditions:\n1. Energy drink condition: participants were told they were drinking an energy drink and received a drink with 160 milligrams of caffeine.\n2. Placebo condition: participants were told they were drinking an energy drink but received the same drink with no caffeine.\n3. Water condition: participants were told they were drinking flavored water and received the same drink with no caffeine.\n\nAll drinks were 250 milliliters, were the same color, and were served in a plain cup. For the energy drink and placebo conditions, the researcher poured the drink from a can with a well-known energy drink label. For the water condition, the drink was poured from a plain bottle.\n\nAfter drinking, participants sat for 20 minutes in a small room with a desk and a window and filled out a questionnaire about their study habits, such as how many hours they studied each week and whether they listened to music while studying. The researcher left the room during this time. They then rated how energetic they felt on a scale from 1 (not at all energetic) to 10 (extremely energetic). Next, they had 5 minutes to solve as many two-digit multiplication problems as they could, such as 47 × 26, without a calculator. Math performance was measured as the number of problems answered correctly. Finally, participants guessed whether their drink had contained caffeine and rated how much they liked its taste.\n\nTo make sure the drinks tasted the same, the researchers first asked 20 different students to taste the caffeine and no-caffeine versions; they could not tell them apart better than chance. The same researcher, a graduate student, ran every session and read the same instructions from a script.\n\nAt the end of the session, the researcher explained the real purpose of the study, told each participant what their drink had actually contained, and explained why the study could not be described fully at the start."
+     },
+     {
+      "h": "Results and Discussion",
+      "p": "Table: Mean Results for Each Condition\n| Condition | Energy rating (1 to 10) | Math problems correct | Guessed the drink had caffeine |\n| Energy drink | 7.2 | 14.8 | 89% |\n| Placebo | 6.6 | 11.9 | 83% |\n| Water | 4.3 | 11.4 | 9% |\n\nParticipants in the placebo condition rated themselves as significantly more energetic than participants in the water condition (p < .001), and their ratings were not significantly different from those in the energy drink condition. For math performance, the energy drink condition solved significantly more problems than both other conditions (p < .01), but the placebo and water conditions did not differ significantly.\n\nWeekly energy drink users and nonusers showed the same pattern of results. Participants in the two caffeine-free conditions liked the taste of their drink about as much as participants in the energy drink condition. Four participants said during the debriefing that they had suspected the drink might not be what the label said, but their results were similar to everyone else's, so their data were kept. The researchers noted that the math task lasted only 5 minutes and that the energy rating was taken only once."
+     }
+    ]
+   },
+   "parts": [
+    {
+     "k": "A",
+     "prompt": "Identify the research method used in the study.",
+     "model": "The research method is an experiment.",
+     "max": 1
+    },
+    {
+     "k": "B",
+     "prompt": "State the operational definition of math performance in the study.",
+     "model": "Math performance was the number of two-digit multiplication problems the participant answered correctly in 5 minutes without a calculator.",
+     "max": 1
+    },
+    {
+     "k": "C",
+     "prompt": "Describe what the mean energy ratings indicate for the placebo condition as compared to the water condition.",
+     "model": "The placebo condition rated their energy 6.6 on average, compared with 4.3 for the water condition, and the difference was statistically significant. This indicates that people who believed they had an energy drink felt more energetic even though their drink had no caffeine, and the difference was unlikely to be due to chance.",
+     "max": 1
+    },
+    {
+     "k": "D",
+     "prompt": "Identify one ethical guideline described in the study. Describe one way the researchers in the study applied this ethical guideline.",
+     "model": "The researchers used debriefing: at the end of the session, the researcher explained the real purpose of the study, told each participant what their drink actually contained, and explained why the study could not be fully described at the start.",
+     "max": 1
+    },
+    {
+     "k": "E",
+     "prompt": "Explain the extent to which the research findings may or may not be generalizable using specific and relevant evidence from the study.",
+     "model": "The findings may not generalize to older adults, because all participants were college students aged 18 to 25 at one public university in Colorado, and 65% were White.",
+     "max": 1
+    },
+    {
+     "k": "F",
+     "prompt": "Explain how at least one of the research findings supports or refutes the placebo effect.",
+     "model": "This partially supports the placebo effect. The placebo condition rated their energy 6.6, almost as high as the energy drink condition (7.2) and much higher than the water condition (4.3), even though the placebo drink had no caffeine. That shows expectations alone made people feel more energetic. But the placebo condition solved about the same number of math problems as the water condition (11.9 vs. 11.4), so expectations changed how people felt, not how they performed.",
+     "max": 2
+    }
+   ]
+  },
+  {
+   "id": "aaq-hippocampus",
+   "type": "wfr",
+   "grader": "aaq",
+   "topic": "The brain, Hippocampus",
+   "title": "Memory After Damage to the Hippocampus",
+   "r": {
+    "A": {
+     "answer": "case study",
+     "keys": [
+      "case study"
+     ],
+     "clues": [
+      "one",
+      "single",
+      "individual",
+      "in depth",
+      "m.r.",
+      "one man"
+     ],
+     "trap": "experiment",
+     "trapHint": "The researchers studied one man in depth and did not assign anyone to conditions; comparing him with 10 other men doesn't make it an experiment. It is a case study."
+    },
+    "B": {
+     "groups": [
+      [
+       "number",
+       "how many",
+       "details"
+      ],
+      [
+       "25",
+       "30 minutes",
+       "thirty minutes",
+       "story"
+      ]
+     ],
+     "labels": [
+      "Says it was the number of story details",
+      "Gives how this study measured it (details out of 25 repeated 30 minutes later)"
+     ]
+    },
+    "C": {
+     "nums": [
+      "1 of",
+      "only 1",
+      "15",
+      "1 detail",
+      "one detail",
+      "14"
+     ],
+     "meaning": [
+      "remember",
+      "recall",
+      "memory",
+      "store",
+      "hold"
+     ],
+     "subject": [
+      "m.r",
+      "comparison",
+      "he "
+     ]
+    },
+    "D": {
+     "eth": [
+      {
+       "name": "Institutional review",
+       "keys": [
+        "institutional review",
+        "review board",
+        "irb",
+        "ethics board"
+       ],
+       "ev": [
+        "approved",
+        "board"
+       ]
+      },
+      {
+       "name": "Informed consent",
+       "keys": [
+        "informed consent",
+        "consent"
+       ],
+       "ev": [
+        "signed",
+        "wife",
+        "explained",
+        "form"
+       ]
+      },
+      {
+       "name": "Right to withdraw",
+       "keys": [
+        "withdraw",
+        "stop at any time",
+        "quit",
+        "leave"
+       ],
+       "ev": [
+        "any time",
+        "anytime",
+        "reminded",
+        "session"
+       ]
+      },
+      {
+       "name": "Confidentiality",
+       "keys": [
+        "confidential",
+        "anonym",
+        "privacy",
+        "name was not",
+        "names were not",
+        "initials",
+        "m.r."
+       ],
+       "ev": [
+        "name",
+        "hometown",
+        "m.r.",
+        "not used"
+       ]
+      }
+     ],
+     "notIn": [
+      "debrief",
+      "harm"
+     ]
+    },
+    "E": {
+     "pop": [
+      "college",
+      "student",
+      "teen",
+      "adolescent",
+      "young adult",
+      "older",
+      "adults",
+      "children",
+      "general population",
+      "everyone",
+      "people",
+      "population",
+      "other patients",
+      "alzheimer",
+      "other people",
+      "women"
+     ],
+     "demo": [
+      "58",
+      "one person",
+      "one man",
+      "only one",
+      "single",
+      "michigan",
+      "electrician",
+      "viral",
+      "infection"
+     ]
+    },
+    "F": {
+     "data": [
+      "17",
+      " 1 ",
+      "only 1",
+      "15",
+      "92%",
+      "1 after",
+      "1 detail"
+     ],
+     "concept": [
+      "hippocampus",
+      "long-term",
+      "stor",
+      "memor"
+     ]
+    }
+   },
+   "source": {
+    "title": "Memory After Damage to the Hippocampus",
+    "label": "Written for this kit: a fictional study in the style of the real exam.",
+    "blocks": [
+     {
+      "h": "Introduction",
+      "p": "This report describes the memory of one man, called M.R. in this report, after an illness damaged the hippocampus on both sides of his brain."
+     },
+     {
+      "h": "Participants",
+      "p": "M.R. is a 58-year-old right-handed man from Michigan who worked as an electrician for 31 years. Three years before this study, he developed a viral infection that caused swelling in his brain. Brain scans taken after he recovered showed damage to the hippocampus on both sides of his brain, with little damage to other areas. He has 12 years of education and lives with his wife, who helps him keep a daily calendar. Before his illness, he coached his grandson's baseball team and enjoyed fishing. Since the illness, he has not been able to return to work, and his wife reports that he often asks the same question several times in an hour. His speech, his vision, and his ability to walk were not affected, and his score on a standard intelligence test was in the average range.\n\nFor comparison, the researchers also tested 10 men with no history of brain injury who were similar to M.R. in age (mean age = 57.2 years, range = 52 to 63), years of education, and type of work. Comparison participants were recruited through a community center and were paid $50. M.R. was not paid, but his travel costs were covered."
+     },
+     {
+      "h": "Method",
+      "p": "The hospital's institutional review board approved the study. Because of his memory problems, the study was explained to both M.R. and his wife, and both signed consent forms. The researchers reminded M.R. at the start of each session that he could stop at any time. To protect his privacy, his name and the name of his hometown were not used in this report.\n\nM.R. was tested in six sessions over 2 months, each lasting about 2 hours, in a quiet room at the hospital. The comparison participants each completed one session. Testing included the following tasks:\n- Story recall: the researcher read aloud a short story containing 25 details, such as names, places, and events. Participants repeated as much of the story as they could right away (immediate recall) and again 30 minutes later (delayed recall). During the 30 minutes, participants worked on unrelated puzzles. Delayed recall was measured as the number of the 25 story details the participant correctly repeated after 30 minutes.\n- Old memories: participants answered questions about events from their own lives before age 40, such as where they went to high school and the name of their first employer. Answers were checked with family members.\n- Mirror drawing: participants traced the outline of a star while seeing their hand only in a mirror, for 10 tries each day across 3 days. The number of times they went outside the lines was counted.\n\nThe researcher also asked M.R. at each session whether he remembered meeting her before.\n\nSessions were scheduled in the morning, when M.R.'s wife said he was least tired, and he was offered a break every 30 minutes. A different story was used in each of the six sessions so that M.R. could not improve just from hearing the same story again. The comparison participants heard the first of the six stories."
+     },
+     {
+      "h": "Results and Discussion",
+      "p": "Table: Story Recall Scores (details correctly repeated, out of 25)\n| Participant | Immediate recall | Delayed recall (30 minutes) |\n| M.R. (average of 6 sessions) | 17 | 1 |\n| Comparison group (mean) | 18 | 15 |\n\nM.R.'s immediate recall was close to that of the comparison group, but his delayed recall was far lower than every comparison participant's. In every session, he said he did not remember meeting the researcher, and he did not remember having heard the story before.\n\nM.R. answered 92% of the questions about his life before age 40 correctly, similar to the comparison group (95%). On the mirror drawing task, his errors dropped from 31 on the first day to 9 on the third day, a similar improvement to the comparison group's, even though he said each day that he had never done the task.\n\nWhen the researcher showed M.R. a photo of herself at the last session and asked who it was, he guessed that she might be a nurse. The researchers noted that M.R. is one person and that his brain damage may not be exactly like damage that happens in other ways, such as from Alzheimer's disease."
+     }
+    ]
+   },
+   "parts": [
+    {
+     "k": "A",
+     "prompt": "Identify the research method used in the study.",
+     "model": "The research method is a case study.",
+     "max": 1
+    },
+    {
+     "k": "B",
+     "prompt": "State the operational definition of delayed recall in the study.",
+     "model": "Delayed recall was the number of the 25 story details that the participant correctly repeated 30 minutes after hearing the story.",
+     "max": 1
+    },
+    {
+     "k": "C",
+     "prompt": "Describe what M.R.'s delayed recall score indicates as compared to the comparison group's mean delayed recall score.",
+     "model": "M.R. remembered only 1 of the 25 details after 30 minutes, while the comparison group remembered 15 on average. This indicates that M.R. could not hold on to new information over time the way people without brain damage can.",
+     "max": 1
+    },
+    {
+     "k": "D",
+     "prompt": "Identify one ethical guideline described in the study. Describe one way the researchers in the study applied this ethical guideline.",
+     "model": "The researchers used informed consent: the study was explained to both M.R. and his wife, both signed consent forms, and M.R. was reminded at each session that he could stop at any time.",
+     "max": 1
+    },
+    {
+     "k": "E",
+     "prompt": "Explain the extent to which the research findings may or may not be generalizable using specific and relevant evidence from the study.",
+     "model": "The findings may not generalize to other people with memory problems, because the study is about only one person, M.R., a 58-year-old man from Michigan whose damage came from a viral infection, which may differ from damage caused by Alzheimer's disease.",
+     "max": 1
+    },
+    {
+     "k": "F",
+     "prompt": "Explain how at least one of the research findings supports or refutes the idea that the hippocampus helps store information into long-term memory.",
+     "model": "This supports the idea that the hippocampus helps store information into long-term memory. After damage to his hippocampus, M.R. could repeat 17 story details right away but only 1 after 30 minutes, compared with 15 for the comparison group. This shows he could take in new information but could not store it into long-term memory, while his memories from before age 40 (92% correct) were still there.",
+     "max": 2
+    }
+   ]
+  },
+  {
+   "id": "aaq-phones",
+   "type": "wfr",
+   "grader": "aaq",
+   "topic": "Perception, Attention",
+   "title": "Phone Use and Noticing a Street Performer",
+   "r": {
+    "A": {
+     "answer": "naturalistic observation",
+     "keys": [
+      "naturalistic"
+     ],
+     "clues": [
+      "observ",
+      "natural",
+      "public",
+      "not manipulat",
+      "recorded"
+     ],
+     "trap": "experiment",
+     "trapHint": "The researchers didn't assign anyone to use a phone or set up the performer; they observed people in a natural setting, so it is naturalistic observation."
+    },
+    "B": {
+     "groups": [
+      [
+       "said yes",
+       "yes",
+       "answered",
+       "asked"
+      ],
+      [
+       "unusual",
+       "unicycle",
+       "far side",
+       "question"
+      ]
+     ],
+     "labels": [
+      "Says it was based on the person saying yes",
+      "Gives how this study measured it (yes to seeing anything unusual or the unicycle when asked afterward)"
+     ]
+    },
+    "C": {
+     "nums": [
+      "31%",
+      "72%",
+      "41"
+     ],
+     "meaning": [
+      "notic",
+      "see",
+      "saw",
+      "aware",
+      "attention"
+     ],
+     "subject": [
+      "text",
+      "scroll",
+      "phone"
+     ]
+    },
+    "D": {
+     "eth": [
+      {
+       "name": "Institutional review",
+       "keys": [
+        "institutional review",
+        "review board",
+        "irb",
+        "ethics board"
+       ],
+       "ev": [
+        "approved",
+        "board",
+        "university"
+       ]
+      },
+      {
+       "name": "Confidentiality",
+       "keys": [
+        "confidential",
+        "anonym",
+        "identify",
+        "privacy",
+        "private",
+        "no names"
+       ],
+       "ev": [
+        "identify",
+        "record",
+        "information",
+        "not record",
+        "did not record"
+       ]
+      },
+      {
+       "name": "Informed consent",
+       "keys": [
+        "informed consent",
+        "consent",
+        "agreed",
+        "asked whether"
+       ],
+       "ev": [
+        "agree",
+        "asked",
+        "say no",
+        "questions"
+       ]
+      },
+      {
+       "name": "Right to withdraw",
+       "keys": [
+        "withdraw",
+        "walk away",
+        "say no",
+        "decline",
+        "refuse"
+       ],
+       "ev": [
+        "any time",
+        "anytime",
+        "walk away",
+        "no"
+       ]
+      }
+     ],
+     "notIn": [
+      "debrief",
+      "harm"
+     ]
+    },
+    "E": {
+     "pop": [
+      "college",
+      "student",
+      "teen",
+      "adolescent",
+      "young adult",
+      "older",
+      "adults",
+      "children",
+      "general population",
+      "everyone",
+      "people",
+      "population",
+      "small town",
+      "rural",
+      "quieter",
+      "other cities",
+      "children"
+     ],
+     "demo": [
+      "chicago",
+      "downtown",
+      "one square",
+      "79%",
+      "51%",
+      "49%",
+      "18",
+      "74",
+      "36.5",
+      "85%",
+      "illinois",
+      "weekday"
+     ]
+    },
+    "F": {
+     "data": [
+      "31%",
+      "72%",
+      "45%",
+      "61%"
+     ],
+     "concept": [
+      "inattentional",
+      "attention",
+      "notic",
+      "visible",
+      "fail"
+     ]
+    }
+   },
+   "source": {
+    "title": "Phone Use and Noticing a Street Performer",
+    "label": "Written for this kit: a fictional study in the style of the real exam.",
+    "blocks": [
+     {
+      "h": "Introduction",
+      "p": "This study observed people walking through a busy downtown square to see whether the way they were using their phones was related to whether they noticed something unusual nearby."
+     },
+     {
+      "h": "Participants",
+      "p": "The researchers observed 412 adults who walked across a large public square in downtown Chicago, Illinois, on weekday afternoons in May. People who appeared to be under 18, people walking in groups of three or more, and people who were running or riding a bike were not counted. Researchers did not record any information that could identify the people they observed.\n\nBased on the 352 people who agreed to answer questions afterward, the sample was 51% women and 49% men, and their reported ages ranged from 18 to 74 years (mean age = 36.5 years). Most (79%) said they walked through the square at least once a week. Researchers did not collect race/ethnicity data. Of those who answered, 64% said they were on their way to or from work, and 22% said they were tourists or visiting the city."
+     },
+     {
+      "h": "Method",
+      "p": "The study was approved by a university's institutional review board. No one was told ahead of time that they were being observed.\n\nDuring the study, a street performer who regularly worked in the square juggled while riding a unicycle near the center of the square. The performer was not part of the research team, and the researchers did not ask him to do anything differently. He wore a bright red jacket and could be seen from every path across the square.\n\nTwo trained observers sat on benches at the edge of the square and chose a person to observe each time someone entered from the north end. For each person, the observers recorded how they were using their phone while crossing:\n- Texting or scrolling: looking at a phone screen.\n- Talking: talking on a phone, held to the ear or on speaker.\n- Music: wearing earbuds but not looking at or talking on a phone.\n- No phone: not using a phone at all.\n\nObservations took place on 9 weekday afternoons between 12:00 and 3:00 p.m., only on days with no rain. Before the study, the two observers practiced together for two afternoons until they agreed on nearly every person. The two observers agreed on the category for 96% of people. The observers also recorded how long each person took to cross the square, how many times they changed direction, and whether they bumped into or nearly bumped into another person.\n\nWhen each person reached the far side of the square, a third researcher stopped them, said she was doing a short university study, and asked whether they would answer two questions. If they agreed, she asked, \"Did you see anything unusual while you were walking across the square?\" If they said no, she asked, \"Did you see the unicycle?\" A person was counted as noticing the performer if they said yes to either question. People could say no to the questions or walk away at any time. Those who answered were also asked their age and how often they walked through the square, and they were given a small card thanking them and explaining what the study was about.\n\nThe square is about 120 meters across, and people took an average of 1.5 minutes to cross it. The performer stayed in the same part of the square for the whole study and performed for about 2 hours each afternoon, so every person observed walked past while he was riding."
+     },
+     {
+      "h": "Results and Discussion",
+      "p": "Of the 412 people observed, 352 (85%) agreed to answer the questions. The results for these 352 people are shown in the table.\n\nTable: Percentage of People Who Noticed the Performer\n| Phone use while crossing | Number of people | Noticed the performer |\n| Texting or scrolling | 96 | 31% |\n| Talking | 58 | 45% |\n| Music | 64 | 61% |\n| No phone | 134 | 72% |\n\nPeople who were texting or scrolling were significantly less likely to notice the performer than people who were not using a phone (p < .001). People who were texting or scrolling also took longer to cross the square and were more likely to nearly bump into someone.\n\nThe researchers noted that people who chose to text while walking may differ in other ways from people who did not, such as being in more of a hurry, and that they could not observe people's attention directly."
+     }
+    ]
+   },
+   "parts": [
+    {
+     "k": "A",
+     "prompt": "Identify the research method used in the study.",
+     "model": "The research method is naturalistic observation.",
+     "max": 1
+    },
+    {
+     "k": "B",
+     "prompt": "State the operational definition of noticing the performer in the study.",
+     "model": "A person was counted as noticing the performer if they said yes when asked, at the far side of the square, whether they saw anything unusual or whether they saw the unicycle.",
+     "max": 1
+    },
+    {
+     "k": "C",
+     "prompt": "Describe what the percentages of people who noticed the performer indicate for people who were texting or scrolling as compared to people who were not using a phone.",
+     "model": "Only 31% of people who were texting or scrolling noticed the performer, compared with 72% of people who were not using a phone, and the difference was statistically significant. This indicates that people looking at their phones were much less likely to notice the unicycle, and the difference was unlikely to be due to chance.",
+     "max": 1
+    },
+    {
+     "k": "D",
+     "prompt": "Identify one ethical guideline described in the study. Describe one way the researchers in the study applied this ethical guideline.",
+     "model": "The researchers used confidentiality: the observers did not record any information that could identify the people they observed.",
+     "max": 1
+    },
+    {
+     "k": "E",
+     "prompt": "Explain the extent to which the research findings may or may not be generalizable using specific and relevant evidence from the study.",
+     "model": "The findings may not generalize to people in small towns or quieter places, because everyone was observed in one busy square in downtown Chicago, and 79% walked through the square at least once a week.",
+     "max": 1
+    },
+    {
+     "k": "F",
+     "prompt": "Explain how at least one of the research findings supports or refutes the idea of inattentional blindness.",
+     "model": "This supports the idea of inattentional blindness. Only 31% of people who were texting or scrolling noticed the performer on a unicycle, compared with 72% of people with no phone, even though he could be seen from every path. This shows that when people's attention was directed at their phones, they failed to see a visible object that was right there.",
+     "max": 2
+    }
+   ]
+  },
+  {
+   "id": "aaq-noseclip",
+   "type": "wfr",
+   "grader": "aaq",
+   "topic": "Smell and taste, Sensory interaction",
+   "title": "Holding Your Nose and Naming Flavors",
+   "r": {
+    "A": {
+     "answer": "experiment",
+     "keys": [
+      "experiment"
+     ],
+     "clues": [
+      "within-subjects",
+      "within subjects",
+      "both conditions",
+      "manipulat",
+      "independent variable",
+      "nose clip",
+      "random"
+     ],
+     "trap": "case study",
+     "trapHint": "The researchers manipulated whether the nose was blocked and compared each person with themselves (a within-subjects design), so it is an experiment."
+    },
+    "B": {
+     "groups": [
+      [
+       "number",
+       "how many"
+      ],
+      [
+       "10 flavors",
+       "ten flavors",
+       "of the 10",
+       "out of 10",
+       "named correctly",
+       "correctly named",
+       "jelly bean"
+      ]
+     ],
+     "labels": [
+      "Says it was the number of flavors",
+      "Gives how this study measured it (how many of the 10 jelly bean flavors were named correctly)"
+     ]
+    },
+    "C": {
+     "nums": [
+      "3.4",
+      "8.1",
+      "4.7"
+     ],
+     "meaning": [
+      "flavor",
+      "identif",
+      "name",
+      "smell"
+     ],
+     "subject": [
+      "nose clip",
+      "clip",
+      "blocked"
+     ]
+    },
+    "D": {
+     "eth": [
+      {
+       "name": "Institutional review",
+       "keys": [
+        "institutional review",
+        "review board",
+        "irb",
+        "ethics board"
+       ],
+       "ev": [
+        "approved",
+        "board"
+       ]
+      },
+      {
+       "name": "Informed consent",
+       "keys": [
+        "informed consent",
+        "consent"
+       ],
+       "ev": [
+        "signed",
+        "form",
+        "told",
+        "candies",
+        "explained"
+       ]
+      },
+      {
+       "name": "Right to withdraw",
+       "keys": [
+        "withdraw",
+        "stop at any time",
+        "spit out",
+        "quit",
+        "leave"
+       ],
+       "ev": [
+        "any time",
+        "anytime",
+        "extra credit",
+        "without losing"
+       ]
+      },
+      {
+       "name": "Confidentiality",
+       "keys": [
+        "confidential",
+        "anonym",
+        "code number",
+        "privacy",
+        "private"
+       ],
+       "ev": [
+        "code",
+        "number",
+        "score sheet",
+        "name"
+       ]
+      }
+     ],
+     "notIn": [
+      "debrief",
+      "harm"
+     ]
+    },
+    "E": {
+     "pop": [
+      "college",
+      "student",
+      "teen",
+      "adolescent",
+      "young adult",
+      "older",
+      "adults",
+      "children",
+      "general population",
+      "everyone",
+      "people",
+      "population",
+      "smokers",
+      "children"
+     ],
+     "demo": [
+      "48",
+      "18",
+      "41",
+      "22.6",
+      "63%",
+      "37%",
+      "52%",
+      "19%",
+      "washington",
+      "community college"
+     ]
+    },
+    "F": {
+     "data": [
+      "8.1",
+      "3.4",
+      "6.2",
+      "6.0",
+      "4.7"
+     ],
+     "concept": [
+      "sensory interaction",
+      "smell",
+      "taste",
+      "sense"
+     ]
+    }
+   },
+   "source": {
+    "title": "Holding Your Nose and Naming Flavors",
+    "label": "Written for this kit: a fictional study in the style of the real exam.",
+    "blocks": [
+     {
+      "h": "Introduction",
+      "p": "This study examined whether blocking the sense of smell changes how well people can identify the flavors of foods they are tasting."
+     },
+     {
+      "h": "Participants",
+      "p": "Participants were 48 students at a community college in Washington State who signed up after a short presentation in their introductory psychology classes. Students received extra credit for taking part. The study took place in the spring semester, in a small room in the science building. Students with food allergies, a cold or stuffy nose on the day of testing, or a known loss of smell or taste were not eligible, and 6 students who signed up were turned away for these reasons.\n\nParticipants ranged in age from 18 to 41 years (mean age = 22.6 years, standard deviation = 5.3 years). The sample was 63% women and 37% men. The race/ethnicity of the participants was reported as follows: 52% White, 19% Asian/Asian American, 15% Hispanic/Latino/a, 8% Black/African American, and 6% multiracial. Nine participants (19%) said they smoked or vaped. Participants also reported how often they ate jelly beans; most (71%) said less than once a month."
+     },
+     {
+      "h": "Method",
+      "p": "The college's institutional review board approved the study. Students were told that they would taste small candies, some of which might be unfamiliar flavors, and that they could spit out any candy or stop at any time without losing the extra credit. Every student signed a consent form. Each participant was given a code number, which was used on all score sheets.\n\nEach participant tasted 20 jelly beans, one at a time, while wearing a blindfold. There were 10 flavors: cherry, lemon, grape, orange, watermelon, cinnamon, coconut, licorice, root beer, and buttered popcorn. Each participant tasted each flavor twice: once while wearing a soft foam nose clip that blocked air from passing through the nose, and once without the clip. This is called a \"within-subjects\" design: every participant was tested in both conditions, so each person was compared with themselves. Half of the participants did the nose clip trials first, and half did them second, chosen at random. The flavors were given in a random order within each set of 10.\n\nFor each jelly bean, participants chewed for 10 seconds and then named the flavor out loud. Flavor identification was measured as the number of the 10 flavors a participant named correctly in each condition. Answers such as \"lime\" for lemon were counted as wrong. Participants also rated how sweet each jelly bean tasted from 1 (not sweet) to 9 (extremely sweet). A research assistant wrote down each answer, and a second assistant later checked the score sheets against audio recordings of the session. Between jelly beans, participants rinsed their mouths with water, and there was a 5-minute break between the two sets, during which participants filled out a short questionnaire about their favorite foods.\n\nBefore the study, the researchers asked a separate group of 15 students to name the 10 flavors from their labels to make sure that all 10 were familiar; every flavor was recognized by at least 13 of the 15 students. All jelly beans came from the same bag, and the testing room was kept free of food smells. Sessions lasted about 40 minutes."
+     },
+     {
+      "h": "Results and Discussion",
+      "p": "Table: Mean Results With and Without the Nose Clip\n| Measure | Without nose clip | With nose clip |\n| Flavors correctly named (out of 10) | 8.1 | 3.4 |\n| Sweetness rating (1 to 9) | 6.2 | 6.0 |\n\nParticipants correctly named significantly fewer flavors while wearing the nose clip than without it (p < .001). With the clip, many participants said that the jelly beans tasted \"just sweet.\" Sweetness ratings did not differ significantly between the two conditions.\n\nCinnamon and licorice were the flavors most often named correctly with the nose clip. Participants who smoked or vaped named slightly fewer flavors in both conditions, but the difference was not statistically significant. Whether participants did the nose clip trials first or second did not change the results. When participants were wrong without the nose clip, they usually named a similar flavor, such as orange for lemon. When they were wrong with the nose clip, they most often said \"I don't know\" or named a flavor that was not on the list. Women and men named about the same number of flavors in each condition. The researchers noted that jelly beans have strong artificial flavors and that results might differ with everyday foods."
+     }
+    ]
+   },
+   "parts": [
+    {
+     "k": "A",
+     "prompt": "Identify the research method used in the study.",
+     "model": "The research method is an experiment.",
+     "max": 1
+    },
+    {
+     "k": "B",
+     "prompt": "State the operational definition of flavor identification in the study.",
+     "model": "Flavor identification was the number of the 10 jelly bean flavors that a participant named correctly, after chewing each one for 10 seconds while blindfolded.",
+     "max": 1
+    },
+    {
+     "k": "C",
+     "prompt": "Describe what the mean number of flavors correctly named indicates for the nose clip condition as compared to the no nose clip condition.",
+     "model": "With the nose clip, participants correctly named 3.4 flavors on average, compared with 8.1 without it, and the difference was statistically significant. This indicates that people could identify far fewer flavors when their sense of smell was blocked, and the difference was unlikely to be due to chance.",
+     "max": 1
+    },
+    {
+     "k": "D",
+     "prompt": "Identify one ethical guideline described in the study. Describe one way the researchers in the study applied this ethical guideline.",
+     "model": "The researchers used confidentiality: each participant was given a code number, which was used on all score sheets instead of their name.",
+     "max": 1
+    },
+    {
+     "k": "E",
+     "prompt": "Explain the extent to which the research findings may or may not be generalizable using specific and relevant evidence from the study.",
+     "model": "The findings may not generalize to all adults, because all participants were 48 community college students in Washington State aged 18 to 41, and 63% were women.",
+     "max": 1
+    },
+    {
+     "k": "F",
+     "prompt": "Explain how at least one of the research findings supports or refutes the idea of sensory interaction.",
+     "model": "This supports the idea of sensory interaction. Participants named 8.1 flavors without the nose clip but only 3.4 with it, while sweetness ratings stayed about the same (6.2 vs. 6.0). This shows that blocking smell did not stop the tongue from tasting sweetness, but it made it much harder to tell flavors apart, because smell influences taste.",
+     "max": 2
+    }
+   ]
+  },
+  {
    "id": "ebq-support",
    "type": "wfr",
    "grader": "ebq",
@@ -303,6 +2445,580 @@
      "k": "Cii",
      "prompt": "Explain how the evidence from Part C (i) supports your claim using a different psychological perspective, theory, concept, or research finding learned in AP Psychology than the one that was used in Part B (ii).",
      "model": "This supports my claim because long-term stress causes immunosuppression: stress hormones like cortisol weaken the immune system, so stressed people get sick more often. Caregivers with more support got sick less, which suggests support protected them from stress weakening their immune systems.",
+     "max": 2
+    }
+   ]
+  },
+  {
+   "id": "ebq-starttimes",
+   "type": "wfr",
+   "grader": "ebq",
+   "topic": "Sleep, Circadian rhythm",
+   "title": "School Start Times",
+   "topicWords": [
+    "start",
+    "later",
+    "school",
+    "morning",
+    "sleep"
+   ],
+   "source": {
+    "title": "Using the sources provided, develop and justify an argument about whether high schools should start later in the morning.",
+    "label": "Written for this kit: fictional studies in the style of the real exam.",
+    "blocks": [
+     {
+      "h": "Source 1: Sleep Before and After a Later Start Time",
+      "p": "## Introduction\nIn this study, researchers examined whether moving a high school's start time later changes how much students sleep on school nights.\n\n## Participants\nParticipants were 178 students at two public high schools in Seattle, Washington. Students were recruited through their biology classes and received a $40 gift card for completing both parts of the study. They ranged in age from 14 to 18 years (mean age = 15.8 years). The sample was 56% girls and 44% boys. Researchers did not report race/ethnicity data for the participants.\n\n## Method\nBoth schools moved their start time from 7:50 a.m. to 8:45 a.m. at the beginning of a new school year. Students in the study were measured in the spring before the change and again in the spring after the change.\n\nEach time, students wore a wrist monitor for two weeks that recorded when they fell asleep and woke up. Students also kept a daily diary of their bedtime, caffeine use, and any naps, and rated how sleepy they felt during their first class from 1 (wide awake) to 5 (struggling to stay awake). The schools provided students' grades in biology for the same semesters, along with attendance records.\n\nThe school district made the change after a year of meetings with parents and teachers. Bus schedules were changed so that elementary schools started earlier and high schools later. After-school sports practices were moved 30 minutes later, and the district added lights to two practice fields. Students who changed schools, or who did not wear the monitor for at least 10 school nights each time, were not included; 14 students were removed for these reasons.\n\n## Results and Discussion\nAfter the change, students slept a median of 34 minutes longer on school nights (7 hours 24 minutes compared with 6 hours 50 minutes). Students did not go to bed later after the change: average bedtime moved only 3 minutes later. Instead, students woke up later.\n\n| Measure | Before the change | After the change |\n| Sleep on school nights | 6 h 50 min | 7 h 24 min |\n| Sleepiness in first class (1 to 5) | 3.6 | 2.9 |\n| Biology grade (out of 100) | 77.5 | 81.9 |\n| First-period absences per student | 4.1 | 2.7 |\n\nStudents' biology grades were significantly higher after the change (p = .01), and first-period absences dropped. Students at one of the two schools reported less use of caffeine after the change, but the difference was not statistically significant."
+     },
+     {
+      "h": "Source 2: A Survey of Teens' Sleep and School Times",
+      "p": "## Introduction\nIn this study, researchers examined the relationship between school start times and how much sleep teens get, using a survey of students across several states.\n\n## Participants\nThe survey was completed by 9,089 students in grades 9 through 12 at 29 high schools in Colorado, Minnesota, and Wyoming. Schools were selected because they started at different times, ranging from 7:30 a.m. to 8:55 a.m. Participants ranged in age from 13 to 19 years. The sample was 51% girls and 49% boys. The race/ethnicity of the participants was 71% White, 14% Hispanic/Latino/a, 6% Black/African American, 4% Asian/Asian American, and 5% other.\n\n## Method\nStudents completed an online survey during class. The survey asked what time they usually went to bed and woke up on school nights, how often they fell asleep in class, how often they drank caffeinated drinks, and how often they felt sad or hopeless during the past two weeks. It also asked whether they had a job, played sports, or drove to school. Students who drove reported whether they had been in a car crash in the past year.\n\nEach school's principal agreed to take part, and parents were sent a letter that allowed them to keep their child out of the survey. Students could skip any question. The survey took about 30 minutes and was given during the same two months at every school. Answers were anonymous: no names or student ID numbers were collected. Schools received a summary of their own results the following year.\n\n## Results and Discussion\nStudents at schools that started at 8:30 a.m. or later were significantly more likely to get 8 or more hours of sleep on school nights than students at schools that started before 8:00 a.m. (p < .001).\n\n| School start time | Students getting 8 or more hours of sleep | Students who fell asleep in class at least once a week |\n| Before 8:00 a.m. | 34% | 22% |\n| 8:00 to 8:29 a.m. | 43% | 18% |\n| 8:30 a.m. or later | 60% | 13% |\n\nAt every start time, students who slept less were more likely to report feeling sad or hopeless and to drink more caffeinated drinks. Among students who drove to school, those at schools starting before 8:00 a.m. reported more car crashes in the past year. The researchers noted that schools that start later may differ in other ways, such as being in different communities."
+     },
+     {
+      "h": "Source 3: When Do Teens Feel Most Awake?",
+      "p": "## Introduction\nIn this study, researchers compared the times of day when teens and adults feel most alert and perform best on a simple attention task.\n\n## Participants\nParticipants were 60 teens aged 15 to 17 (mean age = 16.1 years) and 60 adults aged 35 to 50 (mean age = 42.3 years) in Providence, Rhode Island. Each teen took part with a parent's written permission. Participants were recruited through flyers and were paid $50. The teen group was 52% female, and the adult group was 55% female. Researchers did not report race/ethnicity data for the participants.\n\n## Method\nFor one week during the school year, participants received a text message at 7:30 a.m., 10:00 a.m., 1:00 p.m., 4:00 p.m., and 8:00 p.m. each day. At each text, they rated how alert they felt from 1 (very sleepy) to 10 (very alert) and completed a 2-minute attention task on their phones, in which they tapped the screen as quickly as possible whenever a red circle appeared. The researchers counted the number of times a participant missed a circle or tapped too slowly (more than half a second).\n\nParticipants also wore a wrist monitor that recorded when they fell asleep and woke up, and on one weekend night they collected a saliva sample every hour from 7:00 p.m. until they went to bed, which was later tested for melatonin. Each participant chose their own bedtime.\n\n## Results and Discussion\nTeens rated themselves as least alert at 7:30 a.m., with an average rating of 3.8, and most alert at 8:00 p.m., with an average rating of 7.4. Adults were most alert at 10:00 a.m. (7.6) and least alert at 8:00 p.m. (5.1).\n\n| Time | Teens' missed or slow taps | Adults' missed or slow taps |\n| 7:30 a.m. | 9.2 | 4.1 |\n| 1:00 p.m. | 5.0 | 3.8 |\n| 8:00 p.m. | 3.6 | 5.7 |\n\nTeens' melatonin levels began to rise at an average of 10:40 p.m., compared with 8:50 p.m. for adults (p < .001). On school nights, teens fell asleep at an average of 11:15 p.m. and slept 6 hours 55 minutes."
+     }
+    ]
+   },
+   "parts": [
+    {
+     "k": "A",
+     "prompt": "Propose a specific and defensible claim based in psychological science that responds to the question.",
+     "model": "High schools should start later in the morning because later start times help teens get more sleep and do better in school.",
+     "max": 1
+    },
+    {
+     "k": "Bi",
+     "prompt": "Support your claim using at least one piece of specific and relevant evidence from one of the sources.",
+     "model": "After two high schools moved their start time from 7:50 to 8:45 a.m., students slept 34 minutes longer on school nights and their biology grades rose from 77.5 to 81.9 (Source 1).",
+     "max": 1
+    },
+    {
+     "k": "Bii",
+     "prompt": "Explain how the evidence from Part B (i) supports your claim using a psychological perspective, theory, concept, or research finding learned in AP Psychology.",
+     "model": "This supports my claim because teens' circadian rhythm, the body's 24-hour biological clock, makes most teens evening-energized, so they fall asleep late no matter when school starts. Starting school later lets them wake up later and get the sleep their clock allows, which helps them learn.",
+     "max": 2
+    },
+    {
+     "k": "Ci",
+     "prompt": "Support your claim using an additional piece of specific and relevant evidence from a different source than the one that was used in Part B (i).",
+     "model": "Teens missed or tapped too slowly 9.2 times on an attention task at 7:30 a.m. but only 3.6 times at 8:00 p.m., and they were least alert in the early morning (Source 3).",
+     "max": 1
+    },
+    {
+     "k": "Cii",
+     "prompt": "Explain how the evidence from Part C (i) supports your claim using a different psychological perspective, theory, concept, or research finding learned in AP Psychology than the one that was used in Part B (ii).",
+     "model": "This supports my claim because sleep loss diminishes attentional focus and memory consolidation, so teens who are short on sleep and tested early in the morning pay attention less well and remember less of what they are taught. A later start time means students are in class when they can focus.",
+     "max": 2
+    }
+   ]
+  },
+  {
+   "id": "ebq-energydrinks",
+   "type": "wfr",
+   "grader": "ebq",
+   "topic": "Drugs, Caffeine",
+   "title": "Energy Drinks and Students",
+   "topicWords": [
+    "energy drink",
+    "student",
+    "help",
+    "harm",
+    "caffeine"
+   ],
+   "source": {
+    "title": "Using the sources provided, develop and justify an argument about whether energy drinks help or harm students.",
+    "label": "Written for this kit: fictional studies in the style of the real exam.",
+    "blocks": [
+     {
+      "h": "Source 1: Energy Drinks and a Late-Night Study Session",
+      "p": "## Introduction\nIn this study, researchers tested whether an energy drink helps college students stay focused during a late-night study session.\n\n## Participants\nParticipants were 90 undergraduate students (49 women, 41 men) at a public university in Georgia who received course credit. They ranged in age from 18 to 24 years (mean age = 19.9 years). Students who reported heart problems or anxiety disorders were not eligible. Researchers did not report race/ethnicity data for the participants.\n\n## Method\nSessions began at 10:00 p.m. in a campus computer lab. Students were randomly assigned to drink either an energy drink containing 160 milligrams of caffeine or a drink that looked and tasted the same but contained no caffeine. Neither the students nor the researcher handing out the drinks knew which drink each student received.\n\nThirty minutes after drinking, students read a 3,000-word textbook passage about ocean currents for 40 minutes and then took a 20-question multiple-choice quiz on it. They also completed a 10-minute task in which they watched a screen and pressed a key whenever a letter appeared twice in a row. Researchers counted the number of misses. At midnight, students went home. The next morning, each student reported what time they fell asleep and how well they slept.\n\nThe study took place on weeknights in October, and each session included 6 to 10 students seated at separate computers with dividers between them. Students were asked not to have any caffeine after noon on the day of their session and not to nap that afternoon. Phones were placed in a basket at the front of the room. Before drinking, students rated how sleepy they felt, and the two groups did not differ.\n\n## Results and Discussion\nStudents who had the energy drink missed significantly fewer letters on the attention task than students who had the drink with no caffeine (p < .01).\n\n| Measure | Energy drink | No caffeine |\n| Missed letters on the attention task | 6.1 | 10.8 |\n| Quiz score (out of 20) | 14.2 | 13.6 |\n| Time to fall asleep after getting home (minutes) | 71 | 29 |\n\nQuiz scores were not significantly different between the two groups. However, students who had the energy drink took significantly longer to fall asleep that night (p < .001), and 38% rated their sleep as poor, compared with 12% in the no-caffeine group."
+     },
+     {
+      "h": "Source 2: Daily Energy Drink Use and Headaches",
+      "p": "## Introduction\nIn this study, researchers followed students who drank energy drinks every day to see what happened when they stopped for several days.\n\n## Participants\nParticipants were 46 high school seniors (ages 17 to 18) in Ohio who reported drinking at least one energy drink every school day for at least three months. Each student took part with a parent's written permission and received a $30 gift card. The sample was 39% girls and 61% boys. Researchers did not report race/ethnicity data for the participants.\n\n## Method\nFor one week, students continued to drink energy drinks as usual. Each evening, they reported how many energy drinks they had, how many hours they slept, and whether they had a headache, felt tired, or had trouble concentrating, using a 0 (none) to 4 (severe) scale for each.\n\nStudents then agreed to drink no energy drinks or other caffeinated drinks for the next five school days. A researcher checked in by text each day. Students continued the same evening reports. On the first and fifth days without energy drinks, students took a 15-minute math quiz in study hall. Their scores were compared with a math quiz taken during the first week.\n\nBefore the study, the researchers met with each student and a parent to explain the schedule, and students practiced filling out the evening report on their phones. Students were allowed to take pain relievers if they had a headache, but they were asked to record it. Students who played a sport during the study continued their usual practices. The math quizzes had different problems each time but were made to be equally difficult.\n\n## Results and Discussion\nDuring the usual week, students drank an average of 1.8 energy drinks a day. Many said they had needed more energy drinks over the past few months to feel the same boost they used to get from one.\n\n| Measure | Usual week | First day without | Fifth day without |\n| Headache (0 to 4) | 0.6 | 2.7 | 1.1 |\n| Tiredness (0 to 4) | 1.4 | 3.1 | 1.9 |\n| Math quiz score (out of 25) | 18.3 | 14.9 | 18.0 |\n\nOn the first day without energy drinks, headaches and tiredness were significantly higher than during the usual week (p < .001), and math scores were significantly lower. By the fifth day, scores were close to the usual week. Seven students (15%) drank an energy drink before the five days were over and were not included in the results."
+     },
+     {
+      "h": "Source 3: Energy Drinks and Heart Rate During Exams",
+      "p": "## Introduction\nIn this study, researchers measured whether students who drink energy drinks during final exam week have a higher heart rate and feel more nervous.\n\n## Participants\nParticipants were 214 college students at a private university in New York who answered an email invitation sent to all students. They ranged in age from 18 to 23 years (mean age = 20.2 years). The sample was 58% women and 42% men. Students received $15 for taking part. Researchers did not report race/ethnicity data for the participants.\n\n## Method\nDuring final exam week, students wore a fitness watch that recorded their heart rate every minute. Each evening, they reported how many energy drinks, cups of coffee, and other caffeinated drinks they had that day, and rated how nervous they had felt from 1 (calm) to 7 (extremely nervous). They also reported the number of hours they slept.\n\nStudents were sorted into three groups based on their average number of energy drinks per day during the week: none, one, or two or more.\n\nBefore exam week, students wore the watch for two days so they could get used to it, and those data were not used. Resting heart rate was the average heart rate during the first 10 minutes after the student woke up each morning, before getting out of bed. Students who reported smoking or vaping were included, and their results were similar to those of other students.\n\n## Results and Discussion\n| Energy drinks per day | Number of students | Resting heart rate (beats per minute) | Nervousness (1 to 7) | Hours of sleep |\n| None | 118 | 68 | 3.9 | 6.9 |\n| One | 61 | 73 | 4.4 | 6.4 |\n| Two or more | 35 | 81 | 5.3 | 5.6 |\n\nStudents who drank two or more energy drinks a day had significantly higher resting heart rates and higher nervousness ratings than students who drank none (p < .001). They also slept significantly less. Eleven students in the two or more group reported a racing or pounding heartbeat at least once during the week, compared with two students in the none group.\n\nThe researchers noted that students who were more stressed about exams may have chosen to drink more energy drinks."
+     }
+    ]
+   },
+   "parts": [
+    {
+     "k": "A",
+     "prompt": "Propose a specific and defensible claim based in psychological science that responds to the question.",
+     "model": "Energy drinks harm students more than they help, because the short boost in focus does not improve learning and leads to poor sleep and dependence.",
+     "max": 1
+    },
+    {
+     "k": "Bi",
+     "prompt": "Support your claim using at least one piece of specific and relevant evidence from one of the sources.",
+     "model": "Students who drank an energy drink at 10:00 p.m. missed fewer letters on an attention task (6.1 vs. 10.8), but their quiz scores were about the same (14.2 vs. 13.6) and they took 71 minutes to fall asleep compared with 29 minutes (Source 1).",
+     "max": 1
+    },
+    {
+     "k": "Bii",
+     "prompt": "Explain how the evidence from Part B (i) supports your claim using a psychological perspective, theory, concept, or research finding learned in AP Psychology.",
+     "model": "This supports my claim because caffeine is a stimulant, a drug that excites the central nervous system. That made students more alert for a short time, but the same stimulant effect kept them awake long after they were done studying, so they lost sleep without learning any more.",
+     "max": 2
+    },
+    {
+     "k": "Ci",
+     "prompt": "Support your claim using an additional piece of specific and relevant evidence from a different source than the one that was used in Part B (i).",
+     "model": "Seniors who drank about 1.8 energy drinks a day had headaches rated 2.7 and math quiz scores of 14.9 on their first day without them, compared with headaches of 0.6 and scores of 18.3 during a usual week (Source 2).",
+     "max": 1
+    },
+    {
+     "k": "Cii",
+     "prompt": "Explain how the evidence from Part C (i) supports your claim using a different psychological perspective, theory, concept, or research finding learned in AP Psychology than the one that was used in Part B (ii).",
+     "model": "This supports my claim because regular energy drink users developed tolerance, needing more drinks to get the same boost, and showed withdrawal, the discomfort and distress that follow stopping a drug, when they quit. This shows that students can become dependent and do worse in school on days they go without.",
+     "max": 2
+    }
+   ]
+  },
+  {
+   "id": "ebq-exercisemood",
+   "type": "wfr",
+   "grader": "ebq",
+   "topic": "Depression, Anxiety, Health",
+   "title": "Exercise and Mood",
+   "topicWords": [
+    "exercise",
+    "depress",
+    "anxi",
+    "symptom",
+    "reduce"
+   ],
+   "source": {
+    "title": "Using the sources provided, develop and justify an argument about whether regular exercise reduces symptoms of depression and anxiety.",
+    "label": "Written for this kit: fictional studies in the style of the real exam.",
+    "blocks": [
+     {
+      "h": "Source 1: A Walking Program for Adults With Depression",
+      "p": "## Introduction\nIn this study, researchers tested whether a 12-week walking program reduces symptoms of depression in adults diagnosed with major depressive disorder.\n\n## Participants\nParticipants were 120 adults (74 women, 46 men) aged 25 to 60 years (mean age = 41.6 years) who were patients at three community health clinics in Arizona. All had been diagnosed with major depressive disorder by a doctor. Adults who already exercised more than once a week, or who had a medical condition that made walking unsafe, were not eligible. The race/ethnicity of the participants was 48% White, 33% Hispanic/Latino/a, 10% Native American, 6% Black/African American, and 3% other.\n\n## Method\nParticipants were randomly assigned to one of two groups. The walking group walked briskly for 40 minutes, three times a week, for 12 weeks, in small groups led by a trainer. The control group received phone calls from a researcher every two weeks and were told they could start the walking program after the study. Participants in both groups continued any treatment they were already receiving.\n\nBefore the program and at the end of 12 weeks, a psychologist who did not know which group each participant was in rated each participant's depression using a 17-item interview. Scores range from 0 to 52, with higher scores meaning more severe depression.\n\nThe walking sessions took place on indoor tracks at local recreation centers in the morning and evening so that participants could choose a time that fit their work schedules. Each participant wore a step counter, and trainers recorded attendance. Participants in the walking group were asked not to change other parts of their daily routine, such as their diet. The study was approved by the clinics' review board, and every participant signed a consent form.\n\n## Results and Discussion\n| Group | Depression score before | Depression score after 12 weeks |\n| Walking | 21.4 | 12.6 |\n| Control | 20.9 | 18.7 |\n\nDepression scores dropped significantly more in the walking group than in the control group (p < .001). In the walking group, 42% of participants had a score under 8 at the end of the study, compared with 15% of the control group. Participants who attended at least 30 of the 36 walking sessions improved the most. Nine participants in the walking group stopped attending before the end of the program."
+     },
+     {
+      "h": "Source 2: Exercise and Feeling Calmer the Same Day",
+      "p": "## Introduction\nIn this study, researchers examined whether college students feel less anxious on days when they exercise.\n\n## Participants\nParticipants were 88 undergraduate students at a university in Wisconsin who received course credit. They ranged in age from 18 to 22 years (mean age = 19.4 years). The sample was 64% women and 36% men. Researchers did not report race/ethnicity data for the participants.\n\n## Method\nFor 21 days, students received a text message at 9:00 p.m. with a short survey. Each evening they reported whether they had exercised that day for at least 20 minutes (for example, running, lifting weights, playing a sport, or biking), how many hours they had slept the night before, and how anxious they had felt that day on a scale from 1 (not at all) to 10 (extremely). They also rated how many stressful events they had had that day, such as an exam or an argument with a friend.\n\nResearchers compared each student's anxiety ratings on days when they exercised with their own ratings on days when they did not.\n\nBefore the study, students attended a 20-minute meeting where a researcher explained the survey and answered questions. Students who missed more than four of the evening surveys were not included, which removed 7 students. Students were asked to answer each survey on their own phone and were not allowed to fill in missed days later. The study took place during the middle of the fall semester, between the first exams and Thanksgiving break.\n\n## Results and Discussion\nStudents exercised on an average of 9 of the 21 days. On days when they exercised, students rated their anxiety at an average of 3.9, compared with 5.2 on days when they did not exercise. This difference was statistically significant (p < .001) and appeared even on days with the same number of stressful events.\n\n| Type of day | Average anxiety (1 to 10) |\n| Exercised, few stressful events | 3.4 |\n| Exercised, many stressful events | 4.7 |\n| Did not exercise, few stressful events | 4.6 |\n| Did not exercise, many stressful events | 6.3 |\n\nStudents who slept more also reported less anxiety the next day. The researchers noted that students chose for themselves which days to exercise, so they may have exercised more on days when they already felt calmer."
+     },
+     {
+      "h": "Source 3: Fitness and Mood in Older Adults",
+      "p": "## Introduction\nIn this study, researchers examined whether older adults who are more physically fit report fewer symptoms of depression.\n\n## Participants\nParticipants were 1,240 adults aged 65 to 84 years (mean age = 72.3 years) living in Maine and Vermont. They were randomly selected from state health records and invited by mail, and 61% of those invited agreed to take part. The sample was 55% women and 45% men. The race/ethnicity of the participants was 94% White, 2% Black/African American, 2% Hispanic/Latino/a, and 2% other.\n\n## Method\nEach participant visited a community center for a 90-minute appointment. Fitness was measured as the distance each person could walk in 6 minutes on an indoor track. Participants also completed a 15-item questionnaire about depressive symptoms over the past week, such as feeling that life was empty or that they were not as happy as most people. Scores range from 0 to 15, with higher scores meaning more symptoms. They also reported how often they saw friends or family and whether they had any long-term illnesses.\n\nTrained staff measured the walking distance and gave the same instructions to every participant: walk as far as you comfortably can in 6 minutes, and rest if you need to. A nurse checked each person's blood pressure before the walk, and 23 people did not walk because their blood pressure was too high; they were not included. Appointments were offered on weekdays and Saturdays, and transportation was provided for participants who needed it.\n\n## Results and Discussion\nWalking distance was negatively correlated with depressive symptom scores (r = -.31, p < .001). People who walked farther in 6 minutes tended to report fewer symptoms of depression.\n\n| Walking distance in 6 minutes | Mean depressive symptom score (0 to 15) |\n| Less than 350 meters | 5.8 |\n| 350 to 450 meters | 3.9 |\n| More than 450 meters | 2.4 |\n\nThe relationship was smaller, but still statistically significant, after the researchers accounted for long-term illnesses and how often people saw friends and family. The researchers noted that people who feel depressed may be less likely to stay active, so the study cannot show which came first."
+     }
+    ]
+   },
+   "parts": [
+    {
+     "k": "A",
+     "prompt": "Propose a specific and defensible claim based in psychological science that responds to the question.",
+     "model": "Regular exercise reduces symptoms of depression and anxiety, so people with these symptoms should exercise several times a week.",
+     "max": 1
+    },
+    {
+     "k": "Bi",
+     "prompt": "Support your claim using at least one piece of specific and relevant evidence from one of the sources.",
+     "model": "Adults with major depressive disorder who walked for 40 minutes three times a week for 12 weeks saw their depression scores drop from 21.4 to 12.6, while the control group only went from 20.9 to 18.7 (Source 1).",
+     "max": 1
+    },
+    {
+     "k": "Bii",
+     "prompt": "Explain how the evidence from Part B (i) supports your claim using a psychological perspective, theory, concept, or research finding learned in AP Psychology.",
+     "model": "This supports my claim because exercise causes the brain to release endorphins, the brain's natural painkillers that relieve pain and stress. Walking regularly gave participants that natural boost to their mood, which helped reduce their depression.",
+     "max": 2
+    },
+    {
+     "k": "Ci",
+     "prompt": "Support your claim using an additional piece of specific and relevant evidence from a different source than the one that was used in Part B (i).",
+     "model": "Students rated their anxiety 3.9 on days when they exercised for at least 20 minutes, compared with 5.2 on days when they did not exercise (Source 2).",
+     "max": 1
+    },
+    {
+     "k": "Cii",
+     "prompt": "Explain how the evidence from Part C (i) supports your claim using a different psychological perspective, theory, concept, or research finding learned in AP Psychology than the one that was used in Part B (ii).",
+     "model": "This supports my claim because exercise works as emotion-focused coping: it doesn't change the stressor, but it helps people regulate their negative emotions. That is why students felt less anxious on days they exercised even when they had just as many stressful events (4.7 vs. 6.3 on stressful days).",
+     "max": 2
+    }
+   ]
+  },
+  {
+   "id": "ebq-therapy",
+   "type": "wfr",
+   "grader": "ebq",
+   "topic": "Treatment, Depression",
+   "title": "Talk Therapy and Medication for Depression",
+   "topicWords": [
+    "therapy",
+    "medication",
+    "effective",
+    "depress",
+    "treat"
+   ],
+   "source": {
+    "title": "Using the sources provided, develop and justify an argument about whether a therapy that changes how people think is as effective as medication for treating depression.",
+    "label": "Written for this kit: fictional studies in the style of the real exam.",
+    "blocks": [
+     {
+      "h": "Source 1: Therapy Versus Medication for 16 Weeks",
+      "p": "## Introduction\nIn this study, researchers compared a talk therapy that teaches people to change their thinking with an antidepressant medication for adults with depression.\n\n## Participants\nParticipants were 240 adults (157 women, 83 men) aged 18 to 65 years (mean age = 39.8 years) who had been diagnosed with major depressive disorder at two university clinics in Pennsylvania. People who had bipolar disorder, who were already in treatment, or who had thoughts of harming themselves that required hospital care were not eligible. The race/ethnicity of the participants was 76% White, 15% Black/African American, 5% Asian/Asian American, and 4% other.\n\n## Method\nParticipants were randomly assigned to one of three groups for 16 weeks:\n1. Therapy group: weekly 50-minute sessions with a therapist. Therapists taught participants to notice their negative ideas about themselves, their lives, and their future, to check whether those ideas were accurate, and to replace them with more balanced ones. Participants also scheduled small enjoyable activities each week.\n2. Medication group: a daily antidepressant pill that increases the activity of a mood-related brain chemical, with a doctor's visit every two weeks.\n3. Pill group: a daily pill with no active ingredient, with the same doctor's visits. Participants in groups 2 and 3 did not know which pill they were taking.\n\nA psychologist who did not know which group each participant was in rated depression using a 17-item interview. Scores range from 0 to 52.\n\nTherapists had at least five years of experience and followed a written guide for each session, and a supervisor listened to recordings of some sessions to check that the guide was being followed. Participants in all three groups were told that they could leave the study at any time, and anyone whose depression got much worse was referred for other care. Participants were paid $20 for each assessment visit.\n\n## Results and Discussion\n| Group | Depression score before | Depression score at 16 weeks | Percent who improved by half or more |\n| Therapy | 23.1 | 11.8 | 58% |\n| Medication | 23.4 | 11.2 | 58% |\n| Inactive pill | 22.9 | 16.7 | 25% |\n\nBoth the therapy group and the medication group improved significantly more than the inactive pill group (p < .01). The therapy and medication groups did not differ significantly from each other. Twelve participants in the medication group stopped taking the pill because of side effects, such as nausea or trouble sleeping."
+     },
+     {
+      "h": "Source 2: What Happened After Treatment Ended",
+      "p": "## Introduction\nIn this study, researchers followed the participants who had improved in a treatment study to see who stayed well after treatment ended.\n\n## Participants\nParticipants were 104 adults from the study described in Source 1 whose depression scores had dropped by at least half after 16 weeks of either therapy or medication. Their mean age was 40.6 years, and 68% were women. They continued to receive $25 for each follow-up visit.\n\n## Method\nAfter the 16 weeks, participants in the therapy group stopped attending sessions. Participants in the medication group were randomly split: half continued taking the medication, and half were switched, without being told, to a pill with no active ingredient.\n\nEvery two months for one year, a psychologist interviewed each participant. A relapse was counted when a participant's depression score rose above 14 for two visits in a row, or when they needed to start treatment again. Participants were told that they could leave the study at any time and would be helped to find treatment if their depression returned.\n\nThe psychologists who did the interviews did not know which group each participant had been in. Participants were asked at each visit whether they had started any new treatment, such as seeing a counselor, and 9 participants said they had; their results were included. Visits lasted about 45 minutes and were held at the same clinics as the original study. Participants who moved away were interviewed by video, and 6 participants could not be reached by the end of the year.\n\n## Results and Discussion\n| Group during the follow-up year | Number of participants | Percent who relapsed within one year |\n| Had therapy, then stopped | 35 | 31% |\n| Kept taking medication | 34 | 47% |\n| Stopped medication | 35 | 76% |\n\nParticipants who had received therapy were significantly less likely to relapse than those who stopped medication (p < .001), and they relapsed at a similar rate to those who kept taking the medication. Many participants from the therapy group said they still used what they learned, such as checking whether a negative idea was true."
+     },
+     {
+      "h": "Source 3: Brain Activity Before and After Treatment",
+      "p": "## Introduction\nIn this study, researchers used brain scans to compare changes in the brain after therapy or medication for depression.\n\n## Participants\nParticipants were 38 adults with major depressive disorder at a hospital in Toronto, Canada. They ranged in age from 22 to 58 years (mean age = 37.5 years), and 61% were women. Researchers did not report race/ethnicity data for the participants.\n\n## Method\nParticipants chose whether to receive weekly therapy sessions that focused on changing negative thinking or a daily antidepressant medication. Twenty chose therapy and 18 chose medication. Before treatment and after 15 weeks, each participant had a PET scan, which shows how active different brain areas are. During the scan, participants rested quietly with their eyes closed. They also completed a 21-item depression questionnaire; scores range from 0 to 63.\n\nThe medication group took the same type of antidepressant pill as in Source 1, and the therapy group met with one of three therapists for 15 to 20 weekly sessions. PET scans took about one hour and were done at the same time of day before and after treatment. Each participant gave written consent after a doctor explained the small amount of radiation involved in a PET scan. Participants who did not finish treatment, 6 in all, were not included in the results, and every participant was paid $100 for each scan.\n\n## Results and Discussion\n| Group | Depression questionnaire before | Depression questionnaire after 15 weeks |\n| Therapy | 27.3 | 13.5 |\n| Medication | 28.1 | 14.2 |\n\nBoth groups improved by about the same amount. However, the brain changes were different. In the therapy group, activity changed most in areas at the front of the brain involved in planning and thinking about oneself. In the medication group, activity changed most in deeper areas of the brain involved in emotion. Within each group, the people whose depression improved the most also showed the largest brain changes. Five participants in the medication group reported side effects such as dry mouth or trouble sleeping, and none in the therapy group did. The researchers noted that participants chose their own treatment, so people who chose therapy may have been different from those who chose medication, and that the study included only 38 people."
+     }
+    ]
+   },
+   "parts": [
+    {
+     "k": "A",
+     "prompt": "Propose a specific and defensible claim based in psychological science that responds to the question.",
+     "model": "A therapy that changes how people think is as effective as medication for treating depression and works better at preventing depression from coming back.",
+     "max": 1
+    },
+    {
+     "k": "Bi",
+     "prompt": "Support your claim using at least one piece of specific and relevant evidence from one of the sources.",
+     "model": "After 16 weeks, the therapy group's depression scores dropped from 23.1 to 11.8 and the medication group's from 23.4 to 11.2, and 58% of each group improved by half or more (Source 1).",
+     "max": 1
+    },
+    {
+     "k": "Bii",
+     "prompt": "Explain how the evidence from Part B (i) supports your claim using a psychological perspective, theory, concept, or research finding learned in AP Psychology.",
+     "model": "This supports my claim because Beck's cognitive theory says depressed people develop a negative cognitive triad: negative thoughts about themselves, their world, and their future. Therapy that teaches people to check and replace those negative ideas fixes the faulty thinking behind depression, so it helped as much as the pill.",
+     "max": 2
+    },
+    {
+     "k": "Ci",
+     "prompt": "Support your claim using an additional piece of specific and relevant evidence from a different source than the one that was used in Part B (i).",
+     "model": "Only 31% of people who had therapy relapsed within a year after stopping, compared with 76% of people who stopped their medication (Source 2).",
+     "max": 1
+    },
+    {
+     "k": "Cii",
+     "prompt": "Explain how the evidence from Part C (i) supports your claim using a different psychological perspective, theory, concept, or research finding learned in AP Psychology than the one that was used in Part B (ii).",
+     "model": "This supports my claim because an SSRI antidepressant works by blocking reuptake so serotonin stays in the synapse longer, a chemical effect that comes from taking the pill. The results show that its benefit faded for most people once they stopped taking it, while the thinking skills learned in therapy stayed with the person, so fewer of them relapsed.",
+     "max": 2
+    }
+   ]
+  },
+  {
+   "id": "ebq-aces",
+   "type": "wfr",
+   "grader": "ebq",
+   "topic": "Health psychology, Adverse childhood experiences",
+   "title": "Childhood Adversity and Later Health",
+   "topicWords": [
+    "childhood",
+    "adverse",
+    "aces",
+    "health",
+    "risk"
+   ],
+   "source": {
+    "title": "Using the sources provided, develop and justify an argument about whether adverse childhood experiences increase the risk of health problems later in life.",
+    "label": "Written for this kit: fictional studies in the style of the real exam.",
+    "blocks": [
+     {
+      "h": "Source 1: Childhood Experiences and Adult Health",
+      "p": "## Introduction\nIn this study, researchers examined whether adults who experienced more stressful or traumatic events as children have more health problems as adults.\n\n## Participants\nParticipants were 8,420 adults who had a routine checkup at a large health clinic in California. They ranged in age from 25 to 79 years (mean age = 56.1 years). The sample was 53% women and 47% men. The race/ethnicity of the participants was 74% White, 11% Hispanic/Latino/a, 8% Asian/Asian American, 5% Black/African American, and 2% other. Participants were not paid.\n\n## Method\nAfter their checkup, adults were mailed a questionnaire that asked whether, before age 18, they had experienced each of 10 kinds of hardship, such as being hit or insulted by a parent, having a parent who abused alcohol or drugs, seeing a parent being hurt, or having a parent go to prison. Each \"yes\" counted as 1 point, for a total score from 0 to 10. Researchers then checked each participant's medical record for heart disease, diabetes, lung disease, and depression.\n\nThe questionnaire was stored separately from participants' names, and only two researchers could match the two records. Participants were told that they could skip any question they did not want to answer, and 7% did not return the questionnaire.\n\nThe questionnaire also asked about adults' current habits, such as smoking, drinking alcohol, and exercise, and about their income and education. The clinic's review board approved the study. Participants' answers were not shared with their doctors. Researchers compared the people who returned the questionnaire with those who did not and found that they were similar in age, sex, and the health problems listed in their records.\n\n## Results and Discussion\nAbout two thirds of participants reported at least one hardship, and 13% reported four or more.\n\n| Number of childhood hardships | Percent with heart disease | Percent ever diagnosed with depression |\n| 0 | 5% | 14% |\n| 1 | 6% | 21% |\n| 2 or 3 | 8% | 31% |\n| 4 or more | 11% | 49% |\n\nAs the number of hardships increased, the percentage of adults with each health problem increased (p < .001 for each). Adults with four or more hardships were also more likely to smoke and to report heavy drinking. The researchers noted that adults reported their childhood experiences many years later, so some may have forgotten or misremembered events."
+     },
+     {
+      "h": "Source 2: Childhood Hardship and Getting Sick",
+      "p": "## Introduction\nIn this study, researchers examined whether adults who experienced hardship in childhood are more likely to catch a cold after being exposed to a cold virus.\n\n## Participants\nParticipants were 152 healthy adults aged 18 to 55 years (mean age = 30.4 years) in Pittsburgh, Pennsylvania, who answered newspaper ads. They were paid $1,000 for staying in a hotel for 6 days. The sample was 46% women and 54% men. Researchers did not report race/ethnicity data for the participants.\n\n## Method\nThe study was approved by a university review board, and participants were told in detail what would happen before signing a consent form. Before the study, participants completed the same 10-item childhood hardship questionnaire described in Source 1. They also had blood tests to make sure they were not already immune to the virus being used.\n\nParticipants stayed in separate hotel rooms. On the first day, a doctor gave each participant nose drops containing a common cold virus. For the next five days, nurses checked participants each morning for cold symptoms and weighed the used tissues they had collected. A participant was counted as having a cold if they had the virus in their nose and also had clear symptoms.\n\nDuring their stay, participants could watch television, read, and use the internet, but they stayed at least 1 meter away from one another when they met in the hallways. Meals were delivered to their rooms. Each day, participants also rated how stressed they felt and how many hours they had slept the night before. Participants who smoked were asked not to smoke during the study, and the number of smokers was similar across groups.\n\n## Results and Discussion\n| Number of childhood hardships | Number of participants | Percent who developed a cold |\n| 0 | 68 | 26% |\n| 1 or 2 | 54 | 33% |\n| 3 or more | 30 | 53% |\n\nParticipants with three or more childhood hardships were significantly more likely to develop a cold than participants with none (p = .01). This difference remained after the researchers accounted for age, sex, weight, and how many hours participants slept in the hotel. At the end of the study, every participant received cold medicine and was checked by a doctor before going home."
+     },
+     {
+      "h": "Source 3: Children's Stress Response After Family Hardship",
+      "p": "## Introduction\nIn this study, researchers examined how children's bodies react to a stressful task, and whether this is different for children who have lived through serious family hardship.\n\n## Participants\nParticipants were 96 children aged 9 to 12 years (mean age = 10.7 years) in Minneapolis, Minnesota. Half of the children (48) had been placed in foster care after being neglected or mistreated at home, and half (48) had lived with their parents their whole lives. The two groups were similar in age, sex (54% girls), and family income. Each child took part with written permission from a parent or legal guardian, and the child also agreed. Researchers did not report race/ethnicity data for the participants.\n\n## Method\nEach child visited a laboratory with a caregiver. After 20 minutes of quiet play, the child gave a 5-minute speech in front of two adults about why they would be a good friend, and then solved math problems out loud. The adults did not smile or give encouragement.\n\nThe child's heart rate was recorded throughout. The child also gave saliva samples before the task, right after it, and 40 minutes later. These were tested for a hormone the body releases in response to stress. Afterward, a researcher praised the child's effort, explained that the adults had been asked not to smile, and let the child pick a small toy.\n\nSessions were held in the afternoon, and children were asked not to eat for an hour before arriving. Caregivers waited in a nearby room during the speech and math tasks. A child psychologist watched each session from behind a one-way window and was ready to stop the task if a child became very upset; this happened twice, and those children's data were included up to the point the task stopped.\n\n## Results and Discussion\n| Group | Heart rate increase during task (beats per minute) | Hormone level 40 minutes after (compared with before) |\n| Children in foster care | +21 | 64% higher |\n| Children living with parents | +12 | 8% higher |\n\nDuring the task, both groups showed a rise in heart rate, but the rise was significantly larger for children in foster care (p < .01). Forty minutes after the task, the hormone level of children living with their parents had returned almost to where it started, while children in foster care still had much higher levels (p < .001). Children in foster care also reported more headaches and stomachaches in the past month."
+     }
+    ]
+   },
+   "parts": [
+    {
+     "k": "A",
+     "prompt": "Propose a specific and defensible claim based in psychological science that responds to the question.",
+     "model": "Adverse childhood experiences increase the risk of health problems later in life, and the risk grows with the number of experiences.",
+     "max": 1
+    },
+    {
+     "k": "Bi",
+     "prompt": "Support your claim using at least one piece of specific and relevant evidence from one of the sources.",
+     "model": "Adults with four or more childhood hardships had heart disease at a rate of 11% and depression at 49%, compared with 5% and 14% for adults with no hardships (Source 1).",
+     "max": 1
+    },
+    {
+     "k": "Bii",
+     "prompt": "Explain how the evidence from Part B (i) supports your claim using a psychological perspective, theory, concept, or research finding learned in AP Psychology.",
+     "model": "This supports my claim because of the diathesis-stress model: high levels of stress can trigger a biological predisposition to develop mental illness. Children who went through many hardships lived with high stress, which could trigger depression in people who were already vulnerable, so depression was far more common with more hardships.",
+     "max": 2
+    },
+    {
+     "k": "Ci",
+     "prompt": "Support your claim using an additional piece of specific and relevant evidence from a different source than the one that was used in Part B (i).",
+     "model": "Adults with three or more childhood hardships developed a cold 53% of the time after being given a cold virus, compared with 26% of adults with no hardships (Source 2).",
+     "max": 1
+    },
+    {
+     "k": "Cii",
+     "prompt": "Explain how the evidence from Part C (i) supports your claim using a different psychological perspective, theory, concept, or research finding learned in AP Psychology than the one that was used in Part B (ii).",
+     "model": "This supports my claim because long-term stress leads to immunosuppression, a weakened immune system. Childhood hardship is a long-lasting stressor, so people who went through more hardship were less able to fight off the virus and got sick more often.",
+     "max": 2
+    }
+   ]
+  },
+  {
+   "id": "ebq-coping",
+   "type": "wfr",
+   "grader": "ebq",
+   "topic": "Health psychology, Coping",
+   "title": "How People Cope With Stress",
+   "topicWords": [
+    "cope",
+    "coping",
+    "stress",
+    "way"
+   ],
+   "source": {
+    "title": "Using the sources provided, develop and justify an argument about whether the way people cope with stress changes how stress affects them.",
+    "label": "Written for this kit: fictional studies in the style of the real exam.",
+    "blocks": [
+     {
+      "h": "Source 1: Coping With a Hard Class",
+      "p": "## Introduction\nIn this study, researchers examined how college students handled a difficult chemistry course and whether their approach was related to their stress and their grades.\n\n## Participants\nParticipants were 233 first-year students taking an introductory chemistry course at a public university in Michigan. They ranged in age from 17 to 20 years (mean age = 18.4 years). The sample was 55% women and 45% men. Students received a small amount of extra credit. Researchers did not report race/ethnicity data for the participants.\n\n## Method\nAfter students received their first exam grade, they completed a questionnaire about what they had done when they felt stressed about the course. One set of items asked about taking direct action, such as \"I made a plan for studying,\" \"I went to office hours,\" or \"I joined a study group.\" Another set asked about avoiding the problem, such as \"I tried not to think about the class\" or \"I watched videos to take my mind off it.\" Students rated each item from 1 (never) to 4 (a lot).\n\nStudents also rated their stress about the course from 1 (none) to 10 (extreme) at the start of the semester, after the first exam, and at the end of the semester. Final course grades were provided by the instructor with students' permission.\n\nThe course had about 600 students in three lecture sections taught by the same instructor, and students who dropped the course before the end of the semester, 19 in all, were not included. Students were told that the instructor would not see their questionnaire answers until after final grades were submitted. The questionnaire took about 15 minutes and was completed online.\n\n## Results and Discussion\nStudents were divided into groups based on whether they scored above or below the middle on each set of items.\n\n| Approach after the first exam | Number of students | Stress at end of semester (1 to 10) | Final grade (out of 100) |\n| High direct action, low avoiding | 71 | 4.8 | 81.6 |\n| High direct action, high avoiding | 52 | 6.1 | 76.2 |\n| Low direct action, low avoiding | 49 | 6.4 | 72.9 |\n| Low direct action, high avoiding | 61 | 7.7 | 68.3 |\n\nStudents who took more direct action had significantly lower stress at the end of the semester and higher final grades (p < .001). The four groups did not differ in their first exam grades."
+     },
+     {
+      "h": "Source 2: Coping With a Loved One's Long Illness",
+      "p": "## Introduction\nIn this study, researchers examined how adults coped with caring for a family member with a serious long-term illness, a situation they could not change.\n\n## Participants\nParticipants were 140 adults (71% women) aged 30 to 78 years (mean age = 55.2 years) in Massachusetts who were caring for a spouse or parent with advanced cancer or advanced heart failure. They were recruited through two hospitals and received $40. The race/ethnicity of the participants was 81% White, 10% Black/African American, 5% Hispanic/Latino/a, and 4% other.\n\n## Method\nParticipants completed questionnaires at the start of the study and again 6 months later. They rated how often they tried to change the situation (for example, \"I kept looking for a different treatment\") and how often they worked on how they felt about it (for example, \"I looked for something good in what was happening,\" \"I talked to a friend about how I felt,\" or \"I practiced slow breathing or prayer\"). Each item was rated from 1 (never) to 4 (a lot).\n\nParticipants also completed a 20-item questionnaire about how often they felt sad, worried, or hopeless, with scores from 0 to 60, and reported how many days in the past month they had a headache or trouble sleeping.\n\nQuestionnaires were completed at home and mailed back in a prepaid envelope, or completed by phone with a research assistant. Participants could skip any question. If a participant's distress score was very high, a social worker from the hospital called to offer help. During the 6 months, 18 of the family members being cared for died; their caregivers were offered the chance to stop, and 11 chose to continue.\n\n## Results and Discussion\nCaregivers who more often worked on how they felt had significantly lower distress scores 6 months later (r = -.37, p < .001). Caregivers who more often tried to change the situation had higher distress scores 6 months later (r = .22, p = .01).\n\n| Approach | Distress score at 6 months (0 to 60) | Days with headaches in past month |\n| Mostly worked on feelings | 17.3 | 3.1 |\n| Mostly tried to change the situation | 26.8 | 6.4 |\n\nThe researchers suggested that when a problem cannot be solved, trying hard to change it may lead to frustration."
+     },
+     {
+      "h": "Source 3: Writing About a Stressful Event",
+      "p": "## Introduction\nIn this study, researchers tested whether a short writing activity changes how stressed students feel before a big test.\n\n## Participants\nParticipants were 106 ninth-grade students at a public high school in Chicago, Illinois, who were about to take their final biology exam. Each student took part with a parent's written permission. The sample was 52% girls and 48% boys. Researchers did not report race/ethnicity data for the participants.\n\n## Method\nTen minutes before the exam, students were randomly assigned to one of two writing activities. Students in the expressive writing group wrote as openly as possible about their thoughts and feelings about the exam. Students in the control group wrote about what they had done the day before. Teachers did not read what the students wrote.\n\nBefore the writing activity and right after it, students rated how nervous they felt from 1 (calm) to 10 (extremely nervous). Their exam scores were provided by the school. Earlier in the year, all students had completed a questionnaire about how much they usually worried about tests, and students were grouped as high or low worriers.\n\nThe writing activity took place in students' regular classrooms, and each student wrote on a numbered sheet of paper instead of writing their name. Teachers read the same instructions to every class from a script. Students who were absent on the exam day took the exam later and were not included. After the exam, the researchers met with each class to explain the purpose of the study and to share tips for managing test nerves.\n\n## Results and Discussion\n| Group | Nervousness before writing | Nervousness after writing | Exam score (out of 100) |\n| Expressive writing, high worriers | 7.9 | 5.4 | 82 |\n| Control, high worriers | 7.7 | 7.6 | 76 |\n| Expressive writing, low worriers | 4.2 | 3.8 | 85 |\n| Control, low worriers | 4.4 | 4.3 | 84 |\n\nHigh worriers who wrote about their feelings became significantly less nervous and scored significantly higher on the exam than high worriers in the control group (p < .01). For low worriers, the writing activity made little difference. Students in the expressive writing group wrote an average of 182 words, and those who wrote more did not score higher than those who wrote less. The researchers suggested that writing may help most for students who worry a lot, because it gives their worries somewhere to go before the test starts."
+     }
+    ]
+   },
+   "parts": [
+    {
+     "k": "A",
+     "prompt": "Propose a specific and defensible claim based in psychological science that responds to the question.",
+     "model": "The way people cope changes how stress affects them: taking direct action reduces stress when a problem can be solved, and managing feelings helps more when it can't.",
+     "max": 1
+    },
+    {
+     "k": "Bi",
+     "prompt": "Support your claim using at least one piece of specific and relevant evidence from one of the sources.",
+     "model": "Students who took more direct action after their first chemistry exam had a final stress rating of 4.8 and a grade of 81.6, compared with 7.7 and 68.3 for students who took little direct action and avoided the problem (Source 1).",
+     "max": 1
+    },
+    {
+     "k": "Bii",
+     "prompt": "Explain how the evidence from Part B (i) supports your claim using a psychological perspective, theory, concept, or research finding learned in AP Psychology.",
+     "model": "This supports my claim because problem-focused coping deals with the stressor itself by finding solutions and taking action. Students who made study plans and went to office hours fixed the root cause of their stress, so they ended the semester less stressed and with better grades.",
+     "max": 2
+    },
+    {
+     "k": "Ci",
+     "prompt": "Support your claim using an additional piece of specific and relevant evidence from a different source than the one that was used in Part B (i).",
+     "model": "Caregivers who mostly worked on how they felt had a distress score of 17.3 and 3.1 days with headaches, compared with 26.8 and 6.4 for caregivers who mostly tried to change the situation (Source 2).",
+     "max": 1
+    },
+    {
+     "k": "Cii",
+     "prompt": "Explain how the evidence from Part C (i) supports your claim using a different psychological perspective, theory, concept, or research finding learned in AP Psychology than the one that was used in Part B (ii).",
+     "model": "This supports my claim because emotion-focused coping regulates negative emotions and is used when a stressor can't be changed. Caregivers could not cure their family member's illness, so working on their feelings lowered their distress, while trying to change something they couldn't control made them more upset.",
+     "max": 2
+    }
+   ]
+  },
+  {
+   "id": "ebq-pain",
+   "type": "wfr",
+   "grader": "ebq",
+   "topic": "Touch and pain",
+   "title": "Distraction and Pain",
+   "topicWords": [
+    "distract",
+    "pain",
+    "reduce",
+    "feel"
+   ],
+   "source": {
+    "title": "Using the sources provided, develop and justify an argument about whether distraction reduces the pain people feel.",
+    "label": "Written for this kit: fictional studies in the style of the real exam.",
+    "blocks": [
+     {
+      "h": "Source 1: Video Games During Burn Care",
+      "p": "## Introduction\nIn this study, researchers examined whether playing an immersive video game during painful wound care reduces the pain that burn patients feel.\n\n## Participants\nParticipants were 54 patients aged 12 to 54 years (mean age = 27.3 years) being treated for burns at a hospital burn center in Washington State. All needed daily wound cleaning and dressing changes, which are usually very painful even with medication. Patients who had burns on their face or head, or who were too sick to answer questions, were not eligible. The sample was 80% male. Researchers did not report race/ethnicity data for the participants.\n\n## Method\nEach patient received their usual pain medication before every dressing change. During one dressing change, patients played a video game in which they flew through an icy canyon and threw snowballs at snowmen, using a headset that blocked their view of the room and headphones that played the game's sounds. During another dressing change on a nearby day, they received the usual care with no game. The order of the two conditions was chosen at random for each patient, and the same nurses did both dressing changes.\n\nRight after each dressing change, patients rated their worst pain from 0 (no pain) to 100 (the worst pain possible) and the percentage of time they spent thinking about their pain, also from 0 to 100. They also rated how much fun they had.\n\nThe hospital's review board approved the study, and patients (or, for patients under 18, a parent) signed a consent form. Patients were told they could stop playing at any time. Dressing changes lasted an average of 18 minutes. The headset was cleaned between patients, and patients who could not use their hands controlled the game by turning their heads.\n\n## Results and Discussion\n| Condition | Worst pain (0 to 100) | Time spent thinking about pain (0 to 100) |\n| Video game | 41 | 22 |\n| Usual care | 72 | 69 |\n\nPatients reported significantly less worst pain and spent significantly less time thinking about their pain while playing the game (p < .001). Patients who said they felt most \"inside\" the game reported the biggest drop in pain. Two patients said the game made them feel slightly sick, and both chose to keep playing. The amount of pain medication was the same in both conditions."
+     },
+     {
+      "h": "Source 2: Counting Backward and Cold Water",
+      "p": "## Introduction\nIn this study, researchers tested whether doing a mental task while keeping a hand in ice water reduces how much pain people feel and changes how long they can stand it.\n\n## Participants\nParticipants were 80 undergraduate students (41 women, 39 men) at a university in Ontario, Canada, aged 18 to 26 (mean age = 20.3 years). Students received course credit. Students with heart problems, high blood pressure, or problems with circulation in their hands were not eligible. Researchers did not report race/ethnicity data for the participants.\n\n## Method\nEach student placed their left hand in a tank of water kept at 2°C (about 36°F) and was told to keep it there until they wanted to stop, up to a limit of 3 minutes. Students were randomly assigned to one of two conditions. In the distraction condition, students counted backward from 1,000 by 7s out loud while their hand was in the water. In the attention condition, students were told to focus on the feelings in their hand and describe them out loud.\n\nPain tolerance was measured as the number of seconds the student kept their hand in the water. After removing their hand, students rated the strongest pain they had felt from 0 (no pain) to 10 (the worst pain imaginable).\n\nBefore the task, students rated how anxious they felt about it from 0 to 10, and the two groups did not differ. A researcher sat beside each student and reminded them that they could take their hand out at any time. After the task, students warmed their hand in room-temperature water and were given a towel. Each session took about 20 minutes, and all sessions were run by the same researcher in the same room.\n\n## Results and Discussion\n| Condition | Seconds hand stayed in water | Strongest pain (0 to 10) |\n| Counting backward | 112 | 5.9 |\n| Focusing on the hand | 69 | 7.4 |\n\nStudents who counted backward kept their hands in the water significantly longer and rated their pain significantly lower than students who focused on their hand (p < .01). Twelve students in the counting condition reached the 3-minute limit, compared with three in the attention condition. Students who made more counting mistakes did not report more pain than students who made fewer mistakes."
+     },
+     {
+      "h": "Source 3: Expecting the Pain to Be Strong",
+      "p": "## Introduction\nIn this study, researchers tested whether what people expect about a painful stimulus changes how much pain they feel.\n\n## Participants\nParticipants were 46 healthy adults (24 women, 22 men) aged 19 to 40 years (mean age = 26.8 years) in Boston, Massachusetts, who answered online ads and were paid $60. Researchers did not report race/ethnicity data for the participants.\n\n## Method\nA small heating pad was placed on each participant's forearm. On each trial, a symbol appeared on a screen, followed by a few seconds of heat. Participants first learned that a blue circle came before mild heat and a yellow triangle came before strong heat. After learning, participants were not told that on some trials the heat that followed was always the same medium temperature, no matter which symbol appeared.\n\nAfter each trial, participants rated the heat from 0 (not painful) to 10 (extremely painful). There were 60 trials over about 40 minutes. Participants were told before the study that the heat could be uncomfortable but would not burn the skin, and that they could stop at any time. At the end, a researcher explained that the medium heat had been the same after both symbols and why participants had not been told.\n\nThe temperature of the pad was checked by a computer before each trial and could never go above a safe limit. Participants had a short break halfway through and rated how tired they felt. Two participants stopped early because the heat was too uncomfortable, and their data were not used.\n\n## Results and Discussion\n| Symbol shown before the same medium heat | Mean pain rating (0 to 10) |\n| Blue circle (expect mild) | 3.6 |\n| Yellow triangle (expect strong) | 6.1 |\n\nParticipants rated the same medium heat as significantly more painful when it followed the symbol that meant strong heat (p < .001). Participants who said they believed the symbols most strongly showed the biggest difference. The researchers noted that people in real life usually know a lot about what is about to happen to them, such as before a shot."
+     }
+    ]
+   },
+   "parts": [
+    {
+     "k": "A",
+     "prompt": "Propose a specific and defensible claim based in psychological science that responds to the question.",
+     "model": "Distraction reduces the pain people feel, so patients going through painful procedures should be given something engaging to focus on.",
+     "max": 1
+    },
+    {
+     "k": "Bi",
+     "prompt": "Support your claim using at least one piece of specific and relevant evidence from one of the sources.",
+     "model": "Burn patients rated their worst pain 41 while playing a video game during wound care, compared with 72 during usual care, and spent only 22% of the time thinking about their pain instead of 69% (Source 1).",
+     "max": 1
+    },
+    {
+     "k": "Bii",
+     "prompt": "Explain how the evidence from Part B (i) supports your claim using a psychological perspective, theory, concept, or research finding learned in AP Psychology.",
+     "model": "This supports my claim because of gate control theory: the spinal cord has a neurological gate that either blocks pain signals or lets them through to the brain, and distraction can close the gate. The game distracted the patients, so fewer pain signals got through and they felt less pain.",
+     "max": 2
+    },
+    {
+     "k": "Ci",
+     "prompt": "Support your claim using an additional piece of specific and relevant evidence from a different source than the one that was used in Part B (i).",
+     "model": "Students who counted backward by 7s kept their hand in ice water for 112 seconds and rated their pain 5.9, compared with 69 seconds and 7.4 for students who focused on their hand (Source 2).",
+     "max": 1
+    },
+    {
+     "k": "Cii",
+     "prompt": "Explain how the evidence from Part C (i) supports your claim using a different psychological perspective, theory, concept, or research finding learned in AP Psychology than the one that was used in Part B (ii).",
+     "model": "This supports my claim because selective attention means focusing conscious awareness on one stimulus and not something else. When students focused their attention on counting, they were not focusing on the cold in their hand, so the pain felt weaker and they could stand it longer.",
+     "max": 2
+    }
+   ]
+  },
+  {
+   "id": "ebq-phobia",
+   "type": "wfr",
+   "grader": "ebq",
+   "topic": "Phobias, Treatment",
+   "title": "Treating Phobias",
+   "topicWords": [
+    "phobia",
+    "fear",
+    "effective",
+    "treat",
+    "step"
+   ],
+   "source": {
+    "title": "Using the sources provided, develop and justify an argument about whether facing feared situations step by step is an effective treatment for phobias.",
+    "label": "Written for this kit: fictional studies in the style of the real exam.",
+    "blocks": [
+     {
+      "h": "Source 1: Step-by-Step Practice for Fear of Flying",
+      "p": "## Introduction\nIn this study, researchers tested whether practicing feared parts of flying, one step at a time, helps adults with an intense fear of flying.\n\n## Participants\nParticipants were 75 adults aged 21 to 66 years (mean age = 41.2 years) in Atlanta, Georgia, who met the criteria for a specific phobia of flying after an interview with a psychologist. Most (68%) had not flown in at least two years. The sample was 72% women and 28% men. Researchers did not report race/ethnicity data for the participants.\n\n## Method\nParticipants were randomly assigned to one of two groups for 8 weekly sessions. In the step-by-step group, participants first made a list of flying situations from least to most frightening, such as packing a suitcase, driving to the airport, sitting in a parked plane, and hearing the engines start. They learned slow breathing and muscle relaxation, and then, starting with the least frightening item, practiced each situation using a virtual reality headset until they could stay relaxed. In the comparison group, participants met with a therapist to talk about their fear, its history, and how it affected their lives, without practicing any flying situations.\n\nAfter treatment, all participants were offered a seat on a real 30-minute round-trip flight. Fear was rated by participants from 0 (none) to 100 (extreme) during the flight.\n\nThe study was approved by a university review board, and each participant signed a consent form. Sessions lasted 50 minutes and were led by the same three therapists in both groups. Participants paid nothing for treatment, and the flight was paid for by the study. Before treatment, participants also rated how much their fear affected their work and family life, and the two groups did not differ.\n\n## Results and Discussion\n| Group | Took the flight | Mean fear during flight (0 to 100) |\n| Step-by-step practice | 73% | 38 |\n| Talking about the fear | 30% | 64 |\n\nSignificantly more participants in the step-by-step group took the flight (p < .001), and those who flew reported significantly less fear. Six months later, 63% of the step-by-step group said they had taken another flight on their own, compared with 19% of the comparison group."
+     },
+     {
+      "h": "Source 2: Fear Responses in the Brain Before and After Treatment",
+      "p": "## Introduction\nIn this study, researchers used brain scans to see whether repeated, gradual exposure to spiders changes how the brain responds to spider pictures in people who fear spiders.\n\n## Participants\nParticipants were 28 adults aged 18 to 35 years (mean age = 24.6 years) in Munich, Germany, who had a specific phobia of spiders, and 14 adults of similar age with no strong fears. The sample was 71% women. Researchers did not report race/ethnicity data for the participants.\n\n## Method\nAdults with a spider phobia were randomly assigned either to receive treatment right away or to wait. Treatment was one long session in which participants slowly moved closer to live spiders with a therapist's help, staying with each step until their fear dropped, and then spent a week looking at spider photos at home.\n\nBefore and after treatment (or waiting), each participant lay in an fMRI scanner and looked at photos of spiders, mushrooms, and neutral objects. The researchers measured activity in a small area deep in the brain that responds strongly to threats. Participants also rated their fear of each photo from 1 (none) to 9 (extreme) and how much they would avoid a spider if they saw one at home.\n\nEach participant signed a consent form after the scanner's safety rules were explained. Participants with metal in their bodies were not eligible. Scans took about 45 minutes, and participants could press a button to stop at any time. Participants in the waiting group were offered treatment when the study ended.\n\n## Results and Discussion\n| Group | Fear rating of spider photos before | Fear rating of spider photos after |\n| Treated right away | 7.8 | 3.1 |\n| Waited | 7.6 | 7.3 |\n| No phobia | 2.2 | 2.0 |\n\nBefore treatment, people with a spider phobia showed much more activity in the threat-response area when viewing spiders than people with no phobia. After treatment, activity in this area dropped significantly in the treated group, to a level close to that of people with no phobia (p < .01), but did not change in the group that waited."
+     },
+     {
+      "h": "Source 3: Avoiding Versus Approaching",
+      "p": "## Introduction\nIn this study, researchers followed children with a fear of dogs to see whether avoiding dogs or approaching them was related to how their fear changed over a year.\n\n## Participants\nParticipants were 63 children aged 7 to 12 years (mean age = 9.4 years) in Melbourne, Australia, whose parents said the child had a strong fear of dogs that interfered with daily life, such as refusing to visit friends who owned dogs. The sample was 57% girls and 43% boys. Researchers did not report race/ethnicity data for the participants.\n\n## Method\nAt the start of the study and again one year later, each child completed a test in which a calm, trained dog sat on a leash at the far end of a room, and the child was asked to come as close as they felt able. The researchers recorded the closest distance in meters. Children also rated their fear from 0 (none) to 8 (very scared).\n\nEvery two months during the year, parents completed a short questionnaire about how often their child had avoided dogs, such as crossing the street or refusing to go to a park, and how often the child had approached dogs, such as petting a neighbor's dog with an adult.\n\nParents signed a consent form, and each child agreed to take part. The dog and its trainer were the same at both tests, and children could leave the room at any time. Families received a $50 gift card at each visit.\n\n## Results and Discussion\nChildren were grouped based on the parents' reports over the year.\n\n| Group | Closest distance at start (meters) | Closest distance after one year (meters) | Fear rating after one year (0 to 8) |\n| Mostly approached dogs | 4.2 | 0.9 | 2.8 |\n| Mostly avoided dogs | 4.0 | 3.8 | 6.5 |\n\nChildren who mostly approached dogs during the year got significantly closer to the dog and reported significantly less fear after one year than children who mostly avoided dogs (p < .001). The researchers noted that parents chose whether to encourage their children to approach dogs."
+     }
+    ]
+   },
+   "parts": [
+    {
+     "k": "A",
+     "prompt": "Propose a specific and defensible claim based in psychological science that responds to the question.",
+     "model": "Facing feared situations step by step is an effective treatment for phobias, so people with phobias should gradually practice what they fear instead of avoiding it.",
+     "max": 1
+    },
+    {
+     "k": "Bi",
+     "prompt": "Support your claim using at least one piece of specific and relevant evidence from one of the sources.",
+     "model": "In the step-by-step group, 73% of people with a fear of flying took a real flight and rated their fear 38, compared with 30% and a fear rating of 64 in the group that only talked about their fear (Source 1).",
+     "max": 1
+    },
+    {
+     "k": "Bii",
+     "prompt": "Explain how the evidence from Part B (i) supports your claim using a psychological perspective, theory, concept, or research finding learned in AP Psychology.",
+     "model": "This supports my claim because systematic desensitization creates a fear hierarchy from least to most scary and pairs each step with relaxation techniques. The step-by-step group used exactly that kind of hierarchy, from packing a suitcase to hearing the engines, so they learned to stay relaxed and were able to fly.",
+     "max": 2
+    },
+    {
+     "k": "Ci",
+     "prompt": "Support your claim using an additional piece of specific and relevant evidence from a different source than the one that was used in Part B (i).",
+     "model": "After gradual exposure to spiders, people with a spider phobia rated spider photos 3.1 instead of 7.8, while people who waited stayed at 7.3 (Source 2).",
+     "max": 1
+    },
+    {
+     "k": "Cii",
+     "prompt": "Explain how the evidence from Part C (i) supports your claim using a different psychological perspective, theory, concept, or research finding learned in AP Psychology than the one that was used in Part B (ii).",
+     "model": "This supports my claim because the amygdala processes fear and triggers the fight-or-flight response. After treatment, the threat-response area deep in the brain became much less active when viewing spiders, which shows that facing the fear step by step calmed the brain's fear response, not just people's ratings.",
+     "max": 2
+    }
+   ]
+  },
+  {
+   "id": "ebq-sleepmemory",
+   "type": "wfr",
+   "grader": "ebq",
+   "topic": "Sleep, Memory",
+   "title": "Sleep and Memory",
+   "topicWords": [
+    "sleep",
+    "learn",
+    "remember",
+    "memory",
+    "student"
+   ],
+   "source": {
+    "title": "Using the sources provided, develop and justify an argument about whether losing sleep harms students' ability to learn and remember.",
+    "label": "Written for this kit: fictional studies in the style of the real exam.",
+    "blocks": [
+     {
+      "h": "Source 1: A Night Without Sleep Before Learning",
+      "p": "## Introduction\nIn this study, researchers examined whether staying awake all night affects how well people learn new information the next day.\n\n## Participants\nParticipants were 56 healthy college students (30 women, 26 men) aged 18 to 25 years (mean age = 21.0 years) at a university in California. They were paid $150. Students who worked night shifts or had a sleep disorder were not eligible. Researchers did not report race/ethnicity data for the participants.\n\n## Method\nStudents were randomly assigned to one of two groups. The sleep loss group stayed awake all night in a laboratory, watched by research assistants. The normal sleep group slept for 8 hours in the same laboratory. Neither group was allowed caffeine.\n\nAt noon the next day, both groups looked at 150 photos of scenes, such as a beach or a kitchen, for 2 seconds each and were asked to remember them. Two days later, after both groups had slept normally at home for two nights, students were shown 300 photos: the 150 they had seen and 150 new ones. Memory was measured as the percentage of the original photos that a student correctly recognized.\n\nThe study was approved by the university's review board, and students signed consent forms after the procedures were explained. They were told that they could stop at any time and still be paid for the hours completed. Students in the sleep loss group were driven home by taxi after the learning session so that they would not drive while sleepy. During the night, students in the sleep loss group could read, watch movies, and play board games, but they could not lie down.\n\n## Results and Discussion\n| Group | Photos correctly recognized two days later | Sleepiness rating at noon (1 to 9) |\n| Sleep loss | 58% | 7.1 |\n| Normal sleep | 77% | 2.8 |\n\nStudents in the sleep loss group recognized significantly fewer photos two days later than students in the normal sleep group (p < .001), even though both groups had slept normally for two nights before the test. Students in the sleep loss group also reported feeling much sleepier while learning."
+     },
+     {
+      "h": "Source 2: Sleep and Grades in High School",
+      "p": "## Introduction\nIn this study, researchers examined the relationship between how much high school students sleep on school nights and their grades.\n\n## Participants\nParticipants were 2,259 students in grades 9 through 12 at eight public high schools in Massachusetts. They ranged in age from 14 to 18 years. The sample was 50% girls and 50% boys. The race/ethnicity of the participants was 62% White, 15% Hispanic/Latino/a, 12% Black/African American, 7% Asian/Asian American, and 4% other.\n\n## Method\nStudents completed a survey during class asking what time they usually went to bed and woke up on school nights, how many hours of homework they did each night, how many hours they worked at a job, and how often they used their phones after going to bed. They also reported the grades they usually got, from mostly As to mostly Ds and Fs.\n\nParents received a letter about the study and could choose to keep their child out of it. Students could skip any question, and no names were collected. The survey was given during the same week at all eight schools and took about 20 minutes. Researchers checked students' reported grades against school records for a random sample of 200 students and found that 89% matched.\n\nThe survey also asked students how sleepy they usually felt during their first two classes and how often they had fallen asleep while doing homework. Schools were chosen to include cities, suburbs, and small towns, and their start times ranged from 7:20 a.m. to 8:15 a.m. Students in special education classes completed the same survey with help from a teacher's aide if they asked for it.\n\n## Results and Discussion\n| Usual sleep on school nights | Percent of students | Percent reporting mostly As and Bs |\n| Less than 6 hours | 18% | 41% |\n| 6 to 7 hours | 49% | 58% |\n| 8 or more hours | 33% | 71% |\n\nHours of sleep were positively correlated with grades (r = .24, p < .001). Students who slept less also reported more phone use after going to bed and more hours at a job. The researchers noted that students who are struggling in school may stay up later doing homework, so the survey cannot show which came first."
+     },
+     {
+      "h": "Source 3: Studying Then Sleeping Versus Studying Then Staying Awake",
+      "p": "## Introduction\nIn this study, researchers tested whether sleeping soon after learning helps people remember what they learned better than staying awake for the same amount of time.\n\n## Participants\nParticipants were 72 undergraduate students (44 women, 28 men) aged 18 to 24 years (mean age = 19.8 years) at a university in Illinois who received course credit. Researchers did not report race/ethnicity data for the participants.\n\n## Method\nEach student learned 40 pairs of unrelated words, such as \"candle–river,\" until they could recall at least 60% of them. Students were randomly assigned to one of two groups. The sleep group learned the pairs at 9:00 p.m., slept at home, and were tested 12 hours later at 9:00 a.m. The wake group learned the pairs at 9:00 a.m., went about their normal day, and were tested 12 hours later at 9:00 p.m. When tested, students saw the first word of each pair and wrote the second word.\n\nStudents wore a wrist monitor so that researchers could check how long the sleep group slept. Students in the wake group were asked not to nap, and the monitor confirmed that none did. Each student signed a consent form and was told that they could stop at any time. After the test, students were told what the study was testing. Students in both groups were asked not to practice the word pairs between learning and testing, and 94% said they had not. Before learning, students rated how alert they felt, and the two groups did not differ.\n\n## Results and Discussion\n| Group | Word pairs recalled right after learning | Word pairs recalled 12 hours later |\n| Sleep | 27.1 | 26.3 |\n| Wake | 26.8 | 21.5 |\n\nThe two groups recalled about the same number of pairs right after learning. Twelve hours later, the sleep group had forgotten significantly fewer pairs than the wake group (p < .001). Students in the sleep group slept an average of 7 hours 20 minutes. Students in the wake group who said they had a busy day did not forget more than those who said they had a quiet day."
+     }
+    ]
+   },
+   "parts": [
+    {
+     "k": "A",
+     "prompt": "Propose a specific and defensible claim based in psychological science that responds to the question.",
+     "model": "Losing sleep harms students' ability to learn and remember, so students should get a full night of sleep instead of staying up late to study.",
+     "max": 1
+    },
+    {
+     "k": "Bi",
+     "prompt": "Support your claim using at least one piece of specific and relevant evidence from one of the sources.",
+     "model": "Students who stayed awake all night recognized only 58% of the photos they had studied, compared with 77% for students who slept 8 hours, even after two normal nights of sleep (Source 1).",
+     "max": 1
+    },
+    {
+     "k": "Bii",
+     "prompt": "Explain how the evidence from Part B (i) supports your claim using a psychological perspective, theory, concept, or research finding learned in AP Psychology.",
+     "model": "This supports my claim because sleep loss diminishes attentional focus, so it hurts selective attention, the ability to focus conscious awareness on one thing. Students who had not slept rated their sleepiness 7.1 while studying, so they could not focus on the photos and remembered fewer of them days later.",
+     "max": 2
+    },
+    {
+     "k": "Ci",
+     "prompt": "Support your claim using an additional piece of specific and relevant evidence from a different source than the one that was used in Part B (i).",
+     "model": "Students who slept after learning word pairs still recalled 26.3 pairs 12 hours later, while students who stayed awake for those 12 hours recalled only 21.5 (Source 3).",
+     "max": 1
+    },
+    {
+     "k": "Cii",
+     "prompt": "Explain how the evidence from Part C (i) supports your claim using a different psychological perspective, theory, concept, or research finding learned in AP Psychology than the one that was used in Part B (ii).",
+     "model": "This supports my claim because sleep is needed for memory consolidation, the process of storing new learning so it lasts, and sleep loss diminishes it. Students who slept after learning kept almost all of the word pairs, which shows that skipping sleep after studying means losing more of what you learned.",
      "max": 2
     }
    ]
