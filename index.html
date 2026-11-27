@@ -521,6 +521,143 @@ textarea { width: 100%; background: var(--sheet); border: 1px solid var(--rule);
   .frqn { display: inline; }
 }
 
+/* ---------- Redesign (Nov 27): grouped tabs, slim header, Start, pop-ups, tonight, focus timer ---------- */
+.top.slimtop { padding: 16px 0 6px; }
+.top.slimtop .topbar { margin-bottom: 10px; }
+.slimline { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 12px; margin: 0; }
+.slimt { font: 600 1.25rem/1.25 var(--serif); }
+.slimd, .testchip { color: var(--accent); font-weight: 600; font-size: .95rem; }
+.testchip { display: inline-block; margin: 12px 0 0; padding: 4px 12px; border-radius: 999px; background: var(--accent-wash); }
+.seg { display: inline-flex; flex-wrap: wrap; gap: 2px; padding: 3px; margin: 16px 0 2px; background: var(--sunk); border: 1px solid var(--rule); border-radius: 999px; }
+.seg button { border: 0; background: none; border-radius: 999px; padding: 7px 16px; font-weight: 600; color: var(--ink-2); min-height: 36px; }
+.seg button:hover { color: var(--ink); }
+.seg button[aria-pressed="true"] { background: var(--sheet); color: var(--ink); box-shadow: 0 1px 2px rgba(0, 0, 0, .1); }
+.toolrow { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 10px 16px; margin: 16px 0 4px; }
+.decksel { display: inline-flex; align-items: center; gap: 10px; font-weight: 600; }
+.decksel select { font-weight: 400; max-width: min(28rem, 70vw); }
+
+.resume { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 10px 16px; background: var(--sheet); border: 1px solid var(--rule); border-radius: var(--r); padding: 14px 18px; margin-bottom: 6px; }
+.resume > div { display: grid; gap: 2px; min-width: 0; }
+.starth { font: 600 1.5rem/1.2 var(--serif); margin: 22px 0 12px; }
+.choices { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px; }
+.choice { display: grid; align-content: start; gap: 8px; text-align: left; background: var(--sheet); border: 1px solid var(--rule); border-radius: 10px; padding: 22px 20px 20px; transition: border-color var(--fast), transform var(--fast); }
+.choice:hover { border-color: var(--accent); transform: translateY(-1px); }
+.choice.main { border-color: var(--accent); background: var(--accent-wash); }
+.choice .ch { font: 600 1.35rem/1.2 var(--serif); }
+.choice .cd { color: var(--ink-2); font-size: .95rem; line-height: 1.5; }
+.choice .cgo { color: var(--accent); font-weight: 600; margin-top: 4px; }
+.toolsgrid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; margin-top: 14px; }
+.tg { background: var(--sheet); border: 1px solid var(--rule); border-radius: 10px; padding: 14px 16px 6px; }
+.tg h3 { font-size: 1rem; margin-bottom: 6px; }
+.tg button { display: block; width: 100%; text-align: left; background: none; border: 0; border-top: 1px solid var(--rule); padding: 10px 0; font-weight: 600; }
+.tg button:hover { color: var(--accent); }
+.tg button span { display: block; font-weight: 400; color: var(--ink-2); font-size: .88rem; }
+.startfoot { margin-top: 18px; }
+
+/* Shared pop-up */
+#modalhost .scrim { position: fixed; inset: 0; z-index: 60; display: grid; place-items: center; padding: 20px; background: color-mix(in srgb, var(--ink) 45%, transparent); }
+.modal { width: min(36rem, 100%); max-height: calc(100vh - 40px); overflow: auto; background: var(--sheet); color: var(--ink); border-radius: 12px; box-shadow: 0 20px 60px rgba(0, 0, 0, .28); padding: 22px 26px 18px; }
+.modal.wide { width: min(46rem, 100%); }
+.modal:focus { outline: none; }
+.modal h2 { font: 600 1.45rem/1.25 var(--serif); margin: 0 0 8px; }
+.modal p { margin: 0 0 10px; }
+.mtop { display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; }
+.mdots { display: flex; gap: 6px; }
+.mdots i { width: 8px; height: 8px; border-radius: 4px; background: var(--rule); }
+.mdots i.done { background: color-mix(in srgb, var(--accent) 45%, var(--rule)); }
+.mdots i.on { width: 22px; background: var(--accent); }
+.mx { border: 0; background: none; color: var(--ink-2); padding: 8px; border-radius: var(--r-sm); display: inline-flex; }
+.mx:hover { color: var(--ink); background: var(--sunk); }
+.mfoot { display: flex; justify-content: space-between; align-items: center; gap: 10px; margin-top: 18px; padding-top: 14px; border-top: 1px solid var(--rule); }
+.mopts { display: grid; gap: 8px; margin: 14px 0 4px; }
+.mopts button { text-align: left; border: 1px solid var(--rule); background: var(--sheet); border-radius: var(--r-sm); padding: 12px 14px; }
+.mopts button[aria-pressed="true"] { border-color: var(--accent); background: var(--accent-wash); }
+.mopts button span { display: block; font-size: .9rem; color: var(--ink-2); margin-top: 2px; }
+.msum { list-style: none; margin: 12px 0 6px; padding: 0; }
+.msum li { display: flex; justify-content: space-between; gap: 16px; padding: 8px 0; border-bottom: 1px solid var(--rule); }
+.msum li span { color: var(--ink-2); text-align: right; }
+.modal .plrow { grid-template-columns: minmax(0, 1fr) auto; }
+.modal .plrate { max-height: 19rem; overflow: auto; }
+.modal .chips { margin-top: 12px; }
+
+/* Tonight's session */
+.tnhead { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 10px 16px; margin: 18px 0 12px; }
+.tnhead > div:first-child { display: grid; gap: 2px; }
+.tndots { display: flex; gap: 6px; }
+.tndots i { width: 26px; height: 6px; border-radius: 3px; background: var(--rule); }
+.tndots i.done { background: color-mix(in srgb, var(--accent) 45%, var(--rule)); }
+.tndots i.on { background: var(--accent); }
+.tncards { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; margin: 4px 0 6px; }
+.tncard { display: grid; gap: 4px; border: 1px solid var(--rule); border-radius: var(--r-sm); padding: 12px 14px; background: var(--sheet); }
+.tncard span { line-height: 1.5; }
+.tncard .tnhook { color: var(--ink-2); font-size: .9rem; }
+.tnres { font-weight: 600; }
+.tnsub { font-size: 1rem; margin: 16px 0 8px; }
+
+/* Focus timer */
+.fbar { position: sticky; top: 0; z-index: 20; display: flex; flex-wrap: wrap; align-items: center; gap: 8px 14px; margin: 12px 0 4px; padding: 8px 12px; background: var(--sheet); border: 1px solid var(--rule); border-radius: 10px; }
+.fbar.brk { background: var(--ok-wash); border-color: var(--ok); }
+.fclock { font-weight: 700; font-size: 1.2rem; font-variant-numeric: tabular-nums; min-width: 4ch; }
+.flab { color: var(--ink-2); font-size: .92rem; }
+.fbtns { margin-left: auto; display: flex; flex-wrap: wrap; gap: 4px; }
+.fleft { margin: 8px 0; padding: 10px 14px; border-radius: 10px; background: var(--mid-wash); border: 1px solid var(--mid); display: flex; flex-wrap: wrap; align-items: center; gap: 8px 12px; }
+.fcustom { display: flex; flex-wrap: wrap; gap: 10px 18px; margin: 14px 0 4px; }
+.fcustom label { display: inline-flex; align-items: center; gap: 8px; }
+.fcustom input { width: 5rem; }
+
+@media (max-width: 760px) {
+  .choices, .toolsgrid, .tncards { grid-template-columns: minmax(0, 1fr); }
+  .seg { display: flex; border-radius: var(--r); }
+  .seg button { flex: 1; }
+  .modal { padding: 18px 18px 14px; }
+}
+.tncard { align-content: start; }
+.seclist { list-style: none; margin: 10px 0 14px; padding: 0; background: var(--sheet); border: 1px solid var(--rule); border-radius: var(--r); }
+.seclist li { display: grid; grid-template-columns: minmax(0, 1fr) auto auto; align-items: center; gap: 8px 16px; padding: 10px 16px; border-top: 1px solid var(--rule); }
+.seclist li:first-child { border-top: 0; }
+.seclist li.next { background: var(--accent-wash); }
+.seclist .sn { font-weight: 600; }
+.seclist .sp { color: var(--ink-2); font-size: .9rem; }
+.ptright { display: inline-flex; align-items: center; gap: 10px; margin-left: auto; }
+.pttimer { display: inline-flex; align-items: center; gap: 6px; font-weight: 600; font-variant-numeric: tabular-nums; }
+.secseg { margin: 0; }
+.mctl { display: grid; gap: 10px; margin: 6px 0 12px; }
+.mctl label { display: grid; grid-template-columns: 7rem minmax(0, 1fr); align-items: center; gap: 10px; }
+.fctools { display: flex; justify-content: flex-end; }
+@media (max-width: 760px) { .seclist li { grid-template-columns: minmax(0, 1fr) auto; } .seclist .sp { grid-column: 1; grid-row: 2; } .seclist .btn { grid-row: 1 / 3; grid-column: 2; } }
+.gtools { display: flex; justify-content: flex-end; margin: 10px 0 4px; }
+details.gfold { border: 1px solid var(--rule); border-radius: var(--r); background: var(--sheet); padding: 0 20px; margin-bottom: 10px; }
+details.gfold > summary { list-style: none; cursor: pointer; display: grid; gap: 2px; padding: 16px 0; }
+details.gfold > summary::-webkit-details-marker { display: none; }
+details.gfold > summary .gh { font: 600 1.3rem/1.25 var(--serif); display: flex; align-items: center; gap: 8px; }
+details.gfold > summary .gs { color: var(--ink-2); font-size: .95rem; }
+details.gfold > summary:hover .gh { color: var(--accent); }
+details.gfold[open] > summary { border-bottom: 1px solid var(--rule); margin-bottom: 12px; }
+details.gfold[open] { padding-bottom: 14px; }
+a.homeresume { color: inherit; text-decoration: none; margin: 4px 0 14px; }
+a.homeresume:hover { border-color: var(--accent); }
+/* Written answers: key-word checker, Gemini, formula entry */
+.kwbox { margin: 8px 0 6px; }
+.kwh { font-weight: 600; margin: 0 0 4px; }
+.aiw { margin: 6px 0; padding: 8px 12px; border-radius: var(--r-sm); background: var(--accent-wash); }
+.gemask { margin: 14px 0 4px; padding: 14px 16px; border: 1px solid var(--accent); background: var(--accent-wash); border-radius: var(--r); }
+.gemask p { margin: 4px 0 0; color: var(--ink-2); max-width: 62ch; }
+.gemask .qnav { margin-top: 10px; }
+.fhead { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px 16px; }
+.fhead .hint { margin: 0; max-width: 60ch; }
+.fseg { margin: 0; }
+.fprev { display: block; font-size: 1.3rem; font-weight: 500; min-height: 1.6rem; margin: 4px 0 2px; }
+.ftb { display: flex; flex-wrap: wrap; gap: 4px; margin: 6px 0 10px; }
+.ftb button { min-width: 40px; height: 36px; padding: 0 9px; border: 1px solid var(--rule); background: var(--sheet); border-radius: var(--r-sm); }
+.ftb button:hover { border-color: var(--accent); }
+input.fhide { position: absolute; width: 1px; height: 1px; opacity: 0; pointer-events: none; }
+.fboxes { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin: 6px 0 2px; }
+.fel { display: grid; grid-template-columns: auto auto; grid-template-rows: auto auto; align-items: center; }
+.fel .fsym { grid-row: 1 / 3; width: 3.6rem; height: 3rem; text-align: center; font-size: 1.2rem; font-weight: 600; }
+.fel .fsup, .fel .fsub { width: 2.3rem; height: 1.6rem; min-height: 0; padding: 0 4px; text-align: center; font-size: .88rem; margin-left: 3px; }
+.fel .fsup { align-self: start; }
+.fel .fsub { align-self: end; }
+
 </style></head>
 <body><div id="app"></div>
 <noscript>This study kit needs JavaScript.</noscript>
@@ -570,7 +707,11 @@ const UNIT = (() => {
   return COURSE.units.find((u) => u.id === id) || null;
 })();
 const D = UNIT ? UNITDATA[UNIT.id] : null;
-addEventListener("hashchange", () => location.reload());
+/* Moving between units reloads the page; the focus timer's "leave this page?" check skips this case. */
+addEventListener("hashchange", () => {
+  window.__navOK = true;
+  location.reload();
+});
 
 /* Saved progress is namespaced per course and unit, so kits on the same github.io site never overwrite each other. */
 const keyOf = (u, part) => "sk:" + COURSE.id + ":" + u.id + ":" + part;
@@ -589,6 +730,7 @@ COURSE.units.forEach((u) => {
   });
 });
 const LSK = UNIT ? keyOf(UNIT, "kit") : null;
+const LASTK = "sk:" + COURSE.id + ":last";
 const PTK = UNIT ? keyOf(UNIT, "pt") : null;
 const readJSON = (k) => {
   try {
@@ -651,6 +793,145 @@ document.addEventListener("click", (e) => {
   if (f) f(t, e);
 });
 
+/* 05-modal.js */
+/* Shared pop-up: a centered window over a dimmed page. Used for step-by-step setups (Study plan, tonight's session,
+   midterm, focus timer), Options menus and confirms.
+   openModal({ title, steps: [fn -> html], body: fn -> html, done: "Start", onDone, onClose, wide })
+   - steps: one screen per step, with step dots and Back / Next; the last step's button says `done`.
+   - body: a single screen (no dots); its own buttons do the work.
+   Esc and ✕ close it, Tab stays inside it, and focus goes back to where it was. Content is re-drawn with
+   modalRender() after a choice, so step functions read their state from wherever they keep it. */
+const MODAL = { o: null, step: 0, back: null };
+function openModal(o) {
+  MODAL.o = o;
+  MODAL.step = 0;
+  MODAL.back = document.activeElement;
+  modalRender(true);
+}
+function modalRender(first) {
+  const o = MODAL.o;
+  let host = document.getElementById("modalhost");
+  if (!host) {
+    host = document.createElement("div");
+    host.id = "modalhost";
+    document.body.appendChild(host);
+  }
+  if (!o) {
+    host.innerHTML = "";
+    return;
+  }
+  const steps = o.steps || null,
+    n = steps ? steps.length : 0,
+    s = MODAL.step;
+  const inner = steps ? steps[s]() : o.body();
+  host.innerHTML =
+    '<div class="scrim" data-act="mclose"><div class="modal' +
+    (o.wide ? " wide" : "") +
+    '" role="dialog" aria-modal="true" aria-label="' +
+    esc(o.title || "Pop-up") +
+    '" data-act="mnoop"><div class="mtop">' +
+    (n > 1 ? '<div class="mdots" aria-label="Step ' + (s + 1) + " of " + n + '">' + Array.from({ length: n }, (_, i) => '<i class="' + (i === s ? "on" : i < s ? "done" : "") + '"></i>').join("") + "</div>" : "<span></span>") +
+    '<button class="mx" data-act="mclose" aria-label="Close">' +
+    ICON.x +
+    "</button></div>" +
+    inner +
+    (steps
+      ? '<div class="mfoot"><button class="btn ghost" data-act="mback"' +
+        (s === 0 ? " disabled" : "") +
+        '>Back</button><button class="btn" data-act="mnext">' +
+        esc(s < n - 1 ? o.next || "Next" : o.done || "Done") +
+        "</button></div>"
+      : "") +
+    "</div></div>";
+  const m = host.querySelector(".modal");
+  if (first || !m.contains(document.activeElement)) {
+    const f = m.querySelector("[autofocus], [aria-pressed='true'], input, select, textarea, .mfoot .btn:not([disabled]), .btn");
+    (f || m).focus();
+  }
+}
+function closeModal(skipHook) {
+  const o = MODAL.o;
+  MODAL.o = null;
+  modalRender();
+  if (MODAL.back && document.contains(MODAL.back)) MODAL.back.focus();
+  if (o && o.onClose && !skipHook) o.onClose();
+}
+const modalOpen = () => !!MODAL.o;
+ACT.mnoop = () => {};
+ACT.mclose = (t, e) => {
+  /* A click inside the window bubbles to the scrim; only the scrim itself or ✕ closes. */
+  if (t.classList.contains("scrim") && e && e.target !== t) return;
+  closeModal();
+};
+ACT.mback = () => {
+  MODAL.step = Math.max(0, MODAL.step - 1);
+  modalRender(true);
+};
+ACT.mnext = () => {
+  const o = MODAL.o;
+  if (!o) return;
+  if (o.beforeNext && o.beforeNext(MODAL.step) === false) return;
+  if (MODAL.step < o.steps.length - 1) {
+    MODAL.step++;
+    modalRender(true);
+    return;
+  }
+  closeModal(true);
+  if (o.onDone) o.onDone();
+};
+document.addEventListener("keydown", (e) => {
+  if (!MODAL.o) return;
+  if (e.key === "Escape") {
+    e.preventDefault();
+    closeModal();
+    return;
+  }
+  if (e.key === "Tab") {
+    const m = document.querySelector("#modalhost .modal");
+    if (!m) return;
+    const f = [...m.querySelectorAll("button:not([disabled]), input, select, textarea, a[href], [tabindex]:not([tabindex='-1'])")];
+    if (!f.length) return;
+    const first = f[0],
+      last = f[f.length - 1];
+    if (e.shiftKey && document.activeElement === first) {
+      e.preventDefault();
+      last.focus();
+    } else if (!e.shiftKey && document.activeElement === last) {
+      e.preventDefault();
+      first.focus();
+    }
+  }
+});
+/* An in-page "are you sure?" (the browser's confirm() can be blocked inside some frames). Calls yes() on confirm.
+   Tests and old code can still use ask(); this is for buttons that clear progress. */
+function confirmBox(title, text, yesLabel, yes) {
+  openModal({
+    title: title,
+    body: () =>
+      "<h2>" +
+      esc(title) +
+      "</h2><p>" +
+      esc(text) +
+      '</p><div class="mfoot"><button class="btn ghost" data-act="mclose">Cancel</button><button class="btn danger" data-act="myes">' +
+      esc(yesLabel) +
+      "</button></div>",
+    yes: yes,
+  });
+}
+ACT.myes = () => {
+  const o = MODAL.o;
+  closeModal(true);
+  if (o && o.yes) o.yes();
+};
+/* Destructive actions go through here: a pop-up in the page, or confirm() when a test has replaced it. */
+function sure(title, text, yesLabel, yes) {
+  if (window.__useConfirm) {
+    if (ask(text)) yes();
+    return;
+  }
+  confirmBox(title, text, yesLabel, yes);
+}
+
 /* 10-shell.js */
 /* Course home (list of units) and the frame around an open unit: header, progress meter, tabs, deck chips. */
 function hubLink() {
@@ -670,7 +951,7 @@ function unitProgress(u) {
   const ids = [];
   data.decks.forEach((dk) => {
     if (dk.optional) return;
-    dk.sections.forEach((sc, si) => sc.cards.forEach((c, ci) => ids.push(dk.id + "." + si + "." + ci)));
+    dk.sections.forEach((sc, si) => sc.cards.forEach((c, ci) => ids.push(c.id0 || dk.id + "." + si + "." + ci)));
   });
   let answered = 0,
     total = 0;
@@ -704,7 +985,20 @@ function homeHTML() {
     '</h1><p class="lede">' +
     esc(COURSE.tagline || "Pick a unit. Progress in each unit is saved in this browser.") +
     "</p></header>";
-  h += '<main><ul class="unitlist">';
+  /* "Continue": the unit opened last in this browser. */
+  const last = readJSON(LASTK),
+    lu = last && COURSE.units.find((u) => u.id === last.unit);
+  h += "<main>";
+  if (lu)
+    h +=
+      '<a class="resume homeresume" href="#' +
+      esc(lu.id) +
+      '"><div><b>Continue: ' +
+      esc(lu.label) +
+      '</b><span class="muted">' +
+      esc(lu.title) +
+      '</span></div><span class="btn sec">Continue</span></a>';
+  h += '<ul class="unitlist">';
   COURSE.units.forEach((u) => {
     const p = unitProgress(u),
       pct = p.tot ? Math.round((100 * p.got) / p.tot) : p.total ? Math.round((100 * p.answered) / p.total) : 0;
@@ -717,10 +1011,10 @@ function homeHTML() {
       esc(u.title) +
       "</span>" +
       (u.blurb ? '<span class="ublurb">' + esc(u.blurb) + "</span>" : "") +
+      /* No "0 of 204 terms" here (the audit found big totals scare people off); a slim bar shows how far along. */
       '<span class="ustat">' +
-      /* A practice-only unit (no cards) shows only its practice count. */
-      (p.tot ? p.got + " of " + p.tot + " terms marked got it" + (p.total ? ", " : "") : "") +
-      (p.total ? p.answered + " of " + p.total + " practice questions answered" : "") +
+      (pct ? pct + "% done" : "Not started") +
+      (testOf(u) ? ", " + esc(testOf(u)) : "") +
       '</span><span class="bar" aria-hidden="true"><i style="width:' +
       pct +
       '%"></i></span></span><span class="ugo">Open' +
@@ -730,6 +1024,17 @@ function homeHTML() {
   return h + "</ul>" + backupHTML() + "</main>" + creditLine();
 }
 
+/* A unit's test date from its saved Study plan, as "test on Thu, Dec 3" (until the day). */
+function testOf(u) {
+  const P = (readJSON(keyOf(u, "kit")) || {}).plan;
+  if (!P || P.nodate || !P.date) return "";
+  const p = P.date.split("-").map(Number),
+    t = new Date(p[0], p[1] - 1, p[2]),
+    t0 = new Date();
+  t0.setHours(0, 0, 0, 0);
+  const n = Math.round((t - t0) / 86400000);
+  return n < 0 ? "" : n === 0 ? "test today" : n === 1 ? "test tomorrow" : "test on " + t.toLocaleDateString("en-US", { weekday: "short", month: "short", day: "numeric" });
+}
 function renderHome() {
   document.title = COURSE.name + " Study Kit";
   document.getElementById("app").innerHTML = homeHTML();
@@ -765,6 +1070,7 @@ function loadSave() {
   SAVE.secRev = o.secRev || {};
   SAVE.star = o.star || {};
   SAVE.plan = o.plan || null;
+  SAVE.tonight = o.tonight || null;
   const s = o.settings || {};
   /* Older kits kept theme and size per kit; carry them over once. */
   if (!readJSON(PREFK) && (s.theme || s.size !== undefined)) {
@@ -788,9 +1094,10 @@ function indexCards() {
     dk.tone = di % 8;
     dk.sections.forEach((sc, si) =>
       sc.cards.forEach((c, ci) => {
-        c.id = dk.id + "." + si + "." + ci;
+        /* id0 / key0: a card or section moved by groups.json keeps the id it had before, so saved progress still matches. */
+        c.id = c.id0 || dk.id + "." + si + "." + ci;
         c.deck = dk.id;
-        c.sec = dk.id + "." + si;
+        c.sec = sc.key0 || dk.id + "." + si;
         BYID[c.id] = c;
       }),
     );
@@ -811,10 +1118,11 @@ function rebuild() {
       let i = 0;
       for (let p = 0; p < parts; p++) {
         const sz = base + (p < extra ? 1 : 0);
+        const sk = sc.key0 || dk.id + "." + si;
         LESSONS.push({
-          id: dk.id + "." + si + "." + p,
+          id: sk + "." + p,
           deck: dk.id,
-          sec: dk.id + "." + si,
+          sec: sk,
           secName: sc.name,
           part: p,
           parts: parts,
@@ -828,6 +1136,7 @@ function rebuild() {
 }
 
 function initShell() {
+  writeJSON(LASTK, { unit: UNIT.id, at: Date.now() });
   loadSave();
   indexCards();
   rebuild();
@@ -841,26 +1150,33 @@ function initShell() {
     document.title = UNIT.label + ": " + UNIT.title + " | " + COURSE.name;
     return;
   }
-  /* A unit with no cards is practice only: no Study plan, Learn, Study guide, Flashcards or Quiz. */
+  /* Every tool a unit can have. The top tabs group them (GROUPS); the ids never change, so saved progress and old
+     saved tabs keep working. A unit with no cards is practice only: no Start, Learn, Study guide, Flashcards or Quiz. */
   TABS = ALL.length
     ? [
+        ["start", "Start"],
         ["plan", "Study plan"],
+        ["tonight", "Tonight's session"],
         ["learn", "Learn"],
-        ["guide", "Study guide"],
+        ["flash", "Flashcards"],
+        ["quiz", "Quiz"],
       ]
     : [];
-  if (D.cheat && D.cheat.length) TABS.push(["cheat", "Cheat sheet"]);
-  if (ALL.length) TABS.push(["flash", "Flashcards"], ["quiz", "Quiz"]);
   if (secs.some((s) => s.mode !== "exam")) TABS.push(["pt", "Practice Test"]);
-  if (secs.some((s) => s.mode === "exam")) TABS.push(["exam", COURSE.examTab || "Full exam"]);
-  if (secs.length) TABS.push(["prog", "Progress"]);
+  if (secs.some((s) => s.mode === "exam")) TABS.push(["exam", "Mock exam"]);
+  if (ALL.length) TABS.push(["guide", "Study guide"]);
+  if (D.cheat && D.cheat.length) TABS.push(["cheat", "Cheat sheet"]);
+  if (secs.length || ALL.length) TABS.push(["prog", "Progress"]);
   TABS.push(["set", "Settings"]);
-  UI = { tab: TABS[0][0], deck: 0, run: null, q: null, qmsg: "" };
+  UI = { tab: TABS[0][0], deck: 0, run: null, q: null, qmsg: "", last: {} };
   const u = SAVE.ui;
   if (u) {
-    if (TABS.some((t) => t[0] === u.tab)) UI.tab = u.tab;
+    /* A unit opens on Start; the tool used last is offered there as "Pick up where you left off". */
+    if (TABS.some((t) => t[0] === u.tab) && u.tab !== "start" && u.tab !== "set") UI.resume = u.tab;
+    if (!ALL.length && TABS.some((t) => t[0] === u.tab)) UI.tab = u.tab;
     if (u.deck && D.decks.some((d) => d.id === u.deck)) UI.deck = u.deck;
     if (u.q && typeof u.q === "object" && u.q.decks) UI.q = u.q;
+    if (u.last && typeof u.last === "object") UI.last = u.last;
   }
   document.title = UNIT.label + ": " + UNIT.title + " | " + COURSE.name;
 }
@@ -873,8 +1189,76 @@ const deckTone = (id) => {
 const dot = (id) => '<i class="dot t' + deckTone(id) + '" aria-hidden="true"></i>';
 const deckCards = () => (UI.deck ? ALL.filter((c) => c.deck === UI.deck) : ALL);
 
+/* Top tabs: Start, Study, Test yourself, Notes (plus the Settings gear). Each groups some tools. */
+const GROUPS = [
+  ["start", "Start", ["start", "plan", "tonight"]],
+  ["study", "Study", ["learn", "flash", "quiz"]],
+  ["test", "Test yourself", ["pt", "exam"]],
+  ["notes", "Notes", ["guide", "cheat", "prog"]],
+];
+const hasTool = (t) => TABS.some((x) => x[0] === t);
+const toolName = (t) => (TABS.find((x) => x[0] === t) || [t, t])[1];
+const groupOf = (t) => (GROUPS.find((g) => g[2].indexOf(t) >= 0) || ["set"])[0];
+function goTool(t) {
+  if (!hasTool(t)) return;
+  UI.tab = t;
+  UI.run = null;
+  if (typeof stopTM === "function") stopTM();
+  UI.last = UI.last || {};
+  UI.last[groupOf(t)] = t;
+  render();
+  window.scrollTo(0, 0);
+}
+function navHTML() {
+  if (hasFR())
+    return (
+      '<nav class="tabs" aria-label="Sections"><div class="tabrow"><button class="tab" data-act="tab" data-t="fr"' +
+      (UI.tab === "fr" ? ' aria-current="page"' : "") +
+      '>Free response</button></div><button class="tab tabgear" data-act="tab" data-t="set" aria-label="Settings" title="Settings"' +
+      (UI.tab === "set" ? ' aria-current="page"' : "") +
+      ">" +
+      ICON.gear +
+      "</button></nav>"
+    );
+  const g = groupOf(UI.tab),
+    groups = GROUPS.filter((x) => x[2].some(hasTool));
+  let h =
+    '<nav class="tabs" aria-label="Sections"><div class="tabrow">' +
+    groups.map((x) => '<button class="tab" data-act="group" data-g="' + x[0] + '"' + (g === x[0] ? ' aria-current="page"' : "") + ">" + x[1] + "</button>").join("") +
+    /* Settings is an icon at the end, outside the scrolling row, so it never wraps or scrolls away. */
+    '</div><button class="tab tabgear" data-act="tab" data-t="set" aria-label="Settings" title="Settings"' +
+    (UI.tab === "set" ? ' aria-current="page"' : "") +
+    ">" +
+    ICON.gear +
+    "</button></nav>";
+  const grp = GROUPS.find((x) => x[0] === g),
+    tools = grp && g !== "start" ? grp[2].filter(hasTool) : [];
+  if (tools.length > 1)
+    h +=
+      '<div class="seg" role="group" aria-label="' +
+      esc(grp[1]) +
+      '">' +
+      tools.map((t) => '<button data-act="tab" data-t="' + t + '" aria-pressed="' + (UI.tab === t) + '">' + esc(toolName(t)) + "</button>").join("") +
+      "</div>";
+  return h;
+}
+/* One "Deck" picker for the Study guide and Flashcards (it replaces the rows of deck buttons). */
+function deckPickerHTML() {
+  if (D.decks.length < 2) return "";
+  return (
+    '<label class="decksel">Deck <select data-deckpick aria-label="Deck"><option value="0"' +
+    (!UI.deck ? " selected" : "") +
+    ">All decks</option>" +
+    D.decks.map((d) => '<option value="' + esc(d.id) + '"' + (UI.deck === d.id ? " selected" : "") + ">" + esc(d.name) + "</option>").join("") +
+    "</select></label>"
+  );
+}
 function view() {
   switch (UI.tab) {
+    case "start":
+      return startHTML();
+    case "tonight":
+      return tonightHTML();
     case "plan":
       return planHTML();
     case "learn":
@@ -899,90 +1283,63 @@ function view() {
   }
 }
 function persistUI() {
-  SAVE.ui = { tab: UI.tab, deck: UI.deck, q: UI.q, L: packL() };
+  SAVE.ui = { tab: UI.tab === "start" && UI.resume ? UI.resume : UI.tab, deck: UI.deck, q: UI.q, L: packL(), last: UI.last };
   save();
   PTsave();
 }
 function render() {
   if (!UNIT) return renderHome();
-  const got = ALL.filter((c) => SAVE.known[c.id]).length,
-    tot = ALL.length,
-    pct = tot ? Math.round((got / tot) * 100) : 0;
+  /* The full header (course, unit title, test date) only on Start; every other screen gets one slim line. */
+  const fullHead = UI.tab === "start" || !ALL.length;
+  const test = typeof planTestLabel === "function" ? planTestLabel() : "";
   let h =
-    '<header class="top"><div class="topbar">' +
+    '<header class="top' +
+    (fullHead ? "" : " slimtop") +
+    '"><div class="topbar">' +
     hubLink() +
     '<button class="btn ghost" data-act="home">' +
     ICON.grid +
     "All units</button></div>" +
-    '<p class="kicker">' +
-    esc(COURSE.name + ", " + UNIT.label) +
-    "</p><h1>" +
-    esc(UNIT.title) +
-    "</h1>" +
-    (tot
-      ? '<div class="meter"><span>' +
-        got +
-        " of " +
-        tot +
-        ' terms marked got it</span><span class="bar" aria-hidden="true"><i style="width:' +
-        pct +
-        '%"></i></span><button class="lnk" data-act="resetprog">Reset progress</button></div>'
-      : "") +
+    (fullHead
+      ? '<p class="kicker">' + esc(COURSE.name + ", " + UNIT.label) + "</p><h1>" + esc(UNIT.title) + "</h1>" + (test ? '<p class="testchip">' + esc(test) + "</p>" : "")
+      : '<p class="slimline"><span class="slimt">' + esc(UNIT.label + ": " + UNIT.title) + "</span>" + (test ? '<span class="slimd">' + esc(test) + "</span>" : "") + "</p>") +
     "</header>";
-  h +=
-    '<nav class="tabs" aria-label="Sections"><div class="tabrow">' +
-    TABS.filter((t) => t[0] !== "set")
-      .map((t) => '<button class="tab" data-act="tab" data-t="' + t[0] + '"' + (UI.tab === t[0] ? ' aria-current="page"' : "") + ">" + t[1] + "</button>")
-      .join("") +
-    /* Settings is an icon at the end, outside the scrolling row, so it never wraps or scrolls away. */
-    '</div><button class="tab tabgear" data-act="tab" data-t="set" aria-label="Settings" title="Settings"' +
-    (UI.tab === "set" ? ' aria-current="page"' : "") +
-    ">" +
-    ICON.gear +
-    "</button></nav>" +
-    (typeof planBarHTML === "function" ? planBarHTML() : "");
-  if (["guide", "flash", "quiz"].indexOf(UI.tab) >= 0 && !UI.run)
-    h +=
-      '<div class="chips" role="group" aria-label="Deck"><button class="chip" data-act="deck" data-d="0" aria-pressed="' +
-      !UI.deck +
-      '">All decks</button>' +
-      D.decks
-        .map(
-          (d) =>
-            '<button class="chip" data-act="deck" data-d="' +
-            d.id +
-            '" aria-pressed="' +
-            (UI.deck === d.id) +
-            '">' +
-            dot(d.id) +
-            esc(d.name) +
-            " <small>" +
-            ALL.filter((c) => c.deck === d.id && SAVE.known[c.id]).length +
-            "/" +
-            ALL.filter((c) => c.deck === d.id).length +
-            "</small></button>",
-        )
-        .join("") +
-      "</div>";
+  h += navHTML() + (typeof planBarHTML === "function" ? planBarHTML() : "") + (typeof focusBarHTML === "function" ? focusBarHTML() : "");
+  if (["guide", "flash"].indexOf(UI.tab) >= 0 && !UI.run) {
+    const dp = deckPickerHTML(),
+      ob = UI.tab === "flash" && typeof fcOptsBtn === "function" ? fcOptsBtn() : "";
+    if (dp || ob) h += '<div class="toolrow">' + (dp || "<span></span>") + ob + "</div>";
+  }
   h += '<main id="main">' + view() + "</main>" + creditLine();
   document.getElementById("app").innerHTML = h;
   /* Keep the current tab in view when the tab row scrolls sideways (phones), since rebuilding resets the scroll. */
   const row = document.querySelector(".tabrow"),
     cur = row && row.querySelector(".tab[aria-current]");
   if (cur && row.scrollWidth > row.clientWidth) row.scrollLeft = Math.max(0, cur.offsetLeft - row.offsetLeft - (row.clientWidth - cur.offsetWidth) / 2);
+  if (MODAL.o) modalRender();
   persistUI();
 }
 
 ACT.home = () => {
   location.hash = "";
 };
-ACT.tab = (t) => {
-  UI.tab = t.dataset.t;
+ACT.tab = (t) => goTool(t.dataset.t);
+ACT.group = (t) => {
+  const g = GROUPS.find((x) => x[0] === t.dataset.g);
+  if (!g) return;
+  const last = UI.last[g[0]];
+  goTool(g[0] === "start" ? "start" : last && hasTool(last) ? last : g[2].find(hasTool));
+};
+document.addEventListener("change", (e) => {
+  const t = e.target;
+  if (!UNIT || !t.matches || !t.matches("[data-deckpick]")) return;
+  const d = D.decks.find((x) => String(x.id) === t.value);
+  UI.deck = d ? d.id : 0;
   UI.run = null;
+  FC = null;
   stopTM();
   render();
-  window.scrollTo(0, 0);
-};
+});
 ACT.deck = (t) => {
   const d = D.decks.find((x) => String(x.id) === t.dataset.d);
   UI.deck = d ? d.id : 0;
@@ -995,8 +1352,8 @@ ACT.deck = (t) => {
   });
   render();
 };
-ACT.resetprog = () => {
-  if (!ask("Reset study progress for this unit (got-it marks, trouble terms, finished lessons)?")) return;
+ACT.resetprog = () => sure("Reset study progress?", "This clears this unit's got-it marks, trouble terms and finished lessons. Practice test answers stay.", "Reset progress", resetProgNow);
+function resetProgNow() {
   SAVE.known = {};
   SAVE.trouble = {};
   SAVE.done = {};
@@ -1007,6 +1364,116 @@ ACT.resetprog = () => {
   save();
   FC = null;
   render();
+}
+
+/* 12-start.js */
+/* Start: the first screen of every unit. "Pick up where you left off", then three ways to study:
+   Test tomorrow? (tonight's session, 76-tonight.js), I have a few days (the Study plan, 75-plan.js) and
+   Let me pick (every tool). Built so a student who opens the unit the night before is studying in two clicks
+   and never sees the unit's full size first. */
+function resumeLine() {
+  const t = UI.resume;
+  if (!t || !hasTool(t)) return null;
+  if (t === "tonight") {
+    const T = tonightState();
+    if (!T || !T.rounds || T.phase === "done" || !tonightToday(T)) return null;
+    return ["Tonight's session", "Round " + Math.min(T.cur + 1, T.rounds.length) + " of " + T.rounds.length];
+  }
+  if (t === "plan") {
+    const P = SAVE.plan;
+    if (!P || !P.route) return null;
+    const st = currentStep();
+    return ["Your study plan", st ? "Next: " + st.title : "Plan finished"];
+  }
+  if (t === "learn") {
+    const l = LESSONS[LI()];
+    return ["Learn", l ? l.title : ""];
+  }
+  if ((t === "pt" || t === "exam") && PT.secs.length) {
+    const s = PT.secs[PT.sec];
+    return [toolName(t), s && s.mode === (t === "exam" ? "exam" : "practice") ? s.name : ""];
+  }
+  return [toolName(t), ""];
+}
+function startHTML() {
+  if (UI.run) return runHTML();
+  const r = resumeLine(),
+    T = tonightState(),
+    tonightOn = T && T.rounds && T.phase !== "done" && tonightToday(T),
+    P = SAVE.plan,
+    planOn = P && P.route;
+  let h = "";
+  if (r)
+    h +=
+      '<div class="resume"><div><b>Pick up where you left off</b><span class="muted">' +
+      esc(r[0] + (r[1] ? ": " + r[1] : "")) +
+      '</span></div><button class="btn sec" data-act="resume">Continue</button></div>';
+  h += '<h2 class="starth">How do you want to study?</h2><div class="choices">';
+  h +=
+    '<button class="choice main" data-act="tnstart"><span class="ch">Test tomorrow?</span><span class="cd">' +
+    (tonightOn
+      ? "Tonight's session: round " + Math.min(T.cur + 1, T.rounds.length) + " of " + T.rounds.length + "."
+      : "About an hour tonight, in short rounds: read a few terms, answer them, and the ones you miss come back.") +
+    '</span><span class="cgo">' +
+    (tonightOn ? "Continue tonight's session" : "Start tonight's session") +
+    "</span></button>";
+  h +=
+    '<button class="choice" data-act="plstart"><span class="ch">I have a few days</span><span class="cd">' +
+    (planOn ? esc(dateLine()) + "." : "A plan spread over the days before your test, with a little each day.") +
+    '</span><span class="cgo">' +
+    (planOn ? "Open my plan" : "Make my plan") +
+    "</span></button>";
+  h +=
+    '<button class="choice" data-act="tools" aria-expanded="' +
+    !!UI.showTools +
+    '"><span class="ch">Let me pick</span><span class="cd">Choose any tool yourself: lessons, flashcards, quizzes, practice tests and notes.</span><span class="cgo">' +
+    (UI.showTools ? "Hide the tools" : "Show all tools") +
+    "</span></button></div>";
+  if (UI.showTools) h += toolsGridHTML();
+  h +=
+    '<div class="startfoot"><button class="btn ghost" data-act="focusopen">' +
+    ICON.clock +
+    (focusState().on ? "Focus timer is on" : "Focus timer") +
+    "</button></div>";
+  return h;
+}
+const TOOL_HINT = {
+  learn: "Read a few terms, then answer them",
+  flash: "Flip and sort",
+  quiz: "Mixed questions",
+  pt: "By section, with explanations",
+  exam: "Timed, like the real test",
+  guide: "One deck at a time",
+  cheat: "One page",
+  prog: "What you know and what to review",
+};
+function toolsGridHTML() {
+  return (
+    '<div class="toolsgrid">' +
+    GROUPS.filter((g) => g[0] !== "start" && g[2].some(hasTool))
+      .map(
+        (g) =>
+          '<div class="tg"><h3>' +
+          esc(g[1]) +
+          "</h3>" +
+          g[2]
+            .filter(hasTool)
+            .map((t) => '<button data-act="tab" data-t="' + t + '">' + esc(toolName(t)) + "<span>" + esc(TOOL_HINT[t] || "") + "</span></button>")
+            .join("") +
+          "</div>",
+      )
+      .join("") +
+    "</div>"
+  );
+}
+ACT.tools = () => {
+  UI.showTools = !UI.showTools;
+  render();
+};
+ACT.resume = () => {
+  const t = UI.resume;
+  UI.resume = null;
+  goTool(t);
 };
 
 /* 20-choices.js */
@@ -1514,16 +1981,19 @@ function learnHTML() {
     li = LI(),
     lesson = LESSONS[li],
     dk = deckOf(lesson.deck);
-  const nDone = LESSONS.filter((l) => SAVE.done[l.id]).length,
-    pct = Math.round((100 * nDone) / LESSONS.length);
+  /* Counts are per deck ("Lesson 3 of 8 in Health Psychology"), not the whole unit, so it never opens on "1 of 61". */
+  const inDeck = LESSONS.filter((l) => l.deck === lesson.deck),
+    nDone = inDeck.filter((l) => SAVE.done[l.id]).length,
+    pct = Math.round((100 * nDone) / inDeck.length);
   let h =
     '<section class="lessonbar"><div class="rtop"><span class="muted">Lesson ' +
-    (li + 1) +
+    (inDeck.indexOf(lesson) + 1) +
     " of " +
-    LESSONS.length +
-    ", " +
-    nDone +
-    ' done</span><button class="btn sec small" data-act="lmap" aria-expanded="' +
+    inDeck.length +
+    " in " +
+    esc(dk.name) +
+    (nDone ? ", " + nDone + " done" : "") +
+    '</span><button class="btn sec small" data-act="lmap" aria-expanded="' +
     !!UI.showMap +
     '">Lesson map</button></div><span class="bar" aria-hidden="true"><i style="width:' +
     pct +
@@ -2055,10 +2525,31 @@ function tableHTML(T) {
 }
 function guideHTML() {
   let h = "";
+  if (!UI.deck && D.decks.length > 1) {
+    const all = D.decks.every((d) => UI.gopen && UI.gopen[d.id]);
+    h += '<div class="gtools"><button class="btn ghost small" data-act="gall">' + (all ? "Close all" : "Open all") + "</button></div>";
+  }
   D.decks
     .filter((d) => !UI.deck || d.id === UI.deck)
     .forEach((dk) => {
-      h += '<section class="deckblock"><h2>' + dot(dk.id) + esc(dk.name) + "</h2>" + storyHTML(dk.intro, "The big picture", "bigpic");
+      /* Each deck folds to its title and one-line intro, so the guide isn't one endless page; one deck picked
+         in the Deck picker opens on its own. */
+      const one = (dk.intro || []).filter(Boolean)[0] || plural(dk.sections.reduce((n, sc) => n + sc.cards.length, 0), "term");
+      const open = !!UI.deck || !!(UI.gopen && UI.gopen[dk.id]);
+      h +=
+        '<details class="deckblock gfold" id="gd-' +
+        esc(dk.id) +
+        '" data-gd="' +
+        esc(dk.id) +
+        '"' +
+        (open ? " open" : "") +
+        '><summary><span class="gh">' +
+        dot(dk.id) +
+        esc(dk.name) +
+        '</span><span class="gs">' +
+        esc(one) +
+        "</span></summary>" +
+        storyHTML(dk.intro, "The big picture", "bigpic");
       dk.sections.forEach((sc) => {
         h +=
           "<h3>" +
@@ -2087,7 +2578,7 @@ function guideHTML() {
       });
       D.flows.filter((f) => f.deck === dk.id).forEach((f) => (h += chainHTML(f)));
       D.watch.filter((w) => w.deck === dk.id).forEach((w) => (h += watchHTML(w)));
-      h += "</section>";
+      h += "</details>";
     });
   if (!UI.deck) {
     if (D.trees.length) h += '<section class="deckblock"><h2>Hierarchies</h2>' + D.trees.map((t) => '<pre class="tree">' + esc(t) + "</pre>").join("") + "</section>";
@@ -2114,6 +2605,24 @@ function cheatHTML() {
   return h + "</div></section>";
 }
 ACT.cheatprint = () => window.print();
+
+ACT.gall = () => {
+  const all = D.decks.every((d) => UI.gopen && UI.gopen[d.id]);
+  UI.gopen = {};
+  if (!all) D.decks.forEach((d) => (UI.gopen[d.id] = true));
+  render();
+};
+/* Remember which decks are open while the guide is re-drawn. */
+document.addEventListener(
+  "toggle",
+  (e) => {
+    const t = e.target;
+    if (!UNIT || !t.matches || !t.matches("details[data-gd]")) return;
+    UI.gopen = UI.gopen || {};
+    UI.gopen[t.dataset.gd] = t.open;
+  },
+  true,
+);
 
 /* 60-flash.js */
 /* Flashcards, modeled on Quizlet's flashcard mode.
@@ -2173,11 +2682,11 @@ function fcCardHTML(c) {
   const showTerm = SAVE.settings.fcFirst === "term" ? !FC.flip : FC.flip,
     starred = !!SAVE.star[c.id];
   return (
-    '<div class="fctools"><button class="btn sec small" data-act="fcstar" aria-pressed="' +
+    '<div class="fctools"><button class="btn ghost small" data-act="fcstar" aria-pressed="' +
     starred +
     '">' +
     (starred ? "★ Starred" : "☆ Star") +
-    '</button><button class="btn sec small" data-act="fcswap">⇄ Swap sides</button><button class="btn sec small" data-act="fcshuf">Shuffle</button><button class="btn sec small" data-act="fcagain">Restart</button></div>' +
+    "</button></div>" +
     '<button class="fcard" data-act="fcflip" aria-label="Flip card">' +
     (showTerm ? '<span class="fterm">' + esc(c.term) + "</span>" : '<span class="fdef">' + esc(c.def) + "</span>" + hookLine(c)) +
     "<small>Tap or press Space to flip</small></button>"
@@ -2185,7 +2694,8 @@ function fcCardHTML(c) {
 }
 function fcHTML() {
   if (!FC) fcBuild();
-  let h = '<div class="ctl">' + FC_CTL() + "</div>";
+  /* Mode, pool, order, which side first, swap, shuffle and restart live in the Options pop-up (fcOptsBtn). */
+  let h = "";
   const empty =
     '<section class="panel"><p class="big">Nothing in this pool.</p><p class="muted">' +
     (SAVE.settings.fcPool === "starred" ? "Star cards with the ☆ button, or switch the pool to All." : "Switch the pool to All to review everything, or pick another deck.") +
@@ -2232,15 +2742,11 @@ function fcHTML() {
   }
   const done = FC.total - FC.q.length;
   h +=
-    '<div class="fcprog"><span class="muted">' +
-    done +
-    " of " +
-    FC.total +
-    " sorted: you know " +
+    '<div class="fcprog"><span class="muted">Know it: ' +
     FC.got.length +
-    ", still learning " +
+    ". Still learning: " +
     FC.learning.length +
-    '</span><span class="bar" aria-hidden="true"><i style="width:' +
+    '.</span><span class="bar" aria-hidden="true"><i style="width:' +
     Math.round((100 * done) / FC.total) +
     '%"></i></span></div>' +
     fcCardHTML(BYID[FC.q[0]]) +
@@ -2356,6 +2862,17 @@ document.addEventListener("keydown", (e) => {
   else if (!browse && e.key === "1") ACT.fcnot();
   else if (!browse && e.key === "2") ACT.fcgot();
 });
+
+/* Options pop-up: the settings that used to sit above every card. */
+const fcOptsBtn = () => '<button class="btn sec small" data-act="fcopts">Options</button>';
+ACT.fcopts = () =>
+  openModal({
+    title: "Flashcard options",
+    body: () =>
+      '<h2>Flashcard options</h2><div class="ctl mctl">' +
+      FC_CTL() +
+      '</div><div class="qnav"><button class="btn sec small" data-act="fcswap">Swap sides</button><button class="btn sec small" data-act="fcshuf">Shuffle</button><button class="btn sec small" data-act="fcagain">Start over</button></div><div class="mfoot"><span class="muted">Saved for next time.</span><button class="btn" data-act="mclose">Done</button></div>',
+  });
 
 /* 70-quiz.js */
 /* Quiz builder: decks, how many of each type, number of choices, feedback timing, order and an optional
@@ -2554,9 +3071,9 @@ function breakdownHTML(R) {
       restored, and the route ends with a re-check that shows before and after. Saved in SAVE.plan. */
 const PL_MINS = [15, 30, 60, 90];
 const PL_RATE = [
-  ["know", "I know it well"],
-  ["shaky", "It's shaky"],
-  ["new", "I haven't learned it"],
+  ["know", "I know it well", "I know it"],
+  ["shaky", "It's shaky", "Shaky"],
+  ["new", "I haven't learned it", "New to me"],
 ];
 const PL_LABEL = { learn: "Learn", fix: "Fix", polish: "Polish" };
 /* "Sections: A, B." without doubling a section name's own question mark. */
@@ -2574,7 +3091,7 @@ function planSecs() {
   const out = [];
   planDecks().forEach((d) =>
     d.sections.forEach((sc, si) => {
-      if (sc.cards.length) out.push({ id: d.id + "." + si, d: d, sc: sc, name: sc.name, cards: sc.cards });
+      if (sc.cards.length) out.push({ id: sc.key0 || d.id + "." + si, d: d, sc: sc, name: sc.name, cards: sc.cards });
     }),
   );
   return out;
@@ -2917,61 +3434,148 @@ function planHTML() {
   return planMapHTML();
 }
 const pchip = (k, v, label, on) => '<button class="chip" data-act="plset" data-k="' + esc(k) + '" data-v="' + esc(v) + '" aria-pressed="' + !!on + '">' + esc(label) + "</button>";
+/* Setup is a step-by-step pop-up (planWizard); this page only offers it, or shows the route once there is one. */
 function planAboutHTML() {
+  const P = planState();
+  return (
+    '<section class="panel plan"><h2>I have a few days</h2><p class="lead">Answer a few quick questions (about a minute) and get a plan spread over the days before your test, with a little each day. Each step opens the right tool for you.</p>' +
+    '<div class="qnav"><button class="btn" data-act="plwiz">' +
+    (P.route ? "Change my answers" : "Make my plan") +
+    "</button>" +
+    (P.route ? '<button class="btn sec" data-act="plback">Back to my route</button>' : "") +
+    "</div></section>"
+  );
+}
+/* The test date shown in the unit header: "Test on Thu, Dec 3" until the day (from the Study plan). */
+function planTestLabel() {
+  const P = SAVE && SAVE.plan;
+  if (!P || P.nodate || !P.date) return "";
+  const n = daysLeft();
+  if (n < 0) return "";
+  const p = P.date.split("-").map(Number),
+    t = new Date(p[0], p[1] - 1, p[2]);
+  if (t < today0()) return "";
+  return n === 0 ? "Test today" : n === 1 ? "Test tomorrow" : "Test on " + t.toLocaleDateString("en-US", { weekday: "short", month: "short", day: "numeric" });
+}
+function planWizard() {
   const P = planState(),
     ds = planDecks();
-  const rated = (d) => P.rate[d.id] || planSecs().filter((s) => s.d.id === d.id).every((s) => P.rateSec[s.id]);
-  const ready = (P.date || P.nodate) && P.mins && ds.every(rated),
-    nq = checkSecs().length;
-  let h = '<section class="panel plan"><h2>Study plan</h2><p class="lead">Tell it when your test is and how you feel about each part. A short quick check and your saved progress fill in the rest, and you get a step-by-step route that takes you to each thing in order.</p>';
-  h +=
-    '<div class="plq"><h3>When is your test?</h3><div class="pldate"><input type="date" data-plan="date" min="' +
-    isoDay(today0()) +
-    '" value="' +
-    esc(P.date || "") +
-    '" aria-label="Test date">' +
-    pchip("today", "1", "It's today", P.date === isoDay(today0()) && !P.nodate) +
-    pchip("nodate", "1", "No date yet", P.nodate) +
-    "</div>" +
-    (P.date || P.nodate ? '<p class="hint">' + esc(dateLine()) + ".</p>" : "") +
-    "</div>";
-  h += '<div class="plq"><h3>How much time can you study each day?</h3><div class="chips" role="group" aria-label="Minutes each day">' + PL_MINS.map((m) => pchip("mins", m, m === 90 ? "90+ min" : m + " min", P.mins === m)).join("") + "</div></div>";
-  h += '<div class="plq"><h3>How well do you know each part?</h3><p class="hint">Be honest. The quick check and your saved progress count too, so one guess either way won\'t decide anything. Open a deck to rate its sections one by one.</p><div class="plrate">';
-  ds.forEach((d) => {
-    const secs = planSecs().filter((s) => s.d.id === d.id),
-      open = UI.planOpen && UI.planOpen[d.id];
-    h +=
-      '<div class="plrow"><span class="pld">' +
-      dot(d.id) +
-      esc(d.name) +
-      '</span><span class="chips" role="group" aria-label="' +
-      esc(d.name) +
-      '">' +
-      PL_RATE.map((r) => pchip("r:" + d.id, r[0], r[1], P.rate[d.id] === r[0])).join("") +
-      '</span><button class="lnk plopen" data-act="plopen" data-d="' +
-      esc(d.id) +
-      '" aria-expanded="' +
-      !!open +
-      '">' +
-      (open ? "Hide sections" : "Rate sections") +
-      "</button></div>";
-    if (open)
-      secs.forEach((s) => {
-        h += '<div class="plrow sub"><span class="pld">' + esc(s.name) + '</span><span class="chips" role="group" aria-label="' + esc(s.name) + '">' + PL_RATE.map((r) => pchip("s:" + s.id, r[0], r[1], secRate(s) === r[0])).join("") + '</span><span class="plopen" aria-hidden="true"></span></div>';
+  if (P.style === undefined) P.style = "read";
+  if (P.wcheck === undefined) P.wcheck = true;
+  UI.planEdit = false;
+  openModal({
+    title: "Study plan",
+    done: "Make my plan",
+    steps: [
+      () =>
+        '<h2>When is your test?</h2><div class="pldate"><input type="date" data-plan="date" min="' +
+        isoDay(today0()) +
+        '" value="' +
+        esc(P.date || "") +
+        '" aria-label="Test date"></div><div class="chips">' +
+        pchip("tomorrow", "1", "Tomorrow", P.date === isoDay(new Date(today0().getTime() + DAY)) && !P.nodate) +
+        pchip("today", "1", "It's today", P.date === isoDay(today0()) && !P.nodate) +
+        pchip("nodate", "1", "Not sure yet", P.nodate) +
+        "</div>" +
+        (P.date || P.nodate ? '<p class="hint">' + esc(dateLine()) + ".</p>" : ""),
+      () =>
+        '<h2>How much time can you study each day?</h2><div class="chips" role="group" aria-label="Minutes each day">' +
+        PL_MINS.map((m) => pchip("mins", m, m === 90 ? "90+ min" : m + " min", P.mins === m)).join("") +
+        "</div>",
+      () =>
+        '<h2>How do you like to study?</h2><div class="mopts">' +
+        [
+          ["read", "Read first", "See a few terms, then answer questions on them."],
+          ["quiz", "Quiz me first", "Try the questions first, then see the answers."],
+        ]
+          .map((o) => '<button data-act="plset" data-k="style" data-v="' + o[0] + '" aria-pressed="' + (P.style === o[0]) + '"><b>' + o[1] + "</b><span>" + o[2] + "</span></button>")
+          .join("") +
+        "</div>",
+      () =>
+        '<h2>How well do you know each part?</h2><p class="muted">One tap per deck, or skip this step: anything you skip counts as shaky.</p><div class="plrate">' +
+        ds
+          .map(
+            (d) =>
+              '<div class="plrow"><span class="pld">' +
+              dot(d.id) +
+              esc(d.name) +
+              '</span><span class="chips" role="group" aria-label="' +
+              esc(d.name) +
+              '">' +
+              PL_RATE.map((r) => pchip("r:" + d.id, r[0], r[2] || r[1], P.rate[d.id] === r[0])).join("") +
+              "</span></div>",
+          )
+          .join("") +
+        "</div>",
+      () =>
+        '<h2>Find your weak spots?</h2><p>A short quick check: one question per section (' +
+        plural(checkSecs().length, "question") +
+        '). It makes the plan fit you better.</p><div class="chips">' +
+        pchip("wcheck", "1", "Yes, do the quick check", P.wcheck) +
+        pchip("wcheck", "0", "Skip it", !P.wcheck) +
+        "</div>",
+      () => {
+        const sg = focusSuggest();
+        return (
+          '<h2>Focus timer?</h2><p class="muted">Work, then a short break. Suggested for ' +
+          (P.mins || 30) +
+          " minutes a day: <b>" +
+          sg[0] +
+          " + " +
+          sg[1] +
+          '</b>. You can turn it on or off any time from Start.</p><div class="chips">' +
+          pchip("ftimer", "off", "Off", !P.ftimer || P.ftimer === "off") +
+          pchip("ftimer", "25", "25 min + 5 break", P.ftimer === "25") +
+          pchip("ftimer", "50", "50 min + 10 break", P.ftimer === "50") +
+          "</div>"
+        );
+      },
+      () =>
+        '<h2>Your plan</h2><ul class="msum"><li>Test<span>' +
+        esc(P.date || P.nodate ? dateLine() : "Not set (counts as a week)") +
+        "</span></li><li>Each day<span>" +
+        (P.mins ? (P.mins === 90 ? "90+" : P.mins) + " minutes" : "30 minutes") +
+        "</span></li><li>Style<span>" +
+        (P.style === "quiz" ? "Quiz me first" : "Read first") +
+        "</span></li><li>Decks rated<span>" +
+        ds.filter((d) => P.rate[d.id]).length +
+        " of " +
+        ds.length +
+        "</span></li><li>Quick check<span>" +
+        (P.wcheck ? plural(checkSecs().length, "question") + " first" : "Skipped") +
+        "</span></li><li>Focus timer<span>" +
+        (!P.ftimer || P.ftimer === "off" ? "Off" : P.ftimer === "50" ? "50 + 10" : "25 + 5") +
+        '</span></li></ul><p class="muted">You can change any answer later, and skip, move or swap any step in the plan.</p>',
+    ],
+    onDone: () => {
+      if (!P.date && !P.nodate) P.nodate = true;
+      if (!P.mins) P.mins = 30;
+      ds.forEach((d) => {
+        if (!P.rate[d.id] && !planSecs().filter((s) => s.d.id === d.id).every((s) => P.rateSec[s.id])) P.rate[d.id] = "shaky";
       });
+      if (P.ftimer === "25") focusStart(25, 5);
+      else if (P.ftimer === "50") focusStart(50, 10);
+      save();
+      UI.tab = "plan";
+      UI.last.start = "plan";
+      if (P.wcheck) startCheck();
+      else {
+        P.phase = "plan";
+        buildRoute();
+        save();
+        render();
+        window.scrollTo(0, 0);
+      }
+    },
   });
-  h += "</div></div>";
-  h +=
-    '<div class="qnav"><button class="btn" data-act="plcheck"' +
-    (ready ? "" : " disabled") +
-    ">Start the quick check (" +
-    plural(nq, "question") +
-    ")</button>" +
-    (P.route ? '<button class="btn sec" data-act="plback">Back to my route</button>' : "") +
-    "</div>" +
-    (ready ? "" : '<p class="hint">Pick a date (or "No date yet"), your time, and a rating for every deck to start.</p>');
-  return h + "</section>";
 }
+ACT.plwiz = () => planWizard();
+ACT.plstart = () => {
+  const P = SAVE.plan;
+  if (P && P.route) return goTool("plan");
+  goTool("plan");
+  planWizard();
+};
 function standHTML() {
   const pw = practiceWeak();
   let h = '<details class="plstand"><summary>Where you stand, section by section</summary>';
@@ -3134,7 +3738,13 @@ ACT.plset = (t) => {
     k = t.dataset.k,
     v = t.dataset.v;
   if (k === "mins") P.mins = Number(v);
-  else if (k === "today") {
+  else if (k === "style") P.style = v;
+  else if (k === "wcheck") P.wcheck = v === "1";
+  else if (k === "ftimer") P.ftimer = v;
+  else if (k === "tomorrow") {
+    P.date = isoDay(new Date(today0().getTime() + DAY));
+    P.nodate = false;
+  } else if (k === "today") {
     P.date = isoDay(today0());
     P.nodate = false;
   } else if (k === "nodate") {
@@ -3170,10 +3780,7 @@ ACT.plcheck = () => {
   UI.planEdit = false;
   startCheck();
 };
-ACT.pledit = () => {
-  UI.planEdit = true;
-  render();
-};
+ACT.pledit = () => planWizard();
 ACT.plback = () => {
   UI.planEdit = false;
   render();
@@ -3232,6 +3839,474 @@ ACT.plpause = () => {
   save();
   render();
 };
+
+/* 76-tonight.js */
+/* "Test tomorrow?": tonight's session, for a student who opens the unit the night before and may still need to
+   learn the material. A short pop-up asks Read first or Quiz me first and how long they have; the unit is then cut
+   into rounds of 6 to 10 terms (terms already marked known are skipped). Read first: read the round's terms with
+   the section's "Read this first" text, then answer them. Quiz me first: answer first, then read. Terms missed in
+   a round come back at the start of the next one. The session ends with a 10-question mixed check.
+   Research behind it: testing beats rereading, and trying a question before studying helps as long as the answer
+   follows (see the redesign brief). Saved in SAVE.tonight for today only. */
+const TN_MINS = [30, 45, 60, 90],
+  TN_FINAL = 10;
+const tonightState = () => (SAVE && SAVE.tonight) || null;
+const tonightToday = (T) => T && T.day === isoDay(today0());
+const tnCard = (id) => BYID[id];
+
+/* Rounds: each section's unknown terms in chunks of at most 10; small chunks in the same deck join up to 6+. */
+function tonightRounds(mins) {
+  const chunks = [];
+  D.decks.forEach((dk) =>
+    dk.sections.forEach((sc, si) => {
+      const ids = sc.cards.filter((c) => !SAVE.known[c.id]).map((c) => c.id);
+      if (!ids.length) return;
+      const parts = Math.ceil(ids.length / 9),
+        size = Math.ceil(ids.length / parts);
+      for (let p = 0; p < parts; p++) chunks.push({ deck: dk.id, secs: [sc.key0 || dk.id + "." + si], names: [sc.name], ids: ids.slice(p * size, (p + 1) * size) });
+    }),
+  );
+  const rounds = [];
+  chunks.forEach((c) => {
+    const last = rounds[rounds.length - 1];
+    if (last && last.deck === c.deck && last.ids.length < 6 && last.ids.length + c.ids.length <= 10) {
+      last.ids = last.ids.concat(c.ids);
+      if (last.secs.indexOf(c.secs[0]) < 0) {
+        last.secs.push(c.secs[0]);
+        last.names.push(c.names[0]);
+      }
+    } else rounds.push(c);
+  });
+  /* About a minute per term plus 3 for reading and wrapping up; the mixed check takes about 8. */
+  let used = 8;
+  const fit = [];
+  for (const r of rounds) {
+    const m = r.ids.length + 3;
+    if (fit.length && used + m > mins) break;
+    fit.push(r);
+    used += m;
+  }
+  return { rounds: fit, left: rounds.length - fit.length };
+}
+const roundTitle = (r) => (r.names.length > 2 ? r.names.slice(0, 2).join(", ") + " and more" : r.names.join(" and "));
+const roundMins = (r) => r.ids.length + 3;
+
+function tonightSetup() {
+  const T0 = tonightState();
+  const draft = { order: (T0 && T0.order) || "read", mins: (T0 && T0.mins) || 60 };
+  UI.tnDraft = draft;
+  openModal({
+    title: "Tonight's session",
+    done: "Start round 1",
+    steps: [
+      () =>
+        '<h2>How do you want to start?</h2><p class="muted">You can switch any time.</p><div class="mopts">' +
+        [
+          ["read", "Read first", "See a few terms, then answer questions on them. Best if you're still learning it."],
+          ["quiz", "Quiz me first", "Try the questions first, then see the terms. Best if you've studied it before."],
+        ]
+          .map((o) => '<button data-act="tnset" data-k="order" data-v="' + o[0] + '" aria-pressed="' + (UI.tnDraft.order === o[0]) + '"><b>' + o[1] + "</b><span>" + o[2] + "</span></button>")
+          .join("") +
+        "</div>",
+      () =>
+        '<h2>How long do you have tonight?</h2><div class="chips" role="group" aria-label="Minutes tonight">' +
+        TN_MINS.map((m) => '<button class="chip" data-act="tnset" data-k="mins" data-v="' + m + '" aria-pressed="' + (UI.tnDraft.mins === m) + '">' + m + " min</button>").join("") +
+        '</div><p class="muted">Terms you already marked as known are skipped. If there\'s more than fits, the rest waits in Learn.</p>',
+      () => {
+        const plan = tonightRounds(UI.tnDraft.mins);
+        if (!plan.rounds.length) return "<h2>Tonight's session</h2><p>You've marked every term in this unit as known. The session will be just the mixed check.</p>";
+        return (
+          "<h2>Tonight's session</h2><ul class=\"msum\"><li>Rounds<span>" +
+          plan.rounds.length +
+          ", about " +
+          Math.round(plan.rounds.reduce((n, r) => n + roundMins(r), 0) / plan.rounds.length) +
+          " min each</span></li><li>Each round<span>" +
+          (UI.tnDraft.order === "read" ? "Read 6 to 10 terms, then answer them" : "Answer questions, then read the terms") +
+          "</span></li><li>First round<span>" +
+          esc(roundTitle(plan.rounds[0])) +
+          "</span></li><li>At the end<span>A " +
+          TN_FINAL +
+          "-question mixed check</span></li>" +
+          (plan.left ? "<li>Not tonight<span>" + plural(plan.left, "more round") + " (in Learn)</span></li>" : "") +
+          "</ul>"
+        );
+      },
+    ],
+    onDone: () => {
+      const p = tonightRounds(UI.tnDraft.mins);
+      SAVE.tonight = { v: 1, day: isoDay(today0()), order: UI.tnDraft.order, mins: UI.tnDraft.mins, rounds: p.rounds, left: p.left, cur: 0, phase: p.rounds.length ? "read" : "final", carry: [], seen: [], last: null, score: { ok: 0, n: 0 } };
+      if (p.rounds.length && UI.tnDraft.order === "quiz") SAVE.tonight.phase = "quiz";
+      save();
+      UI.run = null;
+      goTool("tonight");
+      if (SAVE.tonight.phase === "quiz") tonightQuiz();
+      else if (SAVE.tonight.phase === "final") tonightFinal();
+    },
+  });
+}
+ACT.tnset = (t) => {
+  const d = UI.tnDraft;
+  if (t.dataset.k === "mins") d.mins = Number(t.dataset.v);
+  else d.order = t.dataset.v;
+  modalRender();
+};
+ACT.tnstart = () => {
+  const T = tonightState();
+  if (T && T.rounds && T.phase !== "done" && tonightToday(T)) return goTool("tonight");
+  tonightSetup();
+};
+/* One question per term: an applied question about half the time in mixed units, otherwise a definition one. */
+function tnQ(card) {
+  if (MIX && card.asks && card.asks.length && Math.random() < 0.5) return askQ(card, card.asks[Math.floor(Math.random() * card.asks.length)]);
+  return mcQ(card, Math.random() < 0.5 ? "t2d" : "d2t", 4);
+}
+function tonightQuiz() {
+  const T = tonightState(),
+    r = T.rounds[T.cur],
+    carry = T.carry.filter((id) => r.ids.indexOf(id) < 0),
+    ids = carry.concat(shuf(r.ids));
+  startRun({
+    title: "Round " + (T.cur + 1) + " of " + T.rounds.length,
+    qs: ids.map(tnCard).filter(Boolean).map(tnQ),
+    immediate: true,
+    timer: 0,
+    retry: false,
+    doneLabel: "Finish round",
+    onDone: (R) => {
+      T.last = { ok: R.res.filter((x) => x.ok).length, n: R.res.length, carry: carry.length };
+      T.score.ok += T.last.ok;
+      T.score.n += T.last.n;
+      T.carry = R.res.filter((x) => !x.ok && x.q.card).map((x) => x.q.card.id);
+      r.ids.forEach((id) => T.seen.indexOf(id) < 0 && T.seen.push(id));
+      T.phase = T.order === "quiz" ? "readafter" : "after";
+      UI.run = null;
+      save();
+      render();
+      window.scrollTo(0, 0);
+    },
+  });
+}
+function tonightFinal() {
+  const T = tonightState(),
+    pool = T.carry.concat(shuf(T.seen.filter((id) => T.carry.indexOf(id) < 0)));
+  const ids = (pool.length ? pool : shuf(ALL.map((c) => c.id))).slice(0, TN_FINAL);
+  startRun({
+    title: "Mixed check",
+    qs: ids.map(tnCard).filter(Boolean).map(tnQ),
+    immediate: true,
+    timer: 0,
+    retry: false,
+    doneLabel: "See how tonight went",
+    onDone: (R) => {
+      T.final = { ok: R.res.filter((x) => x.ok).length, n: R.res.length };
+      T.carry = R.res.filter((x) => !x.ok && x.q.card).map((x) => x.q.card.id);
+      T.phase = "done";
+      UI.run = null;
+      save();
+      render();
+      window.scrollTo(0, 0);
+    },
+  });
+}
+function tnCardsHTML(ids) {
+  return (
+    '<div class="tncards">' +
+    ids
+      .map(tnCard)
+      .filter(Boolean)
+      .map((c) => '<div class="tncard"><b>' + esc(c.term) + "</b><span>" + esc(c.def) + "</span>" + (SAVE.settings.hooks && c.hook ? '<span class="tnhook">' + esc(c.hook) + "</span>" : "") + "</div>")
+      .join("") +
+    "</div>"
+  );
+}
+function tnIntros(r) {
+  let h = "";
+  D.decks.forEach((dk) =>
+    dk.sections.forEach((sc, si) => {
+      if (r.secs.indexOf(sc.key0 || dk.id + "." + si) < 0 || !sc.intro || !sc.intro.some(Boolean)) return;
+      h += '<div class="intro"><p class="introhead">Read this first: ' + esc(sc.name) + "</p>" + sc.intro.filter(Boolean).map((p) => "<p>" + esc(p) + "</p>").join("") + "</div>";
+    }),
+  );
+  return h;
+}
+function tonightHTML() {
+  if (UI.run) return runHTML();
+  const T = tonightState();
+  if (!T || !T.rounds || !tonightToday(T))
+    return '<section class="panel"><h2>Test tomorrow?</h2><p>Answer two quick questions and get tonight\'s session: short rounds where you read a few terms, answer them, and the ones you miss come back.</p><div class="qnav"><button class="btn" data-act="tnstart">Set up tonight\'s session</button></div></section>';
+  const n = T.rounds.length,
+    r = T.rounds[Math.min(T.cur, n - 1)];
+  const dots =
+    '<div class="tndots" aria-label="Round ' + Math.min(T.cur + 1, n) + " of " + n + '">' + T.rounds.map((x, i) => '<i class="' + (i < T.cur ? "done" : i === T.cur && T.phase !== "done" && T.phase !== "final" ? "on" : "") + '"></i>').join("") + "</div>";
+  let h = "";
+  if (T.phase === "done") {
+    const f = T.final || { ok: 0, n: 0 };
+    h +=
+      '<section class="panel"><h2>Done for tonight</h2><p>Mixed check: <b>' +
+      f.ok +
+      " of " +
+      f.n +
+      "</b> right. Across the rounds you answered " +
+      T.score.ok +
+      " of " +
+      T.score.n +
+      " right.</p>" +
+      (T.carry.length ? "<p>Still shaky, look these over once more before bed:</p>" + tnCardsHTML(T.carry) : "<p>Nothing left to review. Get some sleep: it helps you remember what you studied.</p>") +
+      (T.left ? '<p class="muted">' + plural(T.left, "round") + " didn't fit tonight; those terms are in Learn.</p>" : "") +
+      '<div class="qnav"><button class="btn sec" data-act="tnreset">Start a new session</button><button class="btn ghost" data-act="tab" data-t="start">Back to Start</button></div></section>';
+    return h;
+  }
+  h += '<div class="tnhead"><div><b>' + (T.phase === "final" ? "Mixed check" : "Round " + (T.cur + 1) + " of " + n + ": " + esc(roundTitle(r))) + '</b><span class="muted">' + (T.phase === "final" ? TN_FINAL + " questions from tonight" : "About " + roundMins(r) + " minutes") + "</span></div>" + dots + "</div>";
+  if (T.phase === "read" || T.phase === "readafter") {
+    const after = T.phase === "readafter";
+    h += '<section class="panel">' + (after && T.last ? '<p class="tnres">' + T.last.ok + " of " + T.last.n + " right." + (T.carry.length ? " The ones you missed are marked below and come back next round." : "") + "</p>" : "") + tnIntros(r);
+    if (after && T.carry.length) h += '<h3 class="tnsub">You missed these</h3>' + tnCardsHTML(T.carry) + '<h3 class="tnsub">All of this round</h3>';
+    h += tnCardsHTML(r.ids);
+    h +=
+      '<div class="qnav">' +
+      (after
+        ? '<button class="btn" data-act="tnnext">' + (T.cur + 1 < n ? "Next round" : "Mixed check") + "</button>"
+        : '<button class="btn" data-act="tnquiz">I\'ve read these. Quiz me</button><span class="muted">' + plural(r.ids.length + T.carry.length, "question") + "</span>") +
+      '<button class="btn ghost" data-act="tnorder">' +
+      (T.order === "read" ? "Switch to Quiz me first" : "Switch to Read first") +
+      "</button></div></section>";
+  } else if (T.phase === "after") {
+    h +=
+      '<section class="panel"><h2>Round ' +
+      (T.cur + 1) +
+      " done</h2><p>" +
+      T.last.ok +
+      " of " +
+      T.last.n +
+      " right." +
+      (T.carry.length ? " The " + plural(T.carry.length, "term") + " you missed come back at the start of the next round." : " Nothing to carry over.") +
+      "</p>" +
+      (T.carry.length ? tnCardsHTML(T.carry) : "") +
+      '<div class="qnav"><button class="btn" data-act="tnnext">' +
+      (T.cur + 1 < n ? "Start round " + (T.cur + 2) + ": " + esc(roundTitle(T.rounds[T.cur + 1])) : "Mixed check") +
+      "</button>" +
+      (focusState().on ? "" : '<button class="btn ghost" data-act="focusopen">Take a timed break</button>') +
+      "</div></section>";
+  } else if (T.phase === "quiz") {
+    h += '<section class="panel"><p>Quiz me first: answer this round\'s questions, then read the terms.</p><div class="qnav"><button class="btn" data-act="tnquiz">Start the questions</button></div></section>';
+  } else if (T.phase === "final") {
+    h += '<section class="panel"><p>Last step: ' + TN_FINAL + " mixed questions from tonight, missed ones first.</p><div class=\"qnav\"><button class=\"btn\" data-act=\"tnfinal\">Start the mixed check</button></div></section>";
+  }
+  return h;
+}
+ACT.tnquiz = () => tonightQuiz();
+ACT.tnfinal = () => tonightFinal();
+ACT.tnnext = () => {
+  const T = tonightState();
+  if (T.cur + 1 < T.rounds.length) {
+    T.cur++;
+    T.phase = T.order === "read" ? "read" : "quiz";
+    save();
+    if (T.phase === "quiz") return tonightQuiz();
+  } else {
+    T.phase = "final";
+    save();
+    return tonightFinal();
+  }
+  render();
+  window.scrollTo(0, 0);
+};
+ACT.tnorder = () => {
+  const T = tonightState();
+  T.order = T.order === "read" ? "quiz" : "read";
+  save();
+  render();
+};
+ACT.tnreset = () => {
+  SAVE.tonight = null;
+  save();
+  tonightSetup();
+};
+
+/* 77-focus.js */
+/* Focus timer (Pomodoro-style): optional work/break cycles shown in a bar at the top of every screen of the kit.
+   Presets 25 + 5 and 50 + 10, or custom; the suggestion follows the time the student has (Study plan or tonight).
+   Research: fixed breaks don't raise output by themselves, but they help students who skip breaks or put off
+   starting, so it's optional and adjustable. "Lock-in" as far as a website can: full screen, a pause and a note
+   when the student switches tabs ("You left at 8:42"), and the browser asks before the page is closed or reloaded
+   while a session runs. A website can't block other apps. Saved per course in sk:<course>:focus. */
+const FOCUSK = "sk:" + COURSE.id + ":focus";
+let FOC = null,
+  FOC_IV = null;
+function focusState() {
+  if (!FOC) {
+    const o = readJSON(FOCUSK) || {};
+    FOC = { on: !!o.on, mode: o.mode || "focus", work: o.work || 25, brk: o.brk || 5, endAt: o.endAt || 0, paused: o.paused || 0, leaves: o.leaves || 0, leftAt: o.leftAt || "", rounds: o.rounds || 0 };
+    /* A session left running in a closed tab is over if its end time passed long ago. */
+    if (FOC.on && !FOC.paused && FOC.endAt && Date.now() - FOC.endAt > 30 * 60000) FOC.on = false;
+  }
+  return FOC;
+}
+const focusSave = () => writeJSON(FOCUSK, FOC);
+const focusLeft = () => {
+  const F = focusState();
+  return Math.max(0, F.paused ? F.paused : F.endAt - Date.now());
+};
+const mmss = (ms) => {
+  const s = Math.ceil(ms / 1000);
+  return Math.floor(s / 60) + ":" + String(s % 60).padStart(2, "0");
+};
+/* Suggested lengths from the time the student said they have. */
+function focusSuggest() {
+  const mins = (SAVE && SAVE.tonight && SAVE.tonight.mins) || (SAVE && SAVE.plan && SAVE.plan.mins) || 45;
+  return mins >= 90 ? [50, 10] : [25, 5];
+}
+function focusStart(work, brk) {
+  const F = focusState();
+  Object.assign(F, { on: true, mode: "focus", work: work, brk: brk, endAt: Date.now() + work * 60000, paused: 0, leaves: 0, leftAt: "", rounds: 0 });
+  focusSave();
+  focusTick();
+  if (UNIT) render();
+}
+function focusStop() {
+  const F = focusState();
+  F.on = false;
+  F.paused = 0;
+  F.leftAt = "";
+  focusSave();
+  if (UNIT) render();
+}
+function focusTick() {
+  clearInterval(FOC_IV);
+  FOC_IV = null;
+  const F = focusState();
+  if (!F.on) return;
+  FOC_IV = setInterval(() => {
+    if (!F.on) return clearInterval(FOC_IV);
+    if (F.paused) return;
+    const left = F.endAt - Date.now(),
+      el = document.getElementById("fclock");
+    if (left <= 0) {
+      F.mode = F.mode === "focus" ? "break" : "focus";
+      if (F.mode === "break") F.rounds++;
+      F.endAt = Date.now() + (F.mode === "focus" ? F.work : F.brk) * 60000;
+      focusSave();
+      if (UNIT) render();
+      return;
+    }
+    if (el) el.textContent = mmss(left);
+  }, 1000);
+}
+function focusBarHTML() {
+  const F = focusState();
+  if (!F.on) return "";
+  const brk = F.mode === "break";
+  let h =
+    '<div class="fbar' +
+    (brk ? " brk" : "") +
+    '" role="timer"><span class="fclock" id="fclock">' +
+    mmss(focusLeft()) +
+    '</span><span class="flab">' +
+    (brk ? "Break. Stand up, stretch, get water." : F.paused ? "Paused" : "Focus. Break when this hits zero.") +
+    '</span><span class="fbtns"><button class="btn ghost small" data-act="focuspause">' +
+    (F.paused ? "Resume" : "Pause") +
+    '</button><button class="btn ghost small" data-act="focusfull">Full screen</button><button class="btn ghost small" data-act="focusend">End</button></span></div>';
+  if (F.leftAt)
+    h +=
+      '<div class="fleft" role="status"><b>You left at ' +
+      esc(F.leftAt) +
+      ".</b> The timer paused while you were away." +
+      (F.leaves > 1 ? " That's " + F.leaves + " times this session." : "") +
+      ' <button class="btn small" data-act="focusback">Back to it</button></div>';
+  return h;
+}
+function focusSetup() {
+  const sug = focusSuggest();
+  UI.fDraft = UI.fDraft || { work: sug[0], brk: sug[1] };
+  openModal({
+    title: "Focus timer",
+    body: () => {
+      const d = UI.fDraft,
+        presets = [
+          [25, 5],
+          [50, 10],
+        ];
+      return (
+        '<h2>Focus timer</h2><p class="muted">Work, then a short break, on repeat. Suggested for your time: <b>' +
+        sug[0] +
+        " min + " +
+        sug[1] +
+        ' min break</b>.</p><div class="chips" role="group" aria-label="Lengths">' +
+        presets.map((p) => '<button class="chip" data-act="fset" data-w="' + p[0] + '" data-b="' + p[1] + '" aria-pressed="' + (d.work === p[0] && d.brk === p[1]) + '">' + p[0] + " min + " + p[1] + " break</button>").join("") +
+        '</div><div class="fcustom"><label>Focus <input type="number" min="5" max="120" id="fwork" value="' +
+        d.work +
+        '"> min</label><label>Break <input type="number" min="1" max="30" id="fbrk" value="' +
+        d.brk +
+        '"> min</label></div><ul class="msum"><li>If you switch tabs<span>It pauses and tells you when you come back</span></li><li>If you close the page<span>Your browser asks first</span></li><li>Full screen<span>A button on the timer bar</span></li></ul>' +
+        '<div class="mfoot">' +
+        (focusState().on ? '<button class="btn ghost" data-act="focusend">Turn it off</button>' : '<button class="btn ghost" data-act="mclose">Cancel</button>') +
+        '<button class="btn" data-act="focusgo">Start</button></div>'
+      );
+    },
+  });
+}
+ACT.focusopen = () => focusSetup();
+ACT.fset = (t) => {
+  UI.fDraft = { work: Number(t.dataset.w), brk: Number(t.dataset.b) };
+  modalRender();
+};
+ACT.focusgo = () => {
+  const w = Math.min(120, Math.max(5, Number(($("#fwork") || {}).value) || UI.fDraft.work)),
+    b = Math.min(30, Math.max(1, Number(($("#fbrk") || {}).value) || UI.fDraft.brk));
+  closeModal(true);
+  focusStart(w, b);
+};
+ACT.focuspause = () => {
+  const F = focusState();
+  if (F.paused) {
+    F.endAt = Date.now() + F.paused;
+    F.paused = 0;
+  } else F.paused = Math.max(1000, F.endAt - Date.now());
+  focusSave();
+  render();
+};
+ACT.focusend = () => {
+  if (MODAL.o) closeModal(true);
+  focusStop();
+};
+ACT.focusfull = () => {
+  const el = document.documentElement;
+  try {
+    if (document.fullscreenElement) document.exitFullscreen();
+    else if (el.requestFullscreen) el.requestFullscreen().catch(() => {});
+  } catch (e) {}
+};
+/* Leaving the tab pauses the timer; coming back shows when they left. */
+function focusLeave() {
+  const F = focusState();
+  if (!F.on || F.paused || F.mode !== "focus") return;
+  F.paused = Math.max(1000, F.endAt - Date.now());
+  F.leaves++;
+  F.leftAt = new Date().toLocaleTimeString("en-US", { hour: "numeric", minute: "2-digit" });
+  focusSave();
+}
+function focusReturn() {
+  if (UNIT && focusState().leftAt) render();
+}
+ACT.focusback = () => {
+  const F = focusState();
+  F.leftAt = "";
+  if (F.paused) {
+    F.endAt = Date.now() + F.paused;
+    F.paused = 0;
+  }
+  focusSave();
+  render();
+};
+document.addEventListener("visibilitychange", () => (document.hidden ? focusLeave() : focusReturn()));
+addEventListener("beforeunload", (e) => {
+  const F = focusState();
+  if (!window.__navOK && F.on && !F.paused && F.mode === "focus") {
+    e.preventDefault();
+    e.returnValue = "";
+  }
+});
+focusTick();
 
 /* 80-settings.js */
 /* Settings, export/import and resets. Theme and text size are shared by every unit of the course. */
@@ -3512,7 +4587,7 @@ document.addEventListener("change", (e) => {
 /* Practice Test and exams. Sections sit behind their own top tabs. One question at a time with a numbered
    palette (gray = not visited, outlined = visited, green = correct, red = incorrect, amber = partly right,
    ring = current, corner mark = flagged). Question types: mcq, tf, label, diagram, frq, saq. */
-const PT = { sec: 0, secs: [], timerOn: false, elapsed: 0, iv: null, retest: null, msg: "", intro: {}, res: null };
+const PT = { sec: 0, secs: [], timerOn: false, elapsed: 0, iv: null, retest: null, msg: "", intro: {}, res: null, list: {} };
 const TYPE_NAME = { mcq: "Multiple choice", tf: "True or false", label: "Labeling", diagram: "Diagram labeling", frq: "Free response", saq: "Short answer", wfr: "Free response" };
 const newSt = () => ({ elim: [], visited: false, checked: false, sel: null, correct: null, flag: false, items: {}, work: "", abox: "", ans: {}, revealed: false, mark: null, pm: {} });
 const isWritten = (q) => q.type === "frq" || q.type === "saq" || q.type === "wfr";
@@ -3531,6 +4606,108 @@ function normAns(v, formula) {
 }
 const isFormulaAns = (a) => !/\s/.test(a) && /[A-Z]/.test(a) && !/^[A-Z][a-z]{3,}$/.test(a);
 const typedOk = (v, acc) => acc.some((a) => normAns(v, isFormulaAns(a)) === normAns(a, isFormulaAns(a)));
+/* Chemistry formula entry: a typed part whose accepted answer is a formula gets a live preview (H2SO4 shows as
+   H₂SO₄, Fe3+ as Fe³⁺), a row of symbol buttons, and an optional "Boxes" mode: symbol in the middle, charge top
+   right, number bottom right. Checking is unchanged (typedOk). */
+const isFmlPart = (p) => Array.isArray(p.accept) && p.accept.some(isFormulaAns);
+function fmtFormula(v) {
+  const sub = "₀₁₂₃₄₅₆₇₈₉",
+    sup = "⁰¹²³⁴⁵⁶⁷⁸⁹";
+  return String(v || "")
+    .replace(/->/g, "→")
+    .replace(/\^(\d*)([+-])/g, (m, n, c) => n.replace(/\d/g, (d) => sup[d]) + (c === "+" ? "⁺" : "⁻"))
+    .replace(/([A-Za-z)\]])(\d+)([+-])(?![\w(])/g, (m, a, n, c) => a + n.replace(/\d/g, (d) => sup[d]) + (c === "+" ? "⁺" : "⁻"))
+    .replace(/([A-Za-z)\]])([+-])(?![\w(])/g, (m, a, c) => a + (c === "+" ? "⁺" : "⁻"))
+    .replace(/([A-Za-z)\]])(\d+)/g, (m, a, n) => a + n.replace(/\d/g, (d) => sub[d]))
+    .replace(/\*/g, "·");
+}
+const FBOX_N = 3;
+function fboxesHTML(s, p) {
+  const B = (s.boxes && s.boxes[p.k]) || [];
+  const n = Math.max(FBOX_N, B.length);
+  let h = '<span class="fboxes" data-fk="' + esc(p.k) + '">';
+  for (let i = 0; i < n; i++) {
+    const b = B[i] || ["", "", ""];
+    h +=
+      '<span class="fel"><input class="fsym" data-fb="0" data-i="' +
+      i +
+      '" maxlength="6" value="' +
+      esc(b[0]) +
+      '" aria-label="Part ' +
+      esc(p.k) +
+      ", symbol " +
+      (i + 1) +
+      '" placeholder="' +
+      (i === 0 ? "Na" : "") +
+      '"><input class="fsup" data-fb="1" data-i="' +
+      i +
+      '" maxlength="3" value="' +
+      esc(b[1]) +
+      '" aria-label="charge" placeholder="' +
+      (i === 0 ? "+" : "") +
+      '"><input class="fsub" data-fb="2" data-i="' +
+      i +
+      '" maxlength="2" value="' +
+      esc(b[2]) +
+      '" aria-label="number" placeholder="' +
+      (i === 0 ? "2" : "") +
+      '"></span>';
+  }
+  return h + '<button type="button" class="btn ghost small" data-act="fadd" data-k="' + esc(p.k) + '">+ symbol</button></span>';
+}
+/* Boxes → the answer text: each symbol, then its number; the charge goes on top in the preview. */
+function fboxText(B) {
+  return B.map((b) => (b[0] || "").trim() + (b[2] || "").replace(/\D/g, "") + ((b[1] || "").trim() ? "^" + (b[1] || "").trim().replace(/^(\d*)([+-])?$/, (m, n, c) => n + (c || "+")) : "")).join("");
+}
+document.addEventListener("input", (e) => {
+  const t = e.target;
+  if (!UNIT || !t.matches || !t.matches(".fboxes input")) return;
+  const wrap = t.closest(".fboxes"),
+    k = wrap.dataset.fk,
+    c = cur3();
+  c.s.boxes = c.s.boxes || {};
+  const B = [];
+  wrap.querySelectorAll(".fel").forEach((el) => B.push([...el.querySelectorAll("input")].map((x) => x.value)));
+  c.s.boxes[k] = B;
+  const inp = document.querySelector('input[data-ans="' + k + '"]');
+  if (inp) {
+    inp.value = fboxText(B).replace(/\^[\d]*[+-]/g, "");
+    PTinput(inp);
+    const pv = document.querySelector('[data-prev="' + k + '"]');
+    if (pv) pv.textContent = fmtFormula(fboxText(B));
+  }
+});
+let F_LAST = null;
+document.addEventListener("focusin", (e) => {
+  if (e.target && e.target.dataset && e.target.dataset.fml) F_LAST = e.target.dataset.ans;
+});
+ACT.fins = (t) => {
+  const inp = document.querySelector('input[data-ans="' + (F_LAST || "") + '"]') || document.querySelector("input[data-fml]");
+  if (!inp || inp.disabled) return;
+  const a = inp.selectionStart == null ? inp.value.length : inp.selectionStart,
+    b = inp.selectionEnd == null ? a : inp.selectionEnd;
+  inp.value = inp.value.slice(0, a) + t.dataset.v + inp.value.slice(b);
+  inp.focus();
+  try {
+    inp.setSelectionRange(a + t.dataset.v.length, a + t.dataset.v.length);
+  } catch (e) {}
+  PTinput(inp);
+};
+ACT.fbox = (t) => {
+  SAVE.settings.fbox = t.dataset.v === "1";
+  save();
+  render();
+};
+ACT.fadd = (t) => {
+  const c = cur3(),
+    k = t.dataset.k;
+  c.s.boxes = c.s.boxes || {};
+  const B = c.s.boxes[k] || [];
+  while (B.length < FBOX_N) B.push(["", "", ""]);
+  B.push(["", "", ""]);
+  c.s.boxes[k] = B;
+  render();
+};
 const itemsOf = (q) => (q.type === "diagram" ? q.pins.map((p, i) => Object.assign({ t: "Pin " + (i + 1) }, p)) : q.items);
 
 function initPT() {
@@ -3861,15 +5038,62 @@ function writtenHTML(q, s, nav, topic, sec) {
   if (q.lead) h += '<p class="stem">' + esc(q.lead) + "</p>";
   if (q.data && q.data.length) h += '<figure class="src"><figcaption><b>Data</b></figcaption>' + q.data.map((d) => "<p>" + esc(d) + "</p>").join("") + "</figure>";
   if (isTyped(q)) {
-    h += '<p class="hint">Type each answer. For formulas, plain numbers are fine (Fe2O3); a hydrate can use * or a period for the dot.</p><ol class="fparts typed" type="a">';
+    const fml = q.parts.some(isFmlPart),
+      boxes = fml && SAVE.settings.fbox && !s.revealed;
+    h +=
+      '<div class="fhead"><p class="hint">Type each answer.' +
+      (fml ? " Formulas: type H2SO4 or Fe3+ and it shows as H₂SO₄ and Fe³⁺; the buttons add the other symbols." : "") +
+      "</p>" +
+      (fml && !s.revealed ? '<div class="seg fseg" role="group" aria-label="How to enter formulas"><button data-act="fbox" data-v="0" aria-pressed="' + !boxes + '">Type it</button><button data-act="fbox" data-v="1" aria-pressed="' + !!boxes + '">Boxes</button></div>' : "") +
+      '</div><ol class="fparts typed" type="a">';
     h += q.parts
       .map((p) => {
         const v = s.ans[p.k] || "",
-          mk = s.revealed ? (s.pm[p.k] ? " right" : " wrong") : "";
-        return '<li class="tpart' + mk + '"><label><span class="tq">' + esc(p.prompt) + '</span><input type="text" autocomplete="off" autocapitalize="off" spellcheck="false" data-ans="' + esc(p.k) + '" value="' + esc(v) + '"' + (s.revealed ? " disabled" : "") + ' aria-label="Answer for ' + esc(p.prompt) + '"></label></li>';
+          mk = s.revealed ? (s.pm[p.k] ? " right" : " wrong") : "",
+          isF = isFmlPart(p);
+        return (
+          '<li class="tpart' +
+          mk +
+          '"><label><span class="tq">' +
+          esc(p.prompt) +
+          '</span><input type="text" autocomplete="off" autocapitalize="off" spellcheck="false" data-ans="' +
+          esc(p.k) +
+          '"' +
+          (isF ? ' data-fml="1"' : "") +
+          ' value="' +
+          esc(v) +
+          '"' +
+          (s.revealed ? " disabled" : "") +
+          (isF && boxes ? ' class="fhide" tabindex="-1"' : "") +
+          ' aria-label="Answer for ' +
+          esc(p.prompt) +
+          '"></label>' +
+          (isF && boxes ? fboxesHTML(s, p) : "") +
+          (isF ? '<span class="fprev" data-prev="' + esc(p.k) + '" aria-live="polite">' + esc(fmtFormula(v)) + "</span>" : "") +
+          "</li>"
+        );
       })
       .join("");
     h += "</ol>";
+    if (fml && !s.revealed && !boxes)
+      h +=
+        '<div class="ftb" role="group" aria-label="Formula symbols">' +
+        [
+          ["₂", "x₂", "Subscript 2"],
+          ["₃", "x₃", "Subscript 3"],
+          ["⁺", "⁺", "Plus charge"],
+          ["⁻", "⁻", "Minus charge"],
+          ["²⁺", "²⁺", "2+ charge"],
+          ["(", "(", "Open parenthesis"],
+          [")", ")", "Close parenthesis"],
+          ["(aq)", "(aq)", "Aqueous"],
+          ["(s)", "(s)", "Solid"],
+          ["→", "→", "Arrow"],
+          ["·", "·", "Hydrate dot"],
+        ]
+          .map((b) => '<button type="button" data-act="fins" data-v="' + esc(b[0]) + '" aria-label="' + b[2] + '">' + esc(b[1]) + "</button>")
+          .join("") +
+        "</div>";
   } else if (q.type === "frq") {
     h += '<ol class="fparts" type="a">' + q.parts.map((p) => "<li>" + esc(p.prompt) + "</li>").join("") + "</ol>";
     h += '<label class="part"><span class="pl">Work area <small>Show your steps and reasoning.</small></span><textarea rows="7" data-ans="work">' + esc(s.work) + "</textarea></label>";
@@ -3879,6 +5103,7 @@ function writtenHTML(q, s, nav, topic, sec) {
       h += '<label class="part"><span class="pl">(' + esc(p.k) + ") " + esc(p.prompt) + '</span><textarea rows="4" data-ans="' + esc(p.k) + '" placeholder="Complete sentences: topic sentence, evidence, analysis.">' + esc(s.ans[p.k] || "") + "</textarea></label>";
     });
   h += '<div class="qnav"><button class="btn" data-act="ptcheck"' + (s.revealed ? " disabled" : "") + ">Check Answer</button>" + nav + "</div>";
+  if (!isTyped(q) && typeof gemAskHTML === "function") h += gemAskHTML();
   if (!s.revealed) return h;
   h += '<div class="model"><h4>' + (q.type === "saq" ? "Model answers" : "Worked solution") + "</h4>";
   q.parts.forEach((p) => {
@@ -3895,6 +5120,8 @@ function writtenHTML(q, s, nav, topic, sec) {
     else if (isTyped(q)) h += '<p class="' + (s.pm[p.k] ? "tyes" : "tno") + '"><b>' + (s.pm[p.k] ? "Correct." : "Your answer: " + esc(s.ans[p.k] || "(blank)") + ".") + "</b> " + esc(p.model) + "</p>";
     else h += "<p>" + esc(p.model) + "</p>";
     if (p.earns) h += '<p class="earns"><b>Earns the point if:</b> ' + esc(p.earns) + "</p>";
+    h += kwHTML(s, p);
+    if (s.aiw && s.aiw.parts && s.aiw.parts[p.k]) h += '<p class="aiw"><b>Gemini (' + (s.aiw.parts[p.k].points ? "1 point" : "0 points") + "):</b> " + esc(s.aiw.parts[p.k].why || "") + "</p>";
     if (p.weak) h += '<p class="weak"><b>Weak answer:</b> ' + esc(p.weak) + "</p>";
     h +=
       '<div class="selfmark" role="group" aria-label="Self-mark part ' +
@@ -3916,6 +5143,16 @@ function writtenHTML(q, s, nav, topic, sec) {
       '">I missed it</button></div></div>';
   });
   const f = frac(q, s);
+  if (!isTyped(q) && typeof gemKey === "function" && gemKey())
+    h +=
+      '<div class="qnav"><button class="btn sec" data-act="gemw"' +
+      (s.aiwLoading ? " disabled" : "") +
+      ">" +
+      (s.aiwLoading ? "Grading with Gemini…" : s.aiw ? "Grade again with Gemini" : "Grade with Gemini") +
+      "</button>" +
+      (s.aiw && s.aiw.overall ? '<span class="muted">' + esc(s.aiw.overall) + "</span>" : "") +
+      "</div>" +
+      (s.aiwErr ? '<p class="wnote bad">Gemini couldn\'t grade this: ' + esc(s.aiwErr) + " Mark it yourself with the buttons above.</p>" : "");
   h += '<div class="qnav"><button class="mk" data-act="ptmark" data-v="1">All parts right</button><button class="mk" data-act="ptmark" data-v="0">All parts wrong</button></div>';
   if (f !== null) h += '<div class="fb' + (f === 1 ? " ok" : f === 0 ? " bad" : "") + '"><b>' + fmt1(f * q.parts.length) + " of " + q.parts.length + " parts</b> counted." + topic + "</div>";
   return h + "</div>";
@@ -3997,31 +5234,40 @@ function ptSectionHTML() {
   return h + "</section>";
 }
 
+/* The tools that used to sit in a row above every question, now in an Options pop-up. */
 function ptControls(M) {
-  const sec = PT.secs[PT.sec];
-  return (
-    '<div class="ptctl"><button class="btn ghost" data-act="pttimer" aria-pressed="' +
-    PT.timerOn +
-    '">' +
-    ICON.clock +
-    (PT.timerOn ? '<span id="pttime">' + fmtT(PT.elapsed) + "</span>" : "Timer off") +
-    '</button><button class="btn ghost" data-act="ptshuffle" aria-pressed="' +
-    !!sec.shuffled +
-    '">' +
-    ICON.shuffle +
-    (sec.shuffled ? "Shuffled" : "Shuffle questions") +
-    "</button>" +
-    (sec.shuffled ? '<button class="btn ghost" data-act="ptunshuffle">' + ICON.undo + "Original order</button>" : "") +
-    (sec.qs.some((q) => q.type === "wfr") ? '<button class="btn ghost" data-act="ptrandom">' + ICON.shuffle + (sec.grader === "ebq" ? "Random prompt I haven't done" : "Random article I haven't done") + "</button>" : "") +
-    '<button class="btn ghost" data-act="ptretest">' +
-    ICON.redo +
-    'Retest missed questions</button><button class="btn ghost" data-act="ptprint">' +
-    ICON.print +
-    'Print view</button><button class="btn ghost" data-act="ptresetsec">Reset section</button><button class="btn ghost danger" data-act="ptresetall">' +
-    (M === "exam" ? "Reset entire exam" : "Reset entire test") +
-    "</button></div>"
-  );
+  return '<button class="btn sec small" data-act="ptopts">Options</button>';
 }
+ACT.ptopts = () => {
+  const M = ptMode();
+  openModal({
+    title: "Practice Test options",
+    body: () => {
+      const sec = PT.secs[PT.sec];
+      return (
+        "<h2>Options</h2><div class=\"mopts\">" +
+        '<button data-act="pttimer" aria-pressed="' +
+        PT.timerOn +
+        '"><b>' +
+        (PT.timerOn ? "Timer on: " + fmtT(PT.elapsed) : "Timer off") +
+        "</b><span>Counts up while you work.</span></button>" +
+        '<button data-act="' +
+        (sec.shuffled ? "ptunshuffle" : "ptshuffle") +
+        '"><b>' +
+        (sec.shuffled ? "Put questions back in order" : "Shuffle the questions") +
+        "</b><span>This section only.</span></button>" +
+        (sec.qs.some((q) => q.type === "wfr") ? '<button data-act="ptrandom"><b>' + (sec.grader === "ebq" ? "Random prompt I haven't done" : "Random article I haven't done") + "</b><span></span></button>" : "") +
+        '<button data-act="ptretest"><b>Retest missed questions</b><span>Only the ones you got wrong here.</span></button>' +
+        '<button data-act="ptprint"><b>Print view</b><span>Opens a page you can print.</span></button>' +
+        '<button data-act="ptresetsec"><b>Clear this section</b><span>Asks first.</span></button>' +
+        '<button data-act="ptresetall"><b>' +
+        (M === "exam" ? "Clear the whole mock exam" : "Clear every practice section") +
+        "</b><span>Asks first.</span></button></div>" +
+        '<div class="mfoot"><span></span><button class="btn" data-act="mclose">Done</button></div>'
+      );
+    },
+  });
+};
 function examGroups() {
   const g = [];
   PT.secs.forEach((x) => {
@@ -4029,27 +5275,74 @@ function examGroups() {
   });
   return g;
 }
+/* How far a section is: answered count, score, and whether it's done. */
+function secProgress(sec) {
+  const ids = sec.order,
+    done = ids.filter((id) => frac(sec.byId[id], sec.st[id]) !== null).length;
+  return { done: done, n: ids.length, full: done === ids.length && ids.length > 0 };
+}
+/* With more than 3 sections, the Practice Test opens on a list: each section's progress, and "Next up". */
+function ptListHTML(M, groups) {
+  const list = PT.secs.map((x, i) => [x, i]).filter((x) => x[0].mode === M);
+  const next = list.find((x) => !secProgress(x[0]).full);
+  let h = '<div class="toolrow"><span class="muted">' + list.filter((x) => secProgress(x[0]).full).length + " of " + list.length + ' sections done</span></div><ul class="seclist">';
+  list.forEach(([x, i]) => {
+    const p = secProgress(x),
+      isNext = next && next[1] === i;
+    h +=
+      '<li class="' +
+      (isNext ? "next" : "") +
+      '"><span class="sn">' +
+      esc(x.name) +
+      '</span><span class="sp">' +
+      (p.full ? "Done, " + secScore(x, x.order, x.st).replace(" so far", "") : p.done ? p.done + " of " + p.n + " answered" : plural(p.n, "question")) +
+      '</span><button class="btn ' +
+      (isNext ? "" : "sec ") +
+      'small" data-act="ptsec" data-i="' +
+      i +
+      '">' +
+      (isNext ? (p.done ? "Continue" : "Start") : p.full ? "Review" : p.done ? "Continue" : "Open") +
+      "</button></li>";
+  });
+  h += "</ul>";
+  if (groups.length) h += '<div class="qnav">' + groups.map((g) => '<button class="btn sec" data-act="ptres" data-g="' + esc(g) + '">' + esc(g) + " results</button>").join("") + "</div>";
+  return h;
+}
 function ptHTML() {
   const M = ptMode();
   const groups = M === "exam" ? examGroups() : [];
   const showRes = M === "exam" && PT.res != null && groups.indexOf(PT.res) >= 0;
+  const mine = PT.secs.filter((x) => x.mode === M);
+  if (!mine.length) return '<section class="panel"><p class="muted">No sections here yet.</p></section>';
+  if (showRes) return '<div class="toolrow"><button class="btn ghost small" data-act="ptlist">' + ICON.back + "All sections</button></div>" + resHTML(PT.res);
+  if (PT.list && PT.list[M] !== false && mine.length > 3) return ptListHTML(M, groups);
+  if (!PT.secs[PT.sec] || PT.secs[PT.sec].mode !== M) PT.sec = PT.secs.findIndex((x) => x.mode === M);
   let h =
-    '<div class="subtabs" role="tablist">' +
-    PT.secs
-      .map((x, i) =>
-        x.mode !== M ? "" : '<button class="stab" role="tab" data-act="ptsec" data-i="' + i + '" aria-selected="' + (!showRes && i === PT.sec) + '">' + esc(x.name) + "</button>",
-      )
-      .join("") +
-    groups.map((g) => '<button class="stab res" role="tab" data-act="ptres" data-g="' + esc(g) + '" aria-selected="' + (showRes && PT.res === g) + '">' + esc(g) + " results</button>").join("") +
-    "</div>";
-  if (showRes) return h + resHTML(PT.res);
-  if (!PT.secs.some((x) => x.mode === M)) return h + '<section class="panel"><p class="muted">No sections here yet.</p></section>';
-  h += ptControls(M) + (PT.msg ? '<p class="msg">' + esc(PT.msg) + "</p>" : "");
+    '<div class="toolrow">' +
+    (mine.length > 3
+      ? '<button class="btn ghost small" data-act="ptlist">' + ICON.back + "All sections</button>"
+      : mine.length > 1
+        ? '<div class="seg secseg" role="group" aria-label="Sections">' +
+          PT.secs.map((x, i) => (x.mode !== M ? "" : '<button data-act="ptsec" data-i="' + i + '" aria-pressed="' + (i === PT.sec) + '">' + esc(x.name) + "</button>")).join("") +
+          "</div>"
+        : "<span></span>") +
+    '<span class="ptright">' +
+    (PT.timerOn ? '<span class="pttimer">' + ICON.clock + '<span id="pttime">' + fmtT(PT.elapsed) + "</span></span>" : "") +
+    ptControls(M) +
+    "</span></div>" +
+    (PT.msg ? '<p class="msg">' + esc(PT.msg) + "</p>" : "");
   PT.msg = "";
   h += ptSectionHTML();
   if (M === "exam") h += '<div class="qnav"><button class="btn" data-act="ptres" data-g="' + esc(PT.secs[PT.sec].exam) + '">Finish and see ' + esc(PT.secs[PT.sec].exam) + " results</button></div>";
   return h;
 }
+ACT.ptlist = () => {
+  PT.list = PT.list || {};
+  PT.list[ptMode()] = true;
+  PT.res = null;
+  render();
+  window.scrollTo(0, 0);
+};
 
 /* ---------- actions ---------- */
 function PTinput(t) {
@@ -4057,6 +5350,10 @@ function PTinput(t) {
     k = t.dataset.ans;
   if (k === "work" || k === "abox") c.s[k] = t.value;
   else c.s.ans[k] = t.value;
+  if (t.dataset.fml) {
+    const pv = document.querySelector('[data-prev="' + k + '"]');
+    if (pv) pv.textContent = fmtFormula(t.value);
+  }
   PTsave();
 }
 /* A right answer in a retest round also updates the main section. */
@@ -4084,6 +5381,7 @@ function checkCur() {
     c.s.revealed = true;
   } else if (isWritten(c.q)) {
     if (isTyped(c.q) && !c.s.revealed) c.q.parts.forEach((p) => (c.s.pm[p.k] = typedOk(c.s.ans[p.k], p.accept)));
+    else if (hasKw(c.q) && !c.s.revealed) kwGrade(c.q, c.s);
     c.s.revealed = true;
   }
   else if (c.q.type === "label" || c.q.type === "diagram") {
@@ -4102,7 +5400,10 @@ function checkCur() {
 ACT.ptsec = (t) => {
   PT.res = null;
   PT.sec = Number(t.dataset.i);
+  PT.list = PT.list || {};
+  PT.list[ptMode()] = false;
   render();
+  window.scrollTo(0, 0);
 };
 ACT.ptres = (t) => {
   PT.res = t.dataset.g;
@@ -4168,6 +5469,7 @@ ACT.ptpart = (t) => {
 };
 /* Jump to a question in this section that hasn't been checked yet. */
 ACT.ptrandom = () => {
+  if (MODAL.o) closeModal(true);
   const v = curView(),
     open = v.ids.map((id, n) => (frac(v.sec.byId[id], v.st[id]) === null ? n : -1)).filter((n) => n >= 0);
   if (!open.length) {
@@ -4196,6 +5498,7 @@ ACT.ptflag = () => {
   render();
 };
 ACT.ptshuffle = () => {
+  if (MODAL.o) closeModal(true);
   const sec = PT.secs[PT.sec];
   sec.order = shuf(sec.orig);
   sec.cur = 0;
@@ -4205,6 +5508,7 @@ ACT.ptshuffle = () => {
   render();
 };
 ACT.ptunshuffle = () => {
+  if (MODAL.o) closeModal(true);
   const sec = PT.secs[PT.sec];
   sec.order = sec.orig.slice();
   sec.cur = 0;
@@ -4218,20 +5522,25 @@ function freshSec(sec) {
   sec.cur = 0;
 }
 ACT.ptresetsec = () => {
-  if (!ask("Clear every answer in " + PT.secs[PT.sec].name + "?")) return;
-  freshSec(PT.secs[PT.sec]);
-  if (PT.retest && PT.retest.sec === PT.sec) PT.retest = null;
-  render();
+  if (MODAL.o) closeModal(true);
+  sure("Clear this section?", "Clear every answer in " + PT.secs[PT.sec].name + "? This can't be undone.", "Clear section", () => {
+    freshSec(PT.secs[PT.sec]);
+    if (PT.retest && PT.retest.sec === PT.sec) PT.retest = null;
+    render();
+  });
 };
 ACT.ptresetall = () => {
   const M = ptMode();
-  if (!ask(M === "exam" ? "Clear every answer in every exam section?" : "Clear every answer in every practice section?")) return;
-  PT.secs.forEach((x) => x.mode === M && freshSec(x));
-  PT.retest = null;
-  PT.elapsed = 0;
-  render();
+  if (MODAL.o) closeModal(true);
+  sure(M === "exam" ? "Clear the mock exam?" : "Clear every practice section?", M === "exam" ? "Clear every answer in every exam section? This can't be undone." : "Clear every answer in every practice section? This can't be undone.", "Clear everything", () => {
+    PT.secs.forEach((x) => x.mode === M && freshSec(x));
+    PT.retest = null;
+    PT.elapsed = 0;
+    render();
+  });
 };
 ACT.ptretest = () => {
+  if (MODAL.o) closeModal(true);
   const sec = PT.secs[PT.sec],
     ids = sec.order.filter((id) => ["bad", "partial"].indexOf(status(sec.byId[id], sec.st[id])) >= 0);
   if (!ids.length) {
@@ -4262,6 +5571,7 @@ ACT.pttimer = () => {
 
 /* ---------- printable view ---------- */
 ACT.ptprint = () => {
+  if (MODAL.o) closeModal(true);
   const sec = PT.secs[PT.sec],
     seen = {};
   let b = "";
@@ -4379,6 +5689,54 @@ function PTreset() {
   PT.elapsed = 0;
   PT.sec = 0;
   PTsave();
+}
+
+/* 91-kwcheck.js */
+/* Key-word checker for written answers (no AI, no key needed). A part with
+     "check": [["empire", "dynasty"], ["tax", "tribute"]], "checkLabels": ["Names the empire", "Says how it raised money"]
+   earns its point when every group has at least one of its words or phrases in the student's answer (case and
+   punctuation ignored). The ✓/✗ list shows what was found; the student can still override with I got it / I missed it,
+   and Gemini (if a key is saved) can grade it like a teacher would. Used for AP World short answers. */
+const kwNorm = (t) =>
+  " " +
+  String(t || "")
+    .toLowerCase()
+    .replace(/[’‘]/g, "'")
+    .replace(/[^a-z0-9'%. -]+/g, " ")
+    .replace(/\s+/g, " ")
+    .trim() +
+  " ";
+const hasKw = (q) => !!(q.parts && q.parts.some((p) => Array.isArray(p.check) && p.check.length));
+function kwPart(p, raw) {
+  const t = kwNorm(raw),
+    blank = !String(raw || "").trim();
+  const checks = p.check.map((g, i) => ({
+    ok: !blank && g.some((a) => t.indexOf(kwNorm(a).trim()) >= 0),
+    text: (p.checkLabels || [])[i] || "Mentions " + g[0],
+  }));
+  return { ok: !blank && checks.every((c) => c.ok), checks: checks, blank: blank };
+}
+/* The text a part is graded on: its own box, or for work-area questions, everything the student wrote. */
+const partAnswer = (q, s, p) => (q.type === "saq" ? s.ans[p.k] || "" : [s.ans[p.k] || "", s.work || "", s.abox || ""].join(" "));
+function kwGrade(q, s) {
+  s.kw = {};
+  q.parts.forEach((p) => {
+    if (!Array.isArray(p.check) || !p.check.length) return;
+    const r = kwPart(p, partAnswer(q, s, p));
+    s.kw[p.k] = r;
+    s.pm[p.k] = r.ok;
+  });
+}
+function kwHTML(s, p) {
+  const r = s.kw && s.kw[p.k];
+  if (!r) return "";
+  return (
+    '<div class="kwbox"><p class="kwh">' +
+    (r.ok ? "The checker found every key idea." : r.blank ? "No answer written for this part." : "The checker is missing something:") +
+    '</p><ul class="wchecks">' +
+    r.checks.map((c) => '<li class="' + (c.ok ? "ok" : "no") + '"><span aria-hidden="true">' + (c.ok ? "✓" : "✗") + "</span> " + esc(c.text) + "</li>").join("") +
+    '</ul><p class="hint">It only looks for key words, so if you said it another way, use I got it below.</p></div>'
+  );
 }
 
 /* 92-frqcheck.js */
@@ -4793,6 +6151,7 @@ async function gemGradeCur() {
   } catch (e) {
     s.ai = null;
     s.aiErr = e.message || String(e);
+    gemFail(e);
   }
   s.auto = frqGrade(c.q, src, s.ans);
   s.pm = {};
@@ -4932,13 +6291,15 @@ ACT.gemgen = async () => {
 };
 
 /* ---------- Settings box ---------- */
+/* The key box: in Settings in every kit (the key works on every kit on this site), and in the "Set up" pop-up. */
 function gemCardHTML() {
-  if (!hasFrq()) return "";
   const G = gemGet(),
     m = UI.gemMsg || "";
   return (
     '<h3>Gemini AI grading (optional)</h3><div class="gemcard">' +
-    "<p>Without this, every AAQ and EBQ is graded by the built-in checklist grader. With a free Gemini key, you can also have answers graded like an AP reader would, and generate unlimited new articles and prompts.</p>" +
+    (hasFrq()
+      ? "<p>Without this, every AAQ and EBQ is graded by the built-in checklist grader. With a free Gemini key, you can also have answers graded like an AP reader would, and generate unlimited new articles and prompts.</p>"
+      : "<p>Without this, written answers are checked by the built-in checker or by you, with the model answer. With a free Gemini key, written answers can also be graded like a teacher would. One key works on every kit on this site.</p>") +
     (G.key ? "<p><b>A key is saved in this browser</b> (it ends in …" + esc(G.key.slice(-4)) + ").</p>" : "") +
     '<h4>How to get a free key</h4><ol class="gemsteps">' +
     '<li>Go to <a href="https://aistudio.google.com/apikey" target="_blank" rel="noopener">aistudio.google.com</a> and sign in with a Google account.</li>' +
@@ -4985,12 +6346,96 @@ ACT.gemtest = async () => {
   render();
   try {
     const r = await gemini('Reply with JSON only: {"ok":true}');
-    UI.gemMsg = r && r.ok ? "It works. Grade with Gemini now appears on every AAQ and EBQ." : "Gemini answered, but not as expected. Try again.";
+    UI.gemMsg = r && r.ok ? "It works. Grade with Gemini now appears on written questions in every kit." : "Gemini answered, but not as expected. Try again.";
   } catch (e) {
     UI.gemMsg = "That didn't work: " + (e.message || e) + " Check that you copied the whole key.";
   }
   render();
 };
+
+/* ---------- Gemini for every written question (not only AAQ / EBQ) ---------- */
+async function gemGradeWritten(q, s) {
+  const parts = q.parts
+    .map((p) => "(" + p.k + ") " + p.prompt + "\n  MODEL ANSWER: " + p.model + (p.earns ? "\n  EARNS THE POINT IF: " + p.earns : "") + "\n  STUDENT ANSWER: " + ((q.type === "saq" ? s.ans[p.k] : s.ans[p.k] || "") || "").trim())
+    .join("\n\n");
+  const extra = q.type === "saq" ? "" : "\n\nSTUDENT'S WORK AREA AND ANSWER BOX (answers for all parts may be here):\n" + [s.work || "", s.abox || ""].join("\n").trim();
+  const prompt =
+    "You are grading a high school student's written answer for practice, fairly like a teacher would. Each part is worth 1 point. Give the point when the answer is correct and specific, even if it's worded differently from the model answer. Ignore spelling. Don't give the point for vague, wrong or missing answers." +
+    (q.stem ? "\n\nQUESTION: " + q.stem : "") +
+    (q.lead ? "\n" + q.lead : "") +
+    (q.data && q.data.length ? "\nDATA: " + q.data.join(" | ") : "") +
+    "\n\nPARTS:\n" +
+    parts +
+    extra +
+    '\n\nRespond with JSON only: {"parts":{' +
+    q.parts.map((p) => '"' + p.k + '":{"points":0,"why":"one sentence to the student about what earned or missed the point"}').join(",") +
+    '},"overall":"one short sentence of advice"}';
+  const res = await gemini(prompt),
+    out = { parts: {}, overall: res.overall ? String(res.overall) : "" };
+  q.parts.forEach((p) => {
+    const g = (res.parts || {})[p.k] || {};
+    out.parts[p.k] = { points: Number(g.points) >= 1 ? 1 : 0, why: g.why ? String(g.why) : "" };
+  });
+  return out;
+}
+ACT.gemw = async () => {
+  const c = cur3();
+  if (!c.q || !isWritten(c.q) || c.s.aiwLoading) return;
+  const s = c.s;
+  s.aiwLoading = true;
+  s.aiwErr = "";
+  render();
+  try {
+    s.aiw = await gemGradeWritten(c.q, s);
+    c.q.parts.forEach((p) => (s.pm[p.k] = s.aiw.parts[p.k].points === 1));
+  } catch (e) {
+    s.aiwErr = e.message || String(e);
+    gemFail(e);
+  }
+  s.aiwLoading = false;
+  syncMain();
+  PTsave();
+  render();
+};
+window.ACT_gemwForTest = () => ACT.gemw();
+
+/* First time a student reaches a written question without a key: a small card. "Not now" hides it for 3 days,
+   "Don't ask again" for good (both remembered for the whole site). */
+const GEMASK = "sk:gemini-ask";
+function gemAskHTML() {
+  if (gemKey()) return "";
+  const a = readJSON(GEMASK);
+  if (a && (a.never || (a.until && a.until > Date.now()))) return "";
+  return (
+    '<div class="gemask" role="note"><b>Get free AI grading for written answers</b><p>Add a free Gemini key once. It works on every kit on this site, and the built-in checker always works without it.</p>' +
+    '<div class="qnav"><button class="btn small" data-act="gemsetup">Set up (about 2 minutes)</button><button class="btn sec small" data-act="gemlater">Not now</button><button class="btn ghost small" data-act="gemnever">Don\'t ask again</button></div></div>'
+  );
+}
+ACT.gemsetup = () => {
+  if (MODAL.o) closeModal(true);
+  UI.gemMsg = "";
+  openModal({ title: "Gemini AI grading", wide: true, body: () => gemCardHTML() + '<div class="mfoot"><span></span><button class="btn" data-act="mclose">Done</button></div>' });
+};
+ACT.gemlater = () => {
+  writeJSON(GEMASK, { until: Date.now() + 3 * 86400000 });
+  render();
+};
+ACT.gemnever = () => {
+  writeJSON(GEMASK, { never: true });
+  render();
+};
+/* A saved key that stops working (wrong key, turned off, over the free limit): say so and offer to fix it. */
+function gemFail(e) {
+  const m = String((e && e.message) || e || "");
+  if (!/api key|api_key|permission|denied|quota|exhausted|limit|invalid|401|403|429/i.test(m)) return;
+  openModal({
+    title: "Gemini key problem",
+    body: () =>
+      "<h2>Your Gemini key isn't working</h2><p>Google said: " +
+      esc(m) +
+      '</p><p>Your answer was checked with the built-in checker instead (or mark it yourself with the model answer). If you hit the free daily limit, it works again tomorrow.</p><div class="mfoot"><button class="btn sec" data-act="mclose">Use the checker for now</button><button class="btn" data-act="gemsetup">Update my key</button></div>',
+  });
+}
 
 /* 94-fr.js */
 /* Free-response unit (AP Psych AAQ & EBQ): its own simple page instead of the Practice Test tabs.
@@ -5288,7 +6733,8 @@ function frPracticeHTML() {
     '<button class="btn sec frnext" data-act="frnext">Next ' +
     (kind === "ebq" ? "prompt" : "article") +
     ICON.chev +
-    "</button></div>";
+    "</button></div>" +
+    (gemOn ? "" : gemAskHTML());
   h +=
     '<div class="frfoot">' +
     (gemOn ? '<button class="btn ghost" data-act="frgen"' + (FR.gen ? " disabled" : "") + ">" + (FR.gen ? "Generating, about 20 seconds" : "Generate a new one with Gemini") + "</button>" : "") +
@@ -5577,6 +7023,7 @@ ACT.frgem = async (t) => {
   } catch (e) {
     s.ai = null;
     s.aiErr = e.message || String(e);
+    gemFail(e);
   }
   s.auto = frqGrade(q, q.source, s.ans);
   s.pm = {};
