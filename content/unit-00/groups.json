@@ -1,0 +1,14 @@
+{
+  "2": [
+    {
+      "name": "Research Methods: Studies & Correlation",
+      "intro": "Why psychology needs research, the scientific method, the types of research, descriptive methods, and correlation.",
+      "sections": ["Why psychology needs research", "The scientific method", "Types of research", "Descriptive methods", "Correlation"]
+    },
+    {
+      "name": "Research Methods: Experiments & Ethics",
+      "intro": "How experiments are set up, the problems that can throw off a study, and the ethics rules researchers follow.",
+      "sections": ["Experiments", "Problems with research", "Ethics"]
+    }
+  ]
+}

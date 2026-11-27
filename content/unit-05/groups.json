@@ -1,0 +1,19 @@
+{
+  "11": [
+    {
+      "name": "Treatment: History & Medications",
+      "intro": "How treatment has changed, what treatment looks like today, medications, and brain treatments.",
+      "sections": ["History", "Treatment today", "Medications", "Brain treatments"]
+    },
+    {
+      "name": "Treatment: Basics, Psychodynamic & Humanistic",
+      "intro": "What makes psychotherapy work, its ethics, individual and group therapy, and the psychodynamic and humanistic therapies.",
+      "sections": ["Psychotherapy basics", "Ethics", "Modes of therapy", "Psychodynamic therapies", "Humanistic therapies"]
+    },
+    {
+      "name": "Treatment: Cognitive & Behavioral Therapies",
+      "intro": "Cognitive therapies, behavioral therapies, and cognitive behavioral therapy (CBT).",
+      "sections": ["Cognitive therapies", "Behavioral therapies", "Cognitive behavioral therapies"]
+    }
+  ]
+}

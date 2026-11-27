@@ -1,0 +1,14 @@
+{
+  "7": [
+    {
+      "name": "Sleep & Consciousness",
+      "intro": "Sleep as a state of consciousness, the circadian rhythm, what sleep loss does, and sleep disorders.",
+      "sections": ["Sleep & consciousness", "Circadian rhythm", "Effects of sleep loss", "Sleep disorders"]
+    },
+    {
+      "name": "Drugs & Addiction",
+      "intro": "How drugs work, the four drug categories (depressants, stimulants, hallucinogens and opioids), and addiction.",
+      "sections": ["How drugs work", "Depressants", "Stimulants", "Hallucinogens", "Opioids", "Addiction", "Substance use disorder"]
+    }
+  ]
+}
