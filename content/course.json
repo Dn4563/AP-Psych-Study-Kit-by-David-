@@ -6,6 +6,7 @@
   "accent": "#2F6B5E",
   "accentDark": "#7FC2B1",
   "examTab": "Mock exam",
+  "midterm": { "week": "2026-12-14", "mockQs": 40, "verify": "VERIFY: the week of Dec 14 is from David; the exact day, length, format and which units are on it are not confirmed yet, and mockQs (40) is a placeholder." },
   "units": [
     { "id": "u0", "dir": "unit-00", "label": "Unit 0", "title": "Perspectives, Research & Statistics", "blurb": "The seven perspectives, research methods, and statistics and data.", "learnMix": true },
     { "id": "u1", "dir": "unit-01", "label": "Unit 1", "title": "Neuroscience, Senses, Sleep & Drugs", "blurb": "The neuron, neurotransmitters, the nervous and endocrine systems, the brain, vision, the other senses, and sleep, consciousness and drugs. Optional: split brain.", "learnMix": true, "recall": true },
