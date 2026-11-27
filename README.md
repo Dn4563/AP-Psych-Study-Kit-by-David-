@@ -1,8 +1,8 @@
-# AP Psychology Study Kit (David's format)
+# AP Psychology Study Kit by David
 
 Live site: https://dn4563.github.io/AP-Psych-Study-Kit-by-David-/
 
-The content (cards, scenario questions, exam-style questions, chains, tables and watch-out notes) comes from **Phineas's AP Psych study kit** (https://github.com/ichbleibhier/Psych-Unit-1 (his username was brother12334 until Nov 2026)), used with his permission. This repo puts it in the study-kit format David uses for his other classes, and adds one applied question for every card.
+David's AP Psych study kit. It started from **Phineas's AP Psych study kit** (https://github.com/ichbleibhier/Psych-Unit-1; his username was brother12334 until Nov 2026), used with his permission: his cards, scenario questions, exam-style questions, chains, tables and watch-out notes were the starting point. Since then David has rebuilt and expanded it: applied questions for every card, why each wrong choice is wrong, section intros, cheat sheets, extra practice exams, exam-length AAQ & EBQ practice with a timed mock, smaller decks, the Start screen, study plan, focus timer and midterm review.
 
 Built with the study kit engine by David Noskow (https://github.com/Dn4563/Study-Hub-by-David), MIT license.
 
